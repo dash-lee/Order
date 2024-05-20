@@ -363,5 +363,10 @@ namespace Create_order_config
             //此时文件已被关闭，因为using语句块结束了
             Console.WriteLine("json数据已成功写入文件。");
         }
+
+        public static void ToJson_Channel_File()
+        {
+
+        }
     }
 }
