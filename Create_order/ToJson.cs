@@ -9,7 +9,8 @@ using System.Text.Unicode;
 
 namespace Create_order_config
 {
-    internal static class ToJson
+    //生成Recharge Promotion时所用的配置
+    internal static class ToJson_Recharge
     {
         private static List<string> Country_Name_List = new List<string>()
         {
@@ -368,5 +369,11 @@ namespace Create_order_config
         {
 
         }
+    }
+
+    //生成唯一PayChannel时所用的配置
+    internal static class ToJson_PayChannel
+    {
+
     }
 }

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -11,6 +11,11 @@
 
   <ItemGroup>
     <PackageReference Include="EPPlus" Version="7.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Create_Json\" />
+    <Folder Include="Excel Source\" />
   </ItemGroup>
 
 </Project>

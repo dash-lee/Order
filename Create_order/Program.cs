@@ -14,8 +14,6 @@ namespace Create_order_config
     {
         public static void Main()
         {
-            //ToJson.ToJson_file();
-
             Order_Config data = new Order_Config();
             //JSON序列化
             try
@@ -51,5 +49,11 @@ namespace Create_order_config
             Create.Hi_recharge_promotions(data);        //需跑完Hi_diamond和Hi_vip这里才有数据
 
         }
+
+        ////进行JSON数据生成，直接成成到项目内
+        //public static void Main()
+        //{
+
+        //}
     }
 }

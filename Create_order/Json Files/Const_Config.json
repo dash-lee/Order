@@ -1,0 +1,353 @@
+{
+    "//": "这里展示的是当前所分的大区，大区内需要的APP和对应的国家，还有配置价格时需要的谷歌ID,以及PayType",
+    "Area": [ "Indonesia", "English" ],
+    "Apps": [
+        {
+            "AppName": "Melon",
+            "Need_Country": [
+                "Colombia",
+                "Venezuela",
+                "India",
+                "Chile",
+                "Mexico",
+                "Ecuador",
+                "Peru"
+            ]
+        },
+        {
+            "AppName": "Tingly",
+            "Need_Country": [
+                "Colombia",
+                "Venezuela",
+                "India",
+                "Chile",
+                "Mexico",
+                "Ecuador",
+                "Peru"
+            ]
+        },
+        {
+            "AppName": "Livvy",
+            "Need_Country": [
+                "Colombia",
+                "Venezuela",
+                "India",
+                "Chile",
+                "Mexico",
+                "Ecuador",
+                "Peru"
+            ]
+        },
+        {
+            "AppName": "Tweep",
+            "Need_Country": [
+                "Colombia",
+                "Venezuela",
+                "India",
+                "Chile",
+                "Mexico",
+                "Ecuador",
+                "Peru"
+            ]
+        },
+        {
+            "AppName": "Biffo",
+            "Need_Country": [
+                "Colombia",
+                "Venezuela",
+                "India",
+                "Chile",
+                "Mexico",
+                "Ecuador",
+                "Peru"
+            ]
+        }
+    ],
+    "GoogleID": [
+        {
+            "AppName": "Melon",
+            "Diamond_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Diamond_Count": 125,
+                    "Google_Price_ID": "bug_diamond_1"
+                },
+                {
+                    "Price": 1.99,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "buy_diamond_8"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 186,
+                    "Google_Price_ID": "buy_diamond_9"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "buy_diamond_2"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "buy_diamond_3"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 471,
+                    "Google_Price_ID": "buy_diamond_10"
+                },
+                {
+                    "Price": 13.99,
+                    "Diamond_Count": 1052,
+                    "Google_Price_ID": "buy_diamond_4"
+                },
+                {
+                    "Price": 33.99,
+                    "Diamond_Count": 2570,
+                    "Google_Price_ID": "buy_diamond_5"
+                },
+                {
+                    "Price": 69.99,
+                    "Diamond_Count": 5314,
+                    "Google_Price_ID": "buy_diamond_6"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10679,
+                    "Google_Price_ID": "buy_diamond_7"
+                },
+                {
+                    "Price": 3.49,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "buy_diamond_20"
+                },
+                {
+                    "Price": 3.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "buy_diamond_21"
+                },
+                {
+                    "Price": 7.49,
+                    "Diamond_Count": 429,
+                    "Google_Price_ID": "buy_diamond_22"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 599,
+                    "Google_Price_ID": "buy_diamond_23"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1209,
+                    "Google_Price_ID": "buy_diamond_24"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2509,
+                    "Google_Price_ID": "buy_diamond_25"
+                },
+                {
+                    "Price": 79.99,
+                    "Diamond_Count": 5199,
+                    "Google_Price_ID": "buy_diamond_26"
+                },
+                {
+                    "Price": 149.99,
+                    "Diamond_Count": 9999,
+                    "Google_Price_ID": "buy_diamond_27"
+                }
+            ],
+            "Vip_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "buy_vip_1"
+                },
+                {
+                    "Price": 4.49,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "buy_vip_2"
+                },
+                {
+                    "Price": 7.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "buy_vip_2"
+                },
+                {
+                    "Price": 10.99,
+                    "Vip_Days": 180,
+                    "Google_Price_ID": "buy_vip_2"
+                }
+            ]
+        },
+        {
+            "AppName": "Tingly",
+            "Diamond_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Diamond_Count": 125,
+                    "Google_Price_ID": "ceci_gold_125"
+                },
+                {
+                    "Price": 1.99,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "ceci_gold_199"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 186,
+                    "Google_Price_ID": "ceci_gold_186"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "ceci_gold_236"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "ceci_gold_470"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 471,
+                    "Google_Price_ID": "ceci_gold_471"
+                },
+                {
+                    "Price": 13.99,
+                    "Diamond_Count": 1052,
+                    "Google_Price_ID": "ceci_gold_1052"
+                },
+                {
+                    "Price": 33.99,
+                    "Diamond_Count": 2570,
+                    "Google_Price_ID": "ceci_gold_2570"
+                },
+                {
+                    "Price": 69.99,
+                    "Diamond_Count": 5314,
+                    "Google_Price_ID": "ceci_gold_5314"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10679,
+                    "Google_Price_ID": "ceci_gold_10679"
+                },
+                {
+                    "Price": 3.49,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "ceci_gold_125_new"
+                },
+                {
+                    "Price": 3.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "ceci_gold_199_new"
+                },
+                {
+                    "Price": 7.49,
+                    "Diamond_Count": 429,
+                    "Google_Price_ID": "ceci_gold_236_new"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 599,
+                    "Google_Price_ID": "ceci_gold_470_new"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1209,
+                    "Google_Price_ID": "ceci_gold_1052_new"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2509,
+                    "Google_Price_ID": "ceci_gold_2570_new"
+                },
+                {
+                    "Price": 79.99,
+                    "Diamond_Count": 5199,
+                    "Google_Price_ID": "ceci_gold_5314_new"
+                },
+                {
+                    "Price": 149.99,
+                    "Diamond_Count": 9999,
+                    "Google_Price_ID": "ceci_gold_10679_new"
+                }
+            ],
+            "Vip_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "ceci_vip_7"
+                },
+                {
+                    "Price": 4.49,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "ceci_vip_30"
+                },
+                {
+                    "Price": 7.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "ceci_vip_90"
+                },
+                {
+                    "Price": 10.99,
+                    "Vip_Days": 180,
+                    "Google_Price_ID": "ceci_vip_180"
+                }
+            ]
+        }
+    ],
+    "PayMethod_Company": [ "GooglePay", "PayerMax", "Payssion", "Paynow", "Dukpay", "Paynicorn", "Lapay", "LianLian" ],
+    "PayMethod_Info": [
+        {
+            "Pay_Type_ID": 1,
+            "PaymentMethod_Name": "GooglePay",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 1
+        },
+        {
+            "Pay_Type_ID": 2,
+            "PaymentMethod_Name": "PayerMax",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 2
+        },
+        {
+            "Pay_Type_ID": 3,
+            "PaymentMethod_Name": "Payssion",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 3
+        },
+        {
+            "Pay_Type_ID": 4,
+            "PaymentMethod_Name": "Paynow",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 4
+        },
+        {
+            "Pay_Type_ID": 5,
+            "PaymentMethod_Name": "Dukpay",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 5
+        },
+        {
+            "Pay_Type_ID": 6,
+            "PaymentMethod_Name": "Paynicorn",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 6
+        },
+        {
+            "Pay_Type_ID": 7,
+            "PaymentMethod_Name": "Lapay",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 7
+        },
+        {
+            "Pay_Type_ID": 8,
+            "PaymentMethod_Name": "LianLian",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 7
+        }
+    ]
+}

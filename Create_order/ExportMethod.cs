@@ -774,5 +774,11 @@ namespace Create_order_config
             Tools.Write(path, header, body);
             Console.WriteLine("生成hi_recharge_promotions.xlsx完成！");
         }
+
+        public static void Pay_Type() 
+        { 
+            
+        }
+    
     }
 }
