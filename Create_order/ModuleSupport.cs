@@ -35,5 +35,10 @@
             {"Tweep",7 }
         };
 
+        //项目配置文件JSON的根目录
+        public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
+        //项目转JSON文件的Excel目录
+        public static string excelFilesPath = @"D:\Company\Create_order\Excel Source\";
+
     }
 }
