@@ -6,6 +6,7 @@ using OfficeOpenXml.Drawing.Chart.ChartEx;
 using System.Security.Cryptography.X509Certificates;
 using Create_order;
 using System.Security.Cryptography.Pkcs;
+using static Create_order.Data_Const;
 
 namespace Create_order
 {
@@ -196,7 +197,7 @@ namespace Create_order
         //    return -1;
         //}
 
-        //拼接渠道ID
+        //拼接渠道列表
         public static string JoinChannelString(List<string> channels)
         {
             string channelId = "";
@@ -256,6 +257,19 @@ namespace Create_order
                 return "@@@@@@@@@"; 
             }
             return "%%%%%%%%";
+        }
+
+        public static int GetPayChannelID(string channelName, Const_Config const_config)
+        {
+            for (int i = 0; i < const_config.PayMethod_Company.Count; i++)
+            {
+                if (const_config.PayMethod_Company[i] == channelName)
+                {
+                    return i + 1;
+                }
+            }
+            Console.WriteLine("当前未找到支付公司为："+ channelName + "，请仔细检查");
+            return -1;
         }
     }
 }

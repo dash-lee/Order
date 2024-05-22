@@ -123,11 +123,12 @@ namespace Create_order
         {
             Recharge_Config tmpData = new Recharge_Config();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Recharge_Promotion.json");
+            Console.WriteLine(jsonPath);
 
             //JSON序列化
             try
             {
-                string JsonFile = File.ReadAllText("jsonPath");
+                string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonSerializer.Deserialize<Recharge_Config>(JsonFile);
             }
             catch (FileNotFoundException)
@@ -142,7 +143,4 @@ namespace Create_order
             return tmpData;
         }
     }
-
-
-
 }

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Security.Cryptography.X509Certificates;
 using static Create_order.Data_Const;
 using static Create_order.Data_Recharge;
+using OfficeOpenXml;
 
 
 namespace Create_order
@@ -56,11 +57,14 @@ namespace Create_order
         //进行JSON数据生成，直接成成到项目内
         public static void Main()
         {
+            //初始化
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;     //初始化EPPlus许可
+
             //构建JSON数据
             Const_Config const_config = Const_Data();
             Recharge_Config recharge_config = Recharge_Data();
 
-            Console.WriteLine(const_config.Area[1]);
+            ToJson_PayChannel.ToJson(const_config);
         }
     }
 }
