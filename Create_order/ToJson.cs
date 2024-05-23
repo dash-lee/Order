@@ -73,7 +73,7 @@ namespace Create_order
                             tmpList.Add("");
                         }
                     }
-                    excelData.Add(new List<string>());
+                    excelData.Add(tmpList);
                 }
             }
         }
@@ -89,20 +89,29 @@ namespace Create_order
 
             for (int i = 0; i < excelData.Count; i++)
             {
-                PayChannel_Unique payChannel_Unique = new PayChannel_Unique()
+                try
                 {
-                    Id = id,
-                    Pay_type_id = Tools.GetPayChannelID(excelData[i][0], const_config),
-                    Channel_code = excelData[i][4],
-                    State = 1,
-                    Channel_name = excelData[i][2],
-                    Channel_web = excelData[i][1],
-                    Logo = excelData[i][3],
-                    App = "",
-                    Country = "",
-                };
-                payChannel_Uniques.Add(payChannel_Unique);
-                id++;
+                    PayChannel_Unique payChannel_Unique = new PayChannel_Unique()
+                    {
+                        Id = id,
+                        Pay_type_id = Tools.GetPayChannelID(excelData[i][0], const_config),
+                        Channel_code = excelData[i][4],
+                        State = 1,
+                        Channel_name = excelData[i][2],
+                        Channel_web = excelData[i][1],
+                        Logo = excelData[i][3],
+                        App = "",
+                        Country = "",
+                    };
+
+                    payChannel_Uniques.Add(payChannel_Unique);
+                    id++;
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
             }
 
             PayChannel_Unique_List payChannel_Unique_List = new PayChannel_Unique_List()
@@ -133,6 +142,11 @@ namespace Create_order
 
             //此时文件已被关闭，因为using语句块结束了
             Console.WriteLine("json数据已成功写入文件");
+
+            //复制文件到Json Files文件夹中
+            string newCopyPath = Path.Combine(ModuleSupport.jsonFilesPath, @"PayChannel_Unique.json");
+            File.Copy(jsonPath, newCopyPath,true);
+            Console.WriteLine("json数据已成功复制到指定位置");
         }
     }
 }

@@ -6,6 +6,8 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using static Create_order.Data_Const;
+using static Create_order.Data_Country;
+using static Create_order.Data_Recharge;
 
 namespace Create_order
 {
@@ -142,5 +144,162 @@ namespace Create_order
 
             return tmpData;
         }
+    }
+
+    public class Data_Country
+    {
+        public struct Country_Config
+        {
+            List<Country> Country { get; set; }
+        }
+
+        public struct Country
+        {
+            public string Country_Name { get; set; }
+            public string Country_Name_CN { get; set; }
+            public string Country_Code { get; set; }
+            public string Area { get; set; }
+            public string Area_CN { get; set; }  
+            public string Currency_Code { get; set; }
+            public List<int> Diamond_Gear { get; set;}
+            public List<string> Diamond_PayMethod {  get; set; }
+            public Diamond_Pay_Detail Diamond_Pay_Detail {  get; set; }
+            public List<int> Vip_PayMethod {  get; set; }
+            public List<Vip_Pay_Detail> Vip_Pay_Detail {  get; set; }
+
+
+        }
+
+        public struct Diamond_Pay_Detail
+        {
+            public string Currency { get; set; }
+            public List<PayMethod_Price_Diamond> PayMethod_Price { get; set;}
+        }
+
+        public struct PayMethod_Price_Diamond
+        {
+            public double Price { get; set;}
+            public int Diamond_Count { get; set;}
+            public List<string> PayMethod_Name { get; set;}
+            public List<PayMethod_Fixed_Price> PayMethod_Fixed_Price { get;set;}
+        }
+
+        public struct PayMethod_Fixed_Price
+        {
+            public string Name { get; set; }
+            public double Price { get; set; }
+        }
+
+        public struct Vip_Pay_Detail
+        {
+            public string Currency { get; set; }
+            public List<PayMethod_Price_Vip> PayMethod_Price { get; set; }
+        }
+
+        public struct PayMethod_Price_Vip
+        {
+            public double Price { get; set; }
+            public int Vip_Days { get; set; }
+            public List<string> PayMethod_Name { get; set; }
+            public List<PayMethod_Fixed_Price> PayMethod_Fixed_Price { get; set; }
+        }
+
+        public static Country_Config Country_Data()
+        {
+            Country_Config tmpData = new Country_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonSerializer.Deserialize<Country_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
+
+    public class Data_Modify
+    {
+        public struct Modify_Config
+        {
+            List<Modify_Diamond> Modify_Diamond { get; set; }
+            List<Modify_Vip> Modify_Vip { get; set; }
+        }
+
+        public struct Modify_Diamond
+        {
+            public List<string> Modify_App { get; set; }
+            public List<string> Modify_Country { get; set; }
+            public double Modify_Price { get; set; }
+            public int Modify_Diamond_Count {  get; set; }
+            public Modify_Detail_Info_Diamond Modify_Detail_Info {  get; set; }
+        }
+
+        public struct Modify_Detail_Info_Diamond
+        {
+            public int Modify_IsActivate { get; set; }
+            public int Modify_Reward_Count { get; set; }
+            public int Modify_IsFirstCharge { get; set; }
+            public int Modify_Vip_Reward_Day { get; set; }
+            public int Modify_VipUser_Reward_Diamond_Count { get; set; }
+            public int Modify_IsNewUser { get; set; }
+            public int Modify_Discount { get; set; }
+        }
+
+        public struct Modify_Vip
+        {
+            public List<string> Modify_App { get; set; }
+            public List<string> Modify_Country { get; set; }
+            public double Modify_Price { get; set; }
+            public int Modify_Vip_Days { get; set; }
+            public Modify_Detail_Info_Vip Modify_Detail_Info { get; set; }
+        }
+
+        public struct Modify_Detail_Info_Vip
+        {
+            public int Modify_Reward_Diamonds { get; set; }
+            public int Modify_IsActivate { get; set; }
+            public int Modify_Vip_Top { get; set; }
+            public int Modify_Vip_Top_Reward_Diamond_Num { get; set; }
+            public int Modify_Vip_Reward_Day { get; set; }
+            public int Modify_Vip_Reward_ItemID { get; set; }
+            public int Modify_Vip_Reward_ItemCount { get; set; }
+        }
+
+        public static Modify_Config Modify_Data(Const_Config const_config,)
+        {
+            Modify_Config tmpData = new Modify_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonSerializer.Deserialize<Modify_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+
     }
 }

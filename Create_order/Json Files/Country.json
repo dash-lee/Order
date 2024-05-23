@@ -2356,26 +2356,7 @@
                 ]
             },
             "Vip_Gear": [ 7, 30, 90, 180 ],
-            "Vip_PayMethod": [
-                "PayermaxINDOMARET",
-                "PayermaxALFAMART",
-                "PayermaxBCA",
-                "PayermaxPERMATA",
-                "PayermaxMANDIRI",
-                "PayermaxBNI",
-                "PayermaxBRI",
-                "PayermaxLINKAJA",
-                "PayermaxOVO",
-                "PayermaxDANA",
-                "PayermaxGOPAY",
-                "PayermaxSHOPEEPAY",
-                "谷歌支付",
-                "PayermaxSMARTFREN",
-                "PayermaxTRIINDO",
-                "PayermaxINDOSAT",
-                "PayermaxXL",
-                "PayermaxTELKOMSEL"
-            ],
+            "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
             "Vip_Pay_Detail": {
                 "Currency": "IDR",
                 "PayMethod_Price": [
@@ -2722,16 +2703,7 @@
             "Area_CN": "英语大区",
             "Currency_Code": "VND",
             "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
-            "Diamond_PayMethod": [
-                "谷歌支付",
-                "谷歌三方支付",
-                "PayermaxMOMO",
-                "PaynowONLINEBANKING",
-                "PaynowBANKTRANSFER",
-                "PaynowMOMO",
-                "PaynowZaloPay",
-                "PaynowVIETTELPAY"
-            ],
+            "Diamond_PayMethod": ["GooglePay", "Payermax","Paynow"]
             "Diamond_Pay_Detail": {
                 "Currency": "VND",
                 "PayMethod_Price": [
@@ -3102,16 +3074,7 @@
                 ]
             },
             "Vip_Gear": [ 7, 30, 90, 180 ],
-            "Vip_PayMethod": [
-                "谷歌支付",
-                "谷歌三方支付",
-                "PayermaxMOMO",
-                "PaynowONLINEBANKING",
-                "PaynowBANKTRANSFER",
-                "PaynowMOMO",
-                "PaynowZaloPay",
-                "PaynowVIETTELPAY"
-            ],
+            "Vip_PayMethod": [ "GooglePay", "Payermax", "Paynow" ]
             "Vip_Pay_Detail": {
                 "Currency": "VND",
                 "PayMethod_Price": [
@@ -3859,20 +3822,7 @@
                 ]
             },
             "Vip_Gear": [ 7, 30, 90, 180 ],
-            "Vip_PayMethod": [
-                "谷歌支付",
-                "PayermaxDEBITSCB",
-                "PayermaxTRUEMONEY",
-                "PayermaxSHOPEEPAY",
-                "PayermaxPROMPTPAY",
-                "Payermax7-ELEVEN",
-                "PayermaxLINEPAY",
-                "PayermaxNETBANKINGBANGKOK",
-                "PayermaxNETBANKINGKRUNGTHAI",
-                "PayermaxNETBANKINGAYUDHYA",
-                "PayermaxNETBANKINGSCB_TH",
-                "PayermaxNETBANKINGKASIKORN"
-            ],
+            "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
             "Vip_Pay_Detail": {
                 "Currency": "THB",
                 "PayMethod_Price": [
@@ -5681,7 +5631,7 @@
                     {
                         "Price": 1.69,
                         "Vip_Days": 7,
-                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Name": [ "谷歌支付", "Payssion_MTNMoMo", "Payssion_AirtelMoney" ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "谷歌支付",
@@ -5700,7 +5650,7 @@
                     {
                         "Price": 4.49,
                         "Vip_Days": 30,
-                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Name": [ "谷歌支付", "Payssion_MTNMoMo", "Payssion_AirtelMoney" ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "谷歌支付",
@@ -5719,7 +5669,7 @@
                     {
                         "Price": 7.99,
                         "Vip_Days": 90,
-                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Name": [ "谷歌支付", "Payssion_MTNMoMo", "Payssion_AirtelMoney" ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "谷歌支付",
@@ -5738,7 +5688,7 @@
                     {
                         "Price": 10.99,
                         "Vip_Days": 180,
-                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Name": [ "谷歌支付", "Payssion_MTNMoMo", "Payssion_AirtelMoney" ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "谷歌支付",
@@ -9720,7 +9670,7 @@
             }
         },
         {
-            "Country_Name": "equatorial guinea",
+            "Country_Name": "Equatorial Guinea",
             "Country_Name_CN": "赤道几内亚",
             "Country_Code": "GQ",
             "Area": "English",
