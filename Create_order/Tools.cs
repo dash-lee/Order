@@ -20,8 +20,6 @@ namespace Create_order
             //指定Excel文件路径(绝对路径)
             string excelFilePath = filePath;
 
-            //设置ExcelPackage实例，同时设置许可上下文为非商业用途
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
             using (ExcelPackage excelPackage = new ExcelPackage())
             {
@@ -90,13 +88,9 @@ namespace Create_order
 
                 //检查是否需要保存body部分
                 string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-                if (filePath == desktopPath + @"\config_all\hi_diamonds.xlsx")
+                if (filePath == desktopPath + @"\config_all\hi_v3_pay_list.xlsx")
                 {
-                    ModuleSupport.Body_Diamond = data;
-                }
-                else if (filePath == desktopPath + @"\config_all\hi_vip.xlsx")
-                {
-                    ModuleSupport.Body_Vip = data;
+                    ModuleSupport.Body_PayList = data;
                 }
 
                 //检查Excel表是否存在
@@ -119,41 +113,21 @@ namespace Create_order
             //获取desktop的path
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
-            if (path == desktopPath + @"\config_all\hi_diamonds.xlsx")
+            if (path == desktopPath + @"\config_all\hi_v3_pay_type.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_diamonds.xlsx"];
+                return ModuleSupport.modifyFormat["hi_v3_pay_type.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\hi_vip.xlsx")
+            else if (path == desktopPath + @"\config_all\hi_v3_pay_list.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_vip.xlsx"];
+                return ModuleSupport.modifyFormat["hi_v3_pay_list.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\hi_pay_channel.xlsx")
+            else if (path == desktopPath + @"\config_all\hi_v3_pay_channel.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_pay_channel.xlsx"];
+                return ModuleSupport.modifyFormat["hi_v3_pay_channel.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\hi_pay_type.xlsx")
+            else if (path == desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_pay_type.xlsx"];
-            }
-            else if (path == desktopPath + @"\config_all\hi_channel_pay_price.xlsx")
-            {
-                return ModuleSupport.modifyFormat["hi_channel_pay_price.xlsx"];
-            }
-            else if (path == desktopPath + @"\config_all\hi_channel_vip_pay_price.xlsx")
-            {
-                return ModuleSupport.modifyFormat["hi_channel_vip_pay_price.xlsx"];
-            }
-            else if (path == desktopPath + @"\config_all\hi_diamonds_exchange.xlsx")
-            {
-                return ModuleSupport.modifyFormat["hi_diamonds_exchange.xlsx"];
-            }
-            else if (path == desktopPath + @"\config_all\hi_vip_exchange.xlsx")
-            {
-                return ModuleSupport.modifyFormat["hi_vip_exchange.xlsx"];
-            }
-            else if (path == desktopPath + @"\config_all\hi_recharge_promotions.xlsx")
-            {
-                return ModuleSupport.modifyFormat["hi_recharge_promotions.xlsx"];
+                return ModuleSupport.modifyFormat["hi_v3_recharge_promotions.xlsx"];
             }
             else
             {
@@ -252,48 +226,34 @@ namespace Create_order
             return channelId;
         }
 
-        //查找app的序列号
-        //public static int CheckIndex(string app,Order_Config data)
-        //{
-        //    for (int i = 0; i < data.Apps.Count; i++)
-        //    {
-        //        if (app == data.Apps[i].AppName)
-        //        {
-        //            return i;
-        //        }
-        //    }
-        //    return -1;
-        //}
-
-        //查找钻石或者vipID
-        public static string CheckReturnIndex(string type,double price,int num,string country_code,string app)
+        //查找商品的ID
+        public static string CheckReturnIndex(string type, double price, int num, string country_code, string app)
         {
+            int Atype;
             if (type == "Diamond")
             {
-                foreach (var item in ModuleSupport.Body_Diamond)
-                {
-                    if (item[4] == country_code && item[7] == $"{price}" && item[8] == $"{num}" && item[5] == app)
-                    {
-                        return item[0];
-                    }
-                }
+                Atype = 1;
             }
             else if (type == "Vip")
             {
-                foreach (var item in ModuleSupport.Body_Vip)
-                {
-                    if (item[12] == country_code && item[10] == $"{price}" && item[4] == $"{num}" && item[2] == app)
-                    {
-                        return item[0];
-                    }
-                }
+                Atype = 2;
             }
             else
             {
-                Console.WriteLine("未找到" + type + "的ID，请检查！");
-                return "@@@@@@@@@"; 
+                Console.WriteLine("未找到钻石或VIP的充值特惠类型，请检查！");
+                return "@@@@@@@@@";
             }
-            return "%%%%%%%%";
+
+            foreach (var item in ModuleSupport.Body_PayList)
+            {
+                if (item[4] == app && item[3] == country_code && item[1] == $"{Atype}" && item[5] == $"{num}" && item[6] == $"{price}")
+                {
+                    return item[0];
+                }
+            }
+
+            Console.WriteLine("请注意，当前没有找到"+app+"这个APP中的"+country_code+"这个国家的" +type+"且价格为"+price+"，数量为"+num+"的商品列表中的商品");
+            return "-1";
         }
 
         public static int GetPayChannelID(string channelName, Const_Config const_config)

@@ -6086,7 +6086,7 @@
         {
             "Country_Name": "Malawi",
             "Country_Name_CN": "马拉维共和国",
-            "Country_Code": "NW",
+            "Country_Code": "MW",
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MWK",
@@ -17849,7 +17849,7 @@
             {
                 "Country": "Malawi",
                 "Country_CN": "马拉维共和国",
-                "Country_Code": "NW",
+                "Country_Code": "MW",
                 "PayMethod_Detail": [
                     {
                         "PaymentMethod_Name": "GooglePay",
@@ -22573,7 +22573,7 @@
             {
                 "Country_Name": "Malawi",
                 "Country_Name_CN": "马拉维共和国",
-                "Country_Code": "NW",
+                "Country_Code": "MW",
                 "Recharge_Type": [ "Before_Recharge", "After_Recharge" ],
                 "Before_Recharge": {
                     "Is_Open": 1,

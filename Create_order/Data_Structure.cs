@@ -7,7 +7,9 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using static Create_order.Data_Const;
 using static Create_order.Data_Country;
+using static Create_order.Data_Modify;
 using static Create_order.Data_Recharge;
+using static Create_order.ToJson_PayChannel;
 
 namespace Create_order
 {
@@ -85,9 +87,16 @@ namespace Create_order
 
     public class Data_Recharge
     {
+
         public struct Recharge_Config
         {
+            public Recharge_Promotion Recharge_Promotion { get; set; }
+        }
+
+        public struct Recharge_Promotion
+        {
             public List<string> Country { get; set; }
+
             public List<Promotion_Info> Promotion_Info { get; set; }
         }
 
@@ -164,8 +173,8 @@ namespace Create_order
             public List<int> Diamond_Gear { get; set;}
             public List<string> Diamond_PayMethod {  get; set; }
             public Diamond_Pay_Detail Diamond_Pay_Detail {  get; set; }
-            public List<int> Vip_PayMethod {  get; set; }
-            public List<Vip_Pay_Detail> Vip_Pay_Detail {  get; set; }
+            public List<string> Vip_PayMethod {  get; set; }
+            public Vip_Pay_Detail Vip_Pay_Detail {  get; set; }
         }
 
         public struct Diamond_Pay_Detail
@@ -278,7 +287,7 @@ namespace Create_order
         public static Modify_Config Modify_Data()
         {
             Modify_Config tmpData = new Modify_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify.json");
             Console.WriteLine(jsonPath);
 
             //JSON序列化
@@ -299,5 +308,51 @@ namespace Create_order
             return tmpData;
         }
 
+    }
+
+    public class Data_PayChannel
+    {
+        public struct PayChannel_Config
+        {
+            public string Info { get; set; }
+            public List<PayChannel_Unique> PayChannel_Uniques { get; set; }
+        }
+
+        public struct PayChannel_Unique
+        {
+            public int Id { get; set; }
+            public int Pay_type_id { get; set; }
+            public string Channel_code { get; set; }
+            public int State { get; set; }
+            public string Channel_name { get; set; }
+            public string Channel_web { get; set; }
+            public string Logo { get; set; }
+            public List<string> App { get; set; }
+            public List<string> Country { get; set; }
+        }
+
+        public static PayChannel_Config PayChannel_Data()
+        {
+            PayChannel_Config tmpData = new PayChannel_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Unique.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonSerializer.Deserialize<PayChannel_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
     }
 }

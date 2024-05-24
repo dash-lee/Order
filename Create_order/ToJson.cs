@@ -10,20 +10,19 @@ using OfficeOpenXml;
 using System.Reflection.Emit;
 using static Create_order.Data_Const;
 using System.Diagnostics.Metrics;
-using static Create_order.ToJson_PayChannel;
 
 namespace Create_order
 {
     //生成唯一PayChannel时所用的配置
     internal static class ToJson_PayChannel
     {
-        public struct PayChannel_Unique_List
+        private struct PayChannel_Unique_List
         {
             public string Info { get; set; }
             public List<PayChannel_Unique> PayChannel_Uniques { get; set; }
         }
 
-        public struct PayChannel_Unique
+        private struct PayChannel_Unique
         {
             public int Id { get; set; }
             public int Pay_type_id { get; set; }
@@ -32,8 +31,8 @@ namespace Create_order
             public string Channel_name { get; set; }
             public string Channel_web { get; set; }
             public string Logo { get; set; }
-            public string App { get; set; }
-            public string Country { get; set; }
+            public List<string> App { get; set; }
+            public List<string> Country { get; set; }
         }
 
         //定义excel数据列表
@@ -100,8 +99,8 @@ namespace Create_order
                         Channel_name = excelData[i][2],
                         Channel_web = excelData[i][1],
                         Logo = excelData[i][3],
-                        App = "",
-                        Country = "",
+                        App = new List<string>(),
+                        Country = new List<string>(),
                     };
 
                     payChannel_Uniques.Add(payChannel_Unique);

@@ -11,6 +11,7 @@ using static Create_order.Data_Const;
 using static Create_order.Data_Recharge;
 using static Create_order.Data_Country;
 using static Create_order.Data_Modify;
+using static Create_order.Data_PayChannel;
 
 using OfficeOpenXml;
 
@@ -19,44 +20,6 @@ namespace Create_order
 {
     public class Starter
     {
-        //public static void Main()
-        //{
-        //    Order_Config data = new Order_Config();
-        //    JSON序列化
-        //    try
-        //    {
-        //        string JsonFile = File.ReadAllText("D:\\VS_BEGIN\\Create_order\\Create_order\\config.json");
-        //        data = JsonSerializer.Deserialize<Order_Config>(JsonFile);
-        //    }
-        //    catch (FileNotFoundException)
-        //    {
-        //        Console.WriteLine("JSON文件未找到。");
-        //    }
-        //    catch (JsonException)
-        //    {
-        //        Console.WriteLine("JSON解析错误。");
-        //    }
-
-        //    Create.Hi_diamond(data);
-
-        //    Create.Hi_vip(data);
-
-        //    Create.Hi_pay_type(data);
-
-        //    Create.Hi_pay_channel(data);
-
-        //    Create.Hi_channel_pay_price(data);
-
-        //    Create.Hi_channel_vip_pay_price(data);
-
-        //    Create.Hi_diamonds_exchange(data);  //需跑完Hi_diamond这里才有数据
-
-        //    Create.Hi_vip_exchange(data);  //需跑完Hi_vip这里才有数据
-
-        //    Create.Hi_recharge_promotions(data);        //需跑完Hi_diamond和Hi_vip这里才有数据
-
-        //}
-
         //进行JSON数据生成，直接成成到项目内
         public static void Main()
         {
@@ -68,13 +31,16 @@ namespace Create_order
             Recharge_Config recharge_config = Recharge_Data();
             Country_Config country_Config = Country_Data();
             Modify_Config modify_Config = Modify_Data();
+            PayChannel_Config payChannel_Config = PayChannel_Data();
 
             //生成json并复制到指定的位置
             ToJson_PayChannel.ToJson(const_config);
 
             //调用生成函数
-            Create.Hi_v3_pay_list(const_config, country_Config);
-
+            Create.Hi_v3_pay_type(const_config);
+            Create.Hi_v3_pay_list(const_config, country_Config, modify_Config);
+            Create.Hi_v3_pay_channel(payChannel_Config);
+            Create.Hi_v3_recharge_promotions(recharge_config,const_config, country_Config);
 
         }
     }

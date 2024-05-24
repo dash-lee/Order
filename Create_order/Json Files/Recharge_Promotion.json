@@ -1549,7 +1549,7 @@
             {
                 "Country_Name": "Malawi",
                 "Country_Name_CN": "马拉维共和国",
-                "Country_Code": "NW",
+                "Country_Code": "MW",
                 "Recharge_Type": [ "Before_Recharge", "After_Recharge" ],
                 "Before_Recharge": {
                     "Is_Open": 1,

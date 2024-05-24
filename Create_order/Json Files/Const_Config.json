@@ -347,7 +347,25 @@
             "Pay_Type_ID": 8,
             "PaymentMethod_Name": "LianLian",
             "PaymentMethod_Logo": "",
-            "PaymentMethod_Sort": 7
+            "PaymentMethod_Sort": 8
+        },
+        {
+            "Pay_Type_ID": 9,
+            "PaymentMethod_Name": "Tikipay",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 9
+        },
+        {
+            "Pay_Type_ID": 10,
+            "PaymentMethod_Name": "Payhere",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 10
+        },
+        {
+            "Pay_Type_ID": 11,
+            "PaymentMethod_Name": "Tejeepay",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 11
         }
     ]
 }

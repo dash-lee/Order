@@ -5,24 +5,21 @@
         //需要改变格式列参数（从1开始）
         public static Dictionary<string, List<int>> modifyFormat = new Dictionary<string, List<int>>()
         {
-            {"hi_diamonds.xlsx",new(){1, 7,8,9,10,11,12,13,14,16,17} },
-            {"hi_vip.xlsx",new(){1,5,6,7,8,9,11,14,15,16,17,18} },
-            {"hi_pay_channel.xlsx",new(){ 1,2,4,7,8 } },
-            {"hi_pay_type.xlsx",new(){ 1,4} },
-            {"hi_channel_pay_price.xlsx",new(){1,3,4,5} },
-            {"hi_channel_vip_pay_price.xlsx",new(){1,3,4,5} },
-            {"hi_diamonds_exchange.xlsx",new(){1,2,4,5} },
-            {"hi_vip_exchange.xlsx",new(){1,2,4,5} },
-            {"hi_recharge_promotions.xlsx",new(){1,3,4} },
+            {"hi_v3_pay_type.xlsx",new(){1} },
+            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,10,12,13,14,15,16,17,18,19} },
+            {"hi_v3_pay_channel.xlsx",new(){1,2,4} },
+            {"hi_v3_recharge_promotions.xlsx",new(){1,3,4} },
         };
 
         //ID划分
-        //商品列表中的ID划分
         public const int ITEM_APP_ID_GAP = 6000;    //每个APP中商品ID的间隔
         public const int ITEM_BEGIN_ID = 1;     //开始的ID数
 
-        public static List<List<string>> Body_Diamond { get; set; }
-        public static List<List<string>> Body_Vip { get; set; }
+        public const int PAYCHANNEL_BEGIN_ID = 1;       //唯一的paychannelID起始
+
+        public const int RECHARGE_BEGIN_ID = 1;
+
+        public static List<List<string>> Body_PayList { get; set; }
 
         //新建通话券 枚举
         public static Dictionary<string, int> ItemChatID = new Dictionary<string, int>()
