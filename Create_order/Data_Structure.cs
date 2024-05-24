@@ -150,7 +150,7 @@ namespace Create_order
     {
         public struct Country_Config
         {
-            List<Country> Country { get; set; }
+            public List<Country> Country { get; set; }
         }
 
         public struct Country
@@ -166,8 +166,6 @@ namespace Create_order
             public Diamond_Pay_Detail Diamond_Pay_Detail {  get; set; }
             public List<int> Vip_PayMethod {  get; set; }
             public List<Vip_Pay_Detail> Vip_Pay_Detail {  get; set; }
-
-
         }
 
         public struct Diamond_Pay_Detail
@@ -233,8 +231,8 @@ namespace Create_order
     {
         public struct Modify_Config
         {
-            List<Modify_Diamond> Modify_Diamond { get; set; }
-            List<Modify_Vip> Modify_Vip { get; set; }
+            public List<Modify_Diamond> Modify_Diamond { get; set; }
+            public List<Modify_Vip> Modify_Vip { get; set; }
         }
 
         public struct Modify_Diamond
@@ -277,7 +275,7 @@ namespace Create_order
             public int Modify_Vip_Reward_ItemCount { get; set; }
         }
 
-        public static Modify_Config Modify_Data(Const_Config const_config,)
+        public static Modify_Config Modify_Data()
         {
             Modify_Config tmpData = new Modify_Config();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");

@@ -10,6 +10,7 @@ using System.Security.Cryptography.X509Certificates;
 using static Create_order.Data_Const;
 using static Create_order.Data_Recharge;
 using static Create_order.Data_Country;
+using static Create_order.Data_Modify;
 
 using OfficeOpenXml;
 
@@ -66,11 +67,15 @@ namespace Create_order
             Const_Config const_config = Const_Data();
             Recharge_Config recharge_config = Recharge_Data();
             Country_Config country_Config = Country_Data();
+            Modify_Config modify_Config = Modify_Data();
 
             //生成json并复制到指定的位置
             ToJson_PayChannel.ToJson(const_config);
 
-            
+            //调用生成函数
+            Create.Hi_v3_pay_list(const_config, country_Config);
+
+
         }
     }
 }

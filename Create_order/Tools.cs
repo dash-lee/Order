@@ -171,6 +171,43 @@ namespace Create_order
             return (int)timestampSeconds;
         }
 
+        //找到对应的GoogleID，返回GoogleID值
+        public static string GoogleIDSearch(Const_Config const_Config,string appName,int type,double price,int num)
+        {
+            for (int i = 0; i < const_Config.GoogleID.Count; i++)
+            {
+                if (appName == const_Config.GoogleID[i].AppName)
+                {
+                    if (type == 1)
+                    {
+                        for (int j = 0; j < const_Config.GoogleID[i].Diamond_Google_ID.Count; j++)
+                        {
+                            if (price == const_Config.GoogleID[i].Diamond_Google_ID[j].Price && num == const_Config.GoogleID[i].Diamond_Google_ID[j].Diamond_Count)
+                            {
+                                return const_Config.GoogleID[i].Diamond_Google_ID[j].Google_Price_ID;
+                            }
+                        }
+                    }
+                    else if (type == 2)
+                    {
+                        for (int j = 0; j < const_Config.GoogleID[i].Vip_Google_ID.Count; j++)
+                        {
+                            if (price == const_Config.GoogleID[i].Vip_Google_ID[j].Price && num == const_Config.GoogleID[i].Vip_Google_ID[j].Vip_Days)
+                            {
+                                return const_Config.GoogleID[i].Vip_Google_ID[j].Google_Price_ID;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        return "";
+                    }
+                }
+            }
+            Console.WriteLine("当前未找到"+ appName + "的价值为" + price + "且数量为" + num + "的相关数据，请仔细检查！");
+            return "";
+        }
+
         //匹配CHANNEL的ID
         //public static int ChannelSearch(int index, string country, string payName, Order_Config data)
         //{

@@ -196,7 +196,7 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 3.19,
-            "Modify_Diamond_Count": 186,
+            "Modify_Diamond_Count": 236,
             "Modify_Detail_Info": {
                 "//": "下方修改数据依次是：是否启用配置（1=是，2=否）、奖励钻石数量、是否首冲（1=是，2=否）、奖励VIP天数、VIP用户奖励钻石数量、是否仅限于新用户或老用户或全部用户（1=否，2=是）、折扣",
                 "Modify_IsActivate": 1,
@@ -212,7 +212,7 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 6.29,
-            "Modify_Diamond_Count": 471,
+            "Modify_Diamond_Count": 470,
             "Modify_Detail_Info": {
                 "//": "下方修改数据依次是：是否启用配置（1=是，2=否）、奖励钻石数量、是否首冲（1=是，2=否）、奖励VIP天数、VIP用户奖励钻石数量、是否仅限于新用户或老用户或全部用户（1=否，2=是）、折扣",
                 "Modify_IsActivate": 1,

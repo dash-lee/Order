@@ -1136,7 +1136,7 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "MYR",
-            "Diamond_Gear": [ 125, 186, 199, 471, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 125, 236, 199, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1219,7 +1219,7 @@
                     },
                     {
                         "Price": 3.19,
-                        "Diamond_Count": 186,
+                        "Diamond_Count": 236,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",
@@ -1257,7 +1257,7 @@
                     },
                     {
                         "Price": 6.29,
-                        "Diamond_Count": 471,
+                        "Diamond_Count": 470,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",

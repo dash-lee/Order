@@ -79,7 +79,7 @@
                 },
                 {
                     "Price": 3.19,
-                    "Diamond_Count": 186,
+                    "Diamond_Count": 236,
                     "Google_Price_ID": "buy_diamond_9"
                 },
                 {
@@ -94,7 +94,7 @@
                 },
                 {
                     "Price": 6.29,
-                    "Diamond_Count": 471,
+                    "Diamond_Count": 470,
                     "Google_Price_ID": "buy_diamond_10"
                 },
                 {
@@ -196,7 +196,7 @@
                 },
                 {
                     "Price": 3.19,
-                    "Diamond_Count": 186,
+                    "Diamond_Count": 236,
                     "Google_Price_ID": "ceci_gold_186"
                 },
                 {
@@ -211,7 +211,7 @@
                 },
                 {
                     "Price": 6.29,
-                    "Diamond_Count": 471,
+                    "Diamond_Count": 470,
                     "Google_Price_ID": "ceci_gold_471"
                 },
                 {
@@ -1450,7 +1450,7 @@
             "Area_CN": "印尼大区",
             "Currency_Code": "MYR",
             "IsCustomize": true,
-            "Diamond_Gear": [ 125, 186, 199, 471, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 125, 236, 199, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1533,7 +1533,7 @@
                     },
                     {
                         "Price": 3.19,
-                        "Diamond_Count": 186,
+                        "Diamond_Count": 236,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",
@@ -1571,7 +1571,7 @@
                     },
                     {
                         "Price": 6.29,
-                        "Diamond_Count": 471,
+                        "Diamond_Count": 470,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",
@@ -20816,7 +20816,7 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 3.19,
-            "Modify_Diamond_Count": 186,
+            "Modify_Diamond_Count": 236,
             "Modify_Detail_Info": {
                 "//": "下方修改数据依次是：是否启用配置（1=是，2=否）、奖励钻石数量、是否首冲（1=是，2=否）、奖励VIP天数、VIP用户奖励钻石数量、是否仅限于新用户或老用户或全部用户（1=否，2=是）、折扣",
                 "Modify_IsActivate": 1,
@@ -20832,7 +20832,7 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 6.29,
-            "Modify_Diamond_Count": 471,
+            "Modify_Diamond_Count": 470,
             "Modify_Detail_Info": {
                 "//": "下方修改数据依次是：是否启用配置（1=是，2=否）、奖励钻石数量、是否首冲（1=是，2=否）、奖励VIP天数、VIP用户奖励钻石数量、是否仅限于新用户或老用户或全部用户（1=否，2=是）、折扣",
                 "Modify_IsActivate": 1,
@@ -21868,7 +21868,7 @@
                         {
                             "Type": "Diamond",
                             "Price": 3.19,
-                            "Num": 186
+                            "Num": 236
                         }
                     ]
                 },
@@ -21878,7 +21878,7 @@
                         {
                             "Type": "Diamond",
                             "Price": 3.19,
-                            "Num": 186
+                            "Num": 236
                         },
                         {
                             "Type": "Vip",
@@ -21893,7 +21893,7 @@
                         {
                             "Type": "Diamond",
                             "Price": 6.29,
-                            "Num": 471
+                            "Num": 470
                         }
                     ]
                 }
