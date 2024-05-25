@@ -8,7 +8,7 @@
       "State": 1,
       "Channel_name": "GooglePay",
       "Channel_web": "谷歌支付",
-      "Logo": "/uploads/20230908/cf4d9959884f8f606bfedba185d0dc53.png",
+      "Logo": "GooglePay",
       "App": [],
       "Country": []
     },
@@ -19,7 +19,7 @@
       "State": 1,
       "Channel_name": "UMOBILE",
       "Channel_web": "PayermaxUMOBILE",
-      "Logo": "/uploads/pay_channel_icon/PayermaxUMOBILE.png",
+      "Logo": "UMOBILE",
       "App": [],
       "Country": []
     },
@@ -30,7 +30,7 @@
       "State": 1,
       "Channel_name": "CELCOM",
       "Channel_web": "PayermaxCELCOM",
-      "Logo": "/uploads/pay_channel_icon/PayermaxCELCOM.png",
+      "Logo": "CELCOM",
       "App": [],
       "Country": []
     },
@@ -41,7 +41,7 @@
       "State": 1,
       "Channel_name": "Bank Kasikorn",
       "Channel_web": "PayermaxNETBANKINGKASIKORN",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKINGKASIKORN.png",
+      "Logo": "Bank Kasikorn",
       "App": [],
       "Country": []
     },
@@ -52,7 +52,7 @@
       "State": 1,
       "Channel_name": "Bank SCB",
       "Channel_web": "PayermaxNETBANKINGSCB_TH",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKINGSCB_TH.png",
+      "Logo": "Bank SCB",
       "App": [],
       "Country": []
     },
@@ -63,7 +63,7 @@
       "State": 1,
       "Channel_name": "Bank Ayudhya",
       "Channel_web": "PayermaxNETBANKINGAYUDHYA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKINGAYUDHYA.png",
+      "Logo": "Bank Ayudhya",
       "App": [],
       "Country": []
     },
@@ -74,7 +74,7 @@
       "State": 1,
       "Channel_name": "Bank Krungthai",
       "Channel_web": "PayermaxNETBANKINGKRUNGTHAI",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKINGKRUNGTHAI.png",
+      "Logo": "Bank Krungthai",
       "App": [],
       "Country": []
     },
@@ -85,7 +85,7 @@
       "State": 1,
       "Channel_name": "MTN MoMo",
       "Channel_web": "Payssion_MTNMoMo",
-      "Logo": "/uploads/pay_channel_icon/Payssion_MTNMoMo.png",
+      "Logo": "MTN MoMo",
       "App": [],
       "Country": []
     },
@@ -96,7 +96,7 @@
       "State": 1,
       "Channel_name": "Viettel Pay",
       "Channel_web": "PaynowVIETTELPAY",
-      "Logo": "/uploads/pay_channel_icon/PaynowVIETTELPAY.png",
+      "Logo": "Viettel Pay",
       "App": [],
       "Country": []
     },
@@ -107,7 +107,7 @@
       "State": 1,
       "Channel_name": "ZaloPay",
       "Channel_web": "PaynowZaloPay",
-      "Logo": "/uploads/pay_channel_icon/PaynowZaloPay.png",
+      "Logo": "ZaloPay",
       "App": [],
       "Country": []
     },
@@ -118,7 +118,7 @@
       "State": 1,
       "Channel_name": "MoMo",
       "Channel_web": "PaynowMOMO",
-      "Logo": "/uploads/pay_channel_icon/PaynowMOMO.png",
+      "Logo": "MoMo",
       "App": [],
       "Country": []
     },
@@ -129,7 +129,7 @@
       "State": 1,
       "Channel_name": "Bank Transfer",
       "Channel_web": "PaynowBANKTRANSFER",
-      "Logo": "/uploads/pay_channel_icon/PaynowBANKTRANSFER.png",
+      "Logo": "Bank Transfer",
       "App": [],
       "Country": []
     },
@@ -140,7 +140,7 @@
       "State": 1,
       "Channel_name": "Online Banking",
       "Channel_web": "PaynowONLINEBANKING",
-      "Logo": "/uploads/pay_channel_icon/PaynowBANKTRANSFER.png",
+      "Logo": "Online Banking",
       "App": [],
       "Country": []
     },
@@ -148,10 +148,10 @@
       "Id": 14,
       "Pay_type_id": 2,
       "Channel_code": "WALLET#MOMO",
-      "State": 1,
+      "State": 0,
       "Channel_name": "MoMo",
       "Channel_web": "PayermaxMOMO",
-      "Logo": "/uploads/pay_channel_icon/PayermaxMOMO.png",
+      "Logo": "MoMo",
       "App": [],
       "Country": []
     },
@@ -162,7 +162,7 @@
       "State": 1,
       "Channel_name": "Bank Bangkok",
       "Channel_web": "PayermaxNETBANKINGBANGKOK",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKINGBANGKOK.png",
+      "Logo": "Bank Bangkok",
       "App": [],
       "Country": []
     },
@@ -173,7 +173,7 @@
       "State": 1,
       "Channel_name": "LinePay",
       "Channel_web": "PayermaxLINEPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxLINEPAY.png",
+      "Logo": "LinePay",
       "App": [],
       "Country": []
     },
@@ -184,7 +184,7 @@
       "State": 1,
       "Channel_name": "7-Eleven",
       "Channel_web": "Payermax7-ELEVEN",
-      "Logo": "/uploads/pay_channel_icon/Payermax7-ELEVEN.png",
+      "Logo": "7-Eleven",
       "App": [],
       "Country": []
     },
@@ -195,7 +195,7 @@
       "State": 1,
       "Channel_name": "PromptPay",
       "Channel_web": "PayermaxPROMPTPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxPROMPTPAY.png",
+      "Logo": "PromptPay",
       "App": [],
       "Country": []
     },
@@ -206,7 +206,7 @@
       "State": 1,
       "Channel_name": "SHOPEEPAY",
       "Channel_web": "PayermaxSHOPEEPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxSHOPEEPAY.png",
+      "Logo": "SHOPEEPAY",
       "App": [],
       "Country": []
     },
@@ -217,7 +217,7 @@
       "State": 1,
       "Channel_name": "TrueMoney",
       "Channel_web": "PayermaxTRUEMONEY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxTRUEMONEY.png",
+      "Logo": "TrueMoney",
       "App": [],
       "Country": []
     },
@@ -228,7 +228,7 @@
       "State": 1,
       "Channel_name": "Debit SCB",
       "Channel_web": "PayermaxDEBITSCB",
-      "Logo": "/uploads/pay_channel_icon/PayermaxDEBITSCB.png",
+      "Logo": "Debit SCB",
       "App": [],
       "Country": []
     },
@@ -239,7 +239,7 @@
       "State": 1,
       "Channel_name": "GPay",
       "Channel_web": "谷歌三方支付",
-      "Logo": "/uploads/pay_channel_icon/GPay.png",
+      "Logo": "GPay",
       "App": [],
       "Country": []
     },
@@ -250,7 +250,7 @@
       "State": 1,
       "Channel_name": "Bank Card",
       "Channel_web": "Payssion_BankCard",
-      "Logo": "/uploads/pay_channel_icon/Payssion_BankCard.png",
+      "Logo": "Bank Card",
       "App": [],
       "Country": []
     },
@@ -261,7 +261,7 @@
       "State": 1,
       "Channel_name": "Bank Transfer",
       "Channel_web": "Payssion_BankTransfer",
-      "Logo": "/uploads/pay_channel_icon/Payssion_BankTransfer.png",
+      "Logo": "Bank Transfer",
       "App": [],
       "Country": []
     },
@@ -272,7 +272,7 @@
       "State": 1,
       "Channel_name": "Airtel Money",
       "Channel_web": "Payssion_AirtelMoney",
-      "Logo": "/uploads/pay_channel_icon/Payssion_AirtelMoney.png",
+      "Logo": "Airtel Money",
       "App": [],
       "Country": []
     },
@@ -283,7 +283,7 @@
       "State": 1,
       "Channel_name": "Airtel Money",
       "Channel_web": "Payssion_AirtelMoney",
-      "Logo": "/uploads/pay_channel_icon/Payssion_AirtelMoney.png",
+      "Logo": "Airtel Money",
       "App": [],
       "Country": []
     },
@@ -294,7 +294,7 @@
       "State": 1,
       "Channel_name": "MTN MoMo",
       "Channel_web": "Payssion_MTNMoMo",
-      "Logo": "/uploads/pay_channel_icon/Payssion_MTNMoMo.png",
+      "Logo": "MTN MoMo",
       "App": [],
       "Country": []
     },
@@ -305,7 +305,7 @@
       "State": 1,
       "Channel_name": "Airtel Money",
       "Channel_web": "Payssion_AirtelMoney",
-      "Logo": "/uploads/pay_channel_icon/Payssion_AirtelMoney.png",
+      "Logo": "Airtel Money",
       "App": [],
       "Country": []
     },
@@ -316,7 +316,7 @@
       "State": 1,
       "Channel_name": "Tigo Pesa",
       "Channel_web": "Payssion_TigoPesa",
-      "Logo": "/uploads/pay_channel_icon/Payssion_TigoPesa.png",
+      "Logo": "Tigo Pesa",
       "App": [],
       "Country": []
     },
@@ -327,7 +327,7 @@
       "State": 1,
       "Channel_name": "M-Pesa",
       "Channel_web": "Payssion_MPesa",
-      "Logo": "/uploads/pay_channel_icon/Payssion_MPesa.png",
+      "Logo": "M-Pesa",
       "App": [],
       "Country": []
     },
@@ -338,7 +338,7 @@
       "State": 1,
       "Channel_name": "Airtel Money",
       "Channel_web": "Payssion_AirtelMoney",
-      "Logo": "/uploads/pay_channel_icon/Payssion_AirtelMoney.png",
+      "Logo": "Airtel Money",
       "App": [],
       "Country": []
     },
@@ -349,7 +349,7 @@
       "State": 1,
       "Channel_name": "Airtel Money",
       "Channel_web": "Payssion_AirtelMoney",
-      "Logo": "/uploads/pay_channel_icon/Payssion_AirtelMoney.png",
+      "Logo": "Airtel Money",
       "App": [],
       "Country": []
     },
@@ -360,7 +360,7 @@
       "State": 1,
       "Channel_name": "MTN MoMo",
       "Channel_web": "Payssion_MTNMoMo",
-      "Logo": "/uploads/pay_channel_icon/Payssion_MTNMoMo.png",
+      "Logo": "MTN MoMo",
       "App": [],
       "Country": []
     },
@@ -371,7 +371,7 @@
       "State": 1,
       "Channel_name": "NETBANKING",
       "Channel_web": "PayermaxNETBANKING",
-      "Logo": "/uploads/pay_channel_icon/PayermaxNETBANKING.png",
+      "Logo": "NETBANKING",
       "App": [],
       "Country": []
     },
@@ -382,7 +382,7 @@
       "State": 1,
       "Channel_name": "COINS.PH",
       "Channel_web": "PayermaxCOINS_PH",
-      "Logo": "/uploads/pay_channel_icon/PayermaxCOINS_PH.png",
+      "Logo": "COINS.PH",
       "App": [],
       "Country": []
     },
@@ -393,7 +393,7 @@
       "State": 1,
       "Channel_name": "PAYMAYA",
       "Channel_web": "PayermaxPAYMAYA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxPAYMAYA.png",
+      "Logo": "PAYMAYA",
       "App": [],
       "Country": []
     },
@@ -404,7 +404,7 @@
       "State": 1,
       "Channel_name": "GRABPAY",
       "Channel_web": "PayermaxGRABPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxGRABPAY.png",
+      "Logo": "GRABPAY",
       "App": [],
       "Country": []
     },
@@ -415,7 +415,7 @@
       "State": 1,
       "Channel_name": "GCASH",
       "Channel_web": "PayermaxGCASH",
-      "Logo": "/uploads/pay_channel_icon/PayermaxGCASH.png",
+      "Logo": "GCASH",
       "App": [],
       "Country": []
     },
@@ -426,7 +426,7 @@
       "State": 1,
       "Channel_name": "Klarna",
       "Channel_web": "PayermaxKLARNA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxKLARNA.png",
+      "Logo": "Klarna",
       "App": [],
       "Country": []
     },
@@ -437,7 +437,7 @@
       "State": 1,
       "Channel_name": "Visa/MasterCard",
       "Channel_web": "PayermaxCARD",
-      "Logo": "/uploads/pay_channel_icon/PayermaxCARD.png",
+      "Logo": "Visa/MasterCard",
       "App": [],
       "Country": []
     },
@@ -448,7 +448,7 @@
       "State": 1,
       "Channel_name": "GIROPAY",
       "Channel_web": "PayermaxGIROPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxGIROPAY.png",
+      "Logo": "GIROPAY",
       "App": [],
       "Country": []
     },
@@ -459,7 +459,7 @@
       "State": 1,
       "Channel_name": "DIGI",
       "Channel_web": "PayermaxDIGI",
-      "Logo": "/uploads/pay_channel_icon/PayermaxDIGI.png",
+      "Logo": "DIGI",
       "App": [],
       "Country": []
     },
@@ -467,10 +467,10 @@
       "Id": 43,
       "Pay_type_id": 2,
       "Channel_code": "NET_BANKING#ISLAM",
-      "State": 1,
+      "State": 0,
       "Channel_name": "Bank Islam",
       "Channel_web": "PayermaxISLAM",
-      "Logo": "/uploads/pay_channel_icon/PayermaxISLAM.png",
+      "Logo": "Bank Islam",
       "App": [],
       "Country": []
     },
@@ -478,10 +478,10 @@
       "Id": 44,
       "Pay_type_id": 2,
       "Channel_code": "NET_BANKING#AMBANK",
-      "State": 1,
+      "State": 0,
       "Channel_name": "Bank Ambank",
       "Channel_web": "PayermaxAMBANK",
-      "Logo": "/uploads/pay_channel_icon/PayermaxAMBANK.png",
+      "Logo": "Bank Ambank",
       "App": [],
       "Country": []
     },
@@ -489,10 +489,10 @@
       "Id": 45,
       "Pay_type_id": 2,
       "Channel_code": "NET_BANKING#AGRONET",
-      "State": 1,
+      "State": 0,
       "Channel_name": "Bank Agronet",
       "Channel_web": "PayermaxAGRONET",
-      "Logo": "/uploads/pay_channel_icon/PayermaxAGRONET.png",
+      "Logo": "Bank Agronet",
       "App": [],
       "Country": []
     },
@@ -500,10 +500,10 @@
       "Id": 46,
       "Pay_type_id": 2,
       "Channel_code": "NET_BANKING#AFFIN",
-      "State": 1,
+      "State": 0,
       "Channel_name": "Bank Affin",
       "Channel_web": "PayermaxAFFIN",
-      "Logo": "/uploads/pay_channel_icon/PayermaxAFFIN.png",
+      "Logo": "Bank Affin",
       "App": [],
       "Country": []
     },
@@ -514,7 +514,7 @@
       "State": 1,
       "Channel_name": "AXIATABOOST",
       "Channel_web": "PayermaxAXIATABOOST",
-      "Logo": "/uploads/pay_channel_icon/PayermaxAXIATABOOST.png",
+      "Logo": "AXIATABOOST",
       "App": [],
       "Country": []
     },
@@ -525,7 +525,7 @@
       "State": 1,
       "Channel_name": "TNG",
       "Channel_web": "PayermaxTNG",
-      "Logo": "/uploads/pay_channel_icon/PayermaxTNG.png",
+      "Logo": "TNG",
       "App": [],
       "Country": []
     },
@@ -536,7 +536,7 @@
       "State": 1,
       "Channel_name": "INDOMARET",
       "Channel_web": "PayermaxINDOMARET",
-      "Logo": "/uploads/pay_channel_icon/PayermaxINDOMARET.png",
+      "Logo": "INDOMARET",
       "App": [],
       "Country": []
     },
@@ -547,7 +547,7 @@
       "State": 1,
       "Channel_name": "SMARTFREN",
       "Channel_web": "PayermaxSMARTFREN",
-      "Logo": "/uploads/pay_channel_icon/PayermaxSMARTFREN.png",
+      "Logo": "SMARTFREN",
       "App": [],
       "Country": []
     },
@@ -558,7 +558,7 @@
       "State": 1,
       "Channel_name": "TRIINDO",
       "Channel_web": "PayermaxTRIINDO",
-      "Logo": "/uploads/pay_channel_icon/PayermaxTRIINDO.png",
+      "Logo": "TRIINDO",
       "App": [],
       "Country": []
     },
@@ -569,7 +569,7 @@
       "State": 1,
       "Channel_name": "INDOSAT",
       "Channel_web": "PayermaxINDOSAT",
-      "Logo": "/uploads/pay_channel_icon/PayermaxINDOSAT.png",
+      "Logo": "INDOSAT",
       "App": [],
       "Country": []
     },
@@ -580,7 +580,7 @@
       "State": 1,
       "Channel_name": "XL",
       "Channel_web": "PayermaxXL",
-      "Logo": "/uploads/pay_channel_icon/PayermaxXL.png",
+      "Logo": "XL",
       "App": [],
       "Country": []
     },
@@ -591,7 +591,7 @@
       "State": 1,
       "Channel_name": "TELKOMSEL",
       "Channel_web": "PayermaxTELKOMSEL",
-      "Logo": "/uploads/pay_channel_icon/PayermaxTELKOMSEL.png",
+      "Logo": "TELKOMSEL",
       "App": [],
       "Country": []
     },
@@ -602,7 +602,7 @@
       "State": 1,
       "Channel_name": "ALFAMART",
       "Channel_web": "PayermaxALFAMART",
-      "Logo": "/uploads/pay_channel_icon/PayermaxALFAMART.png",
+      "Logo": "ALFAMART",
       "App": [],
       "Country": []
     },
@@ -613,7 +613,7 @@
       "State": 1,
       "Channel_name": "PERMATA",
       "Channel_web": "PayermaxPERMATA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxPERMATA.png",
+      "Logo": "PERMATA",
       "App": [],
       "Country": []
     },
@@ -624,7 +624,7 @@
       "State": 1,
       "Channel_name": "MANDIRI",
       "Channel_web": "PayermaxMANDIRI",
-      "Logo": "/uploads/pay_channel_icon/PayermaxMANDIRI.png",
+      "Logo": "MANDIRI",
       "App": [],
       "Country": []
     },
@@ -635,7 +635,7 @@
       "State": 1,
       "Channel_name": "BNI",
       "Channel_web": "PayermaxBNI",
-      "Logo": "/uploads/pay_channel_icon/PayermaxBNI.png",
+      "Logo": "BNI",
       "App": [],
       "Country": []
     },
@@ -646,7 +646,7 @@
       "State": 1,
       "Channel_name": "BRI",
       "Channel_web": "PayermaxBRI",
-      "Logo": "/uploads/pay_channel_icon/PayermaxBRI.png",
+      "Logo": "BRI",
       "App": [],
       "Country": []
     },
@@ -657,7 +657,7 @@
       "State": 1,
       "Channel_name": "BCA",
       "Channel_web": "PayermaxBCA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxBCA.png",
+      "Logo": "BCA",
       "App": [],
       "Country": []
     },
@@ -668,7 +668,7 @@
       "State": 1,
       "Channel_name": "LINKAJA",
       "Channel_web": "PayermaxLINKAJA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxLINKAJA.png",
+      "Logo": "LINKAJA",
       "App": [],
       "Country": []
     },
@@ -679,7 +679,7 @@
       "State": 1,
       "Channel_name": "OVO",
       "Channel_web": "PayermaxOVO",
-      "Logo": "/uploads/pay_channel_icon/PayermaxOVO.png",
+      "Logo": "OVO",
       "App": [],
       "Country": []
     },
@@ -690,7 +690,7 @@
       "State": 1,
       "Channel_name": "DANA",
       "Channel_web": "PayermaxDANA",
-      "Logo": "/uploads/pay_channel_icon/PayermaxDANA.png",
+      "Logo": "DANA",
       "App": [],
       "Country": []
     },
@@ -701,18 +701,7 @@
       "State": 1,
       "Channel_name": "GOPAY",
       "Channel_web": "PayermaxGOPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxGOPAY.png",
-      "App": [],
-      "Country": []
-    },
-    {
-      "Id": 65,
-      "Pay_type_id": 2,
-      "Channel_code": "WALLET#SHOPEEPAY",
-      "State": 1,
-      "Channel_name": "SHOPEEPAY",
-      "Channel_web": "PayermaxSHOPEEPAY",
-      "Logo": "/uploads/pay_channel_icon/PayermaxCARD.png",
+      "Logo": "GOPAY",
       "App": [],
       "Country": []
     }

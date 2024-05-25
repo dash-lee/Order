@@ -36,11 +36,10 @@ namespace Create_order
                 "status",               //0为关闭；1为启动
                 "sort",             //排序
                 "google_id",        //对应的谷歌ID
+                "is_first_recharge",
                 "d_give_vip_day",       //钻石充值-赠送vip天数
                 "d_vip_user_extra_diamond_num",     //钻石充值-vip用户额外奖励钻石数
                 "d_discount",   //钻石充值-折扣显示(1-100)
-                "v_is_top",     //vip充值-是否置顶0否1是
-                "v_top_extra_diamond_num",      //vip充值-置顶额外赠送钻石数
                 "v_extra_item_id",          //vip充值-额外赠送物品id
                 "v_extra_item_day",         //vip充值-总共赠送天数
                 "v_extra_item_num"          //vip充值-每日赠送物品数量
@@ -77,6 +76,7 @@ namespace Create_order
                         if (const_config.Apps[index].Need_Country[i] == countries[j].Country_Name)
                         {
                             string googleID = "";
+                            id = 1 + i * ModuleSupport.ITEM_COUNTRY_ID_GAP;
 
                             //首先进行钻石配置的写入（这里检查的是钻石的配置）
                             for (int k = 0; k < countries[j].Diamond_Pay_Detail.PayMethod_Price.Count; k++)
@@ -88,7 +88,7 @@ namespace Create_order
                                 //确认此条信息是否需要和默认值不一样，要进行修改
                                 //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
                                 //进行匹配的信息是：APP名称、国家、价格
-                                int status = 1, give_num = 0, is_time_limited = 2, vip_date = 0, is_new = 1, vip_user_give_num = 0, discount = 0;
+                                int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, is_new = 1, vip_user_give_num = 0, discount = 0;
                                 for (int a = 0; a < modify_Config.Modify_Diamond.Count; a++)
                                 {
                                     for (int b = 0; b < modify_Config.Modify_Diamond[a].Modify_App.Count; b++)
@@ -110,9 +110,8 @@ namespace Create_order
 
                                                         status = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_IsActivate;
                                                         give_num = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_Reward_Count;
-                                                        is_time_limited = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_IsFirstCharge;
+                                                        is_first_recharge = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_IsFirstCharge;
                                                         vip_date = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
-                                                        is_new = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_IsNewUser;
                                                         vip_user_give_num = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
                                                         discount = modify_Config.Modify_Diamond[a].Modify_Detail_Info.Modify_Discount;
                                                     }
@@ -133,11 +132,10 @@ namespace Create_order
                                 data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
                                 data_detail_diamond.Add($"{k + 1}");    //排序
                                 data_detail_diamond.Add(googleID); //谷歌产品ID
+                                data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
                                 data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
                                 data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
                                 data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
-                                data_detail_diamond.Add("");
-                                data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
@@ -153,7 +151,7 @@ namespace Create_order
                                 List<string> data_detail_vip = new List<string>();      //定义新的数据，用于往body中添加数据
                                 googleID = Tools.GoogleIDSearch(const_config, appNameTemp, 2, countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Price, countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Vip_Days);
                                 bool isModifyVip = false;
-                                int give_num = 0, status = 1, isTop = 0, topGiveNum = 0, ext_day = 0, ext_item_id = 0, ext_num = 0;
+                                int give_num = 0, status = 1, is_first_recharge = 0, ext_day = 0, ext_item_id = 0, ext_num = 0;
 
                                 for (int bb = 0; bb < modify_Config.Modify_Vip.Count; bb++)
                                 {
@@ -172,9 +170,8 @@ namespace Create_order
                                                         isModifyVip = true;
 
                                                         give_num = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_Reward_Diamonds;
+                                                        is_first_recharge = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_IsFirstCharge;
                                                         status = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_IsActivate;
-                                                        isTop = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_Vip_Top;
-                                                        topGiveNum = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_Vip_Top_Reward_Diamond_Num;
                                                         ext_day = modify_Config.Modify_Vip[bb].Modify_Detail_Info.Modify_Vip_Reward_Day;
                                                         foreach (KeyValuePair<string, int> kvp in ModuleSupport.ItemChatID)
                                                         {
@@ -199,15 +196,14 @@ namespace Create_order
                                 data_detail_vip.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
                                 data_detail_vip.Add($"{countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Vip_Days}");
                                 data_detail_vip.Add($"{countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Price}");
-                                data_detail_vip.Add("");    //奖励钻石数量
+                                data_detail_vip.Add(isModifyVip ? $"{give_num}" : $"{0}");    //奖励钻石数量
                                 data_detail_vip.Add(isModifyVip ? $"{status}" : $"{1}");    //是否启用配置
                                 data_detail_vip.Add($"{aa + 1}");    //排序
                                 data_detail_vip.Add(googleID); //谷歌产品ID
+                                data_detail_vip.Add(isModifyVip ? $"{is_first_recharge}":$"{0}");      //是否为首充
                                 data_detail_vip.Add("");    //奖励vip天数
                                 data_detail_vip.Add("");    //vip用户奖励钻石数量
                                 data_detail_vip.Add("");    //折扣
-                                data_detail_vip.Add(isModifyVip ? $"{isTop}" : $"{0}");    //是否此项VIP置顶（0=否，1=是）
-                                data_detail_vip.Add(isModifyVip ? $"{topGiveNum}" : $"{0}");    //置顶给的钻石数量
                                 data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //开通VIP可领取特殊奖励的天数
                                 data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //可领取特殊奖励的物品ID
                                 data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量
@@ -222,6 +218,7 @@ namespace Create_order
             }
             Tools.Write(path, header, body);
             Console.WriteLine("生成hi_v3_pay_list完成！");
+            Console.WriteLine(country_Config.Country.Count);
         }
 
         public static void Hi_v3_pay_type(Const_Config const_config)
@@ -405,6 +402,7 @@ namespace Create_order
             }
 
             Tools.Write(path, header, body);
+            Console.WriteLine(recharge_config.Recharge_Promotion.Promotion_Info.Count);
             Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
         }
     }

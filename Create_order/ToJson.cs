@@ -10,6 +10,7 @@ using OfficeOpenXml;
 using System.Reflection.Emit;
 using static Create_order.Data_Const;
 using System.Diagnostics.Metrics;
+using Microsoft.Extensions.Primitives;
 
 namespace Create_order
 {
@@ -82,29 +83,48 @@ namespace Create_order
         {
             CheckExcel();
 
-            int id = 1;
-
             List<PayChannel_Unique> payChannel_Uniques = new List<PayChannel_Unique>();
 
             for (int i = 0; i < excelData.Count; i++)
             {
                 try
                 {
+                    int idTmp;
+                    int stateTmp;
+                    string stataStr = excelData[i][6];
+                    string idStr = excelData[i][0];
+                    if (int.TryParse(idStr,out int intValue))
+                    {
+                        idTmp = intValue;
+                    }
+                    else
+                    {
+                        idTmp = -1; 
+                    }
+
+                    if (int.TryParse(stataStr,out int stateValue))
+                    {
+                        stateTmp = stateValue;
+                    }
+                    else
+                    {
+                        stateTmp = -1;
+                    }
+
                     PayChannel_Unique payChannel_Unique = new PayChannel_Unique()
                     {
-                        Id = id,
-                        Pay_type_id = Tools.GetPayChannelID(excelData[i][0], const_config),
-                        Channel_code = excelData[i][4],
-                        State = 1,
-                        Channel_name = excelData[i][2],
-                        Channel_web = excelData[i][1],
+                        Id = idTmp,
+                        Pay_type_id = Tools.GetPayChannelID(excelData[i][1], const_config),
+                        Channel_code = excelData[i][5],
+                        State = stateTmp,
+                        Channel_name = excelData[i][3],
+                        Channel_web = excelData[i][2],
                         Logo = excelData[i][3],
                         App = new List<string>(),
                         Country = new List<string>(),
                     };
 
                     payChannel_Uniques.Add(payChannel_Unique);
-                    id++;
                 }
                 catch (Exception)
                 {

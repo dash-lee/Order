@@ -11,7 +11,7 @@
  Target Server Version : 80032
  File Encoding         : 65001
 
- Date: 20/05/2024 17:37:57
+ Date: 24/05/2024 16:23:17
 */
 
 SET NAMES utf8mb4;
@@ -33,7 +33,7 @@ CREATE TABLE `hi_v3_channel_price`  (
   `is_rate` tinyint NULL DEFAULT 0 COMMENT '是否开启汇率',
   PRIMARY KEY (`id`) USING BTREE,
   INDEX `idx_app_country_num_type`(`app` ASC, `country` ASC, `type` ASC, `num` ASC) USING BTREE
-) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '渠道价格配置' ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 9 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '渠道价格配置' ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for hi_v3_pay_channel
@@ -41,8 +41,8 @@ CREATE TABLE `hi_v3_channel_price`  (
 DROP TABLE IF EXISTS `hi_v3_pay_channel`;
 CREATE TABLE `hi_v3_pay_channel`  (
   `id` int NOT NULL AUTO_INCREMENT,
-  `pay_type_id` int NULL DEFAULT 0,
-  `channel_code` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '',
+  `pay_type_id` int NULL DEFAULT 0 COMMENT '支付平台id',
+  `channel_code` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '渠道code',
   `state` tinyint(1) NULL DEFAULT 0 COMMENT '0关闭 1开启',
   `channel_name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '渠道名称(客户端)',
   `channel_web` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '渠道名称(后台)',
@@ -69,18 +69,17 @@ CREATE TABLE `hi_v3_pay_list`  (
   `status` tinyint(1) NULL DEFAULT 0 COMMENT '0关闭 1启动',
   `sort` int NULL DEFAULT 0 COMMENT '排序',
   `google_id` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '谷歌id',
+  `is_first_recharge` int NULL DEFAULT 0 COMMENT '是否是首充 0否 1是',
   `d_give_vip_day` int NULL DEFAULT 0 COMMENT '钻石充值-赠送vip天数',
   `d_vip_user_extra_diamond_num` int NULL DEFAULT 0 COMMENT '钻石充值-vip用户额外奖励钻石数',
   `d_discount` int NULL DEFAULT 0 COMMENT '钻石充值-折扣显示(1-100)',
-  `v_is_top` int NULL DEFAULT 0 COMMENT 'vip充值-是否置顶0否1是',
-  `v_top_extra_diamond_num` int NULL DEFAULT 0 COMMENT 'vip充值-置顶额外赠送钻石数',
   `v_extra_item_id` int NULL DEFAULT 0 COMMENT 'vip充值-额外赠送物品id',
   `v_extra_item_day` int NULL DEFAULT 0 COMMENT 'vip充值-总共赠送天数',
   `v_extra_item_num` int NULL DEFAULT 0 COMMENT 'vip充值-每日赠送物品数量',
   PRIMARY KEY (`id`) USING BTREE,
   INDEX `idx_type`(`type` ASC) USING BTREE,
   INDEX `idx_type_app_country_num_status`(`type` ASC, `country` ASC, `app` ASC, `num` ASC, `status` ASC) USING BTREE
-) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '支付列表' ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 9 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '支付列表' ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for hi_v3_pay_type
@@ -91,7 +90,7 @@ CREATE TABLE `hi_v3_pay_type`  (
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '名称',
   `logo` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT 'logo',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for hi_v3_recharge_promotions
@@ -106,6 +105,6 @@ CREATE TABLE `hi_v3_recharge_promotions`  (
   `country` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '国家',
   PRIMARY KEY (`id`) USING BTREE,
   INDEX `idx_select`(`pay_type` ASC, `status` ASC, `app` ASC, `country` ASC) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 1141 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '充值促销配置' ROW_FORMAT = DYNAMIC;
+) ENGINE = InnoDB AUTO_INCREMENT = 1142 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '充值促销配置' ROW_FORMAT = DYNAMIC;
 
 SET FOREIGN_KEY_CHECKS = 1;

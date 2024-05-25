@@ -260,7 +260,6 @@ namespace Create_order
             public int Modify_IsFirstCharge { get; set; }
             public int Modify_Vip_Reward_Day { get; set; }
             public int Modify_VipUser_Reward_Diamond_Count { get; set; }
-            public int Modify_IsNewUser { get; set; }
             public int Modify_Discount { get; set; }
         }
 
@@ -277,8 +276,7 @@ namespace Create_order
         {
             public int Modify_Reward_Diamonds { get; set; }
             public int Modify_IsActivate { get; set; }
-            public int Modify_Vip_Top { get; set; }
-            public int Modify_Vip_Top_Reward_Diamond_Num { get; set; }
+            public int Modify_IsFirstCharge { get; set; }
             public int Modify_Vip_Reward_Day { get; set; }
             public int Modify_Vip_Reward_ItemID { get; set; }
             public int Modify_Vip_Reward_ItemCount { get; set; }
