@@ -7,6 +7,7 @@ using System.Security.Cryptography.X509Certificates;
 using Create_order;
 using System.Security.Cryptography.Pkcs;
 using static Create_order.Data_Const;
+using static Create_order.Data_PayChannel_Price;
 
 namespace Create_order
 {
@@ -92,6 +93,10 @@ namespace Create_order
                 {
                     ModuleSupport.Body_PayList = data;
                 }
+                else if(filePath == desktopPath + @"\config_all\hi_v3_channel_price.xlsx")
+                {
+                    ModuleSupport.Body_PayChannel_Price = data;
+                }
 
                 //检查Excel表是否存在
                 if (File.Exists(excelFilePath))
@@ -128,6 +133,10 @@ namespace Create_order
             else if (path == desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx")
             {
                 return ModuleSupport.modifyFormat["hi_v3_recharge_promotions.xlsx"];
+            }
+            else if (path == desktopPath + @"\config_all\hi_v3_channel_price.xlsx")
+            {
+                return ModuleSupport.modifyFormat["hi_v3_channel_price.xlsx"];
             }
             else
             {
@@ -181,32 +190,6 @@ namespace Create_order
             Console.WriteLine("当前未找到"+ appName + "的价值为" + price + "且数量为" + num + "的相关数据，请仔细检查！");
             return "";
         }
-
-        //匹配CHANNEL的ID
-        //public static int ChannelSearch(int index, string country, string payName, Order_Config data)
-        //{
-        //    for (int i = 0; i < data.Payment.PayMethod_Detail_Channel.Count; i++)
-        //    {
-        //        //找到对应国家的渠道
-        //        if (data.Payment.PayMethod_Detail_Channel[i].Country == country)
-        //        {
-        //            for (int j = 0; j < data.Payment.PayMethod_Detail_Channel[i].PayMethod_Detail.Count; j++)
-        //            {
-        //                for (int k = 0; k < data.Payment.PayMethod_Detail_Channel[i].PayMethod_Detail[j].Channel.Count; k++)
-        //                {
-        //                    if (payName == data.Payment.PayMethod_Detail_Channel[i].PayMethod_Detail[j].Channel[k].Name_Selflook)
-        //                    {
-        //                        return (int)data.Payment.PayMethod_Detail_Channel[i].PayMethod_Detail[j].Channel[k].ID + index * ModuleSupport.PAY_CHANNEL_GAP;
-        //                    }
-        //                }
-        //            }
-        //            Console.WriteLine("当前没有找到" + country + "的" + payName + "渠道的相关配置，请仔细检查！");
-        //            return -1;
-        //        }
-        //    }
-        //    Console.WriteLine("未配置" + country + "的支付渠道，请仔细检查");
-        //    return -1;
-        //}
 
         //拼接渠道列表
         public static string JoinChannelString(List<string> channels)
@@ -267,6 +250,74 @@ namespace Create_order
             }
             Console.WriteLine("当前未找到支付公司为："+ channelName + "，请仔细检查");
             return -1;
+        }
+
+        //目前返回APP的值，是默认所有的APP都用了，也不需要传递channelId了
+        public static string CombineApp(Const_Config const_config)
+        {
+            string apps = "";
+            for (int i = 0; i < const_config.Apps.Count; i++)
+            {
+                if (i == 0)
+                {
+                    apps = const_config.Apps[i].AppName;
+                }
+                else
+                {
+                    apps = string.Concat(apps,",", const_config.Apps[i].AppName);
+                }
+            }
+
+            return apps;
+        }
+
+        //返回使用的国家的值
+        public static string CombineCountry(PayChannel_Price_Config payChannel_Price_Config,int channel_id)
+        {
+            string countries = "";
+
+            for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
+            {
+                bool isExist = false;
+
+                //检查vip中是否有使用当前channel_id
+                for (int k = 0; k < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip.Count; k++)
+                {
+                    if (channel_id == payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Channel_Id)
+                    {
+                        isExist = true;
+                        break;
+                    }
+                }
+
+                if (!isExist)
+                {
+                    //检查钻石中是否有使用当前channel_id
+                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
+                    {
+                        if (channel_id == payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Channel_Id)
+                        {
+                            isExist = true;
+                            break;
+                        }
+                    }
+                }
+
+                //拼接
+                if (isExist)
+                {
+                    if (countries == "")
+                    {
+                        countries = payChannel_Price_Config.PayChannel_Country[i].Country_Code;
+                    }
+                    else
+                    {
+                        countries = string.Concat(countries,",", payChannel_Price_Config.PayChannel_Country[i].Country_Code);
+                    }
+                }
+            }
+
+            return countries;
         }
     }
 }

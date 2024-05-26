@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using static Create_order.Data_Const;
 using static Create_order.Data_Country;
 using static Create_order.Data_Modify;
+using static Create_order.Data_PayChannel;
 using static Create_order.Data_Recharge;
 using static Create_order.ToJson_PayChannel;
 
@@ -340,6 +341,59 @@ namespace Create_order
             {
                 string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonSerializer.Deserialize<PayChannel_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
+
+    public class Data_PayChannel_Price
+    {
+        public struct PayChannel_Price_Config
+        {
+            public string Info { get; set; }
+            public List<PayChannel_Country> PayChannel_Country { get;set; }
+        }
+
+        public struct PayChannel_Country
+        {
+            public string Country_Name { get; set; }
+            public string Country_Name_CN { get; set; }
+            public string Country_Code { get; set; }
+            public List<PayChannel_Info> PayChannel_Diamond { get; set; }
+            public List<PayChannel_Info> PayChannel_Vip { get; set; }
+        }
+
+        public struct PayChannel_Info
+        {
+            public int Channel_Id { get; set; }
+            public string Channel_Name { get; set; }
+            public double Price { get; set; }
+            public int Num { get; set; }
+            public int Sort { get; set; }
+            public int Is_Rate { get; set; }
+            public double Fixed_Price { get; set; }
+        }
+
+        public static PayChannel_Price_Config PayChannel_Price_Data()
+        {
+            PayChannel_Price_Config tmpData = new PayChannel_Price_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonSerializer.Deserialize<PayChannel_Price_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {

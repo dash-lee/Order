@@ -11,6 +11,7 @@ using static Create_order.Data_Recharge;
 using static Create_order.Data_Country;
 using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
+using static Create_order.Data_PayChannel_Price;
 
 namespace Create_order
 {
@@ -65,7 +66,7 @@ namespace Create_order
             for (int index = 0; index < appNum; index++)
             {
                 string appNameTemp = const_config.Apps[index].AppName;
-                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;
+                //id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;
 
                 for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                 {
@@ -76,7 +77,7 @@ namespace Create_order
                         if (const_config.Apps[index].Need_Country[i] == countries[j].Country_Name)
                         {
                             string googleID = "";
-                            id = 1 + i * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                            id = ModuleSupport.ITEM_BEGIN_ID + i * ModuleSupport.ITEM_COUNTRY_ID_GAP + index* ModuleSupport.ITEM_APP_ID_GAP;
 
                             //首先进行钻石配置的写入（这里检查的是钻石的配置）
                             for (int k = 0; k < countries[j].Diamond_Pay_Detail.PayMethod_Price.Count; k++)
@@ -253,7 +254,7 @@ namespace Create_order
             Console.WriteLine("生成hi_v3_pay_type.xlsx完成！");
         }
 
-        public static void Hi_v3_pay_channel(PayChannel_Config payChannel_Config)
+        public static void Hi_v3_pay_channel(Const_Config const_config, PayChannel_Config payChannel_Config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
             List<List<string>> body = new List<List<string>>();
@@ -290,9 +291,9 @@ namespace Create_order
                 data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Channel_web}");
                 data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Logo}");
                 //添加所用到的APP
-                data_detail.Add("");
+                data_detail.Add(Tools.CombineApp(const_config));
                 //添加所用到的国家
-                data_detail.Add("");
+                data_detail.Add(Tools.CombineCountry(payChannel_Price_Config,id));
 
                 body.Add(data_detail);
                 id++;
@@ -322,10 +323,11 @@ namespace Create_order
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string path = desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx";
 
-            int id = ModuleSupport.RECHARGE_BEGIN_ID;
+            int id;
 
             for (int index = 0; index < const_config.Apps.Count; index++)
             {
+                id = ModuleSupport.RECHARGE_BEGIN_ID + index * ModuleSupport.RECHARGE_APP_GAP_ID;
                 //找到所需的国家
                 for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                 {
@@ -404,6 +406,83 @@ namespace Create_order
             Tools.Write(path, header, body);
             Console.WriteLine(recharge_config.Recharge_Promotion.Promotion_Info.Count);
             Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
+        }
+
+        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
+        {
+            //定义数据部分
+            List<List<string>> body = new List<List<string>>();
+
+            //定义数据头
+            List<string> header = new List<string>()
+            {
+                "id",
+                "app",
+                "country",
+                "type",
+                "num",
+                "channel_id",
+                "sort",
+                "price",
+                "is_rate",      //1为开启汇率，0为开启固定价格
+                "fixed_price"
+            };
+
+            //获取路径
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string path = desktopPath + @"\config_all\hi_v3_channel_price.xlsx";
+
+            int id;
+            for (int index = 0; index < const_config.Apps.Count; index++)
+            {
+                id = ModuleSupport.PAYCHANNEL_PRICE_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_APP_GAP_ID;
+                string appName = const_config.Apps[index].AppName;
+                //遍历所有的国家
+                for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
+                {
+                    //首先遍历钻石的数据
+                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
+                    {
+                        List<string> data_detail_diamond = new List<string>();
+
+                        data_detail_diamond.Add($"{id}");
+                        data_detail_diamond.Add(appName);
+                        data_detail_diamond.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
+                        data_detail_diamond.Add($"{1}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Num}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Channel_Id}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Sort}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Price}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Is_Rate}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Fixed_Price}");
+
+                        body.Add( data_detail_diamond );
+                        id++;
+                    }
+
+                    for (int k = 0; k < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip.Count; k++)
+                    {
+                        List<string> data_detail_vip = new List<string>();
+
+                        data_detail_vip.Add($"{id}");
+                        data_detail_vip.Add(appName);
+                        data_detail_vip.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
+                        data_detail_vip.Add($"{2}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Num}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Channel_Id}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Sort}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Price}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_Rate}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Fixed_Price}");
+
+                        body.Add(data_detail_vip);
+                        id++;
+                    }
+                }
+            }
+
+            Tools.Write(path, header, body);
+            Console.WriteLine("生成hi_v3_channel_price.xlsx完成！");
         }
     }
 }

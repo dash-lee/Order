@@ -2821,11 +2821,11 @@
                                 "Price": 78000.00
                             },
                             {
-                                "Name": "PaynowVIETTELPAY",
+                                "Name": "PaynowBANKTRANSFER",
                                 "Price": 78000.00
                             },
                             {
-                                "Name": "PaynowVIETTELPAY",
+                                "Name": "PaynowONLINEBANKING",
                                 "Price": 78000.00
                             }
                         ]

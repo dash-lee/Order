@@ -1,7 +1,7 @@
 {
     "Modify_Diamond": [
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 7.49,
             "Modify_Diamond_Count": 429,
@@ -16,7 +16,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 7.99,
             "Modify_Diamond_Count": 599,
@@ -31,7 +31,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 19.99,
             "Modify_Diamond_Count": 1209,
@@ -46,7 +46,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 39.99,
             "Modify_Diamond_Count": 2509,
@@ -61,7 +61,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 79.99,
             "Modify_Diamond_Count": 5199,
@@ -76,7 +76,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 149.99,
             "Modify_Diamond_Count": 9999,
@@ -91,7 +91,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 3.19,
             "Modify_Diamond_Count": 236,
@@ -106,7 +106,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 6.29,
             "Modify_Diamond_Count": 470,
@@ -121,7 +121,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 13.99,
             "Modify_Diamond_Count": 1052,
@@ -136,7 +136,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 33.99,
             "Modify_Diamond_Count": 2570,
@@ -151,7 +151,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 69.99,
             "Modify_Diamond_Count": 5314,
@@ -166,7 +166,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 139.99,
             "Modify_Diamond_Count": 10679,
@@ -181,7 +181,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 3.19,
             "Modify_Diamond_Count": 236,
@@ -196,7 +196,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 6.29,
             "Modify_Diamond_Count": 470,
@@ -211,7 +211,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 13.99,
             "Modify_Diamond_Count": 1052,
@@ -226,7 +226,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 33.99,
             "Modify_Diamond_Count": 2570,
@@ -241,7 +241,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 69.99,
             "Modify_Diamond_Count": 5314,
@@ -256,7 +256,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Malaysia" ],
             "Modify_Price": 139.99,
             "Modify_Diamond_Count": 10679,
@@ -271,7 +271,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Indonesia", "Singapore", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Philippines", "Vietnam", "Thailand", "Malaysia", "Mongolia", "Laos", "Cambodia", "Myanmar", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Jordan", "Iraq", "Saudi", "Arabia", "Yemen", "Arab", "Emirates", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Bulgaria", "Romania", "Albania", "Montenegro", "Serbia", "Argentina", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Paraguay" ],
             "Modify_Price": 1.99,
             "Modify_Diamond_Count": 199,
@@ -286,7 +286,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "America", "Australia", "Britain", "Germany", "Sweden", "New Zealand", "Italy", "Canada", "Poland", "France", "Netherlands", "Greece", "Japan", "Korea", "Brunei", "Israel", "Kuwait", "Oman", "Qatar", "Belgium", "Ireland", "Iceland", "Portugal", "Denmark", "Switzerland", "Norway", "Finland", "Lithuania", "Estonia", "Slovenia", "Croatia", "Hungary", "Austria", "Bahamas", "Uruguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 3.99,
             "Modify_Diamond_Count": 369,
@@ -303,7 +303,7 @@
     ],
     "Modify_Vip": [
         {
-            "Modify_App": [ "Tingly", "Livvy", "Biffo", "Tweep" ],
+            "Modify_App": [ "Tingly", "Livvy", "Biffo", "Tweep", "Quizy" ],
             "Modify_Country": [ "Australia", "America", "Britain", "Germany", "Sweden", "New", "Zealand", "Italy", "Canada", "Philippines", "Vietnam", "Thailand", "Greece", "Netherlands", "Poland", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Colombia", "Venezuela", "India", "Indonesia", "Malaysia", "Singapore", "Chile", "Mexico", "Ecuador", "Peru", "France", "Japan", "Korea", "Mongolia", "Laos", "Cambodia", "Myanmar", "Brunei", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Israel", "Jordan", "Iraq", "Kuwait", "Saudi", "Arabia", "Yemen", "Oman", "Arab", "Emirates", "Qatar", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Belgium", "Ireland", "Iceland", "Portugal", "Bulgaria", "Romania", "Denmark", "Switzerland", "Norway", "Finland", "Albania", "Lithuania", "Estonia", "Montenegro", "Slovenia", "Croatia", "Serbia", "Hungary", "Austria", "Argentina", "Bahamas", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Uruguay", "Paraguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 1.69,
             "Modify_Vip_Days": 7,
@@ -333,7 +333,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Australia", "America", "Britain", "Germany", "Sweden", "New", "Zealand", "Italy", "Canada", "Philippines", "Vietnam", "Thailand", "Greece", "Netherlands", "Poland", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Colombia", "Venezuela", "India", "Indonesia", "Malaysia", "Singapore", "Chile", "Mexico", "Ecuador", "Peru", "France", "Japan", "Korea", "Mongolia", "Laos", "Cambodia", "Myanmar", "Brunei", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Israel", "Jordan", "Iraq", "Kuwait", "Saudi", "Arabia", "Yemen", "Oman", "Arab", "Emirates", "Qatar", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Belgium", "Ireland", "Iceland", "Portugal", "Bulgaria", "Romania", "Denmark", "Switzerland", "Norway", "Finland", "Albania", "Lithuania", "Estonia", "Montenegro", "Slovenia", "Croatia", "Serbia", "Hungary", "Austria", "Argentina", "Bahamas", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Uruguay", "Paraguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 4.49,
             "Modify_Vip_Days": 30,
@@ -348,7 +348,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Australia", "America", "Britain", "Germany", "Sweden", "New", "Zealand", "Italy", "Canada", "Philippines", "Vietnam", "Thailand", "Greece", "Netherlands", "Poland", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Colombia", "Venezuela", "India", "Indonesia", "Malaysia", "Singapore", "Chile", "Mexico", "Ecuador", "Peru", "France", "Japan", "Korea", "Mongolia", "Laos", "Cambodia", "Myanmar", "Brunei", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Israel", "Jordan", "Iraq", "Kuwait", "Saudi", "Arabia", "Yemen", "Oman", "Arab", "Emirates", "Qatar", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Belgium", "Ireland", "Iceland", "Portugal", "Bulgaria", "Romania", "Denmark", "Switzerland", "Norway", "Finland", "Albania", "Lithuania", "Estonia", "Montenegro", "Slovenia", "Croatia", "Serbia", "Hungary", "Austria", "Argentina", "Bahamas", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Uruguay", "Paraguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 7.99,
             "Modify_Vip_Days": 90,
@@ -363,7 +363,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
             "Modify_Country": [ "Australia", "America", "Britain", "Germany", "Sweden", "New", "Zealand", "Italy", "Canada", "Philippines", "Vietnam", "Thailand", "Greece", "Netherlands", "Poland", "Malawi", "Ghana", "Kenya", "Nigeria", "Uganda", "Zambia", "Tanzania", "Rwanda", "Colombia", "Venezuela", "India", "Indonesia", "Malaysia", "Singapore", "Chile", "Mexico", "Ecuador", "Peru", "France", "Japan", "Korea", "Mongolia", "Laos", "Cambodia", "Myanmar", "Brunei", "Sri", "Lanka", "Maldives", "Pakistan", "Bangladesh", "Nepal", "Bhutan", "Iran", "Turkey", "Syria", "Lebanon", "Palestine", "Israel", "Jordan", "Iraq", "Kuwait", "Saudi", "Arabia", "Yemen", "Oman", "Arab", "Emirates", "Qatar", "Afghanistan", "Turkmenistan", "Uzbekistan", "Kyrgyzstan", "Tajikistan", "Kazakhstan", "Egypt", "Sudan", "Libya", "Tunisia", "Algeria", "Morocco", "Somalia", "Senegal", "Guinea", "Liberia", "Ivory", "Coast", "Togo", "Chad", "Central", "African", "Cameroon", "equatorial", "guinea", "Angola", "South", "Africa", "Swaziland", "Lesotho", "Madagascar", "Comores", "Mauritius", "Mozambique", "Zimbabwe", "Nauru", "Fiji", "Russia", "Ukraine", "Belarus", "Belgium", "Ireland", "Iceland", "Portugal", "Bulgaria", "Romania", "Denmark", "Switzerland", "Norway", "Finland", "Albania", "Lithuania", "Estonia", "Montenegro", "Slovenia", "Croatia", "Serbia", "Hungary", "Austria", "Argentina", "Bahamas", "Bolivia", "Brazil", "Costa", "rica", "Cuba", "Salvador", "Guatemala", "Honduras", "Jamaica", "Panama", "Uruguay", "Paraguay", "Spain", "Czech", "Czechoslovakia" ],
             "Modify_Price": 10.99,
             "Modify_Vip_Days": 180,
