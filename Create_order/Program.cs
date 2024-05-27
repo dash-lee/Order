@@ -27,13 +27,15 @@ namespace Create_order
             //初始化
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;     //初始化EPPlus许可
 
+            //初始化当前常量配置
+            Const_Config const_config = Const_Data();
+
             //生成json并复制到指定的位置
             //在channel_ienh.xlsx内的源数据有变动时，才需要进行JSON序列化，否则不需要
-            //ToJson_PayChannel.ToJson(const_config);
             ToJson_PayChannel_Price.ToJson();
+            ToJson_PayChannel.ToJson(const_config);
 
             //构建JSON数据
-            Const_Config const_config = Const_Data();
             Recharge_Config recharge_config = Recharge_Data();
             Country_Config country_Config = Country_Data();
             Modify_Config modify_Config = Modify_Data();

@@ -120,7 +120,7 @@ namespace Create_order
                         State = stateTmp,
                         Channel_name = excelData[i][3],
                         Channel_web = excelData[i][2],
-                        Logo = excelData[i][3],
+                        Logo = excelData[i][4],
                         App = new List<string>(),
                         Country = new List<string>(),
                     };
