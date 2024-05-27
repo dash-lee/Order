@@ -258,7 +258,14 @@ namespace Create_order
 
                 if (nowCode != preCode || i == excelData.Count - 1)     //说明此时的国家已经切换了
                 {
-                    endIndex = i;
+                    if (i == excelData.Count -1)
+                    {
+                        endIndex = i + 1;
+                    }
+                    else
+                    {
+                        endIndex = i;
+                    }
 
                     List<PayChannel_Info> PayChannel_Diamonds = new List<PayChannel_Info>();
                     List<PayChannel_Info> PayChannel_Vips = new List<PayChannel_Info>();

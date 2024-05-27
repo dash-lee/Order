@@ -38572,6 +38572,15 @@
           "Sort": 3,
           "Is_Rate": 1,
           "Fixed_Price": 8.11
+        },
+        {
+          "Channel_Id": 40,
+          "Channel_Name": "PayermaxCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 11.16
         }
       ]
     }
