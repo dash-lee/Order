@@ -49,5 +49,9 @@
         //public static string jsonCreateFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Create_Json\";
         public static string jsonCreateFilesPath = @"D:\Company\Create_order\Create_Json\";
 
+        //修改固定价格的API请求地址(测试服)
+        public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";
+        public static string KEY = "IBojRarkcKW2J525";
+
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OfficeOpenXml.Table.PivotTable;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.Pkcs;
@@ -9,6 +10,7 @@ using static Create_order.Data_Const;
 using static Create_order.Data_Country;
 using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
+using static Create_order.Data_PayChannel_Price;
 using static Create_order.Data_Recharge;
 using static Create_order.ToJson_PayChannel;
 
@@ -394,6 +396,55 @@ namespace Create_order
             {
                 string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonSerializer.Deserialize<PayChannel_Price_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
+
+    public class Data_Change_Channel_Price
+    {
+        public struct Change_Channel_Price
+        {
+            public string Time { get; set;}
+            public string Version { get; set;}
+            public List<Change_Content> Change_Content { get; set;}
+        }
+
+        public struct Change_Content
+        {
+            public int ID {  get; set;}
+            public string App {  get; set;}
+            public string Country { get; set;}
+            public int Type {  get; set;}
+            public int Num {  get; set;}
+            public int Channel_id {  get; set; }
+            public double Price { get; set; }
+            public int Is_rate { get; set; }
+            public double Fixed_price { get; set; } 
+        }
+
+        public static Change_Channel_Price Change_Channel_Price_Data()
+        {
+            Change_Channel_Price tmpData = new Change_Channel_Price();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Change_channel_price.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonSerializer.Deserialize<Change_Channel_Price>(JsonFile);
+
+                Console.WriteLine(tmpData);
             }
             catch (FileNotFoundException)
             {

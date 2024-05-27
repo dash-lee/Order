@@ -8,6 +8,9 @@ using Create_order;
 using System.Security.Cryptography.Pkcs;
 using static Create_order.Data_Const;
 using static Create_order.Data_PayChannel_Price;
+using static Create_order.Data_Change_Channel_Price;
+using System.Security.Cryptography;
+using Newtonsoft.Json;
 
 namespace Create_order
 {
@@ -239,6 +242,7 @@ namespace Create_order
             return "-1";
         }
 
+        //获取channelID
         public static int GetPayChannelID(string channelName, Const_Config const_config)
         {
             for (int i = 0; i < const_config.PayMethod_Company.Count; i++)
@@ -319,5 +323,100 @@ namespace Create_order
 
             return countries;
         }
+
+        //使用修改的更新
+        public static void ChangeChannelPrice(Change_Channel_Price change_Channel_Price)
+        {
+            string key = ModuleSupport.KEY;
+
+            if (change_Channel_Price.Change_Content.Count == 0)
+            {
+                Console.WriteLine("当前没有修改的值！");
+                return;
+            }
+            else
+            {
+                for (int i = 0; i < change_Channel_Price.Change_Content.Count; i++)
+                {
+                    var settings = new JsonSerializerSettings
+                    {
+                        NullValueHandling = NullValueHandling.Ignore
+                    };
+
+                    string data = JsonConvert.SerializeObject(change_Channel_Price.Change_Content[i], settings);
+
+                    Console.WriteLine(data);
+
+                }
+            }
+        }
+
+        //加密过程
+        public static string EncryptStringToEcb(string data,byte[] key)
+        {
+            if (data == null || data.Length <= 0)
+                throw new ArgumentNullException(nameof(data));
+            if (key == null || key.Length != 16 && key.Length != 24 && key.Length != 32)
+                throw new ArgumentNullException(nameof(key));
+
+            byte[] encrypted;
+
+            using (Aes aesAlg = Aes.Create())
+            {
+                aesAlg.Key = key;
+                aesAlg.Mode = CipherMode.ECB; // 使用ECB模式，这里不推荐
+                aesAlg.Padding = PaddingMode.PKCS7; // 使用PKCS7填充
+
+                ICryptoTransform encryptor = aesAlg.CreateEncryptor(aesAlg.Key, null); // 注意这里IV为null
+
+                using (MemoryStream msEncrypt = new MemoryStream())
+                {
+                    using (CryptoStream csEncrypt = new CryptoStream(msEncrypt, encryptor, CryptoStreamMode.Write))
+                    {
+                        using (StreamWriter swEncrypt = new StreamWriter(csEncrypt))
+                        {
+                            swEncrypt.Write(data);
+                        }
+                        encrypted = msEncrypt.ToArray();
+                    }
+                }
+            }
+
+            return Convert.ToBase64String(encrypted);
+        }
+
+        //解密过程
+        public static string DecryptStringFromEcb(string cipherText, byte[] Key)
+        {
+            if (cipherText == null || cipherText.Length <= 0)
+                throw new ArgumentNullException(nameof(cipherText));
+            if (Key == null || Key.Length != 16 && Key.Length != 24 && Key.Length != 32)
+                throw new ArgumentNullException(nameof(Key));
+
+            byte[] cipherData = Convert.FromBase64String(cipherText);
+
+            using (Aes aesAlg = Aes.Create())
+            {
+                aesAlg.Key = Key;
+                aesAlg.Mode = CipherMode.ECB; // 使用ECB模式，这里不推荐
+                aesAlg.Padding = PaddingMode.PKCS7; // 使用PKCS7填充
+
+                ICryptoTransform decryptor = aesAlg.CreateDecryptor(aesAlg.Key, null); // 注意这里IV为null
+
+                using (MemoryStream msDecrypt = new MemoryStream(cipherData))
+                {
+                    using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read))
+                    {
+                        using (StreamReader srDecrypt = new StreamReader(csDecrypt))
+                        {
+                            return srDecrypt.ReadToEnd();
+                        }
+                    }
+                }
+            }
+        }
+
+        //组成list参数发请求
+
     }
 }

@@ -89,7 +89,7 @@ namespace Create_order
                                 //确认此条信息是否需要和默认值不一样，要进行修改
                                 //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
                                 //进行匹配的信息是：APP名称、国家、价格
-                                int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, is_new = 1, vip_user_give_num = 0, discount = 0;
+                                int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
                                 for (int a = 0; a < modify_Config.Modify_Diamond.Count; a++)
                                 {
                                     for (int b = 0; b < modify_Config.Modify_Diamond[a].Modify_App.Count; b++)
@@ -205,9 +205,9 @@ namespace Create_order
                                 data_detail_vip.Add("");    //奖励vip天数
                                 data_detail_vip.Add("");    //vip用户奖励钻石数量
                                 data_detail_vip.Add("");    //折扣
-                                data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //开通VIP可领取特殊奖励的天数
-                                data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //可领取特殊奖励的物品ID
-                                data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量
+                                data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //开通VIP可领取特殊奖励的天数
+                                data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //可领取特殊奖励的物品ID
+                                data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量 
 
                                 body.Add(data_detail_vip);
 
