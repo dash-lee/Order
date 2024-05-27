@@ -1033,7 +1033,7 @@
 //            "Chad",
 //            "Central African",
 //            "Cameroon",
-//            "equatorial guinea",
+//            "Equatorial Guinea",
 //            "Angola",
 //            "South Africa",
 //            "Swaziland",

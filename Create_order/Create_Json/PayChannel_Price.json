@@ -9074,7 +9074,7 @@
       ]
     },
     {
-      "Country_Name": "equatorial guinea",
+      "Country_Name": "Equatorial Guinea",
       "Country_Name_CN": "赤道几内亚",
       "Country_Code": "GQ",
       "PayChannel_Diamond": [
@@ -37814,6 +37814,312 @@
           "Sort": 3,
           "Is_Rate": 1,
           "Fixed_Price": 726
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "PayermaxUMOBILE",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 3,
+          "Channel_Name": "PayermaxCELCOM",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 42,
+          "Channel_Name": "PayermaxDIGI",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 1,
+          "Fixed_Price": 19
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "PayermaxUMOBILE",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 3,
+          "Channel_Name": "PayermaxCELCOM",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 42,
+          "Channel_Name": "PayermaxDIGI",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 1,
+          "Fixed_Price": 21
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 39
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 39
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 39
+        },
+        {
+          "Channel_Id": 3,
+          "Channel_Name": "PayermaxCELCOM",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 1,
+          "Fixed_Price": 39
+        },
+        {
+          "Channel_Id": 42,
+          "Channel_Name": "PayermaxDIGI",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 5,
+          "Is_Rate": 1,
+          "Fixed_Price": 39
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 42
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 42
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 42
+        },
+        {
+          "Channel_Id": 3,
+          "Channel_Name": "PayermaxCELCOM",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 1,
+          "Fixed_Price": 42
+        },
+        {
+          "Channel_Id": 42,
+          "Channel_Name": "PayermaxDIGI",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 5,
+          "Is_Rate": 1,
+          "Fixed_Price": 42
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 104
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 104
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 104
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 208
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 208
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 208
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 415
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 415
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 415
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 778
+        },
+        {
+          "Channel_Id": 47,
+          "Channel_Name": "PayermaxAXIATABOOST",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 2,
+          "Is_Rate": 1,
+          "Fixed_Price": 778
+        },
+        {
+          "Channel_Id": 48,
+          "Channel_Name": "PayermaxTNG",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 3,
+          "Is_Rate": 1,
+          "Fixed_Price": 778
         }
       ],
       "PayChannel_Vip": [
