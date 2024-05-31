@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.Pkcs;
 using System.Text;
-using System.Text.Json;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 using System.Threading.Tasks;
 using static Create_order.Data_Const;
 using static Create_order.Data_Country;
@@ -73,7 +74,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<Const_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject<Const_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -143,7 +144,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<Recharge_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject<Recharge_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -224,7 +225,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<Country_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject <Country_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -295,7 +296,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<Modify_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject<Modify_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -342,7 +343,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<PayChannel_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject<PayChannel_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -395,7 +396,7 @@ namespace Create_order
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<PayChannel_Price_Config>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject <PayChannel_Price_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -424,12 +425,13 @@ namespace Create_order
             public int ID {  get; set;}
             public string App {  get; set;}
             public string Country { get; set;}
-            public int Type {  get; set;}
-            public int Num {  get; set;}
+            public int Type { get; set; }
+            public int Num { get; set; }
             public int Channel_id {  get; set; }
             public double Price { get; set; }
             public int Is_rate { get; set; }
-            public double Fixed_price { get; set; } 
+            public double Fixed_price { get; set; }
+
         }
 
         public static Change_Channel_Price Change_Channel_Price_Data()
@@ -438,11 +440,11 @@ namespace Create_order
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Change_channel_price.json");
             Console.WriteLine(jsonPath);
 
-            //JSON序列化
+            //JSON发序列化
             try
             {
                 string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonSerializer.Deserialize<Change_Channel_Price>(JsonFile);
+                tmpData = JsonConvert.DeserializeObject<Change_Channel_Price>(JsonFile);
 
                 Console.WriteLine(tmpData);
             }

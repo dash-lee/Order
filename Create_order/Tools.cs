@@ -1,16 +1,10 @@
-﻿using System;
-using System.IO;
-using System.Collections.Generic;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 using OfficeOpenXml;
-using OfficeOpenXml.Drawing.Chart.ChartEx;
-using System.Security.Cryptography.X509Certificates;
-using Create_order;
-using System.Security.Cryptography.Pkcs;
+using System.Security.Cryptography;
+using static Create_order.Data_Change_Channel_Price;
 using static Create_order.Data_Const;
 using static Create_order.Data_PayChannel_Price;
-using static Create_order.Data_Change_Channel_Price;
-using System.Security.Cryptography;
-using Newtonsoft.Json;
 
 namespace Create_order
 {
@@ -340,7 +334,9 @@ namespace Create_order
                 {
                     var settings = new JsonSerializerSettings
                     {
-                        NullValueHandling = NullValueHandling.Ignore
+                        NullValueHandling = NullValueHandling.Ignore,
+                        ContractResolver = new DefaultContractResolver(),
+                        DefaultValueHandling = DefaultValueHandling.Ignore,
                     };
 
                     string data = JsonConvert.SerializeObject(change_Channel_Price.Change_Content[i], settings);

@@ -12,6 +12,7 @@ using static Create_order.Data_Const;
 using System.Diagnostics.Metrics;
 using Microsoft.Extensions.Primitives;
 using System.Security.Cryptography.X509Certificates;
+using System.Text.Json.Serialization;
 
 namespace Create_order
 {
@@ -189,12 +190,12 @@ namespace Create_order
         private struct PayChannel_Info
         {
             public int Channel_Id { get; set; }
-            public string Channel_Name { get; set; }
-            public double Price { get; set; }
-            public int Num { get; set; }
-            public int Sort { get; set; }
-            public int Is_Rate { get; set; }
-            public double Fixed_Price { get; set; }
+            public string? Channel_Name { get; set; }
+            public double? Price { get; set; }
+            public int? Num { get; set; }
+            public int?  Sort { get; set; }
+            public int? Is_Rate { get; set; }
+            public double? Fixed_Price { get; set; }
         }
 
         //定义excel数据列表

@@ -4,7 +4,8 @@
     "Change_Content": [
         {
             "ID": 1,
-            "App": "Melon"
+            "App": "Melon",
+            "Is_rate": 0
         }
     ]
 }
