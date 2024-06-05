@@ -36,7 +36,8 @@
             { "Livvy" , 6},
             { "Biffo" , 3 },
             { "Tweep" , 7 },
-            { "Quizy" , 8 }
+            { "Quizy" , 8 },
+            { "Riffy" , 9 }
         };
 
         //项目配置文件JSON的根目录

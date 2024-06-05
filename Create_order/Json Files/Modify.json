@@ -1,7 +1,7 @@
 {
     "Modify_Diamond": [
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ,"Riffy"],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -113,7 +113,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -169,7 +169,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -225,7 +225,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -281,7 +281,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -337,7 +337,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -444,7 +444,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -551,7 +551,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -658,7 +658,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -765,7 +765,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -872,7 +872,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -979,7 +979,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Malawi",
                 "Ghana",
@@ -1086,7 +1086,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -1144,7 +1144,7 @@
     ],
     "Modify_Vip": [
         {
-            "Modify_App": [ "Tingly", "Livvy", "Biffo", "Tweep", "Quizy" ],
+            "Modify_App": [ "Tingly", "Livvy", "Biffo", "Tweep", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1438,7 +1438,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1585,7 +1585,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1732,7 +1732,7 @@
             }
         },
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
             "Modify_Country": [
                 "Czechoslovakia",
                 "Czech",
