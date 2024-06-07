@@ -14,6 +14,7 @@ using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
 using static Create_order.Data_Recharge;
 using static Create_order.ToJson_PayChannel;
+using static Create_order.Data_Change_Channel_Price;
 
 namespace Create_order
 {
@@ -460,4 +461,55 @@ namespace Create_order
             return tmpData;
         }
     }
+
+    public class Data_Modify_TurnTable_Count
+    {
+        public struct Modify_TurnTable_Count_Config
+        {
+            public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
+            public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
+        }
+
+        public struct Modify_TurnTable_Count_Diamond
+        {
+            public double Price {  get; set; }
+            public int Diamond_Count { get; set; }
+            public int TurnTable_Count { get; set; }
+        }
+
+        public struct Modify_TurnTable_Count_Vip
+        {
+            public double Price { get; set; }
+            public int Vip_Days { get; set; }
+            public int TurnTable_Count { get; set; }
+        }
+
+        public static Modify_TurnTable_Count_Config Modify_TurnTable_Count_Data()
+        {
+            Modify_TurnTable_Count_Config tmpData = new Modify_TurnTable_Count_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify_TurnTable_Count.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON发序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonConvert.DeserializeObject<Modify_TurnTable_Count_Config>(JsonFile);
+
+                Console.WriteLine(tmpData);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
+
+
 }

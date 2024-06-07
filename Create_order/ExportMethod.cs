@@ -12,12 +12,13 @@ using static Create_order.Data_Country;
 using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
+using static Create_order.Data_Modify_TurnTable_Count;
 
 namespace Create_order
 {
     internal static class Create
     {
-        public static void Hi_v3_pay_list(Const_Config const_config, Country_Config country_Config, Modify_Config modify_Config)
+        public static void Hi_v3_pay_list(Const_Config const_config, Country_Config country_Config, Modify_Config modify_Config, Modify_TurnTable_Count_Config modify_TurnTable_Count_Config)
         {
 
             //定义数据部分
@@ -43,7 +44,8 @@ namespace Create_order
                 "d_discount",   //钻石充值-折扣显示(1-100)
                 "v_extra_item_id",          //vip充值-额外赠送物品id
                 "v_extra_item_day",         //vip充值-总共赠送天数
-                "v_extra_item_num"          //vip充值-每日赠送物品数量
+                "v_extra_item_num",          //vip充值-每日赠送物品数量
+                "turntableNum"      //购买后赠送的幸运轮盘的次数
             };
 
             //获取路径
@@ -77,6 +79,8 @@ namespace Create_order
                         if (const_config.Apps[index].Need_Country[i] == countries[j].Country_Name)
                         {
                             string googleID = "";
+                            //幸运轮盘的赠送次数初始化
+                            int turnTableNum = 0;
                             id = ModuleSupport.ITEM_BEGIN_ID + i * ModuleSupport.ITEM_COUNTRY_ID_GAP + index* ModuleSupport.ITEM_APP_ID_GAP;
 
                             //首先进行钻石配置的写入（这里检查的是钻石的配置）
@@ -90,6 +94,7 @@ namespace Create_order
                                 //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
                                 //进行匹配的信息是：APP名称、国家、价格
                                 int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
+
                                 for (int a = 0; a < modify_Config.Modify_Diamond.Count; a++)
                                 {
                                     for (int b = 0; b < modify_Config.Modify_Diamond[a].Modify_App.Count; b++)
@@ -121,6 +126,17 @@ namespace Create_order
                                         }
                                     }
                                 }
+
+                                //设定当前钻石需要赠送的幸运轮盘次数
+                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                {
+                                    //匹配成功
+                                    if (countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].Price)
+                                    {
+                                        turnTableNum = modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
+                                    }
+                                }
+
                                 //这里是默认的基础配置
                                 data_detail_diamond.Add($"{id}");
                                 data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
@@ -140,13 +156,14 @@ namespace Create_order
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
+                                data_detail_diamond.Add($"{turnTableNum}");
 
                                 body.Add(data_detail_diamond);
 
                                 id++;
                             }
 
-                            //下面进行钻石配置的写入（这里检查的是VIP的配置）
+                            //下面进行VIP配置的写入（这里检查的是VIP的配置）
                             for (int aa = 0; aa < countries[j].Vip_Pay_Detail.PayMethod_Price.Count; aa++)
                             {
                                 List<string> data_detail_vip = new List<string>();      //定义新的数据，用于往body中添加数据
@@ -189,6 +206,16 @@ namespace Create_order
                                     }
                                 }
 
+                                //设定当前VIP需要赠送的幸运轮盘次数
+                                for (int bbb = 0; bbb < modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip.Count; bbb++)
+                                {
+                                    //匹配成功
+                                    if (countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Vip_Days == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].Vip_Days && countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Price == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].Price)
+                                    {
+                                        turnTableNum = modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].TurnTable_Count;
+                                    }
+                                }
+
                                 //这里是默认的基础配置
                                 data_detail_vip.Add($"{id}");
                                 data_detail_vip.Add($"{2}");    //type，1为钻石；2为vip
@@ -208,6 +235,7 @@ namespace Create_order
                                 data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //开通VIP可领取特殊奖励的天数
                                 data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //可领取特殊奖励的物品ID
                                 data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量 
+                                data_detail_vip.Add($"{turnTableNum}");
 
                                 body.Add(data_detail_vip);
 
