@@ -6,7 +6,7 @@
         public static Dictionary<string, List<int>> modifyFormat = new Dictionary<string, List<int>>()
         {
             {"hi_v3_pay_type.xlsx",new(){1} },
-            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,10,12,13,14,15,16,17,18,19,20} },
+            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22} },
             {"hi_v3_pay_channel.xlsx",new(){1,2,4} },
             {"hi_v3_recharge_promotions.xlsx",new(){1,3,4} },
             {"hi_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10} },

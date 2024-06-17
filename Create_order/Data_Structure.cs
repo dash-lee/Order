@@ -432,7 +432,7 @@ namespace Create_order
             public double Price { get; set; }
             public int Is_rate { get; set; }
             public double Fixed_price { get; set; }
-
+            public int is_discount {  get; set; }
         }
 
         public static Change_Channel_Price Change_Channel_Price_Data()
@@ -466,6 +466,11 @@ namespace Create_order
     {
         public struct Modify_TurnTable_Count_Config
         {
+            public List<Modify_all> Modify_all { get; set; }
+        }
+        public struct Modify_all
+        {
+            public List<string> Apps { get; set; }
             public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
             public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
         }
@@ -475,6 +480,9 @@ namespace Create_order
             public double Price {  get; set; }
             public int Diamond_Count { get; set; }
             public int TurnTable_Count { get; set; }
+            public int extra_item_id { get; set; }
+            public int extra_item_num { get; set; }
+
         }
 
         public struct Modify_TurnTable_Count_Vip
@@ -482,6 +490,8 @@ namespace Create_order
             public double Price { get; set; }
             public int Vip_Days { get; set; }
             public int TurnTable_Count { get; set; }
+            public int extra_item_id { get; set; }
+            public int extra_item_num { get; set; }
         }
 
         public static Modify_TurnTable_Count_Config Modify_TurnTable_Count_Data()

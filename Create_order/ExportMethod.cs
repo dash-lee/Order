@@ -45,7 +45,9 @@ namespace Create_order
                 "v_extra_item_id",          //vip充值-额外赠送物品id
                 "v_extra_item_day",         //vip充值-总共赠送天数
                 "v_extra_item_num",          //vip充值-每日赠送物品数量
-                "turntableNum"      //购买后赠送的幸运轮盘的次数
+                "turntableNum",      //购买后赠送的幸运轮盘的次数
+                "extra_item_id",      //购买后赠送的物品id
+                "extra_item_num"     //购买后赠送的物品个数
             };
 
             //获取路径
@@ -81,6 +83,9 @@ namespace Create_order
                             string googleID = "";
                             //幸运轮盘的赠送次数初始化
                             int turnTableNum = 0;
+                            int extra_item_id = 0;
+                            int extra_item_num = 0;
+
                             id = ModuleSupport.ITEM_BEGIN_ID + i * ModuleSupport.ITEM_COUNTRY_ID_GAP + index* ModuleSupport.ITEM_APP_ID_GAP;
 
                             //首先进行钻石配置的写入（这里检查的是钻石的配置）
@@ -126,14 +131,27 @@ namespace Create_order
                                         }
                                     }
                                 }
-
-                                //设定当前钻石需要赠送的幸运轮盘次数
-                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
+                                //对比是否包含此app
+                                for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all.Count; index_modify++)
                                 {
-                                    //匹配成功
-                                    if (countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].Price)
+                                    for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all[index_modify].Apps.Count; index_app++)
                                     {
-                                        turnTableNum = modify_TurnTable_Count_Config.Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
+                                        //匹配到确实需要修改这个app
+                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify].Apps[index_app] == appNameTemp)
+                                        {
+                                            //设定当前钻石需要赠送的幸运轮盘次数
+                                            for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                            {
+                                                //匹配成功
+                                                if (countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
+                                                {
+                                                    turnTableNum = modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
+                                                    extra_item_id = modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
+                                                    extra_item_num = modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
+                                                }
+                                            }
+                                        }
                                     }
                                 }
 
@@ -157,6 +175,8 @@ namespace Create_order
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add("");
                                 data_detail_diamond.Add($"{turnTableNum}");
+                                data_detail_diamond.Add($"{extra_item_id}");
+                                data_detail_diamond.Add($"{extra_item_num}");
 
                                 body.Add(data_detail_diamond);
 
@@ -206,13 +226,27 @@ namespace Create_order
                                     }
                                 }
 
-                                //设定当前VIP需要赠送的幸运轮盘次数
-                                for (int bbb = 0; bbb < modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip.Count; bbb++)
+                                //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
+                                //对比是否包含此app
+                                for (int index_modify_2 = 0; index_modify_2 < modify_TurnTable_Count_Config.Modify_all.Count; index_modify_2++)
                                 {
-                                    //匹配成功
-                                    if (countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Vip_Days == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].Vip_Days && countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Price == modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].Price)
+                                    for (int index_app_2 = 0; index_app_2 < modify_TurnTable_Count_Config.Modify_all[index_modify_2].Apps.Count; index_app_2++)
                                     {
-                                        turnTableNum = modify_TurnTable_Count_Config.Modify_TurnTable_Count_Vip[bbb].TurnTable_Count;
+                                        //匹配到确实需要修改这个app
+                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify_2].Apps[index_app_2] == appNameTemp)
+                                        {
+                                            //设定当前VIP需要赠送的幸运轮盘次数
+                                            for (int bbb = 0; bbb < modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip.Count; bbb++)
+                                            {
+                                                //匹配成功
+                                                if (countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Vip_Days == modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip[bbb].Vip_Days && countries[j].Vip_Pay_Detail.PayMethod_Price[aa].Price == modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip[bbb].Price)
+                                                {
+                                                    turnTableNum = modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip[bbb].TurnTable_Count;
+                                                    extra_item_id = modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip[bbb].extra_item_id;
+                                                    extra_item_num = modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip[bbb].extra_item_num;
+                                                }
+                                            }
+                                        }
                                     }
                                 }
 
@@ -236,6 +270,8 @@ namespace Create_order
                                 data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //可领取特殊奖励的物品ID
                                 data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量 
                                 data_detail_vip.Add($"{turnTableNum}");
+                                data_detail_vip.Add($"{extra_item_id}");
+                                data_detail_vip.Add($"{extra_item_num}");
 
                                 body.Add(data_detail_vip);
 
@@ -453,7 +489,8 @@ namespace Create_order
                 "sort",
                 "price",
                 "is_rate",      //1为开启汇率，0为开启固定价格
-                "fixed_price"
+                "fixed_price",
+                "is_discount"
             };
 
             //获取路径
@@ -465,6 +502,7 @@ namespace Create_order
             {
                 id = ModuleSupport.PAYCHANNEL_PRICE_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_APP_GAP_ID;
                 string appName = const_config.Apps[index].AppName;
+                int is_discount = 0;
                 //遍历所有的国家
                 for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
                 {
@@ -472,6 +510,9 @@ namespace Create_order
                     for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
                     {
                         List<string> data_detail_diamond = new List<string>();
+
+                        //检测是否有需要修改is_discount的钻石选项
+                        //需要对应国家和APP，还有钻石的数量以及价格
 
                         data_detail_diamond.Add($"{id}");
                         data_detail_diamond.Add(appName);
@@ -483,6 +524,7 @@ namespace Create_order
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Price}");
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Is_Rate}");
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Fixed_Price}");
+                        data_detail_diamond.Add($"{is_discount}");
 
                         body.Add( data_detail_diamond );
                         id++;
@@ -491,6 +533,9 @@ namespace Create_order
                     for (int k = 0; k < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip.Count; k++)
                     {
                         List<string> data_detail_vip = new List<string>();
+
+                        //检测是否有需要修改is_discount的钻石选项
+                        //需要对应国家和APP，还有VIP的天数以及价格
 
                         data_detail_vip.Add($"{id}");
                         data_detail_vip.Add(appName);
@@ -502,6 +547,7 @@ namespace Create_order
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Price}");
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_Rate}");
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Fixed_Price}");
+                        data_detail_vip.Add($"{is_discount}");
 
                         body.Add(data_detail_vip);
                         id++;
