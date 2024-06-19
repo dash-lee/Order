@@ -22119,7 +22119,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.8
+                    "Fixed_Price": 5.8,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22128,7 +22129,8 @@
                     "Num": 369,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.63
+                    "Fixed_Price": 6.63,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22137,7 +22139,8 @@
                     "Num": 429,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.44
+                    "Fixed_Price": 12.44,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22146,7 +22149,8 @@
                     "Num": 599,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 13.27
+                    "Fixed_Price": 13.27,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22155,7 +22159,8 @@
                     "Num": 1209,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 33.2
+                    "Fixed_Price": 33.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22164,7 +22169,8 @@
                     "Num": 2509,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 66.42
+                    "Fixed_Price": 66.42,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22173,7 +22179,8 @@
                     "Num": 5199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 132.84
+                    "Fixed_Price": 132.84,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22182,7 +22189,8 @@
                     "Num": 9999,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 249.09
+                    "Fixed_Price": 249.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22191,7 +22199,8 @@
                     "Num": 125,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.81
+                    "Fixed_Price": 2.81,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22200,7 +22209,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.31
+                    "Fixed_Price": 3.31,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22209,7 +22219,8 @@
                     "Num": 236,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.3
+                    "Fixed_Price": 5.3,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22218,7 +22229,8 @@
                     "Num": 470,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 10.45
+                    "Fixed_Price": 10.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22227,7 +22239,8 @@
                     "Num": 1052,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 23.24
+                    "Fixed_Price": 23.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22236,7 +22249,8 @@
                     "Num": 2570,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 56.45
+                    "Fixed_Price": 56.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22245,7 +22259,8 @@
                     "Num": 5314,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 116.24
+                    "Fixed_Price": 116.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22254,7 +22269,8 @@
                     "Num": 10679,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 232.48
+                    "Fixed_Price": 232.48,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22263,7 +22279,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.8
+                    "Fixed_Price": 5.8,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22272,7 +22289,8 @@
                     "Num": 369,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.63
+                    "Fixed_Price": 6.63,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22281,7 +22299,8 @@
                     "Num": 429,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.44
+                    "Fixed_Price": 12.44,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22290,7 +22309,8 @@
                     "Num": 599,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 13.27
+                    "Fixed_Price": 13.27,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22299,7 +22319,8 @@
                     "Num": 1209,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 33.2
+                    "Fixed_Price": 33.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22308,7 +22329,8 @@
                     "Num": 2509,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 66.42
+                    "Fixed_Price": 66.42,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22317,7 +22339,8 @@
                     "Num": 5199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 132.84
+                    "Fixed_Price": 132.84,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22326,7 +22349,8 @@
                     "Num": 9999,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 249.09
+                    "Fixed_Price": 249.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22335,7 +22359,8 @@
                     "Num": 125,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.81
+                    "Fixed_Price": 2.81,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22344,7 +22369,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.31
+                    "Fixed_Price": 3.31,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22353,7 +22379,8 @@
                     "Num": 236,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.3
+                    "Fixed_Price": 5.3,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22362,7 +22389,8 @@
                     "Num": 470,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 10.45
+                    "Fixed_Price": 10.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22371,7 +22399,8 @@
                     "Num": 1052,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 23.24
+                    "Fixed_Price": 23.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22380,7 +22409,8 @@
                     "Num": 2570,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 56.45
+                    "Fixed_Price": 56.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22389,7 +22419,8 @@
                     "Num": 5314,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 116.24
+                    "Fixed_Price": 116.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22398,7 +22429,8 @@
                     "Num": 10679,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 232.48
+                    "Fixed_Price": 232.48,
+                    "is_discount": 1
                 }
             ],
             "PayChannel_Vip": [
@@ -22449,7 +22481,8 @@
                     "Num": 7,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.81
+                    "Fixed_Price": 2.81,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22458,7 +22491,8 @@
                     "Num": 30,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.46
+                    "Fixed_Price": 7.46,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22467,7 +22501,8 @@
                     "Num": 90,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 13.27
+                    "Fixed_Price": 13.27,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22476,7 +22511,8 @@
                     "Num": 180,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 18.26
+                    "Fixed_Price": 18.26,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22485,7 +22521,8 @@
                     "Num": 7,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.81
+                    "Fixed_Price": 2.81,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22494,7 +22531,8 @@
                     "Num": 30,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.46
+                    "Fixed_Price": 7.46,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22503,7 +22541,8 @@
                     "Num": 90,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 13.27
+                    "Fixed_Price": 13.27,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22512,7 +22551,8 @@
                     "Num": 180,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 18.26
+                    "Fixed_Price": 18.26,
+                    "is_discount": 1
                 }
             ]
         },
@@ -22688,7 +22728,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.84
+                    "Fixed_Price": 3.84,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22697,7 +22738,8 @@
                     "Num": 369,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.39
+                    "Fixed_Price": 4.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22706,7 +22748,8 @@
                     "Num": 429,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.24
+                    "Fixed_Price": 8.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22715,7 +22758,8 @@
                     "Num": 599,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.79
+                    "Fixed_Price": 8.79,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22724,7 +22768,8 @@
                     "Num": 1209,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 21.99
+                    "Fixed_Price": 21.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22733,7 +22778,8 @@
                     "Num": 2509,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 43.99
+                    "Fixed_Price": 43.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22742,7 +22788,8 @@
                     "Num": 5199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 87.99
+                    "Fixed_Price": 87.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22751,7 +22798,8 @@
                     "Num": 9999,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 164.99
+                    "Fixed_Price": 164.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22760,7 +22808,8 @@
                     "Num": 125,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.86
+                    "Fixed_Price": 1.86,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22769,7 +22818,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.19
+                    "Fixed_Price": 2.19,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22778,7 +22828,8 @@
                     "Num": 236,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.51
+                    "Fixed_Price": 3.51,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22787,7 +22838,8 @@
                     "Num": 470,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.92
+                    "Fixed_Price": 6.92,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22796,7 +22848,8 @@
                     "Num": 1052,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 15.39
+                    "Fixed_Price": 15.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22805,7 +22858,8 @@
                     "Num": 2570,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 37.39
+                    "Fixed_Price": 37.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22814,7 +22868,8 @@
                     "Num": 5314,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 76.99
+                    "Fixed_Price": 76.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -22823,7 +22878,8 @@
                     "Num": 10679,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 153.99
+                    "Fixed_Price": 153.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22832,7 +22888,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.84
+                    "Fixed_Price": 3.84,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22841,7 +22898,8 @@
                     "Num": 369,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.39
+                    "Fixed_Price": 4.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22850,7 +22908,8 @@
                     "Num": 429,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.24
+                    "Fixed_Price": 8.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22859,7 +22918,8 @@
                     "Num": 599,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.79
+                    "Fixed_Price": 8.79,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22868,7 +22928,8 @@
                     "Num": 1209,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 21.99
+                    "Fixed_Price": 21.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22877,7 +22938,8 @@
                     "Num": 2509,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 43.99
+                    "Fixed_Price": 43.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22886,7 +22948,8 @@
                     "Num": 5199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 87.99
+                    "Fixed_Price": 87.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22895,7 +22958,8 @@
                     "Num": 9999,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 164.99
+                    "Fixed_Price": 164.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22904,7 +22968,8 @@
                     "Num": 125,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.86
+                    "Fixed_Price": 1.86,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22913,7 +22978,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.19
+                    "Fixed_Price": 2.19,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22922,7 +22988,8 @@
                     "Num": 236,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.51
+                    "Fixed_Price": 3.51,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22931,7 +22998,8 @@
                     "Num": 470,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.92
+                    "Fixed_Price": 6.92,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22940,7 +23008,8 @@
                     "Num": 1052,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 15.39
+                    "Fixed_Price": 15.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22949,7 +23018,8 @@
                     "Num": 2570,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 37.39
+                    "Fixed_Price": 37.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22958,7 +23028,8 @@
                     "Num": 5314,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 76.99
+                    "Fixed_Price": 76.99,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -22967,7 +23038,8 @@
                     "Num": 10679,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 153.99
+                    "Fixed_Price": 153.99,
+                    "is_discount": 1
                 }
             ],
             "PayChannel_Vip": [
@@ -23018,7 +23090,8 @@
                     "Num": 7,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.86
+                    "Fixed_Price": 1.86,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23027,7 +23100,8 @@
                     "Num": 30,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.94
+                    "Fixed_Price": 4.94,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23036,7 +23110,8 @@
                     "Num": 90,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.79
+                    "Fixed_Price": 8.79,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23045,7 +23120,8 @@
                     "Num": 180,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.09
+                    "Fixed_Price": 12.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23054,7 +23130,8 @@
                     "Num": 7,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.86
+                    "Fixed_Price": 1.86,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23063,7 +23140,8 @@
                     "Num": 30,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.94
+                    "Fixed_Price": 4.94,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23072,7 +23150,8 @@
                     "Num": 90,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.79
+                    "Fixed_Price": 8.79,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23081,7 +23160,8 @@
                     "Num": 180,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.09
+                    "Fixed_Price": 12.09,
+                    "is_discount": 1
                 }
             ]
         },
@@ -23257,7 +23337,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.02
+                    "Fixed_Price": 3.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23266,7 +23347,8 @@
                     "Num": 369,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.45
+                    "Fixed_Price": 3.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23275,7 +23357,8 @@
                     "Num": 429,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.48
+                    "Fixed_Price": 6.48,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23284,7 +23367,8 @@
                     "Num": 599,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23293,7 +23377,8 @@
                     "Num": 1209,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 17.28
+                    "Fixed_Price": 17.28,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23302,7 +23387,8 @@
                     "Num": 2509,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.56
+                    "Fixed_Price": 34.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23311,7 +23397,8 @@
                     "Num": 5199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 69.13
+                    "Fixed_Price": 69.13,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23320,7 +23407,8 @@
                     "Num": 9999,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 129.62
+                    "Fixed_Price": 129.62,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23329,7 +23417,8 @@
                     "Num": 125,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23338,7 +23427,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23347,7 +23437,8 @@
                     "Num": 236,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.76
+                    "Fixed_Price": 2.76,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23356,7 +23447,8 @@
                     "Num": 470,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.44
+                    "Fixed_Price": 5.44,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23365,7 +23457,8 @@
                     "Num": 1052,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.09
+                    "Fixed_Price": 12.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23374,7 +23467,8 @@
                     "Num": 2570,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 29.38
+                    "Fixed_Price": 29.38,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23383,7 +23477,8 @@
                     "Num": 5314,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 60.49
+                    "Fixed_Price": 60.49,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23392,7 +23487,8 @@
                     "Num": 10679,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 120.98
+                    "Fixed_Price": 120.98,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23401,7 +23497,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.02
+                    "Fixed_Price": 3.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23410,7 +23507,8 @@
                     "Num": 369,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.45
+                    "Fixed_Price": 3.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23419,7 +23517,8 @@
                     "Num": 429,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.48
+                    "Fixed_Price": 6.48,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23428,7 +23527,8 @@
                     "Num": 599,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23437,7 +23537,8 @@
                     "Num": 1209,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 17.28
+                    "Fixed_Price": 17.28,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23446,7 +23547,8 @@
                     "Num": 2509,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.56
+                    "Fixed_Price": 34.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23455,7 +23557,8 @@
                     "Num": 5199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 69.13
+                    "Fixed_Price": 69.13,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23464,7 +23567,8 @@
                     "Num": 9999,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 129.62
+                    "Fixed_Price": 129.62,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23473,7 +23577,8 @@
                     "Num": 125,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23482,7 +23587,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23491,7 +23597,8 @@
                     "Num": 236,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.76
+                    "Fixed_Price": 2.76,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23500,7 +23607,8 @@
                     "Num": 470,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.44
+                    "Fixed_Price": 5.44,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23509,7 +23617,8 @@
                     "Num": 1052,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.09
+                    "Fixed_Price": 12.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23518,7 +23627,8 @@
                     "Num": 2570,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 29.38
+                    "Fixed_Price": 29.38,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23527,7 +23637,8 @@
                     "Num": 5314,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 60.49
+                    "Fixed_Price": 60.49,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23536,7 +23647,8 @@
                     "Num": 10679,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 120.98
+                    "Fixed_Price": 120.98,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23545,7 +23657,8 @@
                     "Num": 199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.02
+                    "Fixed_Price": 3.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23554,7 +23667,8 @@
                     "Num": 369,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.45
+                    "Fixed_Price": 3.45,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23563,7 +23677,8 @@
                     "Num": 429,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.48
+                    "Fixed_Price": 6.48,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23572,7 +23687,8 @@
                     "Num": 599,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23581,7 +23697,8 @@
                     "Num": 1209,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 17.28
+                    "Fixed_Price": 17.28,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23590,7 +23707,8 @@
                     "Num": 2509,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.56
+                    "Fixed_Price": 34.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23599,7 +23717,8 @@
                     "Num": 5199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 69.13
+                    "Fixed_Price": 69.13,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23608,7 +23727,8 @@
                     "Num": 9999,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 129.62
+                    "Fixed_Price": 129.62,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23617,7 +23737,8 @@
                     "Num": 125,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23626,7 +23747,8 @@
                     "Num": 199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23635,7 +23757,8 @@
                     "Num": 236,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.76
+                    "Fixed_Price": 2.76,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23644,7 +23767,8 @@
                     "Num": 470,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 5.44
+                    "Fixed_Price": 5.44,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23653,7 +23777,8 @@
                     "Num": 1052,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 12.09
+                    "Fixed_Price": 12.09,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23662,7 +23787,8 @@
                     "Num": 2570,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 29.38
+                    "Fixed_Price": 29.38,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23671,7 +23797,8 @@
                     "Num": 5314,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 60.49
+                    "Fixed_Price": 60.49,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23680,7 +23807,8 @@
                     "Num": 10679,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 120.98
+                    "Fixed_Price": 120.98,
+                    "is_discount": 1
                 }
             ],
             "PayChannel_Vip": [
@@ -23731,7 +23859,8 @@
                     "Num": 7,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23740,7 +23869,8 @@
                     "Num": 30,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.89
+                    "Fixed_Price": 3.89,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23749,7 +23879,8 @@
                     "Num": 90,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -23758,7 +23889,8 @@
                     "Num": 180,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 9.5
+                    "Fixed_Price": 9.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23767,7 +23899,8 @@
                     "Num": 7,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23776,7 +23909,8 @@
                     "Num": 30,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.89
+                    "Fixed_Price": 3.89,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23785,7 +23919,8 @@
                     "Num": 90,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -23794,7 +23929,8 @@
                     "Num": 180,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 9.5
+                    "Fixed_Price": 9.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23803,7 +23939,8 @@
                     "Num": 7,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.47
+                    "Fixed_Price": 1.47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23812,7 +23949,8 @@
                     "Num": 30,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.89
+                    "Fixed_Price": 3.89,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23821,7 +23959,8 @@
                     "Num": 90,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.91
+                    "Fixed_Price": 6.91,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -23830,7 +23969,8 @@
                     "Num": 180,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 9.5
+                    "Fixed_Price": 9.5,
+                    "is_discount": 1
                 }
             ]
         },
@@ -24006,7 +24146,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.55
+                    "Fixed_Price": 3.55,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24015,7 +24156,8 @@
                     "Num": 369,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.05
+                    "Fixed_Price": 4.05,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24024,7 +24166,8 @@
                     "Num": 429,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.61
+                    "Fixed_Price": 7.61,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24033,7 +24176,8 @@
                     "Num": 599,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24042,7 +24186,8 @@
                     "Num": 1209,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 20.29
+                    "Fixed_Price": 20.29,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24051,7 +24196,8 @@
                     "Num": 2509,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 40.59
+                    "Fixed_Price": 40.59,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24060,7 +24206,8 @@
                     "Num": 5199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 81.18
+                    "Fixed_Price": 81.18,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24069,7 +24216,8 @@
                     "Num": 9999,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 152.22
+                    "Fixed_Price": 152.22,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24078,7 +24226,8 @@
                     "Num": 125,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24087,7 +24236,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.02
+                    "Fixed_Price": 2.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24096,7 +24246,8 @@
                     "Num": 236,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.24
+                    "Fixed_Price": 3.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24105,7 +24256,8 @@
                     "Num": 470,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.39
+                    "Fixed_Price": 6.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24114,7 +24266,8 @@
                     "Num": 1052,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 14.2
+                    "Fixed_Price": 14.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24123,7 +24276,8 @@
                     "Num": 2570,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.5
+                    "Fixed_Price": 34.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24132,7 +24286,8 @@
                     "Num": 5314,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 71.04
+                    "Fixed_Price": 71.04,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24141,7 +24296,8 @@
                     "Num": 10679,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 142.08
+                    "Fixed_Price": 142.08,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24150,7 +24306,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.55
+                    "Fixed_Price": 3.55,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24159,7 +24316,8 @@
                     "Num": 369,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.05
+                    "Fixed_Price": 4.05,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24168,7 +24326,8 @@
                     "Num": 429,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.61
+                    "Fixed_Price": 7.61,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24177,7 +24336,8 @@
                     "Num": 599,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24186,7 +24346,8 @@
                     "Num": 1209,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 20.29
+                    "Fixed_Price": 20.29,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24195,7 +24356,8 @@
                     "Num": 2509,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 40.59
+                    "Fixed_Price": 40.59,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24204,7 +24366,8 @@
                     "Num": 5199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 81.18
+                    "Fixed_Price": 81.18,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24213,7 +24376,8 @@
                     "Num": 9999,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 152.22
+                    "Fixed_Price": 152.22,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24222,7 +24386,8 @@
                     "Num": 125,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24231,7 +24396,8 @@
                     "Num": 199,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.02
+                    "Fixed_Price": 2.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24240,7 +24406,8 @@
                     "Num": 236,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.24
+                    "Fixed_Price": 3.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24249,7 +24416,8 @@
                     "Num": 470,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.39
+                    "Fixed_Price": 6.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24258,7 +24426,8 @@
                     "Num": 1052,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 14.2
+                    "Fixed_Price": 14.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24267,7 +24436,8 @@
                     "Num": 2570,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.5
+                    "Fixed_Price": 34.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24276,7 +24446,8 @@
                     "Num": 5314,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 71.04
+                    "Fixed_Price": 71.04,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24285,7 +24456,8 @@
                     "Num": 10679,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 142.08
+                    "Fixed_Price": 142.08,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24294,7 +24466,8 @@
                     "Num": 199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.55
+                    "Fixed_Price": 3.55,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24303,7 +24476,8 @@
                     "Num": 369,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.05
+                    "Fixed_Price": 4.05,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24312,7 +24486,8 @@
                     "Num": 429,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.61
+                    "Fixed_Price": 7.61,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24321,7 +24496,8 @@
                     "Num": 599,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24330,7 +24506,8 @@
                     "Num": 1209,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 20.29
+                    "Fixed_Price": 20.29,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24339,7 +24516,8 @@
                     "Num": 2509,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 40.59
+                    "Fixed_Price": 40.59,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24348,7 +24526,8 @@
                     "Num": 5199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 81.18
+                    "Fixed_Price": 81.18,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24357,7 +24536,8 @@
                     "Num": 9999,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 152.22
+                    "Fixed_Price": 152.22,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24375,7 +24555,8 @@
                     "Num": 199,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.02
+                    "Fixed_Price": 2.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24384,7 +24565,8 @@
                     "Num": 236,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.24
+                    "Fixed_Price": 3.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24393,7 +24575,8 @@
                     "Num": 470,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.39
+                    "Fixed_Price": 6.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24402,7 +24585,8 @@
                     "Num": 1052,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 14.2
+                    "Fixed_Price": 14.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24411,7 +24595,8 @@
                     "Num": 2570,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.5
+                    "Fixed_Price": 34.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24420,7 +24605,8 @@
                     "Num": 5314,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 71.04
+                    "Fixed_Price": 71.04,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24429,7 +24615,8 @@
                     "Num": 10679,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 142.08
+                    "Fixed_Price": 142.08,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24438,7 +24625,8 @@
                     "Num": 199,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.55
+                    "Fixed_Price": 3.55,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24447,7 +24635,8 @@
                     "Num": 369,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.05
+                    "Fixed_Price": 4.05,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24456,7 +24645,8 @@
                     "Num": 429,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 7.61
+                    "Fixed_Price": 7.61,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24465,7 +24655,8 @@
                     "Num": 599,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24474,7 +24665,8 @@
                     "Num": 1209,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 20.29
+                    "Fixed_Price": 20.29,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24483,7 +24675,8 @@
                     "Num": 2509,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 40.59
+                    "Fixed_Price": 40.59,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24492,7 +24685,8 @@
                     "Num": 5199,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 81.18
+                    "Fixed_Price": 81.18,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24501,7 +24695,8 @@
                     "Num": 9999,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 152.22
+                    "Fixed_Price": 152.22,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24510,7 +24705,8 @@
                     "Num": 125,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24519,7 +24715,8 @@
                     "Num": 199,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 2.02
+                    "Fixed_Price": 2.02,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24528,7 +24725,8 @@
                     "Num": 236,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 3.24
+                    "Fixed_Price": 3.24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24537,7 +24735,8 @@
                     "Num": 470,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 6.39
+                    "Fixed_Price": 6.39,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24546,7 +24745,8 @@
                     "Num": 1052,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 14.2
+                    "Fixed_Price": 14.2,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24555,7 +24755,8 @@
                     "Num": 2570,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 34.5
+                    "Fixed_Price": 34.5,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24564,7 +24765,8 @@
                     "Num": 5314,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 71.04
+                    "Fixed_Price": 71.04,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24573,7 +24775,8 @@
                     "Num": 10679,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 142.08
+                    "Fixed_Price": 142.08,
+                    "is_discount": 1
                 }
             ],
             "PayChannel_Vip": [
@@ -24624,7 +24827,8 @@
                     "Num": 7,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24633,7 +24837,8 @@
                     "Num": 30,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.56
+                    "Fixed_Price": 4.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24642,7 +24847,8 @@
                     "Num": 90,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 22,
@@ -24651,7 +24857,8 @@
                     "Num": 180,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 11.16
+                    "Fixed_Price": 11.16,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24660,7 +24867,8 @@
                     "Num": 7,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24669,7 +24877,8 @@
                     "Num": 30,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.56
+                    "Fixed_Price": 4.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24678,7 +24887,8 @@
                     "Num": 90,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 40,
@@ -24687,7 +24897,8 @@
                     "Num": 180,
                     "Sort": 3,
                     "Is_Rate": 1,
-                    "Fixed_Price": 11.16
+                    "Fixed_Price": 11.16,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24696,7 +24907,8 @@
                     "Num": 7,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24705,7 +24917,8 @@
                     "Num": 30,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.56
+                    "Fixed_Price": 4.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24714,7 +24927,8 @@
                     "Num": 90,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24723,7 +24937,8 @@
                     "Num": 180,
                     "Sort": 4,
                     "Is_Rate": 1,
-                    "Fixed_Price": 11.16
+                    "Fixed_Price": 11.16,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24732,7 +24947,8 @@
                     "Num": 7,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1.72
+                    "Fixed_Price": 1.72,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24741,7 +24957,8 @@
                     "Num": 30,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 4.56
+                    "Fixed_Price": 4.56,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24750,7 +24967,8 @@
                     "Num": 90,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 8.11
+                    "Fixed_Price": 8.11,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 41,
@@ -24759,7 +24977,8 @@
                     "Num": 180,
                     "Sort": 5,
                     "Is_Rate": 1,
-                    "Fixed_Price": 11.16
+                    "Fixed_Price": 11.16,
+                    "is_discount": 1
                 }
             ]
         },
@@ -24935,7 +25154,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 41
+                    "Fixed_Price": 41,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24944,7 +25164,8 @@
                     "Num": 369,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 47
+                    "Fixed_Price": 47,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24953,7 +25174,8 @@
                     "Num": 429,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 88
+                    "Fixed_Price": 88,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24962,7 +25184,8 @@
                     "Num": 599,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 94
+                    "Fixed_Price": 94,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24971,7 +25194,8 @@
                     "Num": 1209,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 235
+                    "Fixed_Price": 235,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24980,7 +25204,8 @@
                     "Num": 2509,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 470
+                    "Fixed_Price": 470,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24989,7 +25214,8 @@
                     "Num": 5199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 939
+                    "Fixed_Price": 939,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -24998,7 +25224,8 @@
                     "Num": 9999,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1761
+                    "Fixed_Price": 1761,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25007,7 +25234,8 @@
                     "Num": 125,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 20
+                    "Fixed_Price": 20,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25016,7 +25244,8 @@
                     "Num": 199,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 24
+                    "Fixed_Price": 24,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25025,7 +25254,8 @@
                     "Num": 236,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 38
+                    "Fixed_Price": 38,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25034,7 +25264,8 @@
                     "Num": 470,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 74
+                    "Fixed_Price": 74,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25043,7 +25274,8 @@
                     "Num": 1052,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 165
+                    "Fixed_Price": 165,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25052,7 +25284,8 @@
                     "Num": 2570,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 399
+                    "Fixed_Price": 399,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25061,7 +25294,8 @@
                     "Num": 5314,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 822
+                    "Fixed_Price": 822,
+                    "is_discount": 1
                 },
                 {
                     "Channel_Id": 39,
@@ -25070,7 +25304,8 @@
                     "Num": 10679,
                     "Sort": 2,
                     "Is_Rate": 1,
-                    "Fixed_Price": 1644
+                    "Fixed_Price": 1644,
+                    "is_discount": 1
                 }
             ],
             "PayChannel_Vip": [
