@@ -340,9 +340,6 @@ namespace Create_order
                     };
 
                     string data = JsonConvert.SerializeObject(change_Channel_Price.Change_Content[i], settings);
-
-                    Console.WriteLine(data);
-
                 }
             }
         }

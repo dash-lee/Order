@@ -41,14 +41,14 @@
         };
 
         //项目配置文件JSON的根目录
-        //public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
-        public static string jsonFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Json Files\";
+        public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
+        //public static string jsonFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Json Files\";
         //项目转JSON文件的Excel目录
-        //public static string excelFilesPath = @"D:\Company\Create_order\Excel Source\";
-        public static string excelFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Excel Source\";
+        public static string excelFilesPath = @"D:\Company\Create_order\Excel Source\";
+        //public static string excelFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Excel Source\";
         //项目生成的JSON文件的根目录
-        public static string jsonCreateFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Create_Json\";
-        //public static string jsonCreateFilesPath = @"D:\Company\Create_order\Create_Json\";
+        //public static string jsonCreateFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Create_Json\";
+        public static string jsonCreateFilesPath = @"D:\Company\Create_order\Create_Json\";
 
         //修改固定价格的API请求地址(测试服)
         public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";

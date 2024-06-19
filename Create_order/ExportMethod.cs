@@ -33,7 +33,7 @@ namespace Create_order
                 "country",      //国家code
                 "app",
                 "num",          //钻石数量或者是vip天数
-                "price",
+                "price",        
                 "extra_diamond_num",    //额外奖励的钻石数量
                 "status",               //0为关闭；1为启动
                 "sort",             //排序
@@ -41,7 +41,7 @@ namespace Create_order
                 "is_first_recharge",
                 "d_give_vip_day",       //钻石充值-赠送vip天数
                 "d_vip_user_extra_diamond_num",     //钻石充值-vip用户额外奖励钻石数
-                "d_discount",   //钻石充值-折扣显示(1-100)
+                "d_discount",           //钻石充值-折扣显示(1-100)
                 "v_extra_item_id",          //vip充值-额外赠送物品id
                 "v_extra_item_day",         //vip充值-总共赠送天数
                 "v_extra_item_num",          //vip充值-每日赠送物品数量
@@ -131,6 +131,7 @@ namespace Create_order
                                         }
                                     }
                                 }
+
                                 //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
                                 //对比是否包含此app
                                 for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all.Count; index_modify++)
@@ -283,7 +284,6 @@ namespace Create_order
             }
             Tools.Write(path, header, body);
             Console.WriteLine("生成hi_v3_pay_list完成！");
-            Console.WriteLine(country_Config.Country.Count);
         }
 
         public static void Hi_v3_pay_type(Const_Config const_config)
@@ -468,7 +468,6 @@ namespace Create_order
             }
 
             Tools.Write(path, header, body);
-            Console.WriteLine(recharge_config.Recharge_Promotion.Promotion_Info.Count);
             Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
         }
 
@@ -524,7 +523,7 @@ namespace Create_order
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Price}");
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Is_Rate}");
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Fixed_Price}");
-                        data_detail_diamond.Add($"{is_discount}");
+                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].is_discount}");
 
                         body.Add( data_detail_diamond );
                         id++;

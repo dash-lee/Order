@@ -15,6 +15,7 @@ using static Create_order.Data_PayChannel_Price;
 using static Create_order.Data_Recharge;
 using static Create_order.ToJson_PayChannel;
 using static Create_order.Data_Change_Channel_Price;
+using static Create_order.Data_Modify_TurnTable_Count;
 
 namespace Create_order
 {
@@ -385,6 +386,7 @@ namespace Create_order
             public int Sort { get; set; }
             public int Is_Rate { get; set; }
             public double Fixed_Price { get; set; }
+            public int is_discount {  get; set; }
         }
 
         public static PayChannel_Price_Config PayChannel_Price_Data()
@@ -505,8 +507,6 @@ namespace Create_order
             {
                 string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonConvert.DeserializeObject<Modify_TurnTable_Count_Config>(JsonFile);
-
-                Console.WriteLine(tmpData);
             }
             catch (FileNotFoundException)
             {
@@ -521,5 +521,63 @@ namespace Create_order
         }
     }
 
+    public class Data_Modify_Channel_All
+    {
+        public struct Modify_Channel_All_Config
+        {
+            public List<Modify_Channel_All> Modify_Channel_All { get; set; }
+        }
+
+        public struct Modify_Channel_All
+        {
+            public List<string> Modify_Channel_APP {  get; set; }
+            public List<string> Modify_Channel_Country {  get; set; }
+            public List<Modify_Country> Modify_Country { get; set; }
+        }
+
+        public struct Modify_Country
+        {
+            public string Country_Name { get; set; }
+            public string Country_Name_CN { get; set; }
+            public string Country_Code { get; set; }
+            public List<PayChannel_Diamond> PayChannel_Diamond { get; set;}
+        }
+
+        public struct PayChannel_Diamond
+        {
+            public int Channel_Id { get; set; }
+            public string Channel_Name { get; set;}
+            public double Price { get; set;} 
+            public int Num { get; set;}  
+            public int Sort { get;set;}
+            public int Is_Rate { get;set;}
+            public double Fixed_Price { get;set;}
+            public int is_discount { get;set; }
+        }
+
+        public static Modify_Channel_All_Config Modify_Channel_All_Data()
+        {
+            Modify_Channel_All_Config tmpData = new Modify_Channel_All_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify_Channel_All.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON发序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonConvert.DeserializeObject<Modify_Channel_All_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
 
 }
