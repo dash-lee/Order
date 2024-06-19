@@ -13,6 +13,7 @@ using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
 using static Create_order.Data_Modify_TurnTable_Count;
+using static Create_order.Data_Modify_Channel_All;
 
 namespace Create_order
 {
@@ -471,7 +472,7 @@ namespace Create_order
             Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
         }
 
-        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
+        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config,Modify_Channel_All_Config modify_Channel_All_Config)
         {
             //定义数据部分
             List<List<string>> body = new List<List<string>>();
@@ -501,10 +502,34 @@ namespace Create_order
             {
                 id = ModuleSupport.PAYCHANNEL_PRICE_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_APP_GAP_ID;
                 string appName = const_config.Apps[index].AppName;
-                int is_discount = 0;
+
                 //遍历所有的国家
                 for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
                 {
+                    //每个国家都需要初始化下面2个参数
+                    int is_discount = 0;
+                    bool is_Modify = false;
+
+                    //检测是否存在需要修改渠道的钻石|所包含的APP、国家
+                    for (int a = 0; a < modify_Channel_All_Config.Modify_Channel_All.Count; a++)
+                    {
+                        for (int b = 0; b < modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_APP.Count; b++)
+                        {
+                            //包含此APP，此APP需要修改
+                            if (appName == modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_APP[b])
+                            {
+                                for (int c = 0; c < modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_Country.Count; c++)
+                                {
+                                    //找到了国家
+                                    if (payChannel_Price_Config.PayChannel_Country[i].Country_Name == modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_Country[c])
+                                    {
+                                        is_Modify = true;
+                                    }
+                                }
+                            }
+                        }
+                    }   //在具体的钻石或者VIP中查找对应的条
+
                     //首先遍历钻石的数据
                     for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
                     {
@@ -512,7 +537,6 @@ namespace Create_order
 
                         //检测是否有需要修改is_discount的钻石选项
                         //需要对应国家和APP，还有钻石的数量以及价格
-
                         data_detail_diamond.Add($"{id}");
                         data_detail_diamond.Add(appName);
                         data_detail_diamond.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
@@ -525,7 +549,7 @@ namespace Create_order
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Fixed_Price}");
                         data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].is_discount}");
 
-                        body.Add( data_detail_diamond );
+                        body.Add(data_detail_diamond);
                         id++;
                     }
 
@@ -546,7 +570,7 @@ namespace Create_order
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Price}");
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_Rate}");
                         data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Fixed_Price}");
-                        data_detail_vip.Add($"{is_discount}");
+                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].is_discount}");
 
                         body.Add(data_detail_vip);
                         id++;
