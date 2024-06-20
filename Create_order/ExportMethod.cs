@@ -13,7 +13,7 @@ using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
 using static Create_order.Data_Modify_TurnTable_Count;
-using static Create_order.Data_Modify_Channel_All;
+using static Create_order.Data_PayChannel_Price_Modify;
 
 namespace Create_order
 {
@@ -472,7 +472,7 @@ namespace Create_order
             Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
         }
 
-        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config,Modify_Channel_All_Config modify_Channel_All_Config)
+        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
             List<List<string>> body = new List<List<string>>();
@@ -498,6 +498,7 @@ namespace Create_order
             string path = desktopPath + @"\config_all\hi_v3_channel_price.xlsx";
 
             int id;
+
             for (int index = 0; index < const_config.Apps.Count; index++)
             {
                 id = ModuleSupport.PAYCHANNEL_PRICE_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_APP_GAP_ID;
@@ -506,30 +507,6 @@ namespace Create_order
                 //遍历所有的国家
                 for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
                 {
-                    //每个国家都需要初始化下面2个参数
-                    int is_discount = 0;
-                    bool is_Modify = false;
-
-                    //检测是否存在需要修改渠道的钻石|所包含的APP、国家
-                    for (int a = 0; a < modify_Channel_All_Config.Modify_Channel_All.Count; a++)
-                    {
-                        for (int b = 0; b < modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_APP.Count; b++)
-                        {
-                            //包含此APP，此APP需要修改
-                            if (appName == modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_APP[b])
-                            {
-                                for (int c = 0; c < modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_Country.Count; c++)
-                                {
-                                    //找到了国家
-                                    if (payChannel_Price_Config.PayChannel_Country[i].Country_Name == modify_Channel_All_Config.Modify_Channel_All[a].Modify_Channel_Country[c])
-                                    {
-                                        is_Modify = true;
-                                    }
-                                }
-                            }
-                        }
-                    }   //在具体的钻石或者VIP中查找对应的条
-
                     //首先遍历钻石的数据
                     for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
                     {
@@ -580,6 +557,103 @@ namespace Create_order
 
             Tools.Write(path, header, body);
             Console.WriteLine("生成hi_v3_channel_price.xlsx完成！");
+        }
+
+        public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
+        {
+            //定义数据部分
+            List<List<string>> body = new List<List<string>>();
+
+            //定义数据头
+            List<string> header = new List<string>()
+            {
+                "id",
+                "app",
+                "country",
+                "type",
+                "num",
+                "channel_id",
+                "sort",
+                "price",
+                "is_rate",      //1为开启汇率，0为开启固定价格
+                "fixed_price",
+                "is_discount"
+            };
+
+            //获取路径
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string path = desktopPath + @"\config_all\hi_v3_channel_price_modify.xlsx";
+
+            int id;
+
+            for (int index = 0; index < const_config.Apps.Count; index++)
+            {
+                id = ModuleSupport.PAYCHANNEL_PRICE_MODIFY_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID;
+                string appName = const_config.Apps[index].AppName;
+
+                //寻找所有需要修改的APP、国家
+                for (int a = 0; a < payChannel_Price_Modify_Config.PayChannel_Modify_All.Count; a++)
+                {
+                    //遍历所有需要修改的APP
+                    for (int b = 0; b < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS.Count; b++)
+                    {
+                        //匹配是否需要这个APP的修改
+                        if (payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS[b] == appName)
+                        {
+                            for (int c = 0; c < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country.Count; c++)
+                            {
+                                //钻石配置
+                                for (int d = 0; d < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond.Count; d++)
+                                {
+                                    List<string> data_detail_diamond = new List<string>();
+
+                                    //检测是否有需要修改is_discount的钻石选项
+                                    //需要对应国家和APP，还有钻石的数量以及价格
+                                    data_detail_diamond.Add($"{id}");
+                                    data_detail_diamond.Add(appName);
+                                    data_detail_diamond.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
+                                    data_detail_diamond.Add($"{1}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Num}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Channel_Id}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Sort}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Price}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Is_Rate}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Fixed_Price}");
+                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].is_discount}");
+
+                                    body.Add(data_detail_diamond);
+                                    id++;
+                                }
+
+                                for (int e = 0; e < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip.Count; e++)
+                                {
+                                    List<string> data_detail_vip = new List<string>();
+
+                                    //检测是否有需要修改is_discount的钻石选项
+                                    //需要对应国家和APP，还有VIP的天数以及价格
+
+                                    data_detail_vip.Add($"{id}");
+                                    data_detail_vip.Add(appName);
+                                    data_detail_vip.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
+                                    data_detail_vip.Add($"{2}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Num}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Channel_Id}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Sort}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Price}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Is_Rate}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Fixed_Price}");
+                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].is_discount}");
+
+                                    body.Add(data_detail_vip);
+                                    id++;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            Tools.Write(path, header, body);
+            Console.WriteLine("生成hi_v3_channel_price_modify.xlsx完成！");
         }
     }
 }

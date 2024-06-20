@@ -135,6 +135,10 @@ namespace Create_order
             {
                 return ModuleSupport.modifyFormat["hi_v3_channel_price.xlsx"];
             }
+            else if (path == desktopPath + @"\config_all\hi_v3_channel_price_modify.xlsx")
+            {
+                return ModuleSupport.modifyFormat["hi_v3_channel_price_modify.xlsx"];
+            }
             else
             {
                 return null;

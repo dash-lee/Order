@@ -414,6 +414,66 @@ namespace Create_order
         }
     }
 
+    public class Data_PayChannel_Price_Modify
+    {
+        public struct PayChannel_Price_Modify_Config
+        {
+            public List<PayChannel_Modify_All> PayChannel_Modify_All { get;set; }
+        }
+
+        public struct PayChannel_Modify_All
+        {
+            public List<string> PayChannel_APPS {  get;set; }
+            public List<PayChannel_Country> PayChannel_Country {  get;set; }
+        }
+
+        public struct PayChannel_Country
+        {
+            public string Country_Name { get;set; }
+            public string Country_Name_CN { get;set; }
+            public string Country_Code { get;set; }
+            public List<PayChannel_Info> PayChannel_Diamond { get;set; }
+            public List<PayChannel_Info> PayChannel_Vip {  get;set; }
+        }
+
+        public struct PayChannel_Info
+        {
+            public int Channel_Id { get; set; }
+            public string Channel_Name { get; set; }
+            public double Price { get; set; }
+            public int Num { get; set; }
+            public int Sort { get; set; }
+            public int Is_Rate { get; set; }
+            public double Fixed_Price { get; set; }
+            public int is_discount { get; set; }
+        }
+
+        public static PayChannel_Price_Modify_Config PayChannel_Price_Modify_Data()
+        {
+            PayChannel_Price_Modify_Config tmpData = new PayChannel_Price_Modify_Config();
+            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price_Modify.json");
+            Console.WriteLine(jsonPath);
+
+            //JSON序列化
+            try
+            {
+                string JsonFile = File.ReadAllText(jsonPath);
+                tmpData = JsonConvert.DeserializeObject<PayChannel_Price_Modify_Config>(JsonFile);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("JSON文件未找到。");
+            }
+            catch (JsonException)
+            {
+                Console.WriteLine("JSON解析错误。");
+            }
+
+            return tmpData;
+        }
+    }
+
+    //利用API修改当前渠道价格
     public class Data_Change_Channel_Price
     {
         public struct Change_Channel_Price
@@ -464,6 +524,7 @@ namespace Create_order
         }
     }
 
+    //修改幸运转盘次数以及充值钻石赠送物品
     public class Data_Modify_TurnTable_Count
     {
         public struct Modify_TurnTable_Count_Config
@@ -520,64 +581,4 @@ namespace Create_order
             return tmpData;
         }
     }
-
-    public class Data_Modify_Channel_All
-    {
-        public struct Modify_Channel_All_Config
-        {
-            public List<Modify_Channel_All> Modify_Channel_All { get; set; }
-        }
-
-        public struct Modify_Channel_All
-        {
-            public List<string> Modify_Channel_APP {  get; set; }
-            public List<string> Modify_Channel_Country {  get; set; }
-            public List<Modify_Country> Modify_Country { get; set; }
-        }
-
-        public struct Modify_Country
-        {
-            public string Country_Name { get; set; }
-            public string Country_Name_CN { get; set; }
-            public string Country_Code { get; set; }
-            public List<PayChannel_Diamond> PayChannel_Diamond { get; set;}
-        }
-
-        public struct PayChannel_Diamond
-        {
-            public int Channel_Id { get; set; }
-            public string Channel_Name { get; set;}
-            public double Price { get; set;} 
-            public int Num { get; set;}  
-            public int Sort { get;set;}
-            public int Is_Rate { get;set;}
-            public double Fixed_Price { get;set;}
-            public int is_discount { get;set; }
-        }
-
-        public static Modify_Channel_All_Config Modify_Channel_All_Data()
-        {
-            Modify_Channel_All_Config tmpData = new Modify_Channel_All_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify_Channel_All.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON发序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<Modify_Channel_All_Config>(JsonFile);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-    }
-
 }
