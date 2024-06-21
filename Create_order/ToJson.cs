@@ -196,6 +196,7 @@ namespace Create_order
             public int?  Sort { get; set; }
             public int? Is_Rate { get; set; }
             public double? Fixed_Price { get; set; }
+            public int? is_discount { get; set; }
         }
 
         //定义excel数据列表
@@ -308,6 +309,11 @@ namespace Create_order
                         {
                             intSort = intValue_4;
                         }
+                        int is_discount = -1;
+                        if (int.TryParse(excelData[j][11], out int intValue_5))
+                        {
+                            is_discount = intValue_5;
+                        }
 
                         if (excelData[j][4] == "1") //钻石orVIP
                         {
@@ -320,6 +326,7 @@ namespace Create_order
                                 Sort = intSort,
                                 Is_Rate = intIsRate,
                                 Fixed_Price = doubleFixedPrice,
+                                is_discount = is_discount
                             };
 
                             PayChannel_Diamonds.Add(payMethod_Info);
@@ -335,6 +342,7 @@ namespace Create_order
                                 Sort = intSort,
                                 Is_Rate = intIsRate,
                                 Fixed_Price = doubleFixedPrice,
+                                is_discount = is_discount
                             };
 
                             PayChannel_Vips.Add(payMethod_Info);

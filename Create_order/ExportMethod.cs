@@ -561,6 +561,11 @@ namespace Create_order
 
         public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
         {
+            if (true)
+            {
+
+            }
+
             //定义数据部分
             List<List<string>> body = new List<List<string>>();
 
