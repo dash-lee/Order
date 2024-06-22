@@ -2,7 +2,7 @@
     "//": "不同的APP可以进行不同的设置，这里就不区分大区进行配置了，如果需要，后面再添加也是可以的",
     "Modify_all": [
         {
-            "Apps": [ "Melon", "Tingly", "Livvy", "Tweep", "Biffo", "Quizy", "Riffy" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "//": "该表只用于对应档位能够获得的抽奖次数，以及额外赠送的物品ID",
             "Modify_TurnTable_Count_Diamond": [
                 {
@@ -15,21 +15,21 @@
                 {
                     "Price": 1.99,
                     "Diamond_Count": 199,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 0,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 3.19,
                     "Diamond_Count": 236,
-                    "TurnTable_Count": 0,
+                    "TurnTable_Count": 1,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 6.29,
                     "Diamond_Count": 470,
-                    "TurnTable_Count": 2,
+                    "TurnTable_Count": 1,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
@@ -50,21 +50,21 @@
                 {
                     "Price": 33.99,
                     "Diamond_Count": 2570,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 2,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 69.99,
                     "Diamond_Count": 5314,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 2,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 139.99,
                     "Diamond_Count": 10679,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 3,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
@@ -106,21 +106,21 @@
                 {
                     "Price": 39.99,
                     "Diamond_Count": 2509,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 2,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 79.99,
                     "Diamond_Count": 5199,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 2,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 149.99,
                     "Diamond_Count": 9999,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 3,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 }
@@ -129,28 +129,28 @@
                 {
                     "Price": 1.69,
                     "Vip_Days": 7,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 0,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 4.49,
                     "Vip_Days": 30,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 0,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 7.99,
                     "Vip_Days": 90,
-                    "TurnTable_Count": 1,
+                    "TurnTable_Count": 0,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 },
                 {
                     "Price": 10.99,
                     "Vip_Days": 180,
-                    "TurnTable_Count": 2,
+                    "TurnTable_Count": 1,
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 }

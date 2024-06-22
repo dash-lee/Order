@@ -35,8 +35,8 @@ namespace Create_order
 
             //生成json并复制到指定的位置
             //在channel_ienh.xlsx内的源数据有变动时，才需要进行JSON序列化，否则不需要
-            //ToJson_PayChannel_Price.ToJson();
-            //ToJson_PayChannel.ToJson(const_config);
+            ToJson_PayChannel_Price.ToJson();
+            ToJson_PayChannel.ToJson(const_config);
 
             //构建JSON数据
             Recharge_Config recharge_config = Recharge_Data();

@@ -411,142 +411,6 @@
             ]
         },
         {
-            "AppName": "Tweep",
-            "Need_Country": [
-                "Czechoslovakia",
-                "Czech",
-                "Spain",
-                "Paraguay",
-                "Uruguay",
-                "Panama",
-                "Jamaica",
-                "Honduras",
-                "Guatemala",
-                "Salvador",
-                "Cuba",
-                "Costa rica",
-                "Brazil",
-                "Bolivia",
-                "Bahamas",
-                "Argentina",
-                "Austria",
-                "Hungary",
-                "Serbia",
-                "Croatia",
-                "Slovenia",
-                "Montenegro",
-                "Estonia",
-                "Lithuania",
-                "Albania",
-                "Finland",
-                "Norway",
-                "Switzerland",
-                "Denmark",
-                "Romania",
-                "Bulgaria",
-                "Portugal",
-                "Iceland",
-                "Ireland",
-                "Belgium",
-                "Belarus",
-                "Ukraine",
-                "Turkey",
-                "Russia",
-                "Fiji",
-                "Nauru",
-                "Zimbabwe",
-                "Mozambique",
-                "Mauritius",
-                "Comores",
-                "Madagascar",
-                "Lesotho",
-                "Swaziland",
-                "South Africa",
-                "Angola",
-                "Equatorial Guinea",
-                "Cameroon",
-                "Central African",
-                "Chad",
-                "Togo",
-                "Ivory Coast",
-                "Liberia",
-                "Guinea",
-                "Senegal",
-                "Somalia",
-                "Morocco",
-                "Algeria",
-                "Tunisia",
-                "Libya",
-                "Sudan",
-                "Egypt",
-                "Kazakhstan",
-                "Tajikistan",
-                "Kyrgyzstan",
-                "Uzbekistan",
-                "Turkmenistan",
-                "Afghanistan",
-                "Qatar",
-                "Arab Emirates",
-                "Oman",
-                "Yemen",
-                "Saudi Arabia",
-                "Kuwait",
-                "Iraq",
-                "Jordan",
-                "Israel",
-                "Palestine",
-                "Lebanon",
-                "Syria",
-                "Iran",
-                "Bhutan",
-                "Nepal",
-                "Bangladesh",
-                "Pakistan",
-                "Maldives",
-                "Sri Lanka",
-                "Brunei",
-                "Myanmar",
-                "Cambodia",
-                "Laos",
-                "Mongolia",
-                "Korea",
-                "Japan",
-                "France",
-                "Peru",
-                "Ecuador",
-                "Mexico",
-                "Chile",
-                "India",
-                "Venezuela",
-                "Colombia",
-                "Rwanda",
-                "Tanzania",
-                "Zambia",
-                "Uganda",
-                "Nigeria",
-                "Kenya",
-                "Ghana",
-                "Malawi",
-                "Poland",
-                "Netherlands",
-                "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
-                "Canada",
-                "Italy",
-                "New Zealand",
-                "Sweden",
-                "Germany",
-                "Britain",
-                "America",
-                "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
-            ]
-        },
-        {
             "AppName": "Biffo",
             "Need_Country": [
                 "Czechoslovakia",
@@ -820,6 +684,142 @@
         },
         {
             "AppName": "Riffy",
+            "Need_Country": [
+                "Czechoslovakia",
+                "Czech",
+                "Spain",
+                "Paraguay",
+                "Uruguay",
+                "Panama",
+                "Jamaica",
+                "Honduras",
+                "Guatemala",
+                "Salvador",
+                "Cuba",
+                "Costa rica",
+                "Brazil",
+                "Bolivia",
+                "Bahamas",
+                "Argentina",
+                "Austria",
+                "Hungary",
+                "Serbia",
+                "Croatia",
+                "Slovenia",
+                "Montenegro",
+                "Estonia",
+                "Lithuania",
+                "Albania",
+                "Finland",
+                "Norway",
+                "Switzerland",
+                "Denmark",
+                "Romania",
+                "Bulgaria",
+                "Portugal",
+                "Iceland",
+                "Ireland",
+                "Belgium",
+                "Belarus",
+                "Ukraine",
+                "Turkey",
+                "Russia",
+                "Fiji",
+                "Nauru",
+                "Zimbabwe",
+                "Mozambique",
+                "Mauritius",
+                "Comores",
+                "Madagascar",
+                "Lesotho",
+                "Swaziland",
+                "South Africa",
+                "Angola",
+                "Equatorial Guinea",
+                "Cameroon",
+                "Central African",
+                "Chad",
+                "Togo",
+                "Ivory Coast",
+                "Liberia",
+                "Guinea",
+                "Senegal",
+                "Somalia",
+                "Morocco",
+                "Algeria",
+                "Tunisia",
+                "Libya",
+                "Sudan",
+                "Egypt",
+                "Kazakhstan",
+                "Tajikistan",
+                "Kyrgyzstan",
+                "Uzbekistan",
+                "Turkmenistan",
+                "Afghanistan",
+                "Qatar",
+                "Arab Emirates",
+                "Oman",
+                "Yemen",
+                "Saudi Arabia",
+                "Kuwait",
+                "Iraq",
+                "Jordan",
+                "Israel",
+                "Palestine",
+                "Lebanon",
+                "Syria",
+                "Iran",
+                "Bhutan",
+                "Nepal",
+                "Bangladesh",
+                "Pakistan",
+                "Maldives",
+                "Sri Lanka",
+                "Brunei",
+                "Myanmar",
+                "Cambodia",
+                "Laos",
+                "Mongolia",
+                "Korea",
+                "Japan",
+                "France",
+                "Peru",
+                "Ecuador",
+                "Mexico",
+                "Chile",
+                "India",
+                "Venezuela",
+                "Colombia",
+                "Rwanda",
+                "Tanzania",
+                "Zambia",
+                "Uganda",
+                "Nigeria",
+                "Kenya",
+                "Ghana",
+                "Malawi",
+                "Poland",
+                "Netherlands",
+                "Greece",
+                "Thailand",
+                "Vietnam",
+                "Philippines",
+                "Canada",
+                "Italy",
+                "New Zealand",
+                "Sweden",
+                "Germany",
+                "Britain",
+                "America",
+                "Australia",
+                "Malaysia",
+                "Singapore",
+                "Indonesia"
+            ]
+        },
+        {
+            "AppName": "Wixel",
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1308,123 +1308,6 @@
             ]
         },
         {
-            "AppName": "Tweep",
-            "Diamond_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Diamond_Count": 125,
-                    "Google_Price_ID": "tweep_gold125"
-                },
-                {
-                    "Price": 1.99,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "tweep_gold199"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "tweep_gold236"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "tweep_gold236"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "tweep_gold470"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "tweep_gold470"
-                },
-                {
-                    "Price": 13.99,
-                    "Diamond_Count": 1052,
-                    "Google_Price_ID": "tweep_gold1052"
-                },
-                {
-                    "Price": 33.99,
-                    "Diamond_Count": 2570,
-                    "Google_Price_ID": "tweep_gold2570"
-                },
-                {
-                    "Price": 69.99,
-                    "Diamond_Count": 5314,
-                    "Google_Price_ID": "tweep_gold5314"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10679,
-                    "Google_Price_ID": "tweep_gold10679"
-                },
-                {
-                    "Price": 3.49,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "tweep_gold125_new"
-                },
-                {
-                    "Price": 3.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "tweep_gold199_new"
-                },
-                {
-                    "Price": 7.49,
-                    "Diamond_Count": 429,
-                    "Google_Price_ID": "tweep_gold236_new"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 599,
-                    "Google_Price_ID": "tweep_gold470_new"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1209,
-                    "Google_Price_ID": "tweep_gold1052_new"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2509,
-                    "Google_Price_ID": "tweep_gold2570_new"
-                },
-                {
-                    "Price": 79.99,
-                    "Diamond_Count": 5199,
-                    "Google_Price_ID": "tweep_gold5314_new"
-                },
-                {
-                    "Price": 149.99,
-                    "Diamond_Count": 9999,
-                    "Google_Price_ID": "tweep_gold10679_new"
-                }
-            ],
-            "Vip_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "tweep_vip7"
-                },
-                {
-                    "Price": 4.49,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "tweep_vip30"
-                },
-                {
-                    "Price": 7.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "tweep_vip90"
-                },
-                {
-                    "Price": 10.99,
-                    "Vip_Days": 180,
-                    "Google_Price_ID": "tweep_vip180"
-                }
-            ]
-        },
-        {
             "AppName": "Biffo",
             "Diamond_Google_ID": [
                 {
@@ -1772,6 +1655,240 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "riffy_vip180"
+                }
+            ]
+        },
+        {
+            "AppName": "Wixel",
+            "Diamond_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Diamond_Count": 125,
+                    "Google_Price_ID": "wixel_gold125"
+                },
+                {
+                    "Price": 1.99,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "wixel_gold199"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "wixel_gold236"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "wixel_gold236"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "wixel_gold470"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "wixel_gold470"
+                },
+                {
+                    "Price": 13.99,
+                    "Diamond_Count": 1052,
+                    "Google_Price_ID": "wixel_gold1052"
+                },
+                {
+                    "Price": 33.99,
+                    "Diamond_Count": 2570,
+                    "Google_Price_ID": "wixel_gold2570"
+                },
+                {
+                    "Price": 69.99,
+                    "Diamond_Count": 5314,
+                    "Google_Price_ID": "wixel_gold5314"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10679,
+                    "Google_Price_ID": "wixel_gold10679"
+                },
+                {
+                    "Price": 3.49,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "wixel_gold125_new"
+                },
+                {
+                    "Price": 3.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "wixel_gold199_new"
+                },
+                {
+                    "Price": 7.49,
+                    "Diamond_Count": 429,
+                    "Google_Price_ID": "wixel_gold236_new"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 599,
+                    "Google_Price_ID": "wixel_gold470_new"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1209,
+                    "Google_Price_ID": "wixel_gold1052_new"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2509,
+                    "Google_Price_ID": "wixel_gold2570_new"
+                },
+                {
+                    "Price": 79.99,
+                    "Diamond_Count": 5199,
+                    "Google_Price_ID": "wixel_gold5314_new"
+                },
+                {
+                    "Price": 149.99,
+                    "Diamond_Count": 9999,
+                    "Google_Price_ID": "wixel_gold10679_new"
+                }
+            ],
+            "Vip_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "wixel_vip7"
+                },
+                {
+                    "Price": 4.49,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "wixel_vip30"
+                },
+                {
+                    "Price": 7.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "wixel_vip90"
+                },
+                {
+                    "Price": 10.99,
+                    "Vip_Days": 180,
+                    "Google_Price_ID": "wixel_vip180"
+                }
+            ]
+        },
+        {
+            "AppName": "Flinx",
+            "Diamond_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Diamond_Count": 125,
+                    "Google_Price_ID": "flinx_gold125"
+                },
+                {
+                    "Price": 1.99,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "flinx_gold199"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "flinx_gold236"
+                },
+                {
+                    "Price": 3.19,
+                    "Diamond_Count": 236,
+                    "Google_Price_ID": "flinx_gold236"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "flinx_gold470"
+                },
+                {
+                    "Price": 6.29,
+                    "Diamond_Count": 470,
+                    "Google_Price_ID": "flinx_gold470"
+                },
+                {
+                    "Price": 13.99,
+                    "Diamond_Count": 1052,
+                    "Google_Price_ID": "flinx_gold1052"
+                },
+                {
+                    "Price": 33.99,
+                    "Diamond_Count": 2570,
+                    "Google_Price_ID": "flinx_gold2570"
+                },
+                {
+                    "Price": 69.99,
+                    "Diamond_Count": 5314,
+                    "Google_Price_ID": "flinx_gold5314"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10679,
+                    "Google_Price_ID": "flinx_gold10679"
+                },
+                {
+                    "Price": 3.49,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "flinx_gold125_new"
+                },
+                {
+                    "Price": 3.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "flinx_gold199_new"
+                },
+                {
+                    "Price": 7.49,
+                    "Diamond_Count": 429,
+                    "Google_Price_ID": "flinx_gold236_new"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 599,
+                    "Google_Price_ID": "flinx_gold470_new"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1209,
+                    "Google_Price_ID": "flinx_gold1052_new"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2509,
+                    "Google_Price_ID": "flinx_gold2570_new"
+                },
+                {
+                    "Price": 79.99,
+                    "Diamond_Count": 5199,
+                    "Google_Price_ID": "flinx_gold5314_new"
+                },
+                {
+                    "Price": 149.99,
+                    "Diamond_Count": 9999,
+                    "Google_Price_ID": "flinx_gold10679_new"
+                }
+            ],
+            "Vip_Google_ID": [
+                {
+                    "Price": 1.69,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "flinx_vip7"
+                },
+                {
+                    "Price": 4.49,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "flinx_vip30"
+                },
+                {
+                    "Price": 7.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "flinx_vip90"
+                },
+                {
+                    "Price": 10.99,
+                    "Vip_Days": 180,
+                    "Google_Price_ID": "flinx_vip180"
                 }
             ]
         }
