@@ -533,7 +533,7 @@ namespace Create_order
         }
         public struct Modify_all
         {
-            public List<string> Apps { get; set; }
+            public List<string> Modify_Apps { get; set; }
             public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
             public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
         }

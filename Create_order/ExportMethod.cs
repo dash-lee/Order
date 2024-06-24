@@ -137,10 +137,10 @@ namespace Create_order
                                 //对比是否包含此app
                                 for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all.Count; index_modify++)
                                 {
-                                    for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all[index_modify].Apps.Count; index_app++)
+                                    for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_Apps.Count; index_app++)
                                     {
                                         //匹配到确实需要修改这个app
-                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify].Apps[index_app] == appNameTemp)
+                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_Apps[index_app] == appNameTemp)
                                         {
                                             //设定当前钻石需要赠送的幸运轮盘次数
                                             for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
@@ -232,10 +232,10 @@ namespace Create_order
                                 //对比是否包含此app
                                 for (int index_modify_2 = 0; index_modify_2 < modify_TurnTable_Count_Config.Modify_all.Count; index_modify_2++)
                                 {
-                                    for (int index_app_2 = 0; index_app_2 < modify_TurnTable_Count_Config.Modify_all[index_modify_2].Apps.Count; index_app_2++)
+                                    for (int index_app_2 = 0; index_app_2 < modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_Apps.Count; index_app_2++)
                                     {
                                         //匹配到确实需要修改这个app
-                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify_2].Apps[index_app_2] == appNameTemp)
+                                        if (modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_Apps[index_app_2] == appNameTemp)
                                         {
                                             //设定当前VIP需要赠送的幸运轮盘次数
                                             for (int bbb = 0; bbb < modify_TurnTable_Count_Config.Modify_all[index_modify_2].Modify_TurnTable_Count_Vip.Count; bbb++)

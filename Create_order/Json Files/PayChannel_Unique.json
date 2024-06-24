@@ -712,7 +712,7 @@
       "State": 1,
       "Channel_name": "PromptPay QR",
       "Channel_web": "LianLianPromptPayQR",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/PayermaxPROMPTPAY.png",
       "App": [],
       "Country": []
     },
@@ -723,7 +723,7 @@
       "State": 1,
       "Channel_name": "ShopeePay",
       "Channel_web": "LianLianSHOPEEPAY",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSHOPEEPAY.png",
       "App": [],
       "Country": []
     },
@@ -734,7 +734,7 @@
       "State": 1,
       "Channel_name": "TrueMoney",
       "Channel_web": "LianLianTrueMoney",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/PayermaxTRUEMONEY.png",
       "App": [],
       "Country": []
     },
@@ -745,7 +745,7 @@
       "State": 1,
       "Channel_name": "LinePay",
       "Channel_web": "LianLianLinePay",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/PayermaxLINEPAY.png",
       "App": [],
       "Country": []
     },
@@ -756,7 +756,7 @@
       "State": 1,
       "Channel_name": "Fawrypay",
       "Channel_web": "LapayFAWRYPAY",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/LapayFAWRYPAY.png",
       "App": [],
       "Country": []
     },
@@ -767,7 +767,7 @@
       "State": 1,
       "Channel_name": "VodaFone",
       "Channel_web": "LapayVODAFONE_EG",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/LapayVODAFONE.png",
       "App": [],
       "Country": []
     },
@@ -778,7 +778,7 @@
       "State": 0,
       "Channel_name": "BankTransfer",
       "Channel_web": "LapayBANKTRANSFER_NG",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/Payssion_BankTransfer.png",
       "App": [],
       "Country": []
     },
@@ -789,7 +789,7 @@
       "State": 1,
       "Channel_name": "USSD",
       "Channel_web": "LapayUSSD",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/LapayUSSD.png",
       "App": [],
       "Country": []
     },
@@ -800,7 +800,7 @@
       "State": 1,
       "Channel_name": "Card",
       "Channel_web": "LapayCARDPAYMENT",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/Payssion_BankCard.png",
       "App": [],
       "Country": []
     },
@@ -809,9 +809,9 @@
       "Pay_type_id": 7,
       "Channel_code": "MTN",
       "State": 1,
-      "Channel_name": "BankTransfer",
+      "Channel_name": "MoMo",
       "Channel_web": "LapayMTN_GH",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/Payssion_MTNMoMo.png",
       "App": [],
       "Country": []
     },
@@ -822,7 +822,7 @@
       "State": 1,
       "Channel_name": "VodaFone",
       "Channel_web": "LapayVODAFONE_GH",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/LapayVODAFONE.png",
       "App": [],
       "Country": []
     },
@@ -833,7 +833,7 @@
       "State": 1,
       "Channel_name": "AirTelTigo",
       "Channel_web": "LapayAIRTELTIGO",
-      "Logo": "",
+      "Logo": "/uploads/pay_channel_icon/LapayAIRTELTIGO.png",
       "App": [],
       "Country": []
     }

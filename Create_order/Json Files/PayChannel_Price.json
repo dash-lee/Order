@@ -7186,8 +7186,8 @@
         {
           "Channel_Id": 69,
           "Channel_Name": "1",
-          "Price": 1.69,
-          "Num": 125,
+          "Price": 1.99,
+          "Num": 199,
           "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 106,
@@ -7196,8 +7196,8 @@
         {
           "Channel_Id": 70,
           "Channel_Name": "1",
-          "Price": 1.69,
-          "Num": 125,
+          "Price": 1.99,
+          "Num": 199,
           "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 106,
