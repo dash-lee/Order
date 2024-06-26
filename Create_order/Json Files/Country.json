@@ -1560,7 +1560,7 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "SGD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1654,7 +1654,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PHP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1748,7 +1748,7 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "IDR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "IDR",
@@ -2701,7 +2701,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "VND",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payermax", "Paynow" ],
             "Diamond_Pay_Detail": {
                 "Currency": "VND",
@@ -3269,7 +3269,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "THB",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "THB",
@@ -4107,7 +4107,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "NGN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "NGN",
@@ -4357,7 +4357,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GHS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "GHS",
@@ -4511,7 +4511,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UGX",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "UGX",
@@ -4761,7 +4761,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KES",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "KES",
@@ -5011,7 +5011,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TZS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "TZS",
@@ -5213,7 +5213,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ZMW",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "ZMW",
@@ -5463,7 +5463,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RWF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "RWF",
@@ -5713,7 +5713,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MWK",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "MWK",
@@ -5915,7 +5915,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MNT",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6009,7 +6009,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LAK",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6103,7 +6103,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KHR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6197,7 +6197,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MMK",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6291,7 +6291,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LKR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6385,7 +6385,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MVR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6479,7 +6479,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BDT",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6573,7 +6573,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "NPR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6667,7 +6667,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BTN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6761,7 +6761,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "IRR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6855,7 +6855,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TRY",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6949,7 +6949,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SYP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7043,7 +7043,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LBP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7137,7 +7137,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ILS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7231,7 +7231,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "JOD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7325,7 +7325,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "IQD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7419,7 +7419,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "YER",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7513,7 +7513,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AFN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7607,7 +7607,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TMT",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7701,7 +7701,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UZS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7795,7 +7795,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KGS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7889,7 +7889,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TJS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7983,7 +7983,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KZT",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8077,7 +8077,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EGP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8171,7 +8171,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SDG",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8265,7 +8265,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LYD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8359,7 +8359,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TND",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8453,7 +8453,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "DZD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8547,7 +8547,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MAD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8641,7 +8641,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SOS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8735,7 +8735,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8829,7 +8829,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GNF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8923,7 +8923,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LRD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9017,7 +9017,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9111,7 +9111,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9205,7 +9205,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9299,7 +9299,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9393,7 +9393,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9487,7 +9487,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9581,7 +9581,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AOA",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9675,7 +9675,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ZAR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9769,7 +9769,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SZL",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9863,7 +9863,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LSL",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9957,7 +9957,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MGA",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10051,7 +10051,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KMF",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10145,7 +10145,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MUR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10239,7 +10239,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MZN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10333,7 +10333,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10427,7 +10427,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AUD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10521,7 +10521,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "FJD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10615,7 +10615,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RUB",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10709,7 +10709,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UAH",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10803,7 +10803,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BYN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10897,7 +10897,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10991,7 +10991,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RON",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11085,7 +11085,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11179,7 +11179,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11273,7 +11273,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RSD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11367,7 +11367,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ARS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11461,7 +11461,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BOB",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11555,7 +11555,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BRL",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11649,7 +11649,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CRC",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11743,7 +11743,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CUP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11837,7 +11837,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11931,7 +11931,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GTQ",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12025,7 +12025,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "HNL",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12119,7 +12119,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "JMD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12213,7 +12213,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12307,7 +12307,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PYG",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15033,7 +15033,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "COP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15127,7 +15127,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "VES",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15221,7 +15221,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "INR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15315,7 +15315,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PKR",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15409,7 +15409,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CLP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15503,7 +15503,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MXN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15597,7 +15597,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ECS",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15691,7 +15691,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PEN",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
