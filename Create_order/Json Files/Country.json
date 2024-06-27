@@ -1136,148 +1136,132 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "MYR",
-            "Diamond_Gear": [ 125, 236, 199, 470, 1052, 2570, 5314, 10679 ],
-            "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay", "PayerMax", "Tejeepay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
-                        "Diamond_Count": 125,
+                        "Price": 2.18,
+                        "Diamond_Count": 149,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
+                            "PayermaxFPX",
                             "PayermaxTNG",
                             "PayermaxUMOBILE",
                             "PayermaxCELCOM",
                             "PayermaxDIGI",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 7.00
+                                "Price": 10.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 7.00
+                                "Price": 10.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 8.00
+                                "Price": 16.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
-                                "Price": 8.00
+                                "Price": 16.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 8.00
+                                "Price": 16.00
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 11.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 10.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 1.69
+                                "Price": 2.18
                             }
                         ]
                     },
                     {
-                        "Price": 1.99,
+                        "Price": 2.18,
                         "Diamond_Count": 199,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
+                            "PayermaxFPX",
                             "PayermaxTNG",
                             "PayermaxUMOBILE",
                             "PayermaxCELCOM",
                             "PayermaxDIGI",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 8.00
+                                "Price": 10.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 8.00
+                                "Price": 10.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 9.00
+                                "Price": 16.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
-                                "Price": 9.00
+                                "Price": 16.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 9.00
+                                "Price": 16.00
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 11.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 10.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 1.99
+                                "Price": 2.18
                             }
                         ]
                     },
                     {
-                        "Price": 3.19,
-                        "Diamond_Count": 236,
+                        "Price": 4.99,
+                        "Diamond_Count": 309,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
+                            "PayermaxFPX",
                             "PayermaxTNG",
                             "PayermaxUMOBILE",
                             "PayermaxCELCOM",
                             "PayermaxDIGI",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 14.00
+                                "Price": 19.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 14.00
+                                "Price": 19.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 15.00
-                            },
-                            {
-                                "Name": "PayermaxCELCOM",
-                                "Price": 15.00
-                            },
-                            {
-                                "Name": "PayermaxDIGI",
-                                "Price": 15.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 3.19
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 6.29,
-                        "Diamond_Count": 470,
-                        "PayMethod_Name": [
-                            "PayermaxAXIATABOOST",
-                            "PayermaxTNG",
-                            "PayermaxUMOBILE",
-                            "PayermaxCELCOM",
-                            "PayermaxDIGI",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxAXIATABOOST",
-                                "Price": 27.00
-                            },
-                            {
-                                "Name": "PayermaxTNG",
-                                "Price": 27.00
-                            },
-                            {
-                                "Name": "PayermaxUMOBILE",
-                                "Price": 29.00
+                                "Price": 20.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
@@ -1288,16 +1272,74 @@
                                 "Price": 29.00
                             },
                             {
+                                "Name": "PayermaxFPX",
+                                "Price": 20.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 19.00
+                            },
+                            {
                                 "Name": "谷歌支付",
-                                "Price": 6.29
+                                "Price": 4.99
                             }
                         ]
                     },
                     {
-                        "Price": 13.99,
-                        "Diamond_Count": 1052,
+                        "Price": 7.99,
+                        "Diamond_Count": 589,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
+                            "PayermaxFPX",
+                            "PayermaxTNG",
+                            "PayermaxUMOBILE",
+                            "PayermaxCELCOM",
+                            "PayermaxDIGI",
+                            "PayssionGRABPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxAXIATABOOST",
+                                "Price": 37.00
+                            },
+                            {
+                                "Name": "PayermaxTNG",
+                                "Price": 37.00
+                            },
+                            {
+                                "Name": "PayermaxUMOBILE",
+                                "Price": 60.00
+                            },
+                            {
+                                "Name": "PayermaxCELCOM",
+                                "Price": 60.00
+                            },
+                            {
+                                "Name": "PayermaxDIGI",
+                                "Price": 60.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 7.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 38.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 37.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1499,
+                        "PayMethod_Name": [
+                            "PayermaxAXIATABOOST",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
                             "PayermaxTNG",
                             "PayermaxCELCOM",
                             "PayermaxDIGI",
@@ -1306,104 +1348,171 @@
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 61.00
+                                "Price": 95.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 61.00
-                            },
-                            {
-                                "Name": "PayermaxCELCOM",
-                                "Price": 65.00
+                                "Price": 95.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 65.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 13.99
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 33.99,
-                        "Diamond_Count": 2570,
-                        "PayMethod_Name": [
-                            "PayermaxAXIATABOOST",
-                            "PayermaxTNG",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxAXIATABOOST",
                                 "Price": 150.00
                             },
                             {
-                                "Name": "PayermaxTNG",
-                                "Price": 150.00
+                                "Name": "谷歌支付",
+                                "Price": 19.99
                             },
                             {
-                                "Name": "谷歌支付",
-                                "Price": 33.99
+                                "Name": "PayermaxFPX",
+                                "Price": 95.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 95.00
                             }
                         ]
                     },
                     {
-                        "Price": 69.99,
-                        "Diamond_Count": 5314,
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 313.00
+                                "Price": 188.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 313.00
+                                "Price": 188.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 69.99
+                                "Price": 39.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 188.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 188.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [
+                            "PayermaxAXIATABOOST",
+                            "PayermaxTNG",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxAXIATABOOST",
+                                "Price": 471.00
+                            },
+                            {
+                                "Name": "PayermaxTNG",
+                                "Price": 471.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 99.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 471.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 471.00
                             }
                         ]
                     },
                     {
                         "Price": 139.99,
-                        "Diamond_Count": 10679,
+                        "Diamond_Count": 10699,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
                             "PayermaxTNG",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 630.00
+                                "Price": 660.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 630.00
+                                "Price": 660.00
                             },
                             {
                                 "Name": "谷歌支付",
                                 "Price": 139.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 660.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 660.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [
+                            "PayermaxAXIATABOOST",
+                            "PayermaxTNG",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxAXIATABOOST",
+                                "Price": 942.00
+                            },
+                            {
+                                "Name": "PayermaxTNG",
+                                "Price": 942.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 199.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 942.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 942.00
                             }
                         ]
                     }
                 ]
             },
-            "Vip_Gear": [ 7, 30, 90, 180 ],
-            "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay", "PayerMax", "Tejeepay" ],
             "Vip_Pay_Detail": {
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
+                        "Price": 2.99,
                         "Vip_Days": 7,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
@@ -1411,37 +1520,47 @@
                             "PayermaxUMOBILE",
                             "PayermaxCELCOM",
                             "PayermaxDIGI",
+                            "PayermaxFPX",
+                            "PayssionGRABPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 7.00
+                                "Price": 14.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 7.00
+                                "Price": 14.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 8.00
+                                "Price": 22.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
-                                "Price": 8.00
+                                "Price": 22.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 8.00
+                                "Price": 22.00
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 15.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 14.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 1.69
+                                "Price": 2.99
                             }
                         ]
                     },
                     {
-                        "Price": 4.49,
+                        "Price": 4.99,
                         "Vip_Days": 30,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
@@ -1454,32 +1573,40 @@
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 19.00
+                                "Price": 23.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 19.00
+                                "Price": 23.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 21.00
+                                "Price": 36.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
-                                "Price": 21.00
+                                "Price": 36.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 21.00
+                                "Price": 36.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 4.49
+                                "Price": 4.99
+                            },
+                            {
+                                "Name": "PayermaxFPX",
+                                "Price": 24.00
+                            },
+                            {
+                                "Name": "PayssionGRABPAY",
+                                "Price": 23.00
                             }
                         ]
                     },
                     {
-                        "Price": 7.99,
+                        "Price": 12.99,
                         "Vip_Days": 90,
                         "PayMethod_Name": [
                             "PayermaxAXIATABOOST",
@@ -1492,61 +1619,35 @@
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxAXIATABOOST",
-                                "Price": 35.00
+                                "Price": 60.00
                             },
                             {
                                 "Name": "PayermaxTNG",
-                                "Price": 35.00
+                                "Price": 60.00
                             },
                             {
                                 "Name": "PayermaxUMOBILE",
-                                "Price": 37.00
+                                "Price": 95.00
                             },
                             {
                                 "Name": "PayermaxCELCOM",
-                                "Price": 37.00
+                                "Price": 95.00
                             },
                             {
                                 "Name": "PayermaxDIGI",
-                                "Price": 37.00
+                                "Price": 95.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 7.99
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 10.99,
-                        "Vip_Days": 180,
-                        "PayMethod_Name": [
-                            "PayermaxAXIATABOOST",
-                            "PayermaxTNG",
-                            "PayermaxUMOBILE",
-                            "PayermaxCELCOM",
-                            "PayermaxDIGI",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxAXIATABOOST",
-                                "Price": 48.00
+                                "Price": 12.99
                             },
                             {
-                                "Name": "PayermaxTNG",
-                                "Price": 48.00
+                                "Name": "PayermaxFPX",
+                                "Price": 61.00
                             },
                             {
-                                "Name": "PayermaxCELCOM",
-                                "Price": 51.00
-                            },
-                            {
-                                "Name": "PayermaxDIGI",
-                                "Price": 51.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 10.99
+                                "Name": "PayssionGRABPAY",
+                                "Price": 60.00
                             }
                         ]
                     }
@@ -1560,7 +1661,7 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "SGD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1654,7 +1755,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PHP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -1748,19 +1849,19 @@
             "Area": "Indonesia",
             "Area_CN": "印尼大区",
             "Currency_Code": "IDR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
-            "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
+            "Diamond_Gear": [ 160, 199 ,369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay", "PayerMax", "Tejeepay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "IDR",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
-                        "Diamond_Count": 125,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxTRIINDO", "PayermaxINDOSAT", "PayermaxXL", "PayermaxTELKOMSEL", "PayermaxPERMATA", "PayermaxMANDIRI", "PayermaxBNI", "PayermaxBRI", "PayermaxLINKAJA", "PayermaxOVO", "PayermaxDANA", "PayermaxGOPAY", "PayermaxSHOPEEPAY" ],
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxTRIINDO", "PayermaxINDOSAT", "PayermaxXL", "PayermaxTELKOMSEL", "TejeepayPERMATA", "TejeepayMANDIRI", "TejeepayBNI", "TejeepayBCA" , "TejeepayBRI", "TejeepayLINKAJA", "TejeepayOVO", "TejeepayDANA", "PayermaxGOPAY", "TejeepaySHOPEEPAY" ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "谷歌支付",
-                                "Price": 1.69
+                                "Price": 2.18
                             },
                             {
                                 "Name": "PayermaxTRIINDO",
@@ -1768,71 +1869,76 @@
                             },
                             {
                                 "Name": "PayermaxINDOSAT",
-                                "Price": 40000.00
+                                "Price": 50000.00
                             },
                             {
                                 "Name": "PayermaxXL",
-                                "Price": 40000.00
+                                "Price": 50000.00
                             },
                             {
                                 "Name": "PayermaxTELKOMSEL",
-                                "Price": 40000.00
+                                "Price": 50000.00
                             },
                             {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 29000.00
+                                "Name": "TejeepayPERMATA",
+                                "Price": 39000.00
                             },
                             {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 29000.00
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 39000.00
                             },
                             {
-                                "Name": "PayermaxBNI",
-                                "Price": 29000.00
+                                "Name": "TejeepayBNI",
+                                "Price": 39000.00
                             },
                             {
-                                "Name": "PayermaxBRI",
-                                "Price": 29000.00
+                                "Name": "TejeepayBRI",
+                                "Price": 39000.00
                             },
                             {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 26500.00
+                                "Name": "TejeepayBCA",
+                                "Price": 39000.00
                             },
                             {
-                                "Name": "PayermaxOVO",
-                                "Price": 26500.00
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 35000.00
                             },
                             {
-                                "Name": "PayermaxDANA",
-                                "Price": 26500.00
+                                "Name": "TejeepayOVO",
+                                "Price": 35000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 35000.00
                             },
                             {
                                 "Name": "PayermaxGOPAY",
-                                "Price": 26500.00
+                                "Price": 36000.00
                             },
                             {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 26500.00
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 35000.00
                             }
                         ]
                     },
                     {
-                        "Price": 1.99,
+                        "Price": 2.18,
                         "Diamond_Count": 199,
                         "PayMethod_Name": [
                             "PayermaxTRIINDO",
                             "PayermaxINDOSAT",
                             "PayermaxXL",
                             "PayermaxTELKOMSEL",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayBCA",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
                             "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
+                            "TejeepaySHOPEEPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
@@ -1850,141 +1956,57 @@
                             },
                             {
                                 "Name": "PayermaxTELKOMSEL",
-                                "Price": 48000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 32000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 32000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 32000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 32000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 30000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 30000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 30000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 31000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 30000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 1.99
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 3.19,
-                        "Diamond_Count": 236,
-                        "PayMethod_Name": [
-                            "PayermaxINDOMARET",
-                            "PayermaxALFAMART",
-                            "PayermaxTRIINDO",
-                            "PayermaxINDOSAT",
-                            "PayermaxXL",
-                            "PayermaxTELKOMSEL",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxINDOMARET",
-                                "Price": 65000.00
-                            },
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 53000.00
-                            },
-                            {
-                                "Name": "PayermaxTRIINDO",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxINDOSAT",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxXL",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxTELKOMSEL",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 51000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 51000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 51000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 51000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 49000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 49000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 49000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
                                 "Price": 50000.00
                             },
                             {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 49000.00
+                                "Name": "TejeepayPERMATA",
+                                "Price": 39000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 39000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 39000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 39000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 39000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 35000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 35000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 35000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 36000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 35000.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 3.19
+                                "Price": 2.18
                             }
                         ]
                     },
                     {
-                        "Price": 6.29,
-                        "Diamond_Count": 470,
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
                         "PayMethod_Name": [
                             "PayermaxINDOMARET",
                             "PayermaxALFAMART",
@@ -1992,30 +2014,26 @@
                             "PayermaxINDOSAT",
                             "PayermaxXL",
                             "PayermaxTELKOMSEL",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayBCA",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
                             "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
+                            "TejeepaySHOPEEPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxINDOMARET",
-                                "Price": 128000.00
+                                "Price": 96000.00
                             },
                             {
                                 "Name": "PayermaxALFAMART",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxTRIINDO",
-                                "Price": 250000.00
+                                "Price": 83000.00
                             },
                             {
                                 "Name": "PayermaxINDOSAT",
@@ -2023,544 +2041,79 @@
                             },
                             {
                                 "Name": "PayermaxXL",
-                                "Price": 200000.00
+                                "Price": 125000.00
                             },
                             {
                                 "Name": "PayermaxTELKOMSEL",
-                                "Price": 200000.00
+                                "Price": 125000.00
                             },
                             {
-                                "Name": "PayermaxBCA",
-                                "Price": 99000.00
+                                "Name": "TejeepayPERMATA",
+                                "Price": 83000.00
                             },
                             {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 99000.00
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 83000.00
                             },
                             {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 99000.00
+                                "Name": "TejeepayBNI",
+                                "Price": 83000.00
                             },
                             {
-                                "Name": "PayermaxBNI",
-                                "Price": 99000.00
+                                "Name": "TejeepayBRI",
+                                "Price": 83000.00
                             },
                             {
-                                "Name": "PayermaxBRI",
-                                "Price": 99000.00
+                                "Name": "TejeepayBCA",
+                                "Price": 83000.00
                             },
                             {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 99000.00
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 81000.00
                             },
                             {
-                                "Name": "PayermaxOVO",
-                                "Price": 99000.00
+                                "Name": "TejeepayOVO",
+                                "Price": 81000.00
                             },
                             {
-                                "Name": "PayermaxDANA",
-                                "Price": 99000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 99000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 99000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 6.29
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 13.99,
-                        "Diamond_Count": 1052,
-                        "PayMethod_Name": [
-                            "谷歌支付",
-                            "PayermaxINDOMARET",
-                            "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 13.99
-                            },
-                            {
-                                "Name": "PayermaxINDOMARET",
-                                "Price": 300000.00
-                            },
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxBCA",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 218000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 218000.00
+                                "Name": "TejeepayDANA",
+                                "Price": 81000.00
                             },
                             {
                                 "Name": "PayermaxGOPAY",
-                                "Price": 218000.00
+                                "Price": 82000.00
                             },
                             {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 218000.00
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 33.99,
-                        "Diamond_Count": 2570,
-                        "PayMethod_Name": [
-                            "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 535000.00
-                            },
-                            {
-                                "Name": "PayermaxBCA",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 530000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 530000.00
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 81000.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 33.99
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 69.99,
-                        "Diamond_Count": 5314,
-                        "PayMethod_Name": [
-                            "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 1100000.00
-                            },
-                            {
-                                "Name": "PayermaxBCA",
-                                "Price": 1090000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 1070000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 1070000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 1080000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 69.99
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 139.99,
-                        "Diamond_Count": 10679,
-                        "PayMethod_Name": [
-                            "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 2200000.00
-                            },
-                            {
-                                "Name": "PayermaxBCA",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 2140000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 2160000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 2140000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 2190000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 2150000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 139.99
-                            }
-                        ]
-                    }
-                ]
-            },
-            "Vip_Gear": [ 7, 30, 90, 180 ],
-            "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
-            "Vip_Pay_Detail": {
-                "Currency": "IDR",
-                "PayMethod_Price": [
-                    {
-                        "Price": 1.69,
-                        "Vip_Days": 7,
-                        "PayMethod_Name": [
-                            "PayermaxINDOMARET",
-                            "PayermaxALFAMART",
-                            "PayermaxTRIINDO",
-                            "PayermaxINDOSAT",
-                            "PayermaxXL",
-                            "PayermaxTELKOMSEL",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxINDOMARET",
-                                "Price": 40000.00
-                            },
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 25000.00
-                            },
-                            {
-                                "Name": "PayermaxTRIINDO",
-                                "Price": 50000.00
-                            },
-                            {
-                                "Name": "PayermaxINDOSAT",
-                                "Price": 40000.00
-                            },
-                            {
-                                "Name": "PayermaxXL",
-                                "Price": 40000.00
-                            },
-                            {
-                                "Name": "PayermaxTELKOMSEL",
-                                "Price": 40000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 29000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 29000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 29000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 29000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 26500.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 26500.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 26500.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 27000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 26000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 1.69
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 4.49,
-                        "Vip_Days": 30,
-                        "PayMethod_Name": [
-                            "PayermaxINDOMARET",
-                            "PayermaxALFAMART",
-                            "PayermaxSMARTFREN",
-                            "PayermaxTRIINDO",
-                            "PayermaxINDOSAT",
-                            "PayermaxXL",
-                            "PayermaxTELKOMSEL",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
-                            "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
-                            "谷歌支付"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "PayermaxINDOMARET",
-                                "Price": 90000.00
-                            },
-                            {
-                                "Name": "PayermaxALFAMART",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxSMARTFREN",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxTRIINDO",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxINDOSAT",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxXL",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxTELKOMSEL",
-                                "Price": 100000.00
-                            },
-                            {
-                                "Name": "PayermaxBCA",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxBNI",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxBRI",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 70000.00
-                            },
-                            {
-                                "Name": "PayermaxOVO",
-                                "Price": 68000.00
-                            },
-                            {
-                                "Name": "PayermaxDANA",
-                                "Price": 68000.00
-                            },
-                            {
-                                "Name": "PayermaxGOPAY",
-                                "Price": 69000.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 68000.00
-                            },
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 4.49
+                                "Price": 4.99
                             }
                         ]
                     },
                     {
                         "Price": 7.99,
-                        "Vip_Days": 90,
+                        "Diamond_Count": 739,
                         "PayMethod_Name": [
                             "PayermaxINDOMARET",
                             "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
+                            "PayermaxTRIINDO",
+                            "PayermaxINDOSAT",
+                            "PayermaxXL",
+                            "PayermaxTELKOMSEL",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
                             "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
+                            "TejeepaySHOPEEPAY",
+                            "TejeepayBCA",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
@@ -2570,47 +2123,59 @@
                             },
                             {
                                 "Name": "PayermaxALFAMART",
-                                "Price": 120000.00
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxBCA",
-                                "Price": 127000.00
+                                "Name": "PayermaxINDOSAT",
+                                "Price": 200000.00
                             },
                             {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 127000.00
+                                "Name": "PayermaxXL",
+                                "Price": 200000.00
                             },
                             {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 127000.00
+                                "Name": "PayermaxTELKOMSEL",
+                                "Price": 200000.00
                             },
                             {
-                                "Name": "PayermaxBNI",
-                                "Price": 127000.00
+                                "Name": "TejeepayBCA",
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxBRI",
-                                "Price": 127000.00
+                                "Name": "TejeepayPERMATA",
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 124000.00
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxOVO",
-                                "Price": 124000.00
+                                "Name": "TejeepayBNI",
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxDANA",
-                                "Price": 124000.00
+                                "Name": "TejeepayBRI",
+                                "Price": 129000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 129000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 129000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 129000.00
                             },
                             {
                                 "Name": "PayermaxGOPAY",
-                                "Price": 127000.00
+                                "Price": 129000.00
                             },
                             {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 124000.00
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 129000.00
                             },
                             {
                                 "Name": "谷歌支付",
@@ -2619,75 +2184,606 @@
                         ]
                     },
                     {
-                        "Price": 10.99,
-                        "Vip_Days": 180,
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
                         "PayMethod_Name": [
+                            "谷歌支付",
                             "PayermaxINDOMARET",
                             "PayermaxALFAMART",
-                            "PayermaxBCA",
-                            "PayermaxPERMATA",
-                            "PayermaxMANDIRI",
-                            "PayermaxBNI",
-                            "PayermaxBRI",
-                            "PayermaxLINKAJA",
-                            "PayermaxOVO",
-                            "PayermaxDANA",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
                             "PayermaxGOPAY",
-                            "PayermaxSHOPEEPAY",
+                            "TejeepayBCA",
+                            "TejeepaySHOPEEPAY"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 19.99
+                            },
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 3900000.00
+                            },
+                            {
+                                "Name": "PayermaxALFAMART",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "PayermaxTRIINDO",
+                                "Price": 500000.00
+                            },
+                            {
+                                "Name": "PayermaxINDOSAT",
+                                "Price": 500000.00
+                            },
+                            {
+                                "Name": "PayermaxXL",
+                                "Price": 500000.00
+                            },
+                            {
+                                "Name": "PayermaxTELKOMSEL",
+                                "Price": 500000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 322000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 322000.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [
+                            "PayermaxALFAMART",
+                            "TejeepayBCA",
+                            "PayermaxINDOMARET",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxALFAMART",
+                                "Price": 750000.00
+                            },
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 3900000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 644000.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 39.99
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [
+                            "PayermaxALFAMART",
+                            "TejeepayBCA",
+                            "PayermaxINDOMARET",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxALFAMART",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 1850000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 1610000.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 99.99
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [
+                            "PayermaxALFAMART",
+                            "PayermaxINDOMARET",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
                             "谷歌支付"
                         ],
                         "PayMethod_Fixed_Price": [
                             {
                                 "Name": "PayermaxINDOMARET",
-                                "Price": 200000.00
+                                "Price": 2600000.00
                             },
                             {
                                 "Name": "PayermaxALFAMART",
-                                "Price": 160000.00
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxBCA",
-                                "Price": 168000.00
+                                "Name": "TejeepayBCA",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxPERMATA",
-                                "Price": 168000.00
+                                "Name": "TejeepayPERMATA",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxMANDIRI",
-                                "Price": 168000.00
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxBNI",
-                                "Price": 168000.00
+                                "Name": "TejeepayBNI",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxBRI",
-                                "Price": 168000.00
+                                "Name": "TejeepayBRI",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxLINKAJA",
-                                "Price": 160000.00
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxOVO",
-                                "Price": 165000.00
+                                "Name": "TejeepayOVO",
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxDANA",
-                                "Price": 165000.00
+                                "Name": "TejeepayDANA",
+                                "Price": 2254000.00
                             },
                             {
                                 "Name": "PayermaxGOPAY",
-                                "Price": 168000.00
+                                "Price": 2254000.00
                             },
                             {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 165000.00
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 2254000.00
                             },
                             {
                                 "Name": "谷歌支付",
-                                "Price": 10.99
+                                "Price": 139.99
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [
+                            "PayermaxALFAMART",
+                            "PayermaxINDOMARET",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 3700000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 3220000.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 199.99
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
+            "Vip_Pay_Detail": {
+                "Currency": "IDR",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [
+                            "PayermaxINDOMARET",
+                            "PayermaxALFAMART",
+                            "PayermaxTRIINDO",
+                            "PayermaxINDOSAT",
+                            "PayermaxXL",
+                            "PayermaxTELKOMSEL",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 52000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 52000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 52000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 52000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 52000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 48100.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 48100.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 48100.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 50000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 48100.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 2.99
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [
+                            "PayermaxINDOMARET",
+                            "PayermaxALFAMART",
+                            "PayermaxSMARTFREN",
+                            "PayermaxTRIINDO",
+                            "PayermaxINDOSAT",
+                            "PayermaxXL",
+                            "PayermaxTELKOMSEL",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 96000.00
+                            },
+                            {
+                                "Name": "PayermaxALFAMART",
+                                "Price": 82000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 83000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 83000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 83000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 83000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 83000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 81000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 81000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 81000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 82000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 81000.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 4.99
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [
+                            "PayermaxINDOMARET",
+                            "PayermaxALFAMART",
+                            "TejeepayBCA",
+                            "TejeepayPERMATA",
+                            "TejeepayMANDIRI",
+                            "TejeepayBNI",
+                            "TejeepayBRI",
+                            "TejeepayLINKAJA",
+                            "TejeepayOVO",
+                            "TejeepayDANA",
+                            "PayermaxGOPAY",
+                            "TejeepaySHOPEEPAY",
+                            "谷歌支付"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "PayermaxINDOMARET",
+                                "Price": 250000.00
+                            },
+                            {
+                                "Name": "PayermaxALFAMART",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayBCA",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayPERMATA",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayMANDIRI",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayBNI",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayBRI",
+                                "Price": 210000.00
+                            },
+                            {
+                                "Name": "TejeepayLINKAJA",
+                                "Price": 209000.00
+                            },
+                            {
+                                "Name": "TejeepayOVO",
+                                "Price": 209000.00
+                            },
+                            {
+                                "Name": "TejeepayDANA",
+                                "Price": 209000.00
+                            },
+                            {
+                                "Name": "PayermaxGOPAY",
+                                "Price": 215000.00
+                            },
+                            {
+                                "Name": "TejeepaySHOPEEPAY",
+                                "Price": 209000.00
+                            },
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 12.99
                             }
                         ]
                     }
@@ -2701,7 +2797,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "VND",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payermax", "Paynow" ],
             "Diamond_Pay_Detail": {
                 "Currency": "VND",
@@ -3269,7 +3365,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "THB",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "THB",
@@ -4107,7 +4203,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "NGN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "NGN",
@@ -4357,7 +4453,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GHS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "GHS",
@@ -4511,7 +4607,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UGX",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "UGX",
@@ -4761,7 +4857,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KES",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "KES",
@@ -5011,7 +5107,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TZS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "TZS",
@@ -5213,7 +5309,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ZMW",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "ZMW",
@@ -5463,7 +5559,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RWF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "RWF",
@@ -5713,7 +5809,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MWK",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay", "Payssion" ],
             "Diamond_Pay_Detail": {
                 "Currency": "MWK",
@@ -5915,7 +6011,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MNT",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6009,7 +6105,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LAK",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6103,7 +6199,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KHR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6197,7 +6293,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MMK",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6291,7 +6387,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LKR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6385,7 +6481,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MVR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6479,7 +6575,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BDT",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6573,7 +6669,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "NPR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6667,7 +6763,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BTN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6761,7 +6857,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "IRR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6855,7 +6951,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TRY",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -6949,7 +7045,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SYP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7043,7 +7139,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LBP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7137,7 +7233,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ILS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7231,7 +7327,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "JOD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7325,7 +7421,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "IQD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7419,7 +7515,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "YER",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7513,7 +7609,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AFN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7607,7 +7703,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TMT",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7701,7 +7797,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UZS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7795,7 +7891,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KGS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7889,7 +7985,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TJS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -7983,7 +8079,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KZT",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8077,7 +8173,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EGP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8171,7 +8267,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SDG",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8265,7 +8361,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LYD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8359,7 +8455,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "TND",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8453,7 +8549,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "DZD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8547,7 +8643,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MAD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8641,7 +8737,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SOS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8735,7 +8831,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8829,7 +8925,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GNF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -8923,7 +9019,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LRD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9017,7 +9113,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9111,7 +9207,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XOF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9205,7 +9301,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9299,7 +9395,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9393,7 +9489,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9487,7 +9583,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "XAF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9581,7 +9677,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AOA",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9675,7 +9771,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ZAR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9769,7 +9865,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "SZL",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9863,7 +9959,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "LSL",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -9957,7 +10053,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MGA",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10051,7 +10147,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "KMF",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10145,7 +10241,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MUR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10239,7 +10335,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MZN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10333,7 +10429,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10427,7 +10523,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "AUD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10521,7 +10617,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "FJD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10615,7 +10711,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RUB",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10709,7 +10805,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "UAH",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10803,7 +10899,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BYN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10897,7 +10993,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -10991,7 +11087,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RON",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11085,7 +11181,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11179,7 +11275,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "EUR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11273,7 +11369,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "RSD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11367,7 +11463,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ARS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11461,7 +11557,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BOB",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11555,7 +11651,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "BRL",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11649,7 +11745,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CRC",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11743,7 +11839,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CUP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11837,7 +11933,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -11931,7 +12027,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "GTQ",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12025,7 +12121,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "HNL",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12119,7 +12215,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "JMD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12213,7 +12309,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "USD",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -12307,7 +12403,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PYG",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15033,7 +15129,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "COP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15127,7 +15223,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "VES",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15221,7 +15317,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "INR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15315,7 +15411,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PKR",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15409,7 +15505,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "CLP",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15503,7 +15599,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "MXN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15597,7 +15693,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "ECS",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
@@ -15691,7 +15787,7 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PEN",
-            "Diamond_Gear": [ 160, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
             "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
