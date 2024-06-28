@@ -320,7 +320,7 @@ namespace Create_order
                             PayChannel_Info payMethod_Info = new PayChannel_Info()
                             {
                                 Channel_Id = intChannelId,
-                                Channel_Name = excelData[j][11],
+                                Channel_Name = excelData[j][12],
                                 Price = doublePrice,
                                 Num = intNum,
                                 Sort = intSort,
@@ -336,7 +336,7 @@ namespace Create_order
                             PayChannel_Info payMethod_Info = new PayChannel_Info()
                             {
                                 Channel_Id = intChannelId,
-                                Channel_Name = excelData[j][11],
+                                Channel_Name = excelData[j][12],
                                 Price = doublePrice,
                                 Num = intNum,
                                 Sort = intSort,
