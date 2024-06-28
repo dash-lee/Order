@@ -836,6 +836,127 @@
       "Logo": "/uploads/pay_channel_icon/LapayAIRTELTIGO.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 77,
+      "Pay_type_id": 11,
+      "Channel_code": "wp101#OVO",
+      "State": 1,
+      "Channel_name": "OVO",
+      "Channel_web": "TejeepayOVO",
+      "Logo": "/uploads/pay_channel_icon/PayermaxOVO.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 78,
+      "Pay_type_id": 11,
+      "Channel_code": "wp101#DANA",
+      "State": 1,
+      "Channel_name": "DANA",
+      "Channel_web": "TejeepayDANA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxDANA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 79,
+      "Pay_type_id": 11,
+      "Channel_code": "wp101#LINKAJA",
+      "State": 1,
+      "Channel_name": "LINKAJA",
+      "Channel_web": "TejeepayLINKAJA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxLINKAJA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 80,
+      "Pay_type_id": 11,
+      "Channel_code": "wp101#SHOPEEPAY",
+      "State": 1,
+      "Channel_name": "SHOPEEPAY",
+      "Channel_web": "TejeepaySHOPEEPAY",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSHOPEEPAY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 81,
+      "Pay_type_id": 11,
+      "Channel_code": "bq101#BCA",
+      "State": 1,
+      "Channel_name": "BCA",
+      "Channel_web": "TejeepayBCA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBCA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 82,
+      "Pay_type_id": 11,
+      "Channel_code": "bq101#BRI",
+      "State": 1,
+      "Channel_name": "BRI",
+      "Channel_web": "TejeepayBRI",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBRI.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 83,
+      "Pay_type_id": 11,
+      "Channel_code": "bq101#BNI",
+      "State": 1,
+      "Channel_name": "BNI",
+      "Channel_web": "TejeepayBNI",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBNI.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 84,
+      "Pay_type_id": 11,
+      "Channel_code": "bq101#PERMATA",
+      "State": 1,
+      "Channel_name": "PERMATA",
+      "Channel_web": "TejeepayPERMATA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxPERMATA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 85,
+      "Pay_type_id": 11,
+      "Channel_code": "bq101#MANDIRI",
+      "State": 1,
+      "Channel_name": "MANDIRI",
+      "Channel_web": "TejeepayMANDIRI",
+      "Logo": "/uploads/pay_channel_icon/PayermaxMANDIRI.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 86,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#FPX",
+      "State": 1,
+      "Channel_name": "FPX",
+      "Channel_web": "PayermaxFPX",
+      "Logo": "/uploads/pay_channel_icon/PayermaxFPX.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 87,
+      "Pay_type_id": 3,
+      "Channel_code": "grabpay_my",
+      "State": 1,
+      "Channel_name": "GRABPAY",
+      "Channel_web": "PayssionGRABPAY",
+      "Logo": "/uploads/pay_channel_icon/PayssionGRABPAY.png",
+      "App": [],
+      "Country": []
     }
   ]
 }

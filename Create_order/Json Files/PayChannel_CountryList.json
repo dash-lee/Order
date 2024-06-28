@@ -1,6 +1,6 @@
 {
     "//":"不同国家需要配置的显示支付",
-    "Last_ID":214,
+    "Last_ID":221,
     "PayMethod_Detail_Channel": [
             {
                 "Country": "Indonesia",
@@ -36,7 +36,7 @@
                                 "Name_Selflook": "PayermaxCARD",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxCARD.png",
                                 "Sort": 19,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": false
                             },
                             {
@@ -47,7 +47,7 @@
                                 "Name_Selflook": "PayermaxSHOPEEPAY",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxCARD.png",
                                 "Sort": 2,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -58,7 +58,7 @@
                                 "Name_Selflook": "PayermaxGOPAY",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxGOPAY.png",
                                 "Sort": 3,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -69,7 +69,7 @@
                                 "Name_Selflook": "PayermaxDANA",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxDANA.png",
                                 "Sort": 4,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -80,7 +80,7 @@
                                 "Name_Selflook": "PayermaxOVO",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxOVO.png",
                                 "Sort": 5,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -91,7 +91,7 @@
                                 "Name_Selflook": "PayermaxLINKAJA",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxLINKAJA.png",
                                 "Sort": 6,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -102,7 +102,7 @@
                                 "Name_Selflook": "PayermaxBCA",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxBCA.png",
                                 "Sort": 7,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -113,7 +113,7 @@
                                 "Name_Selflook": "PayermaxBRI",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxBRI.png",
                                 "Sort": 8,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
 
                             },
@@ -125,7 +125,7 @@
                                 "Name_Selflook": "PayermaxBNI",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxBNI.png",
                                 "Sort": 9,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -136,7 +136,7 @@
                                 "Name_Selflook": "PayermaxMANDIRI",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxMANDIRI.png",
                                 "Sort": 10,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -147,7 +147,7 @@
                                 "Name_Selflook": "PayermaxPERMATA",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxPERMATA.png",
                                 "Sort": 11,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -158,7 +158,7 @@
                                 "Name_Selflook": "PayermaxALFAMART",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxALFAMART.png",
                                 "Sort": 12,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -169,7 +169,7 @@
                                 "Name_Selflook": "PayermaxTELKOMSEL",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxTELKOMSEL.png",
                                 "Sort": 13,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -180,7 +180,7 @@
                                 "Name_Selflook": "PayermaxXL",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxXL.png",
                                 "Sort": 14,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -191,7 +191,7 @@
                                 "Name_Selflook": "PayermaxINDOSAT",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxINDOSAT.png",
                                 "Sort": 15,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -202,7 +202,7 @@
                                 "Name_Selflook": "PayermaxTRIINDO",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxTRIINDO.png",
                                 "Sort": 16,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -213,7 +213,7 @@
                                 "Name_Selflook": "PayermaxSMARTFREN",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxSMARTFREN.png",
                                 "Sort": 17,
-                                "is_rate":1,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             },
                             {
@@ -224,7 +224,24 @@
                                 "Name_Selflook": "PayermaxINDOMARET",
                                 "Logo": "/uploads/pay_channel_icon/PayermaxINDOMARET.png",
                                 "Sort": 18,
-                                "is_rate":1,
+                                "is_rate": 1,
+                                "Is_Open_Now": true
+                            }
+                        ]
+                    },
+                    {
+                        "PaymentMethod_Name": "Tejeepay",
+                        "PaymentMethod_Type": 2,
+                        "Channel": [
+                            {
+                                "//": "OTC系,单笔22%，T+2W",
+                                "ID": 222,
+                                "Code": "OTC#INDOMARET",
+                                "Name": "INDOMARET",
+                                "Name_Selflook": "PayermaxINDOMARET",
+                                "Logo": "/uploads/pay_channel_icon/PayermaxINDOMARET.png",
+                                "Sort": 18,
+                                "is_rate": 1,
                                 "Is_Open_Now": true
                             }
                         ]

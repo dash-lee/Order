@@ -1184,6 +1184,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "buy_diamond_27"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_qibit"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_qibit"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_qibit"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_qibit"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_qibit"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_qibit"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_qibit"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_qibit"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_qibit"
                 }
             ],
             "Vip_Google_ID": [
@@ -1206,6 +1251,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "buy_vip_4"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_qibit"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_qibit"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_qibit"
                 }
             ]
         },
@@ -1301,6 +1361,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "ceci_gold_10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_ceci"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_ceci"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_ceci"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_ceci"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_ceci"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_ceci"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_ceci"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_ceci"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_ceci"
                 }
             ],
             "Vip_Google_ID": [
@@ -1323,6 +1428,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "ceci_vip_180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_ceci"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_ceci"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_ceci"
                 }
             ]
         },
@@ -1418,6 +1538,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "livvy_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_livvy"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_livvy"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_livvy"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_livvy"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_livvy"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_livvy"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_livvy"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_livvy"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_livvy"
                 }
             ],
             "Vip_Google_ID": [
@@ -1440,6 +1605,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "livvy_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_livvy"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_livvy"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_livvy"
                 }
             ]
         },
@@ -1535,6 +1715,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "biffo_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_biffo"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_biffo"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_biffo"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_biffo"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_biffo"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_biffo"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_biffo"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_biffo"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_biffo"
                 }
             ],
             "Vip_Google_ID": [
@@ -1557,6 +1782,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "biffo_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_biffo"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_biffo"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_biffo"
                 }
             ]
         },
@@ -1652,6 +1892,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "quizy_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_quizy"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_quizy"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_quizy"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_quizy"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_quizy"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_quizy"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_quizy"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_quizy"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_quizy"
                 }
             ],
             "Vip_Google_ID": [
@@ -1674,6 +1959,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "quizy_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_quizy"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_quizy"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_quizy"
                 }
             ]
         },
@@ -1769,6 +2069,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "riffy_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_riffy"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_riffy"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_riffy"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_riffy"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_riffy"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_riffy"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_riffy"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_riffy"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_riffy"
                 }
             ],
             "Vip_Google_ID": [
@@ -1791,6 +2136,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "riffy_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_riffy"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_riffy"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_riffy"
                 }
             ]
         },
@@ -1886,6 +2246,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "wixel_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_wixel"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_wixel"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_wixel"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_wixel"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_wixel"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_wixel"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_wixel"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_wixel"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_wixel"
                 }
             ],
             "Vip_Google_ID": [
@@ -1908,6 +2313,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "wixel_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_wixel"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_wixel"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_wixel"
                 }
             ]
         },
@@ -2003,6 +2423,51 @@
                     "Price": 149.99,
                     "Diamond_Count": 9999,
                     "Google_Price_ID": "flinx_gold10679_new"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 160,
+                    "Google_Price_ID": "d_160_flinx"
+                },
+                {
+                    "Price": 2.18,
+                    "Diamond_Count": 199,
+                    "Google_Price_ID": "d_199_flinx"
+                },
+                {
+                    "Price": 4.99,
+                    "Diamond_Count": 369,
+                    "Google_Price_ID": "d_369_flinx"
+                },
+                {
+                    "Price": 7.99,
+                    "Diamond_Count": 639,
+                    "Google_Price_ID": "d_739_flinx"
+                },
+                {
+                    "Price": 19.99,
+                    "Diamond_Count": 1569,
+                    "Google_Price_ID": "d_1569_flinx"
+                },
+                {
+                    "Price": 39.99,
+                    "Diamond_Count": 2999,
+                    "Google_Price_ID": "d_2999_flinx"
+                },
+                {
+                    "Price": 99.99,
+                    "Diamond_Count": 7599,
+                    "Google_Price_ID": "d_7599_flinx"
+                },
+                {
+                    "Price": 139.99,
+                    "Diamond_Count": 10699,
+                    "Google_Price_ID": "d_10699_flinx"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 15999,
+                    "Google_Price_ID": "d_15999_flinx"
                 }
             ],
             "Vip_Google_ID": [
@@ -2025,6 +2490,21 @@
                     "Price": 10.99,
                     "Vip_Days": 180,
                     "Google_Price_ID": "flinx_vip180"
+                },
+                {
+                    "Price": 2.99,
+                    "Vip_Days": 7,
+                    "Google_Price_ID": "v_7_flinx"
+                },
+                {
+                    "Price": 4.99,
+                    "Vip_Days": 30,
+                    "Google_Price_ID": "v_30_flinx"
+                },
+                {
+                    "Price": 12.99,
+                    "Vip_Days": 90,
+                    "Google_Price_ID": "v_90_flinx"
                 }
             ]
         }

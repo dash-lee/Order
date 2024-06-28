@@ -1,7 +1,7 @@
 {
     "Modify_Diamond": [
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel" ,"Flinx"],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Australia",
                 "America",
@@ -350,8 +350,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -457,8 +455,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -564,8 +560,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -671,8 +665,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -778,8 +770,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -885,8 +875,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -992,8 +980,6 @@
                 "Colombia",
                 "Venezuela",
                 "India",
-                "Indonesia",
-                "Malaysia",
                 "Singapore",
                 "Chile",
                 "Mexico",
@@ -1140,11 +1126,155 @@
                 "Modify_VipUser_Reward_Diamond_Count": 0,
                 "Modify_Discount": 30
             }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 2.18,
+            "Modify_Diamond_Count": 199,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 1,
+                "Modify_Vip_Reward_Day": 0,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 30
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 4.99,
+            "Modify_Diamond_Count": 369,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 3,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 10
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 7.99,
+            "Modify_Diamond_Count": 639,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 5,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 15
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 19.99,
+            "Modify_Diamond_Count": 1569,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 7,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 20
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 39.99,
+            "Modify_Diamond_Count": 2999,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 10,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 99.99,
+            "Modify_Diamond_Count": 7599,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 20,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 139.99,
+            "Modify_Diamond_Count": 10699,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 30,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 199.99,
+            "Modify_Diamond_Count": 15999,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 45,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 20
+            }
         }
     ],
     "Modify_Vip": [
         {
-            "Modify_App": [ "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1274,9 +1404,7 @@
                 "Britain",
                 "America",
                 "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Singapore"
             ],
             "Modify_Price": 1.69,
             "Modify_Vip_Days": 7,
@@ -1284,153 +1412,6 @@
                 "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
                 "Modify_Reward_Diamonds": 60,
                 "Modify_IsActivate": 1,
-                "Modify_IsFirstCharge": 0,
-                "Modify_Vip_Reward_Day": 3,
-                "Modify_Vip_Reward_ItemID": 2,
-                "Modify_Vip_Reward_ItemCount": 1
-            }
-        },
-        {
-            "Modify_App": [ "Melon" ],
-            "Modify_Country": [
-                "Czechoslovakia",
-                "Czech",
-                "Spain",
-                "Paraguay",
-                "Uruguay",
-                "Panama",
-                "Jamaica",
-                "Honduras",
-                "Guatemala",
-                "Salvador",
-                "Cuba",
-                "Costa rica",
-                "Brazil",
-                "Bolivia",
-                "Bahamas",
-                "Argentina",
-                "Austria",
-                "Hungary",
-                "Serbia",
-                "Croatia",
-                "Slovenia",
-                "Montenegro",
-                "Estonia",
-                "Lithuania",
-                "Albania",
-                "Finland",
-                "Norway",
-                "Switzerland",
-                "Denmark",
-                "Romania",
-                "Bulgaria",
-                "Portugal",
-                "Iceland",
-                "Ireland",
-                "Belgium",
-                "Belarus",
-                "Ukraine",
-                "Turkey",
-                "Russia",
-                "Fiji",
-                "Nauru",
-                "Zimbabwe",
-                "Mozambique",
-                "Mauritius",
-                "Comores",
-                "Madagascar",
-                "Lesotho",
-                "Swaziland",
-                "South Africa",
-                "Angola",
-                "Equatorial Guinea",
-                "Cameroon",
-                "Central African",
-                "Chad",
-                "Togo",
-                "Ivory Coast",
-                "Liberia",
-                "Guinea",
-                "Senegal",
-                "Somalia",
-                "Morocco",
-                "Algeria",
-                "Tunisia",
-                "Libya",
-                "Sudan",
-                "Egypt",
-                "Kazakhstan",
-                "Tajikistan",
-                "Kyrgyzstan",
-                "Uzbekistan",
-                "Turkmenistan",
-                "Afghanistan",
-                "Qatar",
-                "Arab Emirates",
-                "Oman",
-                "Yemen",
-                "Saudi Arabia",
-                "Kuwait",
-                "Iraq",
-                "Jordan",
-                "Israel",
-                "Palestine",
-                "Lebanon",
-                "Syria",
-                "Iran",
-                "Bhutan",
-                "Nepal",
-                "Bangladesh",
-                "Pakistan",
-                "Maldives",
-                "Sri Lanka",
-                "Brunei",
-                "Myanmar",
-                "Cambodia",
-                "Laos",
-                "Mongolia",
-                "Korea",
-                "Japan",
-                "France",
-                "Peru",
-                "Ecuador",
-                "Mexico",
-                "Chile",
-                "India",
-                "Venezuela",
-                "Colombia",
-                "Rwanda",
-                "Tanzania",
-                "Zambia",
-                "Uganda",
-                "Nigeria",
-                "Kenya",
-                "Ghana",
-                "Malawi",
-                "Poland",
-                "Netherlands",
-                "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
-                "Canada",
-                "Italy",
-                "New Zealand",
-                "Sweden",
-                "Germany",
-                "Britain",
-                "America",
-                "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
-            ],
-            "Modify_Price": 1.69,
-            "Modify_Vip_Days": 7,
-            "Modify_Detail_Info": {
-                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
-                "Modify_Reward_Diamonds": 60,
-                "Modify_IsActivate": 0,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 3,
                 "Modify_Vip_Reward_ItemID": 2,
@@ -1568,9 +1549,7 @@
                 "Britain",
                 "America",
                 "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Singapore"
             ],
             "Modify_Price": 4.49,
             "Modify_Vip_Days": 30,
@@ -1715,9 +1694,7 @@
                 "Britain",
                 "America",
                 "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Singapore"
             ],
             "Modify_Price": 7.99,
             "Modify_Vip_Days": 90,
@@ -1862,9 +1839,7 @@
                 "Britain",
                 "America",
                 "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Singapore"
             ],
             "Modify_Price": 10.99,
             "Modify_Vip_Days": 180,
@@ -1874,6 +1849,60 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 30,
+                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 2.99,
+            "Modify_Vip_Days": 7,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 209,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 3,
+                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 4.99,
+            "Modify_Vip_Days": 30,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 339,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 7,
+                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        },
+        {
+            "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
+            "Modify_Country": [
+                "Indonesia",
+                "Malaysia"
+            ],
+            "Modify_Price": 12.99,
+            "Modify_Vip_Days": 90,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 888,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 15,
                 "Modify_Vip_Reward_ItemID": 2,
                 "Modify_Vip_Reward_ItemCount": 1
             }
