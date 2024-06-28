@@ -11,6 +11,7 @@
             {"hi_v3_recharge_promotions.xlsx",new(){1,3,4} },
             {"hi_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11} },
             {"hi_v3_channel_price_modify.xlsx",new(){1,4,5,6,7,8,9,10,11} },
+            {"tmp.xlsx",new(){1,5,6,7,8,9,10,11,12} },
         };
 
         //ID划分
@@ -46,8 +47,8 @@
         };
 
         //项目配置文件JSON的根目录
-        public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
-        //public static string jsonFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Json Files\";
+        //public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
+        public static string jsonFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Json Files\";
         //项目转JSON文件的Excel目录
         //public static string excelFilesPath = @"D:\Company\Create_order\Excel Source\";
         public static string excelFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Excel Source\";

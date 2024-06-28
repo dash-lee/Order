@@ -140,6 +140,10 @@ namespace Create_order
             {
                 return ModuleSupport.modifyFormat["hi_v3_channel_price_modify.xlsx"];
             }
+            else if(path == desktopPath + @"\config_all\tmp.xlsx")
+            {
+                return ModuleSupport.modifyFormat["tmp.xlsx"];
+            }
             else
             {
                 return null;
@@ -415,37 +419,37 @@ namespace Create_order
         }
 
         //修改Country.json的数据
-        public static void ChangeCountryData()
-        {
-            string jsonFilePath = ModuleSupport.jsonCreateFilesPath + @"Country.json"; // 替换为你的JSON文件路径
-            string jsonString = File.ReadAllText(jsonFilePath); // 读取JSON文件内容
+        //public static void ChangeCountryData()
+        //{
+        //    string jsonFilePath = ModuleSupport.jsonCreateFilesPath + @"Country.json"; // 替换为你的JSON文件路径
+        //    string jsonString = File.ReadAllText(jsonFilePath); // 读取JSON文件内容
 
-            // 解析JSON字符串为JObject
-            JObject jsonObject = JObject.Parse(jsonString);
+        //    // 解析JSON字符串为JObject
+        //    JObject jsonObject = JObject.Parse(jsonString);
 
-            JArray countryArray = (JArray)jsonObject["Country"];
+        //    JArray countryArray = (JArray)jsonObject["Country"];
 
-            foreach (JObject country in countryArray)
-            {
-                JObject diamondObj = (JObject)country["Diamond_Pay_Detail"];
-                JObject vipObj = (JObject)country["Vip_Pay_Detail"];
+        //    foreach (JObject country in countryArray)
+        //    {
+        //        JObject diamondObj = (JObject)country["Diamond_Pay_Detail"];
+        //        JObject vipObj = (JObject)country["Vip_Pay_Detail"];
 
-                JArray payDiamondPrice = (JArray)diamondObj["PayMethod_Price"];
-                JArray payVipPrice = (JArray)vipObj["PayMethod_Price"];
+        //        JArray payDiamondPrice = (JArray)diamondObj["PayMethod_Price"];
+        //        JArray payVipPrice = (JArray)vipObj["PayMethod_Price"];
 
-                foreach (JObject payDiamondPriceItem in payDiamondPrice)
-                {
-                    JToken priceToken = payDiamondPriceItem["Price"];
-                    if (priceToken == null && priceToken.Type == JTokenType.Float || priceToken.Type == JTokenType.Integer)
-                    {
-                        double priceValue = (double)priceToken;
-                        if (priceValue == 1.69)
-                        {
-                            priceValue == 2.28;
-                        }
-                    }
-                }
-            }
-        }
+        //        foreach (JObject payDiamondPriceItem in payDiamondPrice)
+        //        {
+        //            JToken priceToken = payDiamondPriceItem["Price"];
+        //            if (priceToken == null && priceToken.Type == JTokenType.Float || priceToken.Type == JTokenType.Integer)
+        //            {
+        //                double priceValue = (double)priceToken;
+        //                if (priceValue == 1.69)
+        //                {
+        //                    priceValue == 2.28;
+        //                }
+        //            }
+        //        }
+        //    }
+        //}
     }
 }
