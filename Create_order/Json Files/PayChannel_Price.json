@@ -10529,16 +10529,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 1.69,
-          "Num": 125,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 1.66,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 1.99,
@@ -10564,16 +10554,6 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 1.96,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 1.99,
-          "Num": 199,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 1.96,
           "is_discount": 1
@@ -10639,26 +10619,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 2.18,
-          "Num": 160,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.14,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 2.18,
-          "Num": 199,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.14,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.19,
@@ -10684,16 +10644,6 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 3.13,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 3.19,
-          "Num": 236,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 3.13,
           "is_discount": 1
@@ -10729,16 +10679,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 3.49,
-          "Num": 199,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 3.43,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.99,
@@ -10764,16 +10704,6 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 3.92,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 3.99,
-          "Num": 369,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 3.92,
           "is_discount": 1
@@ -10804,16 +10734,6 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 4.9,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 4.99,
-          "Num": 369,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 4.9,
           "is_discount": 1
@@ -10844,16 +10764,6 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 6.18,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 6.29,
-          "Num": 470,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 6.18,
           "is_discount": 1
@@ -10884,16 +10794,6 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.35,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 7.49,
-          "Num": 429,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 7.35,
           "is_discount": 1
@@ -10959,26 +10859,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 7.99,
-          "Num": 639,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.84,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 7.99,
-          "Num": 599,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.84,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 13.99,
@@ -11004,16 +10884,6 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 13.73,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 13.99,
-          "Num": 1052,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 13.73,
           "is_discount": 1
@@ -11079,26 +10949,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 19.99,
-          "Num": 1569,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 19.62,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 19.99,
-          "Num": 1209,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 19.62,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 33.99,
@@ -11124,16 +10974,6 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 33.35,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 33.99,
-          "Num": 2570,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 33.35,
           "is_discount": 1
@@ -11199,26 +11039,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 39.99,
-          "Num": 2999,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 39.24,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 39.99,
-          "Num": 2509,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 39.24,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 69.99,
@@ -11244,16 +11064,6 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 68.67,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 69.99,
-          "Num": 5314,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 68.67,
           "is_discount": 1
@@ -11289,16 +11099,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 79.99,
-          "Num": 5199,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 78.48,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 99.99,
@@ -11324,16 +11124,6 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 98.1,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 99.99,
-          "Num": 7599,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 98.1,
           "is_discount": 1
@@ -11394,26 +11184,6 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 137,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 139.99,
-          "Num": 10699,
-          "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 137,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 139.99,
-          "Num": 10679,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 137,
           "is_discount": 1
@@ -11444,16 +11214,6 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 147,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 149.99,
-          "Num": 9999,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 147,
           "is_discount": 1
@@ -11484,16 +11244,6 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 196,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 199.99,
-          "Num": 15999,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 196,
           "is_discount": 1
@@ -11531,16 +11281,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 1.69,
-          "Num": 7,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 1.66,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 2.99,
@@ -11566,16 +11306,6 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.94,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 2.99,
-          "Num": 7,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 2.94,
           "is_discount": 1
@@ -11611,16 +11341,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 4.49,
-          "Num": 30,
-          "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 4.41,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.99,
@@ -11646,16 +11366,6 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 4.9,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 4.99,
-          "Num": 30,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 4.9,
           "is_discount": 1
@@ -11686,16 +11396,6 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.84,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 7.99,
-          "Num": 90,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 7.84,
           "is_discount": 1
@@ -11726,16 +11426,6 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 10.79,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 10.99,
-          "Num": 180,
-          "Sort": 5,
           "Is_Rate": 1,
           "Fixed_Price": 10.79,
           "is_discount": 1
@@ -11766,16 +11456,6 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 12.75,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 41,
-          "Channel_Name": "PayermaxGIROPAY",
-          "Price": 12.99,
-          "Num": 90,
-          "Sort": 4,
           "Is_Rate": 1,
           "Fixed_Price": 12.75,
           "is_discount": 1
@@ -63413,7 +63093,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9,
           "is_discount": 1
         },
@@ -63423,7 +63103,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9,
           "is_discount": 1
         },
@@ -63433,7 +63113,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -63443,7 +63123,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -63453,7 +63133,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -63473,7 +63153,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 11,
           "is_discount": 1
         },
@@ -63483,7 +63163,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 11,
           "is_discount": 1
         },
@@ -63493,7 +63173,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 15,
           "is_discount": 0
         },
@@ -63503,7 +63183,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 15,
           "is_discount": 0
         },
@@ -63513,7 +63193,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 15,
           "is_discount": 0
         },
@@ -63543,7 +63223,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63553,7 +63233,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63563,7 +63243,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63573,7 +63253,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63583,7 +63263,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 11,
           "is_discount": 1
         },
@@ -63593,7 +63273,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 11,
           "is_discount": 1
         },
@@ -63603,7 +63283,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63613,7 +63293,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 10,
           "is_discount": 1
         },
@@ -63623,7 +63303,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63633,7 +63313,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63643,7 +63323,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63653,7 +63333,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63663,7 +63343,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63673,7 +63353,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
         },
@@ -63693,7 +63373,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 17,
           "is_discount": 1
         },
@@ -63703,7 +63383,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 17,
           "is_discount": 1
         },
@@ -63713,7 +63393,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -63723,7 +63403,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -63733,7 +63413,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -63753,7 +63433,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 19,
           "is_discount": 1
         },
@@ -63763,7 +63443,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 19,
           "is_discount": 1
         },
@@ -63773,7 +63453,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 0
         },
@@ -63783,7 +63463,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 0
         },
@@ -63793,7 +63473,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 0
         },
@@ -63813,7 +63493,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 21,
           "is_discount": 1
         },
@@ -63823,7 +63503,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 21,
           "is_discount": 1
         },
@@ -63833,7 +63513,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 27,
           "is_discount": 0
         },
@@ -63843,7 +63523,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 27,
           "is_discount": 0
         },
@@ -63853,7 +63533,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 27,
           "is_discount": 0
         },
@@ -63873,7 +63553,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 19,
           "is_discount": 1
         },
@@ -63883,7 +63563,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 19,
           "is_discount": 1
         },
@@ -63893,7 +63573,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 20,
           "is_discount": 1
         },
@@ -63903,7 +63583,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 19,
           "is_discount": 1
         },
@@ -63913,7 +63593,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 29,
           "is_discount": 0
         },
@@ -63923,7 +63603,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 29,
           "is_discount": 0
         },
@@ -63933,7 +63613,7 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 29,
           "is_discount": 0
         },
@@ -63953,7 +63633,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 33,
           "is_discount": 1
         },
@@ -63963,7 +63643,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 33,
           "is_discount": 1
         },
@@ -63973,7 +63653,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 0
         },
@@ -63983,7 +63663,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 0
         },
@@ -63993,7 +63673,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 0
         },
@@ -64013,7 +63693,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 39,
           "is_discount": 1
         },
@@ -64023,7 +63703,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 39,
           "is_discount": 1
         },
@@ -64033,7 +63713,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 51,
           "is_discount": 0
         },
@@ -64043,7 +63723,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 51,
           "is_discount": 0
         },
@@ -64073,7 +63753,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 1
         },
@@ -64083,7 +63763,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 37,
           "is_discount": 1
         },
@@ -64093,7 +63773,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 1
         },
@@ -64103,7 +63783,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 37,
           "is_discount": 1
         },
@@ -64113,7 +63793,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 54,
           "is_discount": 0
         },
@@ -64123,7 +63803,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 38,
           "is_discount": 1
         },
@@ -64133,7 +63813,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 54,
           "is_discount": 0
         },
@@ -64143,7 +63823,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 37,
           "is_discount": 1
         },
@@ -64153,7 +63833,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 0
         },
@@ -64163,7 +63843,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 0
         },
@@ -64173,7 +63853,7 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 0
         },
@@ -64193,7 +63873,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 1
         },
@@ -64203,7 +63883,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 1
         },
@@ -64213,7 +63893,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 94,
           "is_discount": 0
         },
@@ -64223,7 +63903,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 94,
           "is_discount": 0
         },
@@ -64253,7 +63933,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -64263,7 +63943,7 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 1
         },
@@ -64273,7 +63953,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -64283,7 +63963,7 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 1
         },
@@ -64293,7 +63973,7 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 1
         },
@@ -64303,7 +63983,7 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 1
         },
@@ -64313,7 +63993,7 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 150,
           "is_discount": 0
         },
@@ -64333,7 +64013,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 177,
           "is_discount": 1
         },
@@ -64343,7 +64023,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 177,
           "is_discount": 1
         },
@@ -64373,7 +64053,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 208,
           "is_discount": 1
         },
@@ -64383,7 +64063,7 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 188,
           "is_discount": 1
         },
@@ -64393,7 +64073,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 208,
           "is_discount": 1
         },
@@ -64403,7 +64083,7 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 188,
           "is_discount": 0
         },
@@ -64413,7 +64093,7 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 188,
           "is_discount": 0
         },
@@ -64423,7 +64103,7 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 188,
           "is_discount": 1
         },
@@ -64443,7 +64123,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 363,
           "is_discount": 1
         },
@@ -64453,7 +64133,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 363,
           "is_discount": 1
         },
@@ -64473,7 +64153,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 415,
           "is_discount": 1
         },
@@ -64483,7 +64163,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 415,
           "is_discount": 1
         },
@@ -64503,7 +64183,7 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 471,
           "is_discount": 1
         },
@@ -64513,7 +64193,7 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 471,
           "is_discount": 1
         },
@@ -64523,7 +64203,7 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 471,
           "is_discount": 1
         },
@@ -64533,7 +64213,7 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 471,
           "is_discount": 1
         },
@@ -64563,7 +64243,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 726,
           "is_discount": 1
         },
@@ -64573,7 +64253,7 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64583,7 +64263,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 726,
           "is_discount": 1
         },
@@ -64593,7 +64273,7 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64603,7 +64283,7 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64613,7 +64293,7 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64633,7 +64313,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 778,
           "is_discount": 1
         },
@@ -64643,7 +64323,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 778,
           "is_discount": 1
         },
@@ -64663,7 +64343,7 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64673,7 +64353,7 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64683,7 +64363,7 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         },
@@ -64693,7 +64373,7 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 660,
           "is_discount": 1
         }
@@ -64715,7 +64395,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9,
           "is_discount": 1
         },
@@ -64725,7 +64405,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9,
           "is_discount": 1
         },
@@ -64735,7 +64415,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -64745,7 +64425,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -64755,7 +64435,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 12,
           "is_discount": 0
         },
@@ -64775,7 +64455,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 14,
           "is_discount": 1
         },
@@ -64785,7 +64465,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 14,
           "is_discount": 1
         },
@@ -64795,7 +64475,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 15,
           "is_discount": 1
         },
@@ -64805,7 +64485,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 14,
           "is_discount": 1
         },
@@ -64815,7 +64495,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -64825,7 +64505,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -64835,7 +64515,7 @@
           "Price": 2.18,
           "Num": 7,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 22,
           "is_discount": 0
         },
@@ -64855,7 +64535,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 1
         },
@@ -64865,7 +64545,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 1
         },
@@ -64875,7 +64555,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 31,
           "is_discount": 0
         },
@@ -64885,7 +64565,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 31,
           "is_discount": 0
         },
@@ -64895,7 +64575,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 31,
           "is_discount": 0
         },
@@ -64915,7 +64595,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 23,
           "is_discount": 1
         },
@@ -64925,7 +64605,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 23,
           "is_discount": 1
         },
@@ -64935,7 +64615,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 1
         },
@@ -64945,7 +64625,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 23,
           "is_discount": 1
         },
@@ -64955,7 +64635,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 36,
           "is_discount": 0
         },
@@ -64965,7 +64645,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 36,
           "is_discount": 0
         },
@@ -64975,7 +64655,7 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 36,
           "is_discount": 0
         },
@@ -64995,7 +64675,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 1
         },
@@ -65005,7 +64685,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 42,
           "is_discount": 1
         },
@@ -65015,7 +64695,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 53,
           "is_discount": 0
         },
@@ -65025,7 +64705,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 53,
           "is_discount": 0
         },
@@ -65035,7 +64715,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 53,
           "is_discount": 0
         },
@@ -65055,7 +64735,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 57,
           "is_discount": 1
         },
@@ -65065,7 +64745,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 57,
           "is_discount": 1
         },
@@ -65075,7 +64755,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 0
         },
@@ -65085,7 +64765,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 0
         },
@@ -65095,7 +64775,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 0
         },
@@ -65115,7 +64795,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 1
         },
@@ -65125,7 +64805,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 1
         },
@@ -65135,7 +64815,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 61,
           "is_discount": 1
         },
@@ -65145,7 +64825,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 1
         },
@@ -65155,7 +64835,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 0
         },
@@ -65165,7 +64845,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 7,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 0
         },
@@ -65175,7 +64855,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 8,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 0
         }
@@ -65207,7 +64887,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 2.18,
           "Num": 160,
@@ -65217,7 +64897,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 2.18,
           "Num": 199,
@@ -65485,6 +65165,186 @@
           "Is_Rate": 0,
           "Fixed_Price": 50000,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 39000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 35000,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -65497,7 +65357,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 3.49,
           "Num": 199,
@@ -65602,6 +65462,86 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 12,
+          "Is_Rate": 0,
+          "Fixed_Price": 57000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 58600,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 58600,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 58600,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 58600,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 57000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 57000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 57000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 57000,
           "is_discount": 1
@@ -65617,7 +65557,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 3.99,
           "Num": 369,
@@ -65727,6 +65667,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 66000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 66000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 66000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 66000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 66000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 65000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 65000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 65000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 65000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.99,
@@ -65737,7 +65767,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 4.99,
           "Num": 369,
@@ -65887,6 +65917,96 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.49,
@@ -65897,7 +66017,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 7.49,
           "Num": 429,
@@ -66007,6 +66127,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 122000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 122000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 122000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 122000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.99,
@@ -66027,7 +66237,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 7.99,
           "Num": 639,
@@ -66037,7 +66247,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 7.99,
           "Num": 599,
@@ -66297,6 +66507,186 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 129000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 131000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 19.99,
@@ -66317,7 +66707,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 19.99,
           "Num": 1569,
@@ -66327,7 +66717,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 19.99,
           "Num": 1209,
@@ -66547,6 +66937,186 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 322000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 324000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 39.99,
@@ -66567,7 +67137,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 39.99,
           "Num": 2999,
@@ -66577,7 +67147,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 39.99,
           "Num": 2509,
@@ -66787,6 +67357,186 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 644000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 650000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 79.99,
@@ -66797,7 +67547,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 79.99,
           "Num": 5199,
@@ -66907,6 +67657,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 1300000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 99.99,
@@ -66917,7 +67757,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 99.99,
           "Num": 7599,
@@ -67037,6 +67877,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 1610000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 139.99,
@@ -67047,7 +67977,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 139.99,
           "Num": 10699,
@@ -67167,6 +68097,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 2254000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 149.99,
@@ -67177,7 +68197,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 149.99,
           "Num": 9999,
@@ -67287,6 +68307,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 2430000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 199.99,
@@ -67297,7 +68407,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 199.99,
           "Num": 15999,
@@ -67417,6 +68527,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 3220000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 1.69,
@@ -67427,7 +68627,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 1.69,
           "Num": 125,
@@ -67527,6 +68727,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 33000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 33000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 33000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 33000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 33000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 28500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 28500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 28500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 28500,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 1.99,
@@ -67537,7 +68827,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 1.99,
           "Num": 199,
@@ -67637,6 +68927,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 36000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 36000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 36000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 36000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 36000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 33800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 33800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 33800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 33800,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.19,
@@ -67647,7 +69027,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 3.19,
           "Num": 236,
@@ -67693,7 +69073,7 @@
           "Num": 236,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 54800,
+          "Fixed_Price": 55800,
           "is_discount": 1
         },
         {
@@ -67713,7 +69093,7 @@
           "Num": 236,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 54800,
+          "Fixed_Price": 55800,
           "is_discount": 1
         },
         {
@@ -67723,7 +69103,7 @@
           "Num": 236,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 54800,
+          "Fixed_Price": 55800,
           "is_discount": 1
         },
         {
@@ -67733,7 +69113,7 @@
           "Num": 236,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 54800,
+          "Fixed_Price": 55800,
           "is_discount": 1
         },
         {
@@ -67743,7 +69123,97 @@
           "Num": 236,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 54800,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 55800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 53800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 53800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 53800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 53800,
           "is_discount": 1
         },
         {
@@ -67757,7 +69227,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 6.29,
           "Num": 470,
@@ -67857,6 +69327,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 108000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 108000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 108000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 108000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 108000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 106200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 106200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 106200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 106200,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 13.99,
@@ -67867,7 +69427,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 13.99,
           "Num": 1052,
@@ -67962,6 +69522,96 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 234800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 234800,
           "is_discount": 1
@@ -67977,7 +69627,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 33.99,
           "Num": 2570,
@@ -68072,6 +69722,96 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 568000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 568000,
           "is_discount": 1
@@ -68087,7 +69827,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 69.99,
           "Num": 5314,
@@ -68182,6 +69922,96 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 1182000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 1182000,
           "is_discount": 1
@@ -68197,7 +70027,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 139.99,
           "Num": 10679,
@@ -68292,6 +70122,96 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2321000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 2,
           "Is_Rate": 0,
           "Fixed_Price": 2321000,
           "is_discount": 1
@@ -68309,7 +70229,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 1.69,
           "Num": 7,
@@ -68419,6 +70339,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 29500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 29500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 29500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 29500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 29500,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 27100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 27100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 27100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 27100,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 2.99,
@@ -68429,7 +70439,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 2.99,
           "Num": 7,
@@ -68529,6 +70539,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 52000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 52000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 52000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 52000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 52000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 48100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 48100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 48100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 48100,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.49,
@@ -68539,7 +70639,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 4.49,
           "Num": 30,
@@ -68709,6 +70809,96 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 74000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 74000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 74000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 74000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 74000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 72000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 72000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 72000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 72000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.99,
@@ -68719,7 +70909,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 4.99,
           "Num": 30,
@@ -68839,6 +71029,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 83000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 81000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.99,
@@ -68849,7 +71129,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 7.99,
           "Num": 90,
@@ -68969,6 +71249,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 130000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 130000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 130000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 130000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 130000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 128000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 10.99,
@@ -68979,7 +71349,7 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 10.99,
           "Num": 180,
@@ -69099,6 +71469,96 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 176000,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 12.99,
@@ -69109,13 +71569,13 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 63,
+          "Channel_Id": 78,
           "Channel_Name": "TejeepayDANA",
           "Price": 12.99,
           "Num": 90,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 209000,
+          "Fixed_Price": 210000,
           "is_discount": 1
         },
         {
@@ -69135,7 +71595,7 @@
           "Num": 90,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 209000,
+          "Fixed_Price": 210000,
           "is_discount": 1
         },
         {
@@ -69145,7 +71605,7 @@
           "Num": 90,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 209000,
+          "Fixed_Price": 210000,
           "is_discount": 1
         },
         {
@@ -69165,7 +71625,7 @@
           "Num": 90,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 209000,
+          "Fixed_Price": 210000,
           "is_discount": 1
         },
         {
@@ -69226,6 +71686,96 @@
           "Sort": 13,
           "Is_Rate": 0,
           "Fixed_Price": 250000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 59,
+          "Channel_Name": "PayermaxBRI",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 60,
+          "Channel_Name": "PayermaxBCA",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 58,
+          "Channel_Name": "PayermaxBNI",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 57,
+          "Channel_Name": "PayermaxMANDIRI",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 56,
+          "Channel_Name": "PayermaxPERMATA",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 62,
+          "Channel_Name": "PayermaxOVO",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 61,
+          "Channel_Name": "PayermaxLINKAJA",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 19,
+          "Channel_Name": "PayermaxSHOPEEPAY",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 63,
+          "Channel_Name": "PayermaxDANA",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 210000,
           "is_discount": 1
         }
       ]
