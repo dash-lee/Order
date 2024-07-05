@@ -957,6 +957,204 @@
       "Logo": "/uploads/pay_channel_icon/PayssionGRABPAY.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 88,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#AFFIN",
+      "State": 1,
+      "Channel_name": "AFFIN",
+      "Channel_web": "PayermaxAFFIN",
+      "Logo": "/uploads/pay_channel_icon/PayermaxAFFIN.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 89,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#AGRONET",
+      "State": 1,
+      "Channel_name": "AGRONET",
+      "Channel_web": "PayermaxAGRONET",
+      "Logo": "/uploads/pay_channel_icon/PayermaxAGRONET.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 90,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#AMBANK",
+      "State": 1,
+      "Channel_name": "AMBANK",
+      "Channel_web": "PayermaxAMBANK",
+      "Logo": "/uploads/pay_channel_icon/PayermaxAMBANK.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 91,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#ISLAM",
+      "State": 1,
+      "Channel_name": "ISLAM",
+      "Channel_web": "PayermaxISLAM",
+      "Logo": "/uploads/pay_channel_icon/PayermaxISLAM.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 92,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#MUAMALAT",
+      "State": 0,
+      "Channel_name": "MUAMALAT",
+      "Channel_web": "PayermaxMUAMALAT",
+      "Logo": "/uploads/pay_channel_icon/PayermaxMUAMALAT.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 93,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#RAKYAT",
+      "State": 0,
+      "Channel_name": "RAKYAT",
+      "Channel_web": "PayermaxRAKYAT",
+      "Logo": "/uploads/pay_channel_icon/PayermaxRAKYAT.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 94,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#BSN",
+      "State": 0,
+      "Channel_name": "BSN",
+      "Channel_web": "PayermaxBSN",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBSN.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 95,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#CIMB_CLICKS",
+      "State": 1,
+      "Channel_name": "CIMB_CLICKS",
+      "Channel_web": "PayermaxCIMB_CLICKS",
+      "Logo": "/uploads/pay_channel_icon/PayermaxCIMB_CLICKS.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 96,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#HONGLEONG",
+      "State": 1,
+      "Channel_name": "HONGLEONG",
+      "Channel_web": "PayermaxHONGLEONG",
+      "Logo": "/uploads/pay_channel_icon/PayermaxHONGLEONG.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 97,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#KFH",
+      "State": 0,
+      "Channel_name": "KFH",
+      "Channel_web": "PayermaxKFH",
+      "Logo": "/uploads/pay_channel_icon/PayermaxKFH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 98,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#MAYBANK2U",
+      "State": 1,
+      "Channel_name": "MAYBANK2U",
+      "Channel_web": "PayermaxMAYBANK2U",
+      "Logo": "/uploads/pay_channel_icon/PayermaxMAYBANK2U.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 99,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#OCBC",
+      "State": 0,
+      "Channel_name": "OCBC",
+      "Channel_web": "PayermaxOCBC",
+      "Logo": "/uploads/pay_channel_icon/PayermaxOCBC.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 100,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#PUBLIC",
+      "State": 1,
+      "Channel_name": "PUBLIC",
+      "Channel_web": "PayermaxPUBLIC",
+      "Logo": "/uploads/pay_channel_icon/PayermaxPUBLIC.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 101,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#RHB",
+      "State": 1,
+      "Channel_name": "RHB",
+      "Channel_web": "PayermaxRHB",
+      "Logo": "/uploads/pay_channel_icon/PayermaxRHB.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 102,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#SCB",
+      "State": 0,
+      "Channel_name": "SCB",
+      "Channel_web": "PayermaxSCB",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSCB.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 103,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#UOBM",
+      "State": 0,
+      "Channel_name": "UOBM",
+      "Channel_web": "PayermaxUOBM",
+      "Logo": "/uploads/pay_channel_icon/PayermaxUOBM.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 104,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#ALLIANCE",
+      "State": 1,
+      "Channel_name": "ALLIANCE",
+      "Channel_web": "PayermaxALLIANCE",
+      "Logo": "/uploads/pay_channel_icon/PayermaxALLIANCE.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 105,
+      "Pay_type_id": 2,
+      "Channel_code": "NET_BANKING#BOC",
+      "State": 0,
+      "Channel_name": "BOC",
+      "Channel_web": "PayermaxBOC",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBOC.png",
+      "App": [],
+      "Country": []
     }
   ]
 }

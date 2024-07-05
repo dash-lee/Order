@@ -71779,6 +71779,5775 @@
           "is_discount": 1
         }
       ]
+    },
+    {
+      "Country_Name": "Malaysia",
+      "Country_Name_CN": "马来西亚",
+      "Country_Code": "MY",
+      "PayChannel_Diamond": [
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 36,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 95,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 189,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 330,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 377,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 472,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 707,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 943,
+          "is_discount": 1
+        }
+      ],
+      "PayChannel_Vip": [
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 2.18,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 88,
+          "Channel_Name": "PayermaxAFFIN",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 89,
+          "Channel_Name": "PayermaxAGRONET",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 90,
+          "Channel_Name": "PayermaxAMBANK",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 91,
+          "Channel_Name": "PayermaxISLAM",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 92,
+          "Channel_Name": "PayermaxMUAMALAT",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 93,
+          "Channel_Name": "PayermaxRAKYAT",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 94,
+          "Channel_Name": "PayermaxBSN",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 95,
+          "Channel_Name": "PayermaxCIMB_CLICKS",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 96,
+          "Channel_Name": "PayermaxHONGLEONG",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 97,
+          "Channel_Name": "PayermaxKFH",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 98,
+          "Channel_Name": "PayermaxMAYBANK2U",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 99,
+          "Channel_Name": "PayermaxOCBC",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 100,
+          "Channel_Name": "PayermaxPUBLIC",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 101,
+          "Channel_Name": "PayermaxRHB",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 102,
+          "Channel_Name": "PayermaxSCB",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 103,
+          "Channel_Name": "PayermaxUOBM",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 104,
+          "Channel_Name": "PayermaxALLIANCE",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 105,
+          "Channel_Name": "PayermaxBOC",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 62,
+          "is_discount": 1
+        }
+      ]
     }
   ]
 }
