@@ -1755,88 +1755,88 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "PHP",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
-                        "Diamond_Count": 125,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH" ],
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 1.99,
+                        "Price": 2.18,
                         "Diamond_Count": 199,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH" ],
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 3.19,
-                        "Diamond_Count": 236,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH" ],
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 6.29,
-                        "Diamond_Count": 470,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 13.99,
-                        "Diamond_Count": 1052,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 33.99,
-                        "Diamond_Count": 2570,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 69.99,
-                        "Diamond_Count": 5314,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
                         "Price": 139.99,
-                        "Diamond_Count": 10679,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     }
                 ]
             },
-            "Vip_Gear": [ 7, 30, 90, 180 ],
+            "Vip_Gear": [ 7, 30, 90 ],
             "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
             "Vip_Pay_Detail": {
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
+                        "Price": 2.99,
                         "Vip_Days": 7,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH" ],
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 4.49,
+                        "Price": 4.99,
                         "Vip_Days": 30,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     },
                     {
-                        "Price": 7.99,
+                        "Price": 12.99,
                         "Vip_Days": 90,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
-                        "PayMethod_Fixed_Price": []
-                    },
-                    {
-                        "Price": 10.99,
-                        "Vip_Days": 180,
-                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxCOINS_PH", "PayermaxNETBANKING" ],
+                        "PayMethod_Name": [ "谷歌支付", "PayermaxGCASH", "PayermaxGRABPAY", "PayermaxPAYMAYA", "PayermaxNETBANKING" ],
                         "PayMethod_Fixed_Price": []
                     }
                 ]
@@ -2772,14 +2772,14 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "VND",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "Payermax", "Paynow" ],
             "Diamond_Pay_Detail": {
                 "Currency": "VND",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
-                        "Diamond_Count": 125,
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -2816,7 +2816,7 @@
                         ]
                     },
                     {
-                        "Price": 1.99,
+                        "Price": 2.18,
                         "Diamond_Count": 199,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -2854,8 +2854,8 @@
                         ]
                     },
                     {
-                        "Price": 3.19,
-                        "Diamond_Count": 236,
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -2902,8 +2902,8 @@
                         ]
                     },
                     {
-                        "Price": 6.29,
-                        "Diamond_Count": 470,
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -2950,8 +2950,8 @@
                         ]
                     },
                     {
-                        "Price": 13.99,
-                        "Diamond_Count": 1052,
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -2998,8 +2998,8 @@
                         ]
                     },
                     {
-                        "Price": 33.99,
-                        "Diamond_Count": 2570,
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -3046,8 +3046,8 @@
                         ]
                     },
                     {
-                        "Price": 69.99,
-                        "Diamond_Count": 5314,
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -3095,7 +3095,55 @@
                     },
                     {
                         "Price": 139.99,
-                        "Diamond_Count": 10679,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [
+                            "谷歌支付",
+                            "谷歌三方支付",
+                            "PayermaxMOMO",
+                            "PaynowONLINEBANKING",
+                            "PaynowBANKTRANSFER",
+                            "PaynowMOMO",
+                            "PaynowZaloPay",
+                            "PaynowVIETTELPAY"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 139.99
+                            },
+                            {
+                                "Name": "谷歌三方支付",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PayermaxMOMO",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PaynowMOMO",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PaynowZaloPay",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PaynowVIETTELPAY",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PaynowVIETTELPAY",
+                                "Price": 3457000.00
+                            },
+                            {
+                                "Name": "PaynowVIETTELPAY",
+                                "Price": 3457000.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "谷歌三方支付",
@@ -3143,13 +3191,13 @@
                     }
                 ]
             },
-            "Vip_Gear": [ 7, 30, 90, 180 ],
+            "Vip_Gear": [ 7, 30, 90 ],
             "Vip_PayMethod": [ "GooglePay", "Payermax", "Paynow" ],
             "Vip_Pay_Detail": {
                 "Currency": "VND",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
+                        "Price": 2.99,
                         "Vip_Days": 7,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -3187,7 +3235,7 @@
                         ]
                     },
                     {
-                        "Price": 4.49,
+                        "Price": 4.99,
                         "Vip_Days": 30,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -3235,7 +3283,7 @@
                         ]
                     },
                     {
-                        "Price": 7.99,
+                        "Price": 12.99,
                         "Vip_Days": 90,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -3281,54 +3329,6 @@
                                 "Price": 194000.00
                             }
                         ]
-                    },
-                    {
-                        "Price": 10.99,
-                        "Vip_Days": 180,
-                        "PayMethod_Name": [
-                            "谷歌支付",
-                            "谷歌三方支付",
-                            "PayermaxMOMO",
-                            "PaynowONLINEBANKING",
-                            "PaynowBANKTRANSFER",
-                            "PaynowMOMO",
-                            "PaynowZaloPay",
-                            "PaynowVIETTELPAY"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 10.99
-                            },
-                            {
-                                "Name": "谷歌三方支付",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PayermaxMOMO",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PaynowMOMO",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PaynowZaloPay",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PaynowVIETTELPAY",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PaynowVIETTELPAY",
-                                "Price": 267000.00
-                            },
-                            {
-                                "Name": "PaynowVIETTELPAY",
-                                "Price": 267000.00
-                            }
-                        ]
                     }
                 ]
             }
@@ -3340,14 +3340,14 @@
             "Area": "English",
             "Area_CN": "英语大区",
             "Currency_Code": "THB",
-            "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
             "Diamond_PayMethod": [ "GooglePay", "PayerMax" ],
             "Diamond_Pay_Detail": {
                 "Currency": "THB",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
-                        "Diamond_Count": 125,
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3414,7 +3414,7 @@
                         ]
                     },
                     {
-                        "Price": 1.99,
+                        "Price": 2.18,
                         "Diamond_Count": 199,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -3482,8 +3482,8 @@
                         ]
                     },
                     {
-                        "Price": 3.19,
-                        "Diamond_Count": 236,
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3550,8 +3550,8 @@
                         ]
                     },
                     {
-                        "Price": 6.29,
-                        "Diamond_Count": 470,
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3618,8 +3618,8 @@
                         ]
                     },
                     {
-                        "Price": 13.99,
-                        "Diamond_Count": 1052,
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3686,8 +3686,8 @@
                         ]
                     },
                     {
-                        "Price": 33.99,
-                        "Diamond_Count": 2570,
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3754,8 +3754,8 @@
                         ]
                     },
                     {
-                        "Price": 69.99,
-                        "Diamond_Count": 5314,
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3823,7 +3823,75 @@
                     },
                     {
                         "Price": 139.99,
-                        "Diamond_Count": 10679,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [
+                            "谷歌支付",
+                            "PayermaxDEBITSCB",
+                            "PayermaxTRUEMONEY",
+                            "PayermaxSHOPEEPAY",
+                            "PayermaxPROMPTPAY",
+                            "Payermax7-ELEVEN",
+                            "PayermaxLINEPAY",
+                            "PayermaxNETBANKINGBANGKOK",
+                            "PayermaxNETBANKINGKRUNGTHAI",
+                            "PayermaxNETBANKINGAYUDHYA",
+                            "PayermaxNETBANKINGSCB_TH",
+                            "PayermaxNETBANKINGKASIKORN"
+                        ],
+                        "PayMethod_Fixed_Price": [
+                            {
+                                "Name": "谷歌支付",
+                                "Price": 139.99
+                            },
+                            {
+                                "Name": "PayermaxTRUEMONEY",
+                                "Price": 6895.00
+                            },
+                            {
+                                "Name": "PayermaxSHOPEEPAY",
+                                "Price": 6895.00
+                            },
+                            {
+                                "Name": "PayermaxPROMPTPAY",
+                                "Price": 6895.00
+                            },
+                            {
+                                "Name": "Payermax7-ELEVEN",
+                                "Price": 6895.00
+                            },
+                            {
+                                "Name": "PayermaxLINEPAY",
+                                "Price": 6895.00
+                            },
+                            {
+                                "Name": "PayermaxDEBITSCB",
+                                "Price": 7100.00
+                            },
+                            {
+                                "Name": "PayermaxNETBANKINGBANGKOK",
+                                "Price": 7100.00
+                            },
+                            {
+                                "Name": "PayermaxNETBANKINGKRUNGTHAI",
+                                "Price": 7100.00
+                            },
+                            {
+                                "Name": "PayermaxNETBANKINGAYUDHYA",
+                                "Price": 7100.00
+                            },
+                            {
+                                "Name": "PayermaxNETBANKINGSCB_TH",
+                                "Price": 7100.00
+                            },
+                            {
+                                "Name": "PayermaxNETBANKINGKASIKORN",
+                                "Price": 7100.00
+                            }
+                        ]
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
                         "PayMethod_Name": [
                             "谷歌支付",
                             "PayermaxDEBITSCB",
@@ -3891,13 +3959,13 @@
                     }
                 ]
             },
-            "Vip_Gear": [ 7, 30, 90, 180 ],
+            "Vip_Gear": [ 7, 30, 90 ],
             "Vip_PayMethod": [ "GooglePay", "PayerMax" ],
             "Vip_Pay_Detail": {
                 "Currency": "THB",
                 "PayMethod_Price": [
                     {
-                        "Price": 1.69,
+                        "Price": 2.99,
                         "Vip_Days": 7,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -3965,7 +4033,7 @@
                         ]
                     },
                     {
-                        "Price": 4.49,
+                        "Price": 4.99,
                         "Vip_Days": 30,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -4033,7 +4101,7 @@
                         ]
                     },
                     {
-                        "Price": 7.99,
+                        "Price": 12.99,
                         "Vip_Days": 90,
                         "PayMethod_Name": [
                             "谷歌支付",
@@ -4097,74 +4165,6 @@
                             {
                                 "Name": "PayermaxNETBANKINGKASIKORN",
                                 "Price": 283.00
-                            }
-                        ]
-                    },
-                    {
-                        "Price": 10.99,
-                        "Vip_Days": 180,
-                        "PayMethod_Name": [
-                            "谷歌支付",
-                            "PayermaxDEBITSCB",
-                            "PayermaxTRUEMONEY",
-                            "PayermaxSHOPEEPAY",
-                            "PayermaxPROMPTPAY",
-                            "Payermax7-ELEVEN",
-                            "PayermaxLINEPAY",
-                            "PayermaxNETBANKINGBANGKOK",
-                            "PayermaxNETBANKINGKRUNGTHAI",
-                            "PayermaxNETBANKINGAYUDHYA",
-                            "PayermaxNETBANKINGSCB_TH",
-                            "PayermaxNETBANKINGKASIKORN"
-                        ],
-                        "PayMethod_Fixed_Price": [
-                            {
-                                "Name": "谷歌支付",
-                                "Price": 10.99
-                            },
-                            {
-                                "Name": "PayermaxTRUEMONEY",
-                                "Price": 382.00
-                            },
-                            {
-                                "Name": "PayermaxSHOPEEPAY",
-                                "Price": 382.00
-                            },
-                            {
-                                "Name": "PayermaxPROMPTPAY",
-                                "Price": 382.00
-                            },
-                            {
-                                "Name": "Payermax7-ELEVEN",
-                                "Price": 382.00
-                            },
-                            {
-                                "Name": "PayermaxLINEPAY",
-                                "Price": 382.00
-                            },
-                            {
-                                "Name": "PayermaxDEBITSCB",
-                                "Price": 400.00
-                            },
-                            {
-                                "Name": "PayermaxNETBANKINGBANGKOK",
-                                "Price": 400.00
-                            },
-                            {
-                                "Name": "PayermaxNETBANKINGKRUNGTHAI",
-                                "Price": 400.00
-                            },
-                            {
-                                "Name": "PayermaxNETBANKINGAYUDHYA",
-                                "Price": 400.00
-                            },
-                            {
-                                "Name": "PayermaxNETBANKINGSCB_TH",
-                                "Price": 400.00
-                            },
-                            {
-                                "Name": "PayermaxNETBANKINGKASIKORN",
-                                "Price": 400.00
                             }
                         ]
                     }
