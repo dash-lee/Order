@@ -424,10 +424,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 3.19,
             "Modify_Diamond_Count": 236,
@@ -529,10 +526,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 6.29,
             "Modify_Diamond_Count": 470,
@@ -634,10 +628,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 13.99,
             "Modify_Diamond_Count": 1052,
@@ -739,10 +730,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 33.99,
             "Modify_Diamond_Count": 2570,
@@ -844,10 +832,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 69.99,
             "Modify_Diamond_Count": 5314,
@@ -949,10 +934,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 139.99,
             "Modify_Diamond_Count": 10679,
@@ -1054,10 +1036,7 @@
                 "Honduras",
                 "Jamaica",
                 "Panama",
-                "Paraguay",
-                "Philippines",
-                "Vietnam",
-                "Thailand"
+                "Paraguay"
             ],
             "Modify_Price": 1.99,
             "Modify_Diamond_Count": 199,
@@ -1131,7 +1110,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 2.18,
             "Modify_Diamond_Count": 199,
@@ -1149,7 +1131,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 4.99,
             "Modify_Diamond_Count": 369,
@@ -1167,7 +1152,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 7.99,
             "Modify_Diamond_Count": 639,
@@ -1185,7 +1173,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 19.99,
             "Modify_Diamond_Count": 1569,
@@ -1203,7 +1194,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 39.99,
             "Modify_Diamond_Count": 2999,
@@ -1221,7 +1215,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 99.99,
             "Modify_Diamond_Count": 7599,
@@ -1239,7 +1236,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 139.99,
             "Modify_Diamond_Count": 10699,
@@ -1257,7 +1257,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 199.99,
             "Modify_Diamond_Count": 15999,
@@ -1393,9 +1396,6 @@
                 "Poland",
                 "Netherlands",
                 "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
                 "Canada",
                 "Italy",
                 "New Zealand",
@@ -1538,9 +1538,6 @@
                 "Poland",
                 "Netherlands",
                 "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
                 "Canada",
                 "Italy",
                 "New Zealand",
@@ -1683,9 +1680,6 @@
                 "Poland",
                 "Netherlands",
                 "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
                 "Canada",
                 "Italy",
                 "New Zealand",
@@ -1828,9 +1822,6 @@
                 "Poland",
                 "Netherlands",
                 "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
                 "Canada",
                 "Italy",
                 "New Zealand",
@@ -1857,7 +1848,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 2.99,
             "Modify_Vip_Days": 7,
@@ -1875,7 +1869,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 4.99,
             "Modify_Vip_Days": 30,
@@ -1893,7 +1890,10 @@
             "Modify_App": [ "Melon", "Tingly", "Livvy", "Biffo", "Quizy", "Riffy", "Wixel", "Flinx" ],
             "Modify_Country": [
                 "Indonesia",
-                "Malaysia"
+                "Malaysia",
+                "Philippines",
+                "Vietnam",
+                "Thailand"
             ],
             "Modify_Price": 12.99,
             "Modify_Vip_Days": 90,

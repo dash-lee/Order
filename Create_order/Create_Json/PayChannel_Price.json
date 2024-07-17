@@ -37943,7 +37943,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -37953,7 +37953,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -37963,7 +37963,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -37973,7 +37973,7 @@
           "Price": 1.69,
           "Num": 125,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -37993,7 +37993,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 122,
           "is_discount": 1
         },
@@ -38003,7 +38003,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 122,
           "is_discount": 1
         },
@@ -38013,7 +38013,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 122,
           "is_discount": 1
         },
@@ -38023,7 +38023,7 @@
           "Price": 1.99,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 122,
           "is_discount": 1
         },
@@ -38053,7 +38053,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
@@ -38063,37 +38063,37 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
         {
           "Channel_Id": 37,
           "Channel_Name": "PayermaxGRABPAY",
-          "Price": 2.18,
-          "Num": 160,
-          "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 134,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 37,
-          "Channel_Name": "PayermaxGRABPAY",
-          "Price": 2.18,
-          "Num": 199,
-          "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 134,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 36,
-          "Channel_Name": "PayermaxPAYMAYA",
           "Price": 2.18,
           "Num": 160,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 134,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 37,
+          "Channel_Name": "PayermaxGRABPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 134,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 36,
+          "Channel_Name": "PayermaxPAYMAYA",
+          "Price": 2.18,
+          "Num": 160,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
@@ -38103,7 +38103,7 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
@@ -38113,7 +38113,7 @@
           "Price": 2.18,
           "Num": 160,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
@@ -38123,11 +38123,31 @@
           "Price": 2.18,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 134,
           "is_discount": 1
         },
         {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 148,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 148,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.19,
@@ -38143,7 +38163,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 196,
           "is_discount": 1
         },
@@ -38153,7 +38173,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 196,
           "is_discount": 1
         },
@@ -38163,7 +38183,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 196,
           "is_discount": 1
         },
@@ -38173,7 +38193,7 @@
           "Price": 3.19,
           "Num": 236,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 196,
           "is_discount": 1
         },
@@ -38193,7 +38213,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 215,
           "is_discount": 1
         },
@@ -38203,7 +38223,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 215,
           "is_discount": 1
         },
@@ -38213,7 +38233,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 215,
           "is_discount": 1
         },
@@ -38223,7 +38243,7 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 215,
           "is_discount": 1
         },
@@ -38243,7 +38263,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 245,
           "is_discount": 1
         },
@@ -38253,7 +38273,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 245,
           "is_discount": 1
         },
@@ -38263,7 +38283,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 245,
           "is_discount": 1
         },
@@ -38273,7 +38293,7 @@
           "Price": 3.99,
           "Num": 369,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 245,
           "is_discount": 1
         },
@@ -38284,7 +38304,7 @@
           "Num": 369,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Fixed_Price": 298,
           "is_discount": 0
         },
         {
@@ -38293,8 +38313,8 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -38303,8 +38323,8 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -38313,8 +38333,8 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -38323,8 +38343,18 @@
           "Price": 4.99,
           "Num": 369,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 310,
           "is_discount": 1
         },
         {
@@ -38343,7 +38373,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 387,
           "is_discount": 1
         },
@@ -38353,7 +38383,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 387,
           "is_discount": 1
         },
@@ -38363,7 +38393,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 387,
           "is_discount": 1
         },
@@ -38373,7 +38403,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 387,
           "is_discount": 1
         },
@@ -38383,7 +38413,7 @@
           "Price": 6.29,
           "Num": 470,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 387,
           "is_discount": 1
         },
@@ -38403,7 +38433,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 461,
           "is_discount": 1
         },
@@ -38413,7 +38443,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 461,
           "is_discount": 1
         },
@@ -38423,7 +38453,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 461,
           "is_discount": 1
         },
@@ -38433,7 +38463,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 461,
           "is_discount": 1
         },
@@ -38443,7 +38473,7 @@
           "Price": 7.49,
           "Num": 429,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 461,
           "is_discount": 1
         },
@@ -38454,7 +38484,7 @@
           "Num": 639,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Fixed_Price": 473,
           "is_discount": 0
         },
         {
@@ -38473,8 +38503,8 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 473,
           "is_discount": 1
         },
         {
@@ -38483,7 +38513,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -38493,8 +38523,8 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 473,
           "is_discount": 1
         },
         {
@@ -38503,7 +38533,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -38513,8 +38543,8 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 473,
           "is_discount": 1
         },
         {
@@ -38523,7 +38553,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -38533,8 +38563,8 @@
           "Price": 7.99,
           "Num": 639,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 473,
           "is_discount": 1
         },
         {
@@ -38543,7 +38573,7 @@
           "Price": 7.99,
           "Num": 599,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -38551,10 +38581,10 @@
           "Channel_Id": 34,
           "Channel_Name": "PayermaxNETBANKING",
           "Price": 7.99,
-          "Num": 599,
+          "Num": 639,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
           "is_discount": 1
         },
         {
@@ -38573,7 +38603,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
         },
@@ -38583,7 +38613,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
         },
@@ -38593,7 +38623,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
         },
@@ -38603,7 +38633,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
         },
@@ -38613,7 +38643,7 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
         },
@@ -38624,7 +38654,7 @@
           "Num": 1569,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Fixed_Price": 1188,
           "is_discount": 0
         },
         {
@@ -38643,8 +38673,8 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Is_Rate": 0,
+          "Fixed_Price": 1188,
           "is_discount": 1
         },
         {
@@ -38653,7 +38683,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 1240,
           "is_discount": 1
         },
@@ -38663,8 +38693,8 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Is_Rate": 0,
+          "Fixed_Price": 1188,
           "is_discount": 1
         },
         {
@@ -38673,7 +38703,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 1240,
           "is_discount": 1
         },
@@ -38683,8 +38713,8 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Is_Rate": 0,
+          "Fixed_Price": 1188,
           "is_discount": 1
         },
         {
@@ -38693,7 +38723,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 1240,
           "is_discount": 1
         },
@@ -38703,8 +38733,8 @@
           "Price": 19.99,
           "Num": 1569,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Is_Rate": 0,
+          "Fixed_Price": 1188,
           "is_discount": 1
         },
         {
@@ -38713,7 +38743,7 @@
           "Price": 19.99,
           "Num": 1209,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 1240,
           "is_discount": 1
         },
@@ -38721,10 +38751,10 @@
           "Channel_Id": 34,
           "Channel_Name": "PayermaxNETBANKING",
           "Price": 19.99,
-          "Num": 1209,
+          "Num": 1569,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 1240,
+          "Is_Rate": 0,
+          "Fixed_Price": 1192,
           "is_discount": 1
         },
         {
@@ -38743,7 +38773,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2100,
           "is_discount": 1
         },
@@ -38753,7 +38783,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2100,
           "is_discount": 1
         },
@@ -38763,7 +38793,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2100,
           "is_discount": 1
         },
@@ -38773,7 +38803,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2100,
           "is_discount": 1
         },
@@ -38783,7 +38813,7 @@
           "Price": 33.99,
           "Num": 2570,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2100,
           "is_discount": 1
         },
@@ -38794,7 +38824,7 @@
           "Num": 2999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Fixed_Price": 2360,
           "is_discount": 0
         },
         {
@@ -38813,8 +38843,8 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Is_Rate": 0,
+          "Fixed_Price": 2360,
           "is_discount": 1
         },
         {
@@ -38823,7 +38853,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2470,
           "is_discount": 1
         },
@@ -38833,8 +38863,8 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Is_Rate": 0,
+          "Fixed_Price": 2360,
           "is_discount": 1
         },
         {
@@ -38843,7 +38873,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2470,
           "is_discount": 1
         },
@@ -38853,8 +38883,8 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Is_Rate": 0,
+          "Fixed_Price": 2360,
           "is_discount": 1
         },
         {
@@ -38863,7 +38893,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2470,
           "is_discount": 1
         },
@@ -38873,8 +38903,8 @@
           "Price": 39.99,
           "Num": 2999,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Is_Rate": 0,
+          "Fixed_Price": 2360,
           "is_discount": 1
         },
         {
@@ -38883,7 +38913,7 @@
           "Price": 39.99,
           "Num": 2509,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 2470,
           "is_discount": 1
         },
@@ -38891,10 +38921,10 @@
           "Channel_Id": 34,
           "Channel_Name": "PayermaxNETBANKING",
           "Price": 39.99,
-          "Num": 2509,
+          "Num": 2999,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 2470,
+          "Is_Rate": 0,
+          "Fixed_Price": 2360,
           "is_discount": 1
         },
         {
@@ -38913,7 +38943,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4320,
           "is_discount": 1
         },
@@ -38923,7 +38953,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4320,
           "is_discount": 1
         },
@@ -38933,7 +38963,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4320,
           "is_discount": 1
         },
@@ -38943,7 +38973,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4320,
           "is_discount": 1
         },
@@ -38953,7 +38983,7 @@
           "Price": 69.99,
           "Num": 5314,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4320,
           "is_discount": 1
         },
@@ -38973,7 +39003,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4930,
           "is_discount": 1
         },
@@ -38983,7 +39013,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4930,
           "is_discount": 1
         },
@@ -38993,7 +39023,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4930,
           "is_discount": 1
         },
@@ -39003,7 +39033,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4930,
           "is_discount": 1
         },
@@ -39013,7 +39043,7 @@
           "Price": 79.99,
           "Num": 5199,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 4930,
           "is_discount": 1
         },
@@ -39024,7 +39054,7 @@
           "Num": 7599,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6170,
+          "Fixed_Price": 5888,
           "is_discount": 0
         },
         {
@@ -39033,8 +39063,8 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 6170,
+          "Is_Rate": 0,
+          "Fixed_Price": 5888,
           "is_discount": 1
         },
         {
@@ -39043,8 +39073,8 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 6170,
+          "Is_Rate": 0,
+          "Fixed_Price": 5888,
           "is_discount": 1
         },
         {
@@ -39053,8 +39083,8 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 6170,
+          "Is_Rate": 0,
+          "Fixed_Price": 5888,
           "is_discount": 1
         },
         {
@@ -39063,8 +39093,18 @@
           "Price": 99.99,
           "Num": 7599,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 6170,
+          "Is_Rate": 0,
+          "Fixed_Price": 5888,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 5888,
           "is_discount": 1
         },
         {
@@ -39074,7 +39114,7 @@
           "Num": 10699,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 8630,
+          "Fixed_Price": 8208,
           "is_discount": 0
         },
         {
@@ -39093,8 +39133,8 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 8630,
+          "Is_Rate": 0,
+          "Fixed_Price": 8208,
           "is_discount": 1
         },
         {
@@ -39103,7 +39143,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 8630,
           "is_discount": 1
         },
@@ -39113,8 +39153,8 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 8630,
+          "Is_Rate": 0,
+          "Fixed_Price": 8208,
           "is_discount": 1
         },
         {
@@ -39123,7 +39163,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 8630,
           "is_discount": 1
         },
@@ -39133,8 +39173,8 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 8630,
+          "Is_Rate": 0,
+          "Fixed_Price": 8208,
           "is_discount": 1
         },
         {
@@ -39143,7 +39183,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 8630,
           "is_discount": 1
         },
@@ -39153,8 +39193,8 @@
           "Price": 139.99,
           "Num": 10699,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 8630,
+          "Is_Rate": 0,
+          "Fixed_Price": 8208,
           "is_discount": 1
         },
         {
@@ -39163,7 +39203,7 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 8630,
           "is_discount": 1
         },
@@ -39173,8 +39213,18 @@
           "Price": 139.99,
           "Num": 10679,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 8630,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8208,
           "is_discount": 1
         },
         {
@@ -39193,7 +39243,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9250,
           "is_discount": 1
         },
@@ -39203,7 +39253,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9250,
           "is_discount": 1
         },
@@ -39213,7 +39263,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9250,
           "is_discount": 1
         },
@@ -39223,7 +39273,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9250,
           "is_discount": 1
         },
@@ -39233,7 +39283,7 @@
           "Price": 149.99,
           "Num": 9999,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 9250,
           "is_discount": 1
         },
@@ -39244,7 +39294,7 @@
           "Num": 15999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12330,
+          "Fixed_Price": 11768,
           "is_discount": 0
         },
         {
@@ -39253,8 +39303,8 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 12330,
+          "Is_Rate": 0,
+          "Fixed_Price": 11768,
           "is_discount": 1
         },
         {
@@ -39263,8 +39313,8 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 12330,
+          "Is_Rate": 0,
+          "Fixed_Price": 11768,
           "is_discount": 1
         },
         {
@@ -39273,8 +39323,8 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 12330,
+          "Is_Rate": 0,
+          "Fixed_Price": 11768,
           "is_discount": 1
         },
         {
@@ -39283,8 +39333,18 @@
           "Price": 199.99,
           "Num": 15999,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 12330,
+          "Is_Rate": 0,
+          "Fixed_Price": 11768,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 34,
+          "Channel_Name": "PayermaxNETBANKING",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 11768,
           "is_discount": 1
         }
       ],
@@ -39305,7 +39365,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -39315,7 +39375,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -39325,7 +39385,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -39335,7 +39395,7 @@
           "Price": 1.69,
           "Num": 7,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 104,
           "is_discount": 1
         },
@@ -39355,7 +39415,7 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 184,
           "is_discount": 1
         },
@@ -39365,7 +39425,7 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 184,
           "is_discount": 1
         },
@@ -39375,7 +39435,7 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 184,
           "is_discount": 1
         },
@@ -39385,7 +39445,7 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 184,
           "is_discount": 1
         },
@@ -39395,8 +39455,8 @@
           "Price": 2.99,
           "Num": 7,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 184,
+          "Is_Rate": 0,
+          "Fixed_Price": 200,
           "is_discount": 1
         },
         {
@@ -39415,7 +39475,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 276,
           "is_discount": 1
         },
@@ -39425,7 +39485,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 276,
           "is_discount": 1
         },
@@ -39435,7 +39495,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 276,
           "is_discount": 1
         },
@@ -39445,7 +39505,7 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 276,
           "is_discount": 1
         },
@@ -39455,8 +39515,8 @@
           "Price": 4.49,
           "Num": 30,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 276,
+          "Is_Rate": 0,
+          "Fixed_Price": 289,
           "is_discount": 1
         },
         {
@@ -39466,7 +39526,7 @@
           "Num": 30,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Fixed_Price": 298,
           "is_discount": 0
         },
         {
@@ -39475,8 +39535,8 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 2,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -39485,8 +39545,8 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 3,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -39495,8 +39555,8 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 4,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -39505,8 +39565,8 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 5,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
           "is_discount": 1
         },
         {
@@ -39515,8 +39575,8 @@
           "Price": 4.99,
           "Num": 30,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 307,
+          "Is_Rate": 0,
+          "Fixed_Price": 310,
           "is_discount": 1
         },
         {
@@ -39535,7 +39595,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -39545,7 +39605,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -39555,7 +39615,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -39565,7 +39625,7 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 492,
           "is_discount": 1
         },
@@ -39575,8 +39635,8 @@
           "Price": 7.99,
           "Num": 90,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 492,
+          "Is_Rate": 0,
+          "Fixed_Price": 506,
           "is_discount": 1
         },
         {
@@ -39595,7 +39655,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 677,
           "is_discount": 1
         },
@@ -39605,7 +39665,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 677,
           "is_discount": 1
         },
@@ -39615,7 +39675,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 677,
           "is_discount": 1
         },
@@ -39625,7 +39685,7 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 677,
           "is_discount": 1
         },
@@ -39635,8 +39695,8 @@
           "Price": 10.99,
           "Num": 180,
           "Sort": 6,
-          "Is_Rate": 1,
-          "Fixed_Price": 677,
+          "Is_Rate": 0,
+          "Fixed_Price": 688,
           "is_discount": 1
         },
         {
@@ -39655,7 +39715,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 2,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 800,
           "is_discount": 1
         },
@@ -39665,7 +39725,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 3,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 800,
           "is_discount": 1
         },
@@ -39675,7 +39735,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 4,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 800,
           "is_discount": 1
         },
@@ -39685,7 +39745,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 5,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 800,
           "is_discount": 1
         },
@@ -39695,7 +39755,7 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 6,
-          "Is_Rate": 1,
+          "Is_Rate": 0,
           "Fixed_Price": 800,
           "is_discount": 1
         }
@@ -47582,7 +47642,7 @@
           "Num": 125,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 0
         },
         {
@@ -47592,7 +47652,7 @@
           "Num": 125,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47602,7 +47662,7 @@
           "Num": 125,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47612,7 +47672,7 @@
           "Num": 125,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47622,7 +47682,7 @@
           "Num": 125,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47632,7 +47692,7 @@
           "Num": 125,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47642,7 +47702,7 @@
           "Num": 125,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47652,7 +47712,7 @@
           "Num": 125,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47662,7 +47722,7 @@
           "Num": 125,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47672,7 +47732,7 @@
           "Num": 125,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47682,7 +47742,7 @@
           "Num": 125,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47692,7 +47752,7 @@
           "Num": 125,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47702,7 +47762,7 @@
           "Num": 125,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47712,7 +47772,7 @@
           "Num": 125,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47722,7 +47782,7 @@
           "Num": 125,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47732,7 +47792,7 @@
           "Num": 125,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -47742,7 +47802,7 @@
           "Num": 199,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 0
         },
         {
@@ -47752,7 +47812,7 @@
           "Num": 199,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47762,7 +47822,7 @@
           "Num": 199,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47772,7 +47832,7 @@
           "Num": 199,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47782,7 +47842,7 @@
           "Num": 199,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47792,7 +47852,7 @@
           "Num": 199,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47802,7 +47862,7 @@
           "Num": 199,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47812,7 +47872,7 @@
           "Num": 199,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47822,7 +47882,7 @@
           "Num": 199,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47832,7 +47892,7 @@
           "Num": 199,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47842,7 +47902,7 @@
           "Num": 199,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47852,7 +47912,7 @@
           "Num": 199,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47862,7 +47922,7 @@
           "Num": 199,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47872,7 +47932,7 @@
           "Num": 199,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47882,7 +47942,7 @@
           "Num": 199,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47892,7 +47952,7 @@
           "Num": 199,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 76.96,
+          "Fixed_Price": 77,
           "is_discount": 1
         },
         {
@@ -47902,7 +47962,7 @@
           "Num": 160,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 0
         },
         {
@@ -47912,7 +47972,7 @@
           "Num": 199,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 0
         },
         {
@@ -47922,7 +47982,7 @@
           "Num": 160,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -47932,7 +47992,7 @@
           "Num": 160,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 81,
           "is_discount": 1
         },
         {
@@ -47942,7 +48002,7 @@
           "Num": 199,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -47952,7 +48012,7 @@
           "Num": 199,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 81,
           "is_discount": 1
         },
         {
@@ -47962,7 +48022,7 @@
           "Num": 160,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -47972,7 +48032,7 @@
           "Num": 160,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -47982,7 +48042,7 @@
           "Num": 199,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -47992,7 +48052,7 @@
           "Num": 199,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48002,7 +48062,7 @@
           "Num": 160,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48012,7 +48072,7 @@
           "Num": 160,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48022,7 +48082,7 @@
           "Num": 199,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48032,7 +48092,7 @@
           "Num": 199,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48042,7 +48102,7 @@
           "Num": 160,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48052,7 +48112,7 @@
           "Num": 199,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48062,7 +48122,7 @@
           "Num": 160,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48072,7 +48132,7 @@
           "Num": 160,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48082,7 +48142,7 @@
           "Num": 199,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48092,7 +48152,7 @@
           "Num": 199,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 85,
           "is_discount": 1
         },
         {
@@ -48102,7 +48162,7 @@
           "Num": 160,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48112,7 +48172,7 @@
           "Num": 199,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48122,7 +48182,7 @@
           "Num": 160,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48132,7 +48192,7 @@
           "Num": 199,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48142,7 +48202,7 @@
           "Num": 160,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48152,7 +48212,7 @@
           "Num": 199,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48162,7 +48222,7 @@
           "Num": 160,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48172,7 +48232,7 @@
           "Num": 199,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48182,7 +48242,7 @@
           "Num": 160,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48192,7 +48252,7 @@
           "Num": 199,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48202,7 +48262,7 @@
           "Num": 160,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48212,7 +48272,7 @@
           "Num": 199,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 84.3,
+          "Fixed_Price": 92,
           "is_discount": 1
         },
         {
@@ -48722,7 +48782,7 @@
           "Num": 369,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 183,
           "is_discount": 1
         },
         {
@@ -48802,7 +48862,7 @@
           "Num": 369,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -48812,7 +48872,7 @@
           "Num": 369,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -48822,7 +48882,7 @@
           "Num": 369,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -48832,7 +48892,7 @@
           "Num": 369,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -48842,7 +48902,7 @@
           "Num": 369,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -48852,7 +48912,7 @@
           "Num": 369,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -49212,7 +49272,7 @@
           "Num": 639,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 308,
+          "Fixed_Price": 296,
           "is_discount": 1
         },
         {
@@ -49232,7 +49292,7 @@
           "Num": 599,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 308,
+          "Fixed_Price": 296,
           "is_discount": 1
         },
         {
@@ -49692,7 +49752,7 @@
           "Num": 1569,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 772,
+          "Fixed_Price": 738,
           "is_discount": 1
         },
         {
@@ -49712,7 +49772,7 @@
           "Num": 1209,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 772,
+          "Fixed_Price": 738,
           "is_discount": 1
         },
         {
@@ -50142,7 +50202,7 @@
           "Num": 2999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 0
         },
         {
@@ -50152,7 +50212,7 @@
           "Num": 2509,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 0
         },
         {
@@ -50162,7 +50222,7 @@
           "Num": 2999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50172,7 +50232,7 @@
           "Num": 2999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1478,
           "is_discount": 1
         },
         {
@@ -50182,7 +50242,7 @@
           "Num": 2509,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50192,7 +50252,7 @@
           "Num": 2509,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1478,
           "is_discount": 1
         },
         {
@@ -50202,7 +50262,7 @@
           "Num": 2999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50212,7 +50272,7 @@
           "Num": 2999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50222,7 +50282,7 @@
           "Num": 2509,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50232,7 +50292,7 @@
           "Num": 2509,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50242,7 +50302,7 @@
           "Num": 2999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50252,7 +50312,7 @@
           "Num": 2999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50262,7 +50322,7 @@
           "Num": 2509,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50272,7 +50332,7 @@
           "Num": 2509,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50282,7 +50342,7 @@
           "Num": 2999,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50292,7 +50352,7 @@
           "Num": 2509,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50302,7 +50362,7 @@
           "Num": 2999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50312,7 +50372,7 @@
           "Num": 2999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50322,7 +50382,7 @@
           "Num": 2509,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50332,7 +50392,7 @@
           "Num": 2509,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50342,7 +50402,7 @@
           "Num": 2999,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50352,7 +50412,7 @@
           "Num": 2509,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50362,7 +50422,7 @@
           "Num": 2999,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50372,7 +50432,7 @@
           "Num": 2509,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50382,7 +50442,7 @@
           "Num": 2999,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50392,7 +50452,7 @@
           "Num": 2509,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50402,7 +50462,7 @@
           "Num": 2999,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50412,7 +50472,7 @@
           "Num": 2509,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50422,7 +50482,7 @@
           "Num": 2999,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50432,7 +50492,7 @@
           "Num": 2509,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50442,7 +50502,7 @@
           "Num": 2999,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50452,7 +50512,7 @@
           "Num": 2509,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1550,
+          "Fixed_Price": 1528,
           "is_discount": 1
         },
         {
@@ -50802,7 +50862,7 @@
           "Num": 7599,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 3870,
+          "Fixed_Price": 3786,
           "is_discount": 1
         },
         {
@@ -50942,7 +51002,7 @@
           "Num": 10699,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 0
         },
         {
@@ -50952,7 +51012,7 @@
           "Num": 10679,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 0
         },
         {
@@ -50962,7 +51022,7 @@
           "Num": 10699,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -50972,7 +51032,7 @@
           "Num": 10699,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5288,
           "is_discount": 1
         },
         {
@@ -50982,7 +51042,7 @@
           "Num": 10679,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -50992,7 +51052,7 @@
           "Num": 10679,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5288,
           "is_discount": 1
         },
         {
@@ -51002,7 +51062,7 @@
           "Num": 10699,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51012,7 +51072,7 @@
           "Num": 10699,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51022,7 +51082,7 @@
           "Num": 10679,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51032,7 +51092,7 @@
           "Num": 10679,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51042,7 +51102,7 @@
           "Num": 10699,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51052,7 +51112,7 @@
           "Num": 10699,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51062,7 +51122,7 @@
           "Num": 10679,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51072,7 +51132,7 @@
           "Num": 10679,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51082,7 +51142,7 @@
           "Num": 10699,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51092,7 +51152,7 @@
           "Num": 10679,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51102,7 +51162,7 @@
           "Num": 10699,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51112,7 +51172,7 @@
           "Num": 10699,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51122,7 +51182,7 @@
           "Num": 10679,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51132,7 +51192,7 @@
           "Num": 10679,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51142,7 +51202,7 @@
           "Num": 10699,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51152,7 +51212,7 @@
           "Num": 10679,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51162,7 +51222,7 @@
           "Num": 10699,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51172,7 +51232,7 @@
           "Num": 10679,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51182,7 +51242,7 @@
           "Num": 10699,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51192,7 +51252,7 @@
           "Num": 10679,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51202,7 +51262,7 @@
           "Num": 10699,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51212,7 +51272,7 @@
           "Num": 10679,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51222,7 +51282,7 @@
           "Num": 10699,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51232,7 +51292,7 @@
           "Num": 10679,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51242,7 +51302,7 @@
           "Num": 10699,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51252,7 +51312,7 @@
           "Num": 10679,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5420,
+          "Fixed_Price": 5368,
           "is_discount": 1
         },
         {
@@ -51422,7 +51482,7 @@
           "Num": 15999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 0
         },
         {
@@ -51432,7 +51492,7 @@
           "Num": 15999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51442,7 +51502,7 @@
           "Num": 15999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7428,
           "is_discount": 1
         },
         {
@@ -51452,7 +51512,7 @@
           "Num": 15999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51462,7 +51522,7 @@
           "Num": 15999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51472,7 +51532,7 @@
           "Num": 15999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51482,7 +51542,7 @@
           "Num": 15999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51492,7 +51552,7 @@
           "Num": 15999,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51502,7 +51562,7 @@
           "Num": 15999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51512,7 +51572,7 @@
           "Num": 15999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51522,7 +51582,7 @@
           "Num": 15999,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51532,7 +51592,7 @@
           "Num": 15999,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51542,7 +51602,7 @@
           "Num": 15999,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51552,7 +51612,7 @@
           "Num": 15999,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51562,7 +51622,7 @@
           "Num": 15999,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         },
         {
@@ -51572,7 +51632,7 @@
           "Num": 15999,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 7740,
+          "Fixed_Price": 7568,
           "is_discount": 1
         }
       ],
@@ -51584,7 +51644,7 @@
           "Num": 7,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 0
         },
         {
@@ -51594,7 +51654,7 @@
           "Num": 7,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51604,7 +51664,7 @@
           "Num": 7,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51614,7 +51674,7 @@
           "Num": 7,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51624,7 +51684,7 @@
           "Num": 7,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51634,7 +51694,7 @@
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51644,7 +51704,7 @@
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51654,7 +51714,7 @@
           "Num": 7,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51664,7 +51724,7 @@
           "Num": 7,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51674,7 +51734,7 @@
           "Num": 7,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51684,7 +51744,7 @@
           "Num": 7,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51694,7 +51754,7 @@
           "Num": 7,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51704,7 +51764,7 @@
           "Num": 7,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51714,7 +51774,7 @@
           "Num": 7,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51724,7 +51784,7 @@
           "Num": 7,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -51734,7 +51794,7 @@
           "Num": 7,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 65.36,
+          "Fixed_Price": 66,
           "is_discount": 1
         },
         {
@@ -52044,7 +52104,7 @@
           "Num": 30,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 183,
           "is_discount": 1
         },
         {
@@ -52124,7 +52184,7 @@
           "Num": 30,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52134,7 +52194,7 @@
           "Num": 30,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52144,7 +52204,7 @@
           "Num": 30,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52154,7 +52214,7 @@
           "Num": 30,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52164,7 +52224,7 @@
           "Num": 30,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52174,7 +52234,7 @@
           "Num": 30,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 192,
+          "Fixed_Price": 196,
           "is_discount": 1
         },
         {
@@ -52204,7 +52264,7 @@
           "Num": 90,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 308,
+          "Fixed_Price": 296,
           "is_discount": 1
         },
         {
@@ -59033,6 +59093,26 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 57300,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 57300,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 11,
           "Channel_Name": "PaynowMOMO",
           "Price": 2.18,
@@ -59163,16 +59243,6 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 13,
-          "Channel_Name": "PaynowONLINEBANKING",
-          "Price": 3.19,
-          "Num": 236,
-          "Sort": 8,
-          "Is_Rate": 0,
-          "Fixed_Price": 85310,
-          "is_discount": 1
-        },
-        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.49,
@@ -59238,16 +59308,6 @@
           "Price": 3.49,
           "Num": 199,
           "Sort": 7,
-          "Is_Rate": 0,
-          "Fixed_Price": 93340,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 13,
-          "Channel_Name": "PaynowONLINEBANKING",
-          "Price": 3.49,
-          "Num": 199,
-          "Sort": 8,
           "Is_Rate": 0,
           "Fixed_Price": 93340,
           "is_discount": 1
@@ -59339,7 +59399,7 @@
           "Num": 369,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
           "is_discount": 0
         },
         {
@@ -59349,7 +59409,7 @@
           "Num": 369,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
           "is_discount": 1
         },
         {
@@ -59359,7 +59419,7 @@
           "Num": 369,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
           "is_discount": 1
         },
         {
@@ -59369,7 +59429,7 @@
           "Num": 369,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
           "is_discount": 1
         },
         {
@@ -59379,7 +59439,7 @@
           "Num": 369,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
           "is_discount": 1
         },
         {
@@ -59389,7 +59449,27 @@
           "Num": 369,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 129800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 129800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 129800,
           "is_discount": 1
         },
         {
@@ -59559,7 +59639,7 @@
           "Num": 639,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 0
         },
         {
@@ -59569,7 +59649,7 @@
           "Num": 599,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 0
         },
         {
@@ -59579,7 +59659,7 @@
           "Num": 639,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59589,7 +59669,7 @@
           "Num": 599,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59599,7 +59679,7 @@
           "Num": 639,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59609,7 +59689,7 @@
           "Num": 599,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59619,7 +59699,7 @@
           "Num": 639,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59629,7 +59709,7 @@
           "Num": 599,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59639,7 +59719,7 @@
           "Num": 639,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59649,7 +59729,7 @@
           "Num": 599,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59659,7 +59739,7 @@
           "Num": 639,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59669,7 +59749,7 @@
           "Num": 599,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59679,7 +59759,7 @@
           "Num": 599,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59689,7 +59769,27 @@
           "Num": 599,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 208800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 208800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 208800,
           "is_discount": 1
         },
         {
@@ -59779,7 +59879,7 @@
           "Num": 1569,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 0
         },
         {
@@ -59789,7 +59889,7 @@
           "Num": 1209,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 0
         },
         {
@@ -59799,7 +59899,7 @@
           "Num": 1569,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59809,7 +59909,7 @@
           "Num": 1209,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59819,7 +59919,7 @@
           "Num": 1569,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59829,7 +59929,7 @@
           "Num": 1209,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59839,7 +59939,7 @@
           "Num": 1569,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59849,7 +59949,7 @@
           "Num": 1209,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59859,7 +59959,7 @@
           "Num": 1569,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59869,7 +59969,7 @@
           "Num": 1209,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59879,7 +59979,7 @@
           "Num": 1569,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59889,7 +59989,7 @@
           "Num": 1209,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59899,7 +59999,7 @@
           "Num": 1209,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59909,7 +60009,27 @@
           "Num": 1209,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 534590,
+          "Fixed_Price": 518800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 518800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 518800,
           "is_discount": 1
         },
         {
@@ -59999,7 +60119,7 @@
           "Num": 2999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 0
         },
         {
@@ -60009,7 +60129,7 @@
           "Num": 2509,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 0
         },
         {
@@ -60019,7 +60139,7 @@
           "Num": 2999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60029,7 +60149,7 @@
           "Num": 2509,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60039,7 +60159,7 @@
           "Num": 2999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60049,7 +60169,7 @@
           "Num": 2509,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60059,7 +60179,7 @@
           "Num": 2999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60069,7 +60189,7 @@
           "Num": 2509,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60079,7 +60199,7 @@
           "Num": 2999,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60089,7 +60209,7 @@
           "Num": 2509,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60099,7 +60219,7 @@
           "Num": 2999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60109,7 +60229,7 @@
           "Num": 2509,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60119,7 +60239,7 @@
           "Num": 2509,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60129,7 +60249,27 @@
           "Num": 2509,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1069440,
+          "Fixed_Price": 1039980,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 1039980,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 1039980,
           "is_discount": 1
         },
         {
@@ -60299,7 +60439,7 @@
           "Num": 7599,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
           "is_discount": 0
         },
         {
@@ -60309,7 +60449,7 @@
           "Num": 7599,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
           "is_discount": 1
         },
         {
@@ -60319,7 +60459,7 @@
           "Num": 7599,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
           "is_discount": 1
         },
         {
@@ -60329,7 +60469,7 @@
           "Num": 7599,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
           "is_discount": 1
         },
         {
@@ -60339,7 +60479,7 @@
           "Num": 7599,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
           "is_discount": 1
         },
         {
@@ -60349,7 +60489,27 @@
           "Num": 7599,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 2674000,
+          "Fixed_Price": 2612800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 2612800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 2612800,
           "is_discount": 1
         },
         {
@@ -60359,7 +60519,7 @@
           "Num": 10699,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 0
         },
         {
@@ -60369,7 +60529,7 @@
           "Num": 10679,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 0
         },
         {
@@ -60379,7 +60539,7 @@
           "Num": 10699,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60389,7 +60549,7 @@
           "Num": 10679,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60399,7 +60559,7 @@
           "Num": 10699,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60409,7 +60569,7 @@
           "Num": 10679,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60419,7 +60579,7 @@
           "Num": 10699,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60429,7 +60589,7 @@
           "Num": 10679,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60439,7 +60599,7 @@
           "Num": 10699,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60449,7 +60609,7 @@
           "Num": 10679,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60459,7 +60619,7 @@
           "Num": 10699,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60469,7 +60629,7 @@
           "Num": 10679,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60479,7 +60639,7 @@
           "Num": 10679,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60489,7 +60649,27 @@
           "Num": 10679,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 3743700,
+          "Fixed_Price": 3654100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 3654100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 3654100,
           "is_discount": 1
         },
         {
@@ -60579,7 +60759,7 @@
           "Num": 15999,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
           "is_discount": 0
         },
         {
@@ -60589,7 +60769,7 @@
           "Num": 15999,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
           "is_discount": 1
         },
         {
@@ -60599,7 +60779,7 @@
           "Num": 15999,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
           "is_discount": 1
         },
         {
@@ -60609,7 +60789,7 @@
           "Num": 15999,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
           "is_discount": 1
         },
         {
@@ -60619,7 +60799,7 @@
           "Num": 15999,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
           "is_discount": 1
         },
         {
@@ -60629,7 +60809,27 @@
           "Num": 15999,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5348260,
+          "Fixed_Price": 5214820,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 5214820,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 5214820,
           "is_discount": 1
         }
       ],
@@ -60701,7 +60901,7 @@
           "Num": 7,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
           "is_discount": 0
         },
         {
@@ -60711,7 +60911,7 @@
           "Num": 7,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
           "is_discount": 1
         },
         {
@@ -60721,7 +60921,7 @@
           "Num": 7,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
           "is_discount": 1
         },
         {
@@ -60731,7 +60931,7 @@
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
           "is_discount": 1
         },
         {
@@ -60741,7 +60941,7 @@
           "Num": 7,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
           "is_discount": 1
         },
         {
@@ -60751,7 +60951,17 @@
           "Num": 7,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 79960,
+          "Fixed_Price": 78100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 78100,
           "is_discount": 1
         },
         {
@@ -60841,7 +61051,7 @@
           "Num": 30,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
           "is_discount": 0
         },
         {
@@ -60851,7 +61061,7 @@
           "Num": 30,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
           "is_discount": 1
         },
         {
@@ -60861,7 +61071,7 @@
           "Num": 30,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
           "is_discount": 1
         },
         {
@@ -60871,7 +61081,7 @@
           "Num": 30,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
           "is_discount": 1
         },
         {
@@ -60881,7 +61091,7 @@
           "Num": 30,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
           "is_discount": 1
         },
         {
@@ -60891,7 +61101,27 @@
           "Num": 30,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 133450,
+          "Fixed_Price": 130800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 130800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 130800,
           "is_discount": 1
         },
         {
@@ -60901,7 +61131,7 @@
           "Num": 90,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 0
         },
         {
@@ -60911,7 +61141,7 @@
           "Num": 90,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60921,7 +61151,7 @@
           "Num": 90,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60931,7 +61161,7 @@
           "Num": 90,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60941,7 +61171,7 @@
           "Num": 90,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60951,7 +61181,7 @@
           "Num": 90,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60961,7 +61191,7 @@
           "Num": 90,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -60971,7 +61201,27 @@
           "Num": 90,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 213680,
+          "Fixed_Price": 209800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 209800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 209800,
           "is_discount": 1
         },
         {
@@ -61110,6 +61360,26 @@
           "Price": 12.99,
           "Num": 90,
           "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 347390,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 12,
+          "Channel_Name": "PaynowBANKTRANSFER",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 347390,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 13,
+          "Channel_Name": "PaynowONLINEBANKING",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 347390,
           "is_discount": 1
@@ -64442,7 +64712,7 @@
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 1,
           "Is_Rate": 1,
@@ -64452,7 +64722,7 @@
         {
           "Channel_Id": 47,
           "Channel_Name": "PayermaxAXIATABOOST",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 2,
           "Is_Rate": 0,
@@ -64462,7 +64732,7 @@
         {
           "Channel_Id": 87,
           "Channel_Name": "PayssionGRABPAY",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 3,
           "Is_Rate": 0,
@@ -64472,7 +64742,7 @@
         {
           "Channel_Id": 86,
           "Channel_Name": "PayermaxFPX",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -64482,7 +64752,7 @@
         {
           "Channel_Id": 48,
           "Channel_Name": "PayermaxTNG",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 5,
           "Is_Rate": 0,
@@ -64492,7 +64762,7 @@
         {
           "Channel_Id": 2,
           "Channel_Name": "PayermaxUMOBILE",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 6,
           "Is_Rate": 0,
@@ -64502,7 +64772,7 @@
         {
           "Channel_Id": 3,
           "Channel_Name": "PayermaxCELCOM",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 7,
           "Is_Rate": 0,
@@ -64512,7 +64782,7 @@
         {
           "Channel_Id": 42,
           "Channel_Name": "PayermaxDIGI",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 8,
           "Is_Rate": 0,
@@ -76470,7 +76740,7 @@
         {
           "Channel_Id": 88,
           "Channel_Name": "PayermaxAFFIN",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76480,7 +76750,7 @@
         {
           "Channel_Id": 89,
           "Channel_Name": "PayermaxAGRONET",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76490,7 +76760,7 @@
         {
           "Channel_Id": 90,
           "Channel_Name": "PayermaxAMBANK",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76500,7 +76770,7 @@
         {
           "Channel_Id": 91,
           "Channel_Name": "PayermaxISLAM",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76510,7 +76780,7 @@
         {
           "Channel_Id": 92,
           "Channel_Name": "PayermaxMUAMALAT",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76520,7 +76790,7 @@
         {
           "Channel_Id": 93,
           "Channel_Name": "PayermaxRAKYAT",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76530,7 +76800,7 @@
         {
           "Channel_Id": 94,
           "Channel_Name": "PayermaxBSN",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76540,7 +76810,7 @@
         {
           "Channel_Id": 95,
           "Channel_Name": "PayermaxCIMB_CLICKS",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76550,7 +76820,7 @@
         {
           "Channel_Id": 96,
           "Channel_Name": "PayermaxHONGLEONG",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76560,7 +76830,7 @@
         {
           "Channel_Id": 97,
           "Channel_Name": "PayermaxKFH",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76570,7 +76840,7 @@
         {
           "Channel_Id": 98,
           "Channel_Name": "PayermaxMAYBANK2U",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76580,7 +76850,7 @@
         {
           "Channel_Id": 99,
           "Channel_Name": "PayermaxOCBC",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76590,7 +76860,7 @@
         {
           "Channel_Id": 100,
           "Channel_Name": "PayermaxPUBLIC",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76600,7 +76870,7 @@
         {
           "Channel_Id": 101,
           "Channel_Name": "PayermaxRHB",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76610,7 +76880,7 @@
         {
           "Channel_Id": 102,
           "Channel_Name": "PayermaxSCB",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76620,7 +76890,7 @@
         {
           "Channel_Id": 103,
           "Channel_Name": "PayermaxUOBM",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76630,7 +76900,7 @@
         {
           "Channel_Id": 104,
           "Channel_Name": "PayermaxALLIANCE",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
@@ -76640,7 +76910,7 @@
         {
           "Channel_Id": 105,
           "Channel_Name": "PayermaxBOC",
-          "Price": 2.18,
+          "Price": 2.99,
           "Num": 7,
           "Sort": 4,
           "Is_Rate": 0,
