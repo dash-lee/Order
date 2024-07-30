@@ -2902,23 +2902,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.99,
-                            "Num": 369
+                            "Price": 2.18,
+                            "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
-                            "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
-                        },
-                        {
                             "Type": "Diamond",
-                            "Price": 7.49,
-                            "Num": 429
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -2927,23 +2927,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 7.49,
-                            "Num": 429
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
                             "Price": 7.99,
-                            "Num": 599
+                            "Num": 639
                         }
                     ]
                 }
@@ -2961,23 +2961,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.99,
-                            "Num": 369
+                            "Price": 2.18,
+                            "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
-                            "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
-                        },
-                        {
                             "Type": "Diamond",
-                            "Price": 7.49,
-                            "Num": 429
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -2986,23 +2986,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 7.49,
-                            "Num": 429
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
                             "Price": 7.99,
-                            "Num": 599
+                            "Num": 639
                         }
                     ]
                 }
@@ -5557,23 +5557,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -5582,23 +5582,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -6737,23 +6737,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -6762,23 +6762,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -6796,23 +6796,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -6821,23 +6821,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -6914,23 +6914,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -6939,23 +6939,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -6973,23 +6973,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -6998,23 +6998,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7032,23 +7032,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7057,23 +7057,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7091,23 +7091,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7116,23 +7116,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7150,23 +7150,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7175,23 +7175,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7268,23 +7268,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7293,23 +7293,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7327,23 +7327,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7352,23 +7352,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7386,23 +7386,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7411,23 +7411,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7445,23 +7445,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7470,23 +7470,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7563,23 +7563,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7588,23 +7588,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7622,23 +7622,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7647,23 +7647,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7681,23 +7681,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7706,23 +7706,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }
@@ -7740,23 +7740,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 1.99,
+                            "Price": 2.18,
                             "Num": 199
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
-                            "Num": 30
+                            "Price": 2.99,
+                            "Num": 7
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
-                            "Num": 90
+                            "Price": 4.99,
+                            "Num": 30
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         }
                     ]
                 },
@@ -7765,23 +7765,23 @@
                     "Promotion_Detail_Info": [
                         {
                             "Type": "Diamond",
-                            "Price": 3.19,
-                            "Num": 236
+                            "Price": 4.99,
+                            "Num": 369
                         },
                         {
                             "Type": "Vip",
-                            "Price": 4.49,
+                            "Price": 4.99,
                             "Num": 30
                         },
                         {
                             "Type": "Vip",
-                            "Price": 7.99,
+                            "Price": 12.99,
                             "Num": 90
                         },
                         {
                             "Type": "Diamond",
-                            "Price": 6.29,
-                            "Num": 470
+                            "Price": 7.99,
+                            "Num": 639
                         }
                     ]
                 }

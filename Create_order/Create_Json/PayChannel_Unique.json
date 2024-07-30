@@ -1155,6 +1155,182 @@
       "Logo": "/uploads/pay_channel_icon/PayermaxBOC.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 106,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#PSE",
+      "State": 1,
+      "Channel_name": "PSE",
+      "Channel_web": "PayermaxPSE",
+      "Logo": "/uploads/pay_channel_icon/PayermaxPSE.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 107,
+      "Pay_type_id": 2,
+      "Channel_code": "VIRTUAL_ACCOUNT#DAVIVIENDA",
+      "State": 1,
+      "Channel_name": "DAVIVIENDA",
+      "Channel_web": "PayermaxDAVIVIENDA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxDAVIVIENDA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 108,
+      "Pay_type_id": 2,
+      "Channel_code": "VIRTUAL_ACCOUNT#EFECTY",
+      "State": 1,
+      "Channel_name": "EFECTY",
+      "Channel_web": "PayermaxEFECTY",
+      "Logo": "/uploads/pay_channel_icon/PayermaxEFECTY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 109,
+      "Pay_type_id": 2,
+      "Channel_code": "OTC#OXXO",
+      "State": 1,
+      "Channel_name": "OXXO",
+      "Channel_web": "PayermaxOXXO",
+      "Logo": "/uploads/pay_channel_icon/PayermaxOXXO.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 110,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#SPEI",
+      "State": 1,
+      "Channel_name": "SPEI",
+      "Channel_web": "PayermaxSPEI",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSPEI.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 111,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#STP",
+      "State": 1,
+      "Channel_name": "STP",
+      "Channel_web": "PayermaxSTP",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSTP.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 112,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#BBVA",
+      "State": 1,
+      "Channel_name": "BBVA",
+      "Channel_web": "PayermaxBBVA",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBBVA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 113,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#BANORTE",
+      "State": 1,
+      "Channel_name": "BANORTE",
+      "Channel_web": "PayermaxBANORTE",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBANORTE.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 114,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#SANTANDER",
+      "State": 1,
+      "Channel_name": "SANTANDER",
+      "Channel_web": "PayermaxSANTANDER",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSANTANDER.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 115,
+      "Pay_type_id": 2,
+      "Channel_code": "OTC#PAGOEFECTIVO",
+      "State": 1,
+      "Channel_name": "PAGOEFECTIVO",
+      "Channel_web": "PayermaxPAGOEFECTIVO",
+      "Logo": "/uploads/pay_channel_icon/PayermaxPAGOEFECTIVO.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 116,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#BCP",
+      "State": 1,
+      "Channel_name": "BCP",
+      "Channel_web": "PayermaxBCP",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBCP.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 117,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#INTERBANK",
+      "State": 1,
+      "Channel_name": "INTERBANK",
+      "Channel_web": "PayermaxINTERBANK",
+      "Logo": "/uploads/pay_channel_icon/PayermaxINTERBANK.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 118,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#WEBPAY",
+      "State": 1,
+      "Channel_name": "WEBPAY",
+      "Channel_web": "PayermaxWEBPAY",
+      "Logo": "/uploads/pay_channel_icon/PayermaxWEBPAY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 119,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#SERVIPAG",
+      "State": 1,
+      "Channel_name": "SERVIPAG",
+      "Channel_web": "PayermaxSERVIPAG",
+      "Logo": "/uploads/pay_channel_icon/PayermaxSERVIPAG.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 120,
+      "Pay_type_id": 2,
+      "Channel_code": "OTC#RAPIPAGO",
+      "State": 1,
+      "Channel_name": "RAPIPAGO",
+      "Channel_web": "PayermaxRAPIPAGO",
+      "Logo": "/uploads/pay_channel_icon/PayermaxRAPIPAGO.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 121,
+      "Pay_type_id": 2,
+      "Channel_code": "BANK_TRANSFER#BANKTRANSFER",
+      "State": 1,
+      "Channel_name": "BANKTRANSFER",
+      "Channel_web": "PayermaxBANKTRANSFER",
+      "Logo": "/uploads/pay_channel_icon/PayermaxBANKTRANSFER.png",
+      "App": [],
+      "Country": []
     }
   ]
 }
