@@ -7785,6 +7785,301 @@
                         }
                     ]
                 }
+            },
+            {
+                "Country_Name": "Nicaragua",
+                "Country_Name_CN": "尼加拉瓜",
+                "Country_Code": "NI",
+                "Recharge_Type": [
+                    "Before_Recharge",
+                    "After_Recharge"
+                ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 2.18,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 12.99,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
+            },
+            {
+                "Country_Name": "Puerto Rico",
+                "Country_Name_CN": "波多黎各",
+                "Country_Code": "PR",
+                "Recharge_Type": [
+                    "Before_Recharge",
+                    "After_Recharge"
+                ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 2.18,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 12.99,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
+            },
+            {
+                "Country_Name": "Dominican",
+                "Country_Name_CN": "多米加",
+                "Country_Code": "DO",
+                "Recharge_Type": [
+                    "Before_Recharge",
+                    "After_Recharge"
+                ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 2.18,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 12.99,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
+            },
+            {
+                "Country_Name": "Belize",
+                "Country_Name_CN": "伯利兹",
+                "Country_Code": "BZ",
+                "Recharge_Type": [
+                    "Before_Recharge",
+                    "After_Recharge"
+                ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 2.18,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 12.99,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
+            },
+            {
+                "Country_Name": "Trinidad and Tobago",
+                "Country_Name_CN": "特立尼达和多巴哥",
+                "Country_Code": "TT",
+                "Recharge_Type": [
+                    "Before_Recharge",
+                    "After_Recharge"
+                ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 2.18,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 2.99,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 4.99,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.99,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 12.99,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
             }
         ]
     }

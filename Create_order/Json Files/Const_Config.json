@@ -4,6 +4,7 @@
     "Apps": [
         {
             "AppName": "Melon",
+            "Is_IOS": 0,
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -135,11 +136,17 @@
                 "Australia",
                 "Malaysia",
                 "Singapore",
-                "Indonesia"
+                "Indonesia",
+                "Nicaragua",
+                "Puerto Rico",
+                "Dominican",
+                "Belize",
+                "Trinidad and Tobago"
             ]
         },
         {
             "AppName": "Tingly",
+            "Is_IOS": 0,
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -271,11 +278,17 @@
                 "Australia",
                 "Malaysia",
                 "Singapore",
-                "Indonesia"
+                "Indonesia",
+                "Nicaragua",
+                "Puerto Rico",
+                "Dominican",
+                "Belize",
+                "Trinidad and Tobago"
             ]
         },
         {
             "AppName": "Livvy",
+            "Is_IOS": 0,
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -407,147 +420,17 @@
                 "Australia",
                 "Malaysia",
                 "Singapore",
-                "Indonesia"
-            ]
-        },
-        {
-            "AppName": "Biffo",
-            "Need_Country": [
-                "Czechoslovakia",
-                "Czech",
-                "Spain",
-                "Paraguay",
-                "Uruguay",
-                "Panama",
-                "Jamaica",
-                "Honduras",
-                "Guatemala",
-                "Salvador",
-                "Cuba",
-                "Costa rica",
-                "Brazil",
-                "Bolivia",
-                "Bahamas",
-                "Argentina",
-                "Austria",
-                "Hungary",
-                "Serbia",
-                "Croatia",
-                "Slovenia",
-                "Montenegro",
-                "Estonia",
-                "Lithuania",
-                "Albania",
-                "Finland",
-                "Norway",
-                "Switzerland",
-                "Denmark",
-                "Romania",
-                "Bulgaria",
-                "Portugal",
-                "Iceland",
-                "Ireland",
-                "Belgium",
-                "Belarus",
-                "Ukraine",
-                "Turkey",
-                "Russia",
-                "Fiji",
-                "Nauru",
-                "Zimbabwe",
-                "Mozambique",
-                "Mauritius",
-                "Comores",
-                "Madagascar",
-                "Lesotho",
-                "Swaziland",
-                "South Africa",
-                "Angola",
-                "Equatorial Guinea",
-                "Cameroon",
-                "Central African",
-                "Chad",
-                "Togo",
-                "Ivory Coast",
-                "Liberia",
-                "Guinea",
-                "Senegal",
-                "Somalia",
-                "Morocco",
-                "Algeria",
-                "Tunisia",
-                "Libya",
-                "Sudan",
-                "Egypt",
-                "Kazakhstan",
-                "Tajikistan",
-                "Kyrgyzstan",
-                "Uzbekistan",
-                "Turkmenistan",
-                "Afghanistan",
-                "Qatar",
-                "Arab Emirates",
-                "Oman",
-                "Yemen",
-                "Saudi Arabia",
-                "Kuwait",
-                "Iraq",
-                "Jordan",
-                "Israel",
-                "Palestine",
-                "Lebanon",
-                "Syria",
-                "Iran",
-                "Bhutan",
-                "Nepal",
-                "Bangladesh",
-                "Pakistan",
-                "Maldives",
-                "Sri Lanka",
-                "Brunei",
-                "Myanmar",
-                "Cambodia",
-                "Laos",
-                "Mongolia",
-                "Korea",
-                "Japan",
-                "France",
-                "Peru",
-                "Ecuador",
-                "Mexico",
-                "Chile",
-                "India",
-                "Venezuela",
-                "Colombia",
-                "Rwanda",
-                "Tanzania",
-                "Zambia",
-                "Uganda",
-                "Nigeria",
-                "Kenya",
-                "Ghana",
-                "Malawi",
-                "Poland",
-                "Netherlands",
-                "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
-                "Canada",
-                "Italy",
-                "New Zealand",
-                "Sweden",
-                "Germany",
-                "Britain",
-                "America",
-                "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Indonesia",
+                "Nicaragua",
+                "Puerto Rico",
+                "Dominican",
+                "Belize",
+                "Trinidad and Tobago"
             ]
         },
         {
             "AppName": "Quizy",
+            "Is_IOS": 0,
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -679,283 +562,17 @@
                 "Australia",
                 "Malaysia",
                 "Singapore",
-                "Indonesia"
-            ]
-        },
-        {
-            "AppName": "Riffy",
-            "Need_Country": [
-                "Czechoslovakia",
-                "Czech",
-                "Spain",
-                "Paraguay",
-                "Uruguay",
-                "Panama",
-                "Jamaica",
-                "Honduras",
-                "Guatemala",
-                "Salvador",
-                "Cuba",
-                "Costa rica",
-                "Brazil",
-                "Bolivia",
-                "Bahamas",
-                "Argentina",
-                "Austria",
-                "Hungary",
-                "Serbia",
-                "Croatia",
-                "Slovenia",
-                "Montenegro",
-                "Estonia",
-                "Lithuania",
-                "Albania",
-                "Finland",
-                "Norway",
-                "Switzerland",
-                "Denmark",
-                "Romania",
-                "Bulgaria",
-                "Portugal",
-                "Iceland",
-                "Ireland",
-                "Belgium",
-                "Belarus",
-                "Ukraine",
-                "Turkey",
-                "Russia",
-                "Fiji",
-                "Nauru",
-                "Zimbabwe",
-                "Mozambique",
-                "Mauritius",
-                "Comores",
-                "Madagascar",
-                "Lesotho",
-                "Swaziland",
-                "South Africa",
-                "Angola",
-                "Equatorial Guinea",
-                "Cameroon",
-                "Central African",
-                "Chad",
-                "Togo",
-                "Ivory Coast",
-                "Liberia",
-                "Guinea",
-                "Senegal",
-                "Somalia",
-                "Morocco",
-                "Algeria",
-                "Tunisia",
-                "Libya",
-                "Sudan",
-                "Egypt",
-                "Kazakhstan",
-                "Tajikistan",
-                "Kyrgyzstan",
-                "Uzbekistan",
-                "Turkmenistan",
-                "Afghanistan",
-                "Qatar",
-                "Arab Emirates",
-                "Oman",
-                "Yemen",
-                "Saudi Arabia",
-                "Kuwait",
-                "Iraq",
-                "Jordan",
-                "Israel",
-                "Palestine",
-                "Lebanon",
-                "Syria",
-                "Iran",
-                "Bhutan",
-                "Nepal",
-                "Bangladesh",
-                "Pakistan",
-                "Maldives",
-                "Sri Lanka",
-                "Brunei",
-                "Myanmar",
-                "Cambodia",
-                "Laos",
-                "Mongolia",
-                "Korea",
-                "Japan",
-                "France",
-                "Peru",
-                "Ecuador",
-                "Mexico",
-                "Chile",
-                "India",
-                "Venezuela",
-                "Colombia",
-                "Rwanda",
-                "Tanzania",
-                "Zambia",
-                "Uganda",
-                "Nigeria",
-                "Kenya",
-                "Ghana",
-                "Malawi",
-                "Poland",
-                "Netherlands",
-                "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
-                "Canada",
-                "Italy",
-                "New Zealand",
-                "Sweden",
-                "Germany",
-                "Britain",
-                "America",
-                "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
-            ]
-        },
-        {
-            "AppName": "Wixel",
-            "Need_Country": [
-                "Czechoslovakia",
-                "Czech",
-                "Spain",
-                "Paraguay",
-                "Uruguay",
-                "Panama",
-                "Jamaica",
-                "Honduras",
-                "Guatemala",
-                "Salvador",
-                "Cuba",
-                "Costa rica",
-                "Brazil",
-                "Bolivia",
-                "Bahamas",
-                "Argentina",
-                "Austria",
-                "Hungary",
-                "Serbia",
-                "Croatia",
-                "Slovenia",
-                "Montenegro",
-                "Estonia",
-                "Lithuania",
-                "Albania",
-                "Finland",
-                "Norway",
-                "Switzerland",
-                "Denmark",
-                "Romania",
-                "Bulgaria",
-                "Portugal",
-                "Iceland",
-                "Ireland",
-                "Belgium",
-                "Belarus",
-                "Ukraine",
-                "Turkey",
-                "Russia",
-                "Fiji",
-                "Nauru",
-                "Zimbabwe",
-                "Mozambique",
-                "Mauritius",
-                "Comores",
-                "Madagascar",
-                "Lesotho",
-                "Swaziland",
-                "South Africa",
-                "Angola",
-                "Equatorial Guinea",
-                "Cameroon",
-                "Central African",
-                "Chad",
-                "Togo",
-                "Ivory Coast",
-                "Liberia",
-                "Guinea",
-                "Senegal",
-                "Somalia",
-                "Morocco",
-                "Algeria",
-                "Tunisia",
-                "Libya",
-                "Sudan",
-                "Egypt",
-                "Kazakhstan",
-                "Tajikistan",
-                "Kyrgyzstan",
-                "Uzbekistan",
-                "Turkmenistan",
-                "Afghanistan",
-                "Qatar",
-                "Arab Emirates",
-                "Oman",
-                "Yemen",
-                "Saudi Arabia",
-                "Kuwait",
-                "Iraq",
-                "Jordan",
-                "Israel",
-                "Palestine",
-                "Lebanon",
-                "Syria",
-                "Iran",
-                "Bhutan",
-                "Nepal",
-                "Bangladesh",
-                "Pakistan",
-                "Maldives",
-                "Sri Lanka",
-                "Brunei",
-                "Myanmar",
-                "Cambodia",
-                "Laos",
-                "Mongolia",
-                "Korea",
-                "Japan",
-                "France",
-                "Peru",
-                "Ecuador",
-                "Mexico",
-                "Chile",
-                "India",
-                "Venezuela",
-                "Colombia",
-                "Rwanda",
-                "Tanzania",
-                "Zambia",
-                "Uganda",
-                "Nigeria",
-                "Kenya",
-                "Ghana",
-                "Malawi",
-                "Poland",
-                "Netherlands",
-                "Greece",
-                "Thailand",
-                "Vietnam",
-                "Philippines",
-                "Canada",
-                "Italy",
-                "New Zealand",
-                "Sweden",
-                "Germany",
-                "Britain",
-                "America",
-                "Australia",
-                "Malaysia",
-                "Singapore",
-                "Indonesia"
+                "Indonesia",
+                "Nicaragua",
+                "Puerto Rico",
+                "Dominican",
+                "Belize",
+                "Trinidad and Tobago"
             ]
         },
         {
             "AppName": "Flinx",
+            "Is_IOS": 0,
             "Need_Country": [
                 "Czechoslovakia",
                 "Czech",
@@ -1087,6 +704,18 @@
                 "Australia",
                 "Malaysia",
                 "Singapore",
+                "Indonesia",
+                "Nicaragua",
+                "Puerto Rico",
+                "Dominican",
+                "Belize",
+                "Trinidad and Tobago"
+            ]
+        },
+        {
+            "AppName": "Tweep",
+            "Is_IOS": 1,
+            "Need_Country": [
                 "Indonesia"
             ]
         }
@@ -1624,183 +1253,6 @@
             ]
         },
         {
-            "AppName": "Biffo",
-            "Diamond_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Diamond_Count": 125,
-                    "Google_Price_ID": "biffo_gold125"
-                },
-                {
-                    "Price": 1.99,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "biffo_gold199"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "biffo_gold236"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "biffo_gold236"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "biffo_gold470"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "biffo_gold470"
-                },
-                {
-                    "Price": 13.99,
-                    "Diamond_Count": 1052,
-                    "Google_Price_ID": "biffo_gold1052"
-                },
-                {
-                    "Price": 33.99,
-                    "Diamond_Count": 2570,
-                    "Google_Price_ID": "biffo_gold2570"
-                },
-                {
-                    "Price": 69.99,
-                    "Diamond_Count": 5314,
-                    "Google_Price_ID": "biffo_gold5314"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10679,
-                    "Google_Price_ID": "biffo_gold10679"
-                },
-                {
-                    "Price": 3.49,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "biffo_gold125_new"
-                },
-                {
-                    "Price": 3.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "biffo_gold199_new"
-                },
-                {
-                    "Price": 7.49,
-                    "Diamond_Count": 429,
-                    "Google_Price_ID": "biffo_gold236_new"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 599,
-                    "Google_Price_ID": "biffo_gold470_new"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1209,
-                    "Google_Price_ID": "biffo_gold1052_new"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2509,
-                    "Google_Price_ID": "biffo_gold2570_new"
-                },
-                {
-                    "Price": 79.99,
-                    "Diamond_Count": 5199,
-                    "Google_Price_ID": "biffo_gold5314_new"
-                },
-                {
-                    "Price": 149.99,
-                    "Diamond_Count": 9999,
-                    "Google_Price_ID": "biffo_gold10679_new"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 160,
-                    "Google_Price_ID": "d_160_biffo"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "d_199_biffo"
-                },
-                {
-                    "Price": 4.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "d_369_biffo"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 639,
-                    "Google_Price_ID": "d_739_biffo"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1569,
-                    "Google_Price_ID": "d_1569_biffo"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2999,
-                    "Google_Price_ID": "d_2999_biffo"
-                },
-                {
-                    "Price": 99.99,
-                    "Diamond_Count": 7599,
-                    "Google_Price_ID": "d_7599_biffo"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10699,
-                    "Google_Price_ID": "d_10699_biffo"
-                },
-                {
-                    "Price": 199.99,
-                    "Diamond_Count": 15999,
-                    "Google_Price_ID": "d_15999_biffo"
-                }
-            ],
-            "Vip_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "biffo_vip7"
-                },
-                {
-                    "Price": 4.49,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "biffo_vip30"
-                },
-                {
-                    "Price": 7.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "biffo_vip90"
-                },
-                {
-                    "Price": 10.99,
-                    "Vip_Days": 180,
-                    "Google_Price_ID": "biffo_vip180"
-                },
-                {
-                    "Price": 2.99,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "v_7_biffo"
-                },
-                {
-                    "Price": 4.99,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "v_30_biffo"
-                },
-                {
-                    "Price": 12.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "v_90_biffo"
-                }
-            ]
-        },
-        {
             "AppName": "Quizy",
             "Diamond_Google_ID": [
                 {
@@ -1974,360 +1426,6 @@
                     "Price": 12.99,
                     "Vip_Days": 90,
                     "Google_Price_ID": "v_90_quizy"
-                }
-            ]
-        },
-        {
-            "AppName": "Riffy",
-            "Diamond_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Diamond_Count": 125,
-                    "Google_Price_ID": "riffy_gold125"
-                },
-                {
-                    "Price": 1.99,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "riffy_gold199"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "riffy_gold236"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "riffy_gold236"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "riffy_gold470"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "riffy_gold470"
-                },
-                {
-                    "Price": 13.99,
-                    "Diamond_Count": 1052,
-                    "Google_Price_ID": "riffy_gold1052"
-                },
-                {
-                    "Price": 33.99,
-                    "Diamond_Count": 2570,
-                    "Google_Price_ID": "riffy_gold2570"
-                },
-                {
-                    "Price": 69.99,
-                    "Diamond_Count": 5314,
-                    "Google_Price_ID": "riffy_gold5314"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10679,
-                    "Google_Price_ID": "riffy_gold10679"
-                },
-                {
-                    "Price": 3.49,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "riffy_gold125_new"
-                },
-                {
-                    "Price": 3.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "riffy_gold199_new"
-                },
-                {
-                    "Price": 7.49,
-                    "Diamond_Count": 429,
-                    "Google_Price_ID": "riffy_gold236_new"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 599,
-                    "Google_Price_ID": "riffy_gold470_new"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1209,
-                    "Google_Price_ID": "riffy_gold1052_new"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2509,
-                    "Google_Price_ID": "riffy_gold2570_new"
-                },
-                {
-                    "Price": 79.99,
-                    "Diamond_Count": 5199,
-                    "Google_Price_ID": "riffy_gold5314_new"
-                },
-                {
-                    "Price": 149.99,
-                    "Diamond_Count": 9999,
-                    "Google_Price_ID": "riffy_gold10679_new"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 160,
-                    "Google_Price_ID": "d_160_riffy"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "d_199_riffy"
-                },
-                {
-                    "Price": 4.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "d_369_riffy"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 639,
-                    "Google_Price_ID": "d_739_riffy"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1569,
-                    "Google_Price_ID": "d_1569_riffy"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2999,
-                    "Google_Price_ID": "d_2999_riffy"
-                },
-                {
-                    "Price": 99.99,
-                    "Diamond_Count": 7599,
-                    "Google_Price_ID": "d_7599_riffy"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10699,
-                    "Google_Price_ID": "d_10699_riffy"
-                },
-                {
-                    "Price": 199.99,
-                    "Diamond_Count": 15999,
-                    "Google_Price_ID": "d_15999_riffy"
-                }
-            ],
-            "Vip_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "riffy_vip7"
-                },
-                {
-                    "Price": 4.49,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "riffy_vip30"
-                },
-                {
-                    "Price": 7.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "riffy_vip90"
-                },
-                {
-                    "Price": 10.99,
-                    "Vip_Days": 180,
-                    "Google_Price_ID": "riffy_vip180"
-                },
-                {
-                    "Price": 2.99,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "v_7_riffy"
-                },
-                {
-                    "Price": 4.99,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "v_30_riffy"
-                },
-                {
-                    "Price": 12.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "v_90_riffy"
-                }
-            ]
-        },
-        {
-            "AppName": "Wixel",
-            "Diamond_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Diamond_Count": 125,
-                    "Google_Price_ID": "wixel_gold125"
-                },
-                {
-                    "Price": 1.99,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "wixel_gold199"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "wixel_gold236"
-                },
-                {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "wixel_gold236"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "wixel_gold470"
-                },
-                {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "wixel_gold470"
-                },
-                {
-                    "Price": 13.99,
-                    "Diamond_Count": 1052,
-                    "Google_Price_ID": "wixel_gold1052"
-                },
-                {
-                    "Price": 33.99,
-                    "Diamond_Count": 2570,
-                    "Google_Price_ID": "wixel_gold2570"
-                },
-                {
-                    "Price": 69.99,
-                    "Diamond_Count": 5314,
-                    "Google_Price_ID": "wixel_gold5314"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10679,
-                    "Google_Price_ID": "wixel_gold10679"
-                },
-                {
-                    "Price": 3.49,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "wixel_gold125_new"
-                },
-                {
-                    "Price": 3.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "wixel_gold199_new"
-                },
-                {
-                    "Price": 7.49,
-                    "Diamond_Count": 429,
-                    "Google_Price_ID": "wixel_gold236_new"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 599,
-                    "Google_Price_ID": "wixel_gold470_new"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1209,
-                    "Google_Price_ID": "wixel_gold1052_new"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2509,
-                    "Google_Price_ID": "wixel_gold2570_new"
-                },
-                {
-                    "Price": 79.99,
-                    "Diamond_Count": 5199,
-                    "Google_Price_ID": "wixel_gold5314_new"
-                },
-                {
-                    "Price": 149.99,
-                    "Diamond_Count": 9999,
-                    "Google_Price_ID": "wixel_gold10679_new"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 160,
-                    "Google_Price_ID": "d_160_wixel"
-                },
-                {
-                    "Price": 2.18,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "d_199_wixel"
-                },
-                {
-                    "Price": 4.99,
-                    "Diamond_Count": 369,
-                    "Google_Price_ID": "d_369_wixel"
-                },
-                {
-                    "Price": 7.99,
-                    "Diamond_Count": 639,
-                    "Google_Price_ID": "d_739_wixel"
-                },
-                {
-                    "Price": 19.99,
-                    "Diamond_Count": 1569,
-                    "Google_Price_ID": "d_1569_wixel"
-                },
-                {
-                    "Price": 39.99,
-                    "Diamond_Count": 2999,
-                    "Google_Price_ID": "d_2999_wixel"
-                },
-                {
-                    "Price": 99.99,
-                    "Diamond_Count": 7599,
-                    "Google_Price_ID": "d_7599_wixel"
-                },
-                {
-                    "Price": 139.99,
-                    "Diamond_Count": 10699,
-                    "Google_Price_ID": "d_10699_wixel"
-                },
-                {
-                    "Price": 199.99,
-                    "Diamond_Count": 15999,
-                    "Google_Price_ID": "d_15999_wixel"
-                }
-            ],
-            "Vip_Google_ID": [
-                {
-                    "Price": 1.69,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "wixel_vip7"
-                },
-                {
-                    "Price": 4.49,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "wixel_vip30"
-                },
-                {
-                    "Price": 7.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "wixel_vip90"
-                },
-                {
-                    "Price": 10.99,
-                    "Vip_Days": 180,
-                    "Google_Price_ID": "wixel_vip180"
-                },
-                {
-                    "Price": 2.99,
-                    "Vip_Days": 7,
-                    "Google_Price_ID": "v_7_wixel"
-                },
-                {
-                    "Price": 4.99,
-                    "Vip_Days": 30,
-                    "Google_Price_ID": "v_30_wixel"
-                },
-                {
-                    "Price": 12.99,
-                    "Vip_Days": 90,
-                    "Google_Price_ID": "v_90_wixel"
                 }
             ]
         },
@@ -2509,7 +1607,77 @@
             ]
         }
     ],
-    "PayMethod_Company": [ "GooglePay", "PayerMax", "Payssion", "Paynow", "Dukpay", "Paynicorn", "Lapay", "LianLian", "Tikipay", "Payhere", "Tejeepay" ],
+    "IosId": [
+        {
+            "AppName": "Melon",
+            "Diamond_Apple_ID": [
+                {
+                    "Price": 3.09,
+                    "Diamond_Count": 160,
+                    "Apple_Price_ID": "tweep_diamonds_160"
+                },
+                {
+                    "Price": 3.09,
+                    "Diamond_Count": 199,
+                    "Apple_Price_ID": "tweep_diamonds_199"
+                },
+                {
+                    "Price": 7.19,
+                    "Diamond_Count": 369,
+                    "Apple_Price_ID": "tweep_diamonds_369"
+                },
+                {
+                    "Price": 11.49,
+                    "Diamond_Count": 639,
+                    "Apple_Price_ID": "tweep_diamonds_639"
+                },
+                {
+                    "Price": 28.95,
+                    "Diamond_Count": 1569,
+                    "Apple_Price_ID": "tweep_diamonds_1569"
+                },
+                {
+                    "Price": 57.99,
+                    "Diamond_Count": 2999,
+                    "Apple_Price_ID": "tweep_diamonds_2999"
+                },
+                {
+                    "Price": 144.99,
+                    "Diamond_Count": 7599,
+                    "Apple_Price_ID": "tweep_diamonds_7599"
+                },
+                {
+                    "Price": 200,
+                    "Diamond_Count": 10699,
+                    "Apple_Price_ID": "tweep_diamonds_10699"
+                },
+                {
+                    "Price": 289,
+                    "Diamond_Count": 15999,
+                    "Apple_Price_ID": "tweep_diamonds_15999"
+                }
+            ],
+            "Vip_Apple_ID": [
+                {
+                    "Price": 4.29,
+                    "Vip_Days": 7,
+                    "Apple_Price_ID": "tweep_vip_7"
+                },
+                {
+                    "Price": 7.19,
+                    "Vip_Days": 30,
+                    "Apple_Price_ID": "tweep_vip_30"
+                },
+                {
+                    "Price": 18.9,
+                    "Vip_Days": 90,
+                    "Apple_Price_ID": "tweep_vip_90"
+                }
+            ]
+        }
+    ],
+
+    "PayMethod_Company": [ "GooglePay", "PayerMax", "Payssion", "Paynow", "Dukpay", "Paynicorn", "Lapay", "Lianlian", "Tikipay", "Payhere", "Tejeepay" ,"Ios"],
     "PayMethod_Info": [
         {
             "Pay_Type_ID": 1,
@@ -2555,7 +1723,7 @@
         },
         {
             "Pay_Type_ID": 8,
-            "PaymentMethod_Name": "LianLian",
+            "PaymentMethod_Name": "Lianlian",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 8
         },
@@ -2576,6 +1744,12 @@
             "PaymentMethod_Name": "Tejeepay",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 11
+        },
+        {
+            "Pay_Type_ID": 12,
+            "PaymentMethod_Name": "Ios",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 12
         }
     ]
 }

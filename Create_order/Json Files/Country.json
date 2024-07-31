@@ -15853,6 +15853,476 @@
                     }
                 ]
             }
+        },
+        {
+            "Country_Name": "Nicaragua",
+            "Country_Name_CN": "尼加拉瓜",
+            "Country_Code": "NI",
+            "Area": "English",
+            "Area_CN": "英语大区",
+            "Currency_Code": "NIO",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "Puerto Rico",
+            "Country_Name_CN": "波多黎各",
+            "Country_Code": "PR",
+            "Area": "English",
+            "Area_CN": "英语大区",
+            "Currency_Code": "USD",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "Dominican",
+            "Country_Name_CN": "多米加",
+            "Country_Code": "DO",
+            "Area": "English",
+            "Area_CN": "英语大区",
+            "Currency_Code": "DOP",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "Belize",
+            "Country_Name_CN": "伯利兹",
+            "Country_Code": "BZ",
+            "Area": "English",
+            "Area_CN": "英语大区",
+            "Currency_Code": "BZD",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "Trinidad and Tobago",
+            "Country_Name_CN": "特立尼达和多巴哥",
+            "Country_Code": "TT",
+            "Area": "English",
+            "Area_CN": "英语大区",
+            "Currency_Code": "TTD",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "GooglePay" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 2.18,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.99,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 19.99,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 39.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 99.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 139.99,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 199.99,
+                        "Diamond_Count": 15999,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "GooglePay" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 2.99,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 4.99,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 12.99,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "谷歌支付" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
         }
     ]
 }

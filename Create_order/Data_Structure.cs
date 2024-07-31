@@ -26,12 +26,14 @@ namespace Create_order
             public List<string>? Area { get;set; }
             public List<Apps>? Apps { get; set; }
             public List<GoogleID> GoogleID { get; set; }
+            public List<IosId> IosId {  get; set; }
             public List<string>? PayMethod_Company { get; set; }
             public List<PayMethod_Info> PayMethod_Info { get; set; }
         }
         public struct Apps
         {
             public string? AppName { get; set; }
+            public int? Is_IOS {  get; set; }
             public List<string>? Need_Country { get; set; }
         }
 
@@ -40,6 +42,13 @@ namespace Create_order
             public string? AppName { get; set; }
             public List<Diamond_Google_ID> Diamond_Google_ID { get; set; }
             public List<Vip_Google_ID> Vip_Google_ID { get; set; }
+        }
+
+        public struct IosId
+        {
+            public string? AppName { get; set; }
+            public List<Diamond_Apple_ID> Diamond_Apple_ID { get; set; }
+            public List<Vip_Apple_ID> Vip_Apple_ID { get; set; }
         }
 
         public struct Diamond_Google_ID
@@ -54,6 +63,19 @@ namespace Create_order
             public double Price { get; set; }
             public int Vip_Days { get; set; }
             public string? Google_Price_ID { get; set; }
+        }
+        public struct Diamond_Apple_ID
+        {
+            public double Price { get; set; }
+            public int Diamond_Count { get; set; }
+            public string? Apple_Price_ID { get; set; }
+        }
+
+        public struct Vip_Apple_ID
+        {
+            public double Price { get; set; }
+            public int Vip_Days { get; set; }
+            public string? Apple_Price_ID { get; set; }
         }
 
         public struct PayMethod_Info

@@ -1331,6 +1331,17 @@
       "Logo": "/uploads/pay_channel_icon/PayermaxBANKTRANSFER.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 122,
+      "Pay_type_id": 2,
+      "Channel_code": "",
+      "State": 1,
+      "Channel_name": "Ios",
+      "Channel_web": "Ios",
+      "Logo": "",
+      "App": [],
+      "Country": []
     }
   ]
 }
