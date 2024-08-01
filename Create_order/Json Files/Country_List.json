@@ -130,7 +130,12 @@
         "Australia",
         "Malaysia",
         "Singapore",
-        "Indonesia"
+        "Indonesia",
+        "Nicaragua",
+        "Puerto Rico",
+        "Dominican",
+        "Belize",
+        "Trinidad and Tobago"
     ],
     "UnDeveloped_Country": [
         "Malawi",
@@ -220,7 +225,12 @@
         "Honduras",
         "Jamaica",
         "Panama",
-        "Paraguay"
+        "Paraguay",
+        "Nicaragua",
+        "Puerto Rico",
+        "Dominican",
+        "Belize",
+        "Trinidad and Tobago"
     ],
     "Developed_Country": [
         "Australia",

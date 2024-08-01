@@ -188,6 +188,7 @@ namespace Create_order
         public struct Country_Config
         {
             public List<Country> Country { get; set; }
+            public List<Country> Country_Apple { get; set; }
         }
 
         public struct Country
@@ -270,6 +271,9 @@ namespace Create_order
         {
             public List<Modify_Diamond> Modify_Diamond { get; set; }
             public List<Modify_Vip> Modify_Vip { get; set; }
+            public List<Modify_Diamond> Modify_Diamond_Apple { get; set; }
+            public List<Modify_Vip> Modify_Vip_Apple { get; set; }
+
         }
 
         public struct Modify_Diamond
@@ -558,6 +562,8 @@ namespace Create_order
             public List<string> Modify_Apps { get; set; }
             public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
             public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
+            public List<Modify_TurnTable_Count_Diamond_Apple> Modify_TurnTable_Count_Diamond_Apple {  get; set; }
+            public List<Modify_TurnTable_Count_Vip_Apple> Modify_TurnTable_Count_Vip_Apple {  get; set; }
         }
 
         public struct Modify_TurnTable_Count_Diamond
@@ -567,10 +573,25 @@ namespace Create_order
             public int TurnTable_Count { get; set; }
             public int extra_item_id { get; set; }
             public int extra_item_num { get; set; }
-
+        }
+        public struct Modify_TurnTable_Count_Diamond_Apple
+        {
+            public double Price { get; set; }
+            public int Diamond_Count { get; set; }
+            public int TurnTable_Count { get; set; }
+            public int extra_item_id { get; set; }
+            public int extra_item_num { get; set; }
         }
 
         public struct Modify_TurnTable_Count_Vip
+        {
+            public double Price { get; set; }
+            public int Vip_Days { get; set; }
+            public int TurnTable_Count { get; set; }
+            public int extra_item_id { get; set; }
+            public int extra_item_num { get; set; }
+        }
+        public struct Modify_TurnTable_Count_Vip_Apple
         {
             public double Price { get; set; }
             public int Vip_Days { get; set; }

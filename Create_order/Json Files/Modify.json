@@ -1454,7 +1454,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 3,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1578,7 +1578,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 7,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1702,7 +1702,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 15,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1826,7 +1826,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 30,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1870,7 +1870,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 3,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1914,7 +1914,7 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 7,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         },
@@ -1958,7 +1958,198 @@
                 "Modify_IsActivate": 1,
                 "Modify_IsFirstCharge": 0,
                 "Modify_Vip_Reward_Day": 15,
-                "Modify_Vip_Reward_ItemID": 2,
+                "Modify_Vip_Reward_ItemID": 0,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        }
+    ],
+    "Modify_Diamond_Apple": [
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 3.09,
+            "Modify_Diamond_Count": 199,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 1,
+                "Modify_Vip_Reward_Day": 0,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 30
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 7.19,
+            "Modify_Diamond_Count": 369,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 3,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 10
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 11.49,
+            "Modify_Diamond_Count": 639,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 5,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 15
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 28.95,
+            "Modify_Diamond_Count": 1569,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 7,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 20
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 57.99,
+            "Modify_Diamond_Count": 2999,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 10,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 144.99,
+            "Modify_Diamond_Count": 7599,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 20,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 200,
+            "Modify_Diamond_Count": 10699,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 30,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 0
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 289,
+            "Modify_Diamond_Count": 15999,
+            "Modify_Detail_Info": {
+                "//": "下方修改数据依次是：是否启用配置（1=是，0=否）、奖励钻石数量、是否首冲（1=是，0=否）、奖励VIP天数、VIP用户奖励钻石数量、折扣",
+                "Modify_IsActivate": 1,
+                "Modify_Reward_Count": 0,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 45,
+                "Modify_VipUser_Reward_Diamond_Count": 0,
+                "Modify_Discount": 20
+            }
+        }
+    ],
+    "Modify_Vip_Apple": [
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 4.29,
+            "Modify_Vip_Days": 7,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 209,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 3,
+                "Modify_Vip_Reward_ItemID": 0,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 7.19,
+            "Modify_Vip_Days": 30,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 339,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 7,
+                "Modify_Vip_Reward_ItemID": 0,
+                "Modify_Vip_Reward_ItemCount": 1
+            }
+        },
+        {
+            "Modify_App": [ "Tweep" ],
+            "Modify_Country": [
+                "Indonesia"
+            ],
+            "Modify_Price": 18.9,
+            "Modify_Vip_Days": 90,
+            "Modify_Detail_Info": {
+                "//": "下方修改的数据依次是：充值这一档VIP奖励的钻石数量、是否启用配置（1=是，0=否）、是否首冲（1=是，0=否）、开通VIP可领取特殊奖励的天数、可领取特殊奖励的物品ID、单次可领取的物品ID数量",
+                "Modify_Reward_Diamonds": 888,
+                "Modify_IsActivate": 1,
+                "Modify_IsFirstCharge": 0,
+                "Modify_Vip_Reward_Day": 15,
+                "Modify_Vip_Reward_ItemID": 0,
                 "Modify_Vip_Reward_ItemCount": 1
             }
         }

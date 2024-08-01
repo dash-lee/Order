@@ -279,8 +279,8 @@ namespace Create_order
                                     data_detail_vip.Add("");    //奖励vip天数
                                     data_detail_vip.Add("");    //vip用户奖励钻石数量
                                     data_detail_vip.Add("");    //折扣
-                                    data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //开通VIP可领取特殊奖励的天数
-                                    data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //可领取特殊奖励的物品ID
+                                    data_detail_vip.Add(isModifyVip ? $"{ext_item_id}" : $"{0}");    //可领取特殊奖励的物品ID
+                                    data_detail_vip.Add(isModifyVip ? $"{ext_day}" : $"{0}");    //开通VIP可领取特殊奖励的天数
                                     data_detail_vip.Add(isModifyVip ? $"{ext_num}" : $"{0}");    //单次可领取的物品ID数量 
                                     data_detail_vip.Add($"{turnTableNum}");
                                     data_detail_vip.Add($"{extra_item_id}");
