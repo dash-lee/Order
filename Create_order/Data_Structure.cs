@@ -119,6 +119,7 @@ namespace Create_order
         public struct Recharge_Config
         {
             public Recharge_Promotion Recharge_Promotion { get; set; }
+            public Recharge_Promotion Recharge_Promotion_Apple { get; set; }
         }
 
         public struct Recharge_Promotion
@@ -556,14 +557,13 @@ namespace Create_order
         public struct Modify_TurnTable_Count_Config
         {
             public List<Modify_all> Modify_all { get; set; }
+            public List<Modify_all> Modify_all_apple { get; set; }
         }
         public struct Modify_all
         {
             public List<string> Modify_Apps { get; set; }
             public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
             public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
-            public List<Modify_TurnTable_Count_Diamond_Apple> Modify_TurnTable_Count_Diamond_Apple {  get; set; }
-            public List<Modify_TurnTable_Count_Vip_Apple> Modify_TurnTable_Count_Vip_Apple {  get; set; }
         }
 
         public struct Modify_TurnTable_Count_Diamond
@@ -574,24 +574,8 @@ namespace Create_order
             public int extra_item_id { get; set; }
             public int extra_item_num { get; set; }
         }
-        public struct Modify_TurnTable_Count_Diamond_Apple
-        {
-            public double Price { get; set; }
-            public int Diamond_Count { get; set; }
-            public int TurnTable_Count { get; set; }
-            public int extra_item_id { get; set; }
-            public int extra_item_num { get; set; }
-        }
 
         public struct Modify_TurnTable_Count_Vip
-        {
-            public double Price { get; set; }
-            public int Vip_Days { get; set; }
-            public int TurnTable_Count { get; set; }
-            public int extra_item_id { get; set; }
-            public int extra_item_num { get; set; }
-        }
-        public struct Modify_TurnTable_Count_Vip_Apple
         {
             public double Price { get; set; }
             public int Vip_Days { get; set; }

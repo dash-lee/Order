@@ -1,5 +1,5 @@
 {
-    "//":"这里配置的都是对应国家的充值特惠相关配置",
+    "//": "这里配置的都是对应国家的充值特惠相关配置",
     "Recharge_Promotion": {
         "Country": [
             "Czechoslovakia",
@@ -8076,6 +8076,69 @@
                         {
                             "Type": "Diamond",
                             "Price": 7.99,
+                            "Num": 639
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Recharge_Promotion_Apple": {
+        "Country": [
+            "Indonesia"
+        ],
+        "Promotion_Info": [
+            {
+                "Country_Name": "Indonesia",
+                "Country_Name_CN": "印度尼西亚",
+                "Country_Code": "ID",
+                "Recharge_Type": [ "Before_Recharge", "After_Recharge" ],
+                "Before_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 3.09,
+                            "Num": 199
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 4.29,
+                            "Num": 7
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 7.19,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.19,
+                            "Num": 369
+                        }
+                    ]
+                },
+                "After_Recharge": {
+                    "Is_Open": 1,
+                    "Promotion_Detail_Info": [
+                        {
+                            "Type": "Diamond",
+                            "Price": 7.19,
+                            "Num": 369
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 7.19,
+                            "Num": 30
+                        },
+                        {
+                            "Type": "Vip",
+                            "Price": 18.9,
+                            "Num": 90
+                        },
+                        {
+                            "Type": "Diamond",
+                            "Price": 11.49,
                             "Num": 639
                         }
                     ]

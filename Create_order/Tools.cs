@@ -297,27 +297,57 @@ namespace Create_order
         }
 
         //目前返回APP的值，是默认所有的APP都用了，也不需要传递channelId了
-        public static string CombineApp(Const_Config const_config)
+        public static string CombineApp(Const_Config const_config,int id)
         {
             string apps = "";
-            for (int i = 0; i < const_config.Apps.Count; i++)
+
+            if (id == 122)
             {
-                if (i == 0)
+                //苹果支付
+                for (int i = 0; i < const_config.Apps.Count; i++)
                 {
-                    apps = const_config.Apps[i].AppName;
-                }
-                else
-                {
-                    apps = string.Concat(apps,",", const_config.Apps[i].AppName);
+                    if (const_config.Apps[i].Is_IOS == 1)
+                    {
+                        if (apps == "")
+                        {
+                            apps = const_config.Apps[i].AppName;
+                        }
+                        else
+                        {
+                            apps = string.Concat(apps, ",", const_config.Apps[i].AppName);
+                        }
+                    }
                 }
             }
-
+            else
+            {
+                for (int j = 0; j < const_config.Apps.Count; j++)
+                {
+                    if (const_config.Apps[j].Is_IOS == 0)
+                    {
+                        if (apps == "")
+                        {
+                            apps = const_config.Apps[j].AppName;
+                        }
+                        else
+                        {
+                            apps = string.Concat(apps, ",", const_config.Apps[j].AppName);
+                        }
+                    }
+                }
+            }
+            
             return apps;
         }
 
         //返回使用的国家的值
         public static string CombineCountry(PayChannel_Price_Config payChannel_Price_Config,int channel_id)
         {
+            if (channel_id == 122)
+            {
+                return "ID";
+            }
+
             string countries = "";
 
             for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)

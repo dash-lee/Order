@@ -2,7 +2,7 @@
     "//": "不同的APP可以进行不同的设置，这里就不区分大区进行配置了，如果需要，后面再添加也是可以的",
     "Modify_all": [
         {
-            "Modify_App": [ "Melon", "Tingly", "Livvy", "Quizy", "Flinx" ],
+            "Modify_Apps": [ "Melon", "Tingly", "Livvy", "Quizy", "Flinx" ],
             "//": "该表只用于对应档位能够获得的抽奖次数，以及额外赠送的物品ID",
             "Modify_TurnTable_Count_Diamond": [
                 {
@@ -238,8 +238,15 @@
                     "extra_item_id": 0,
                     "extra_item_num": 0
                 }
-            ],
-            "Modify_TurnTable_Count_Diamond_Apple": [
+            ]
+        }
+    ],
+
+    "Modify_all_apple": [
+        {
+            "Modify_Apps": [ "Tweep" ],
+            "//": "该表只用于对应档位能够获得的抽奖次数，以及额外赠送的物品ID",
+            "Modify_TurnTable_Count_Diamond": [
                 {
                     "Price": 3.09,
                     "Diamond_Count": 160,
@@ -304,7 +311,7 @@
                     "extra_item_num": 0
                 }
             ],
-            "Modify_TurnTable_Count_Vip_Apple": [
+            "Modify_TurnTable_Count_Vip": [
                 {
                     "Price": 4.29,
                     "Vip_Days": 7,
