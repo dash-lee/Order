@@ -26,7 +26,7 @@ namespace Create_order
             public List<string>? Area { get;set; }
             public List<Apps>? Apps { get; set; }
             public List<GoogleID> GoogleID { get; set; }
-            public List<IosId> IosId {  get; set; }
+            public List<AppleID> AppleID {  get; set; }
             public List<string>? PayMethod_Company { get; set; }
             public List<PayMethod_Info> PayMethod_Info { get; set; }
         }
@@ -44,7 +44,7 @@ namespace Create_order
             public List<Vip_Google_ID> Vip_Google_ID { get; set; }
         }
 
-        public struct IosId
+        public struct AppleID
         {
             public string? AppName { get; set; }
             public List<Diamond_Apple_ID> Diamond_Apple_ID { get; set; }

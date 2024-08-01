@@ -197,6 +197,43 @@ namespace Create_order
             return "";
         }
 
+        //找到对应的AppleID，返回AppleID值
+        public static string AppleIDSearch(Const_Config const_Config, string appName, int type, double price, int num)
+        {
+            for (int i = 0; i < const_Config.AppleID.Count; i++)
+            {
+                if (appName == const_Config.AppleID[i].AppName)
+                {
+                    if (type == 1)
+                    {
+                        for (int j = 0; j < const_Config.AppleID[i].Diamond_Apple_ID.Count; j++)
+                        {
+                            if (price == const_Config.AppleID[i].Diamond_Apple_ID[j].Price && num == const_Config.AppleID[i].Diamond_Apple_ID[j].Diamond_Count)
+                            {
+                                return const_Config.AppleID[i].Diamond_Apple_ID[j].Apple_Price_ID;
+                            }
+                        }
+                    }
+                    else if(type == 2)
+                    {
+                        for (int k = 0; k < const_Config.AppleID[i].Vip_Apple_ID.Count; k++)
+                        {
+                            if (price == const_Config.AppleID[i].Vip_Apple_ID[k].Price && num == const_Config.AppleID[i].Vip_Apple_ID[k].Vip_Days)
+                            {
+                                return const_Config.AppleID[i].Vip_Apple_ID[k].Apple_Price_ID;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        return "";
+                    }
+                }
+            }
+            Console.WriteLine("当前未找到" + appName + "的价值为" + price + "且数量为" + num + "的相关数据，请仔细检查！");
+            return "";
+        }
+
         //拼接渠道列表
         public static string JoinChannelString(List<string> channels)
         {

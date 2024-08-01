@@ -57,6 +57,7 @@ namespace Create_order
             string path = desktopPath + @"\config_all\hi_v3_pay_list.xlsx";
 
             List<Country> countries = country_Config.Country;
+            List<Country> countries_apple = country_Config.Country_Apple;
 
             //检测配置
             if (countries == null)
@@ -74,12 +75,43 @@ namespace Create_order
                 string appNameTemp = const_config.Apps[index].AppName;
                 //id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;
 
-                //在这里判断是安卓应用还是苹果应用
                 id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;   //初始化ID起始位置
-
+                
+                //在这里判断是安卓应用还是苹果应用
                 if (const_config.Apps[index].Is_IOS == 1)
                 {
                     //说明是IOS的应用，走IOS应用的配置那一套
+                    for (int apple_i = 0; apple_i < const_config.Apps[index].Need_Country.Count; apple_i++)
+                    {
+                        for (int apple_j = 0; apple_j < countries_apple.Count; apple_j++)
+                        {
+                            //找到对应的所需要的国家
+                            if (const_config.Apps[index].Need_Country[apple_i] == countries_apple[apple_i].Country_Name)
+                            {
+                                string appleID = "";
+
+                                //幸运轮盘的赠送次数初始化
+                                int turnTableNum = 0;
+                                int extra_item_id = 0;
+                                int extra_item_num = 0;
+
+                                id += apple_i * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+
+                                //进行Apple苹果包钻石配置的写入（检查钻石的配置）
+                                for (int apple_k = 0; apple_k < countries_apple.Count; apple_k++)
+                                {
+                                    List<string> data_detail_diamond_apple = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    appleID = Tools.AppleIDSearch(const_config, appNameTemp,1, countries_apple[apple_j].Diamond_Pay_Detail.PayMethod_Price[apple_k].Price, countries[apple_j].Diamond_Pay_Detail.PayMethod_Price[apple_k].Diamond_Count);
+                                    bool isModifyDiamond_apple = false;
+
+                                    //确认此条信息是否需要和默认值不一样，要进行修改
+                                    //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
+                                    //进行匹配的信息是：APP名称、国家、价格
+                                    int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
+                                }
+                            }
+                        }
+                    }
                 }
                 else
                 {
@@ -574,11 +606,6 @@ namespace Create_order
 
         public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
         {
-            if (true)
-            {
-
-            }
-
             //定义数据部分
             List<List<string>> body = new List<List<string>>();
 
