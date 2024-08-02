@@ -80,6 +80,7 @@ namespace Create_order
                 //在这里判断是安卓应用还是苹果应用
                 if (const_config.Apps[index].Is_IOS == 1)
                 {
+                    int match_country_count = 0;
                     //说明是IOS的应用，走IOS应用的配置那一套
                     for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                     {
@@ -95,7 +96,8 @@ namespace Create_order
                                 int extra_item_id = 0;
                                 int extra_item_num = 0;
 
-                                id += i * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                match_country_count++;
 
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
                                 for (int k = 0; k < countries_apple[j].Diamond_Pay_Detail.PayMethod_Price.Count; k++)
@@ -295,6 +297,7 @@ namespace Create_order
                 }
                 else
                 {
+                    int match_country_count_2 = 0;
                     for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                     {
                         //循环配置中配置了的国家的数量（是否能找到Need_Country中对应的国家）
@@ -309,7 +312,8 @@ namespace Create_order
                                 int extra_item_id = 0;
                                 int extra_item_num = 0;
 
-                                id += i * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count_2 * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                match_country_count_2++;
 
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
                                 for (int k = 0; k < countries[j].Diamond_Pay_Detail.PayMethod_Price.Count; k++)
