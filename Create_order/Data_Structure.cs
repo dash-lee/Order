@@ -35,13 +35,13 @@ namespace Create_order
             public string? AppName { get; set; }
             public int? Is_IOS {  get; set; }
             public List<string>? Need_Country { get; set; }
+            public string? Type {  get; set; }
         }
 
         public struct GoogleID
         {
             public string? AppName { get; set; }
             public List<Diamond_Google_ID> Diamond_Google_ID { get; set; }
-            public List<Vip_Google_ID> Vip_Google_ID { get; set; }
         }
 
         public struct AppleID
@@ -58,12 +58,6 @@ namespace Create_order
             public string? Google_Price_ID { get; set; }
         }
 
-        public struct Vip_Google_ID
-        {
-            public double Price { get; set; }
-            public int Vip_Days { get; set; }
-            public string? Google_Price_ID { get; set; }
-        }
         public struct Diamond_Apple_ID
         {
             public double Price { get; set; }
@@ -203,8 +197,6 @@ namespace Create_order
             public List<int> Diamond_Gear { get; set;}
             public List<string> Diamond_PayMethod {  get; set; }
             public Diamond_Pay_Detail Diamond_Pay_Detail {  get; set; }
-            public List<string> Vip_PayMethod {  get; set; }
-            public Vip_Pay_Detail Vip_Pay_Detail {  get; set; }
         }
 
         public struct Diamond_Pay_Detail
@@ -225,20 +217,6 @@ namespace Create_order
         {
             public string Name { get; set; }
             public double Price { get; set; }
-        }
-
-        public struct Vip_Pay_Detail
-        {
-            public string Currency { get; set; }
-            public List<PayMethod_Price_Vip> PayMethod_Price { get; set; }
-        }
-
-        public struct PayMethod_Price_Vip
-        {
-            public double Price { get; set; }
-            public int Vip_Days { get; set; }
-            public List<string> PayMethod_Name { get; set; }
-            public List<PayMethod_Fixed_Price> PayMethod_Fixed_Price { get; set; }
         }
 
         public static Country_Config Country_Data()
