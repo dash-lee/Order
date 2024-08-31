@@ -597,190 +597,6 @@ namespace Create_order
             Console.WriteLine("生成hi_v3_pay_channel.xlsx完成！");
         }
 
-        public static void Hi_v3_recharge_promotions(Recharge_Config recharge_config, Const_Config const_config,Country_Config country_Config)
-        {
-            //定义数据部分
-            List<List<string>> body = new List<List<string>>();
-
-            //定义数据头
-            List<string> header = new List<string>()
-            {
-                "id",
-                "info",
-                "pay_type",     //1充值前 2充值后
-                "status",
-                "app",
-                "country",
-            };
-
-            //获取路径
-            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx";
-
-            int id;
-
-            for (int index = 0; index < const_config.Apps.Count; index++)
-            {
-                id = ModuleSupport.RECHARGE_BEGIN_ID + index * ModuleSupport.RECHARGE_APP_GAP_ID;   //初始化ID
-
-                //区分苹果应用和安卓应用
-                if (const_config.Apps[index].Is_IOS == 1)
-                {
-                    for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
-                    {
-                        for (int j = 0; j < country_Config.Country.Count; j++)
-                        {
-                            //匹配上对应的国家（表示需要此国家的配置）
-                            if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
-                            {
-                                for (int k = 0; k < recharge_config.Recharge_Promotion_Apple.Promotion_Info.Count; k++)
-                                {
-                                    //需要的Need_country存在配置，则需要进行读取
-                                    if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Name)
-                                    {
-                                        for (int a = 0; a < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type.Count; a++)
-                                        {
-                                            List<string> data_detail = new List<string>();
-                                            int payType = -1;
-                                            int status = -1;
-                                            string info = "";
-
-                                            //充值前的配置
-                                            if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
-                                            {
-                                                payType = 1;
-                                                status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Is_Open;
-                                                for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
-                                                {
-                                                    string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-                                                    if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
-                                                    {
-                                                        info = info + combine_id;
-                                                    }
-                                                    else
-                                                    {
-                                                        info = info + combine_id + "_";
-                                                    }
-                                                }
-                                            }
-                                            else if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
-                                            {
-                                                payType = 2;
-                                                status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Is_Open;
-                                                for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
-                                                {
-                                                    string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-                                                    if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
-                                                    {
-                                                        info = info + combine_id;
-                                                    }
-                                                    else
-                                                    {
-                                                        info = info + combine_id + "_";
-                                                    }
-                                                }
-                                            }
-
-                                            data_detail.Add($"{id}");
-                                            data_detail.Add(info);
-                                            data_detail.Add($"{payType}");
-                                            data_detail.Add($"{status}");
-                                            data_detail.Add(const_config.Apps[index].AppName);
-                                            data_detail.Add(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code);
-
-                                            body.Add(data_detail);
-                                            id++;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-                else
-                {
-                    //找到所需的国家
-                    for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
-                    {
-                        for (int j = 0; j < country_Config.Country.Count; j++)
-                        {
-                            //匹配上对应的国家（表示需要此国家的配置）
-                            if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
-                            {
-                                for (int k = 0; k < recharge_config.Recharge_Promotion.Promotion_Info.Count; k++)
-                                {
-                                    //需要的Need_country存在配置，则需要进行读取
-                                    if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Name)
-                                    {
-                                        for (int a = 0; a < recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type.Count; a++)
-                                        {
-                                            List<string> data_detail = new List<string>();
-                                            int payType = -1;
-                                            int status = -1;
-                                            string info = "";
-
-                                            //充值前的配置
-                                            if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
-                                            {
-                                                payType = 1;
-                                                status = recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Is_Open;
-                                                for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
-                                                {
-                                                    string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-                                                    if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
-                                                    {
-                                                        info = info + combine_id;
-                                                    }
-                                                    else
-                                                    {
-                                                        info = info + combine_id + "_";
-                                                    }
-                                                }
-                                            }
-                                            else if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
-                                            {
-                                                payType = 2;
-                                                status = recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Is_Open;
-                                                for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
-                                                {
-                                                    string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-                                                    if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
-                                                    {
-                                                        info = info + combine_id;
-                                                    }
-                                                    else
-                                                    {
-                                                        info = info + combine_id + "_";
-                                                    }
-                                                }
-                                            }
-
-                                            data_detail.Add($"{id}");
-                                            data_detail.Add(info);
-                                            data_detail.Add($"{payType}");
-                                            data_detail.Add($"{status}");
-                                            data_detail.Add(const_config.Apps[index].AppName);
-                                            data_detail.Add(recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code);
-
-                                            body.Add(data_detail);
-                                            id++;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-
-            Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
-        }
-
         public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
@@ -868,101 +684,291 @@ namespace Create_order
             Console.WriteLine("生成hi_v3_channel_price.xlsx完成！");
         }
 
-        public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
-        {
-            //定义数据部分
-            List<List<string>> body = new List<List<string>>();
+        #region 促销配置方法，注释
+        //public static void Hi_v3_recharge_promotions(Recharge_Config recharge_config, Const_Config const_config, Country_Config country_Config)
+        //{
+        //    定义数据部分
+        //    List<List<string>> body = new List<List<string>>();
 
-            //定义数据头
-            List<string> header = new List<string>()
-            {
-                "id",
-                "app",
-                "country",
-                "type",
-                "num",
-                "channel_id",
-                "sort",
-                "price",
-                "is_rate",      //1为开启汇率，0为开启固定价格
-                "fixed_price",
-                "is_discount"
-            };
+        //    定义数据头
+        //    List<string> header = new List<string>()
+        //    {
+        //        "id",
+        //        "info",
+        //        "pay_type",     //1充值前 2充值后
+        //        "status",
+        //        "app",
+        //        "country",
+        //    };
 
-            //获取路径
-            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_channel_price_modify.xlsx";
+        //    获取路径
+        //    string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        //    string path = desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx";
 
-            int id;
+        //    int id;
 
-            for (int index = 0; index < const_config.Apps.Count; index++)
-            {
-                id = ModuleSupport.PAYCHANNEL_PRICE_MODIFY_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID;
-                string appName = const_config.Apps[index].AppName;
+        //    for (int index = 0; index < const_config.Apps.Count; index++)
+        //    {
+        //        id = ModuleSupport.RECHARGE_BEGIN_ID + index * ModuleSupport.RECHARGE_APP_GAP_ID;   //初始化ID
 
-                //寻找所有需要修改的APP、国家
-                for (int a = 0; a < payChannel_Price_Modify_Config.PayChannel_Modify_All.Count; a++)
-                {
-                    //遍历所有需要修改的APP
-                    for (int b = 0; b < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS.Count; b++)
-                    {
-                        //匹配是否需要这个APP的修改
-                        if (payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS[b] == appName)
-                        {
-                            for (int c = 0; c < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country.Count; c++)
-                            {
-                                //钻石配置
-                                for (int d = 0; d < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond.Count; d++)
-                                {
-                                    List<string> data_detail_diamond = new List<string>();
+        //        区分苹果应用和安卓应用
+        //        if (const_config.Apps[index].Is_IOS == 1)
+        //        {
+        //            for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
+        //            {
+        //                for (int j = 0; j < country_Config.Country.Count; j++)
+        //                {
+        //                    匹配上对应的国家（表示需要此国家的配置）
+        //                    if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
+        //                    {
+        //                        for (int k = 0; k < recharge_config.Recharge_Promotion_Apple.Promotion_Info.Count; k++)
+        //                        {
+        //                            需要的Need_country存在配置，则需要进行读取
+        //                            if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Name)
+        //                            {
+        //                                for (int a = 0; a < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type.Count; a++)
+        //                                {
+        //                                    List<string> data_detail = new List<string>();
+        //                                    int payType = -1;
+        //                                    int status = -1;
+        //                                    string info = "";
 
-                                    //检测是否有需要修改is_discount的钻石选项
-                                    //需要对应国家和APP，还有钻石的数量以及价格
-                                    data_detail_diamond.Add($"{id}");
-                                    data_detail_diamond.Add(appName);
-                                    data_detail_diamond.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
-                                    data_detail_diamond.Add($"{1}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Num}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Channel_Id}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Sort}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Price}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Is_Rate}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Fixed_Price}");
-                                    data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].is_discount}");
+        //                                    充值前的配置
+        //                                    if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
+        //                                    {
+        //                                        payType = 1;
+        //                                        status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Is_Open;
+        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
+        //                                        {
+        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
 
-                                    body.Add(data_detail_diamond);
-                                    id++;
-                                }
+        //                                            if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
+        //                                            {
+        //                                                info = info + combine_id;
+        //                                            }
+        //                                            else
+        //                                            {
+        //                                                info = info + combine_id + "_";
+        //                                            }
+        //                                        }
+        //                                    }
+        //                                    else if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
+        //                                    {
+        //                                        payType = 2;
+        //                                        status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Is_Open;
+        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
+        //                                        {
+        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
 
-                                for (int e = 0; e < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip.Count; e++)
-                                {
-                                    List<string> data_detail_vip = new List<string>();
+        //                                            if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
+        //                                            {
+        //                                                info = info + combine_id;
+        //                                            }
+        //                                            else
+        //                                            {
+        //                                                info = info + combine_id + "_";
+        //                                            }
+        //                                        }
+        //                                    }
 
-                                    //检测是否有需要修改is_discount的钻石选项
-                                    //需要对应国家和APP，还有VIP的天数以及价格
+        //                                    data_detail.Add($"{id}");
+        //                                    data_detail.Add(info);
+        //                                    data_detail.Add($"{payType}");
+        //                                    data_detail.Add($"{status}");
+        //                                    data_detail.Add(const_config.Apps[index].AppName);
+        //                                    data_detail.Add(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code);
 
-                                    data_detail_vip.Add($"{id}");
-                                    data_detail_vip.Add(appName);
-                                    data_detail_vip.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
-                                    data_detail_vip.Add($"{2}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Num}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Channel_Id}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Sort}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Price}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Is_Rate}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Fixed_Price}");
-                                    data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].is_discount}");
+        //                                    body.Add(data_detail);
+        //                                    id++;
+        //                                }
+        //                            }
+        //                        }
+        //                    }
+        //                }
+        //            }
+        //        }
+        //        else
+        //        {
+        //            找到所需的国家
+        //            for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
+        //            {
+        //                for (int j = 0; j < country_Config.Country.Count; j++)
+        //                {
+        //                    匹配上对应的国家（表示需要此国家的配置）
+        //                    if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
+        //                    {
+        //                        for (int k = 0; k < recharge_config.Recharge_Promotion.Promotion_Info.Count; k++)
+        //                        {
+        //                            需要的Need_country存在配置，则需要进行读取
+        //                            if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Name)
+        //                            {
+        //                                for (int a = 0; a < recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type.Count; a++)
+        //                                {
+        //                                    List<string> data_detail = new List<string>();
+        //                                    int payType = -1;
+        //                                    int status = -1;
+        //                                    string info = "";
 
-                                    body.Add(data_detail_vip);
-                                    id++;
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-            Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_channel_price_modify.xlsx完成！");
-        }
+        //                                    充值前的配置
+        //                                    if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
+        //                                    {
+        //                                        payType = 1;
+        //                                        status = recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Is_Open;
+        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
+        //                                        {
+        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
+
+        //                                            if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
+        //                                            {
+        //                                                info = info + combine_id;
+        //                                            }
+        //                                            else
+        //                                            {
+        //                                                info = info + combine_id + "_";
+        //                                            }
+        //                                        }
+        //                                    }
+        //                                    else if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
+        //                                    {
+        //                                        payType = 2;
+        //                                        status = recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Is_Open;
+        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
+        //                                        {
+        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
+
+        //                                            if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
+        //                                            {
+        //                                                info = info + combine_id;
+        //                                            }
+        //                                            else
+        //                                            {
+        //                                                info = info + combine_id + "_";
+        //                                            }
+        //                                        }
+        //                                    }
+
+        //                                    data_detail.Add($"{id}");
+        //                                    data_detail.Add(info);
+        //                                    data_detail.Add($"{payType}");
+        //                                    data_detail.Add($"{status}");
+        //                                    data_detail.Add(const_config.Apps[index].AppName);
+        //                                    data_detail.Add(recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code);
+
+        //                                    body.Add(data_detail);
+        //                                    id++;
+        //                                }
+        //                            }
+        //                        }
+        //                    }
+        //                }
+        //            }
+        //        }
+        //    }
+
+        //    Tools.Write(path, header, body);
+        //    Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
+        //}
+        #endregion
+
+        #region Change_Price方法，当前已注释
+        //public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
+        //{
+        //    定义数据部分
+        //    List<List<string>> body = new List<List<string>>();
+
+        //    定义数据头
+        //    List<string> header = new List<string>()
+        //    {
+        //        "id",
+        //        "app",
+        //        "country",
+        //        "type",
+        //        "num",
+        //        "channel_id",
+        //        "sort",
+        //        "price",
+        //        "is_rate",      //1为开启汇率，0为开启固定价格
+        //        "fixed_price",
+        //        "is_discount"
+        //    };
+
+        //    获取路径
+        //    string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        //    string path = desktopPath + @"\config_all\hi_v3_channel_price_modify.xlsx";
+
+        //    int id;
+
+        //    for (int index = 0; index < const_config.Apps.Count; index++)
+        //    {
+        //        id = ModuleSupport.PAYCHANNEL_PRICE_MODIFY_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID;
+        //        string appName = const_config.Apps[index].AppName;
+
+        //        寻找所有需要修改的APP、国家
+        //        for (int a = 0; a < payChannel_Price_Modify_Config.PayChannel_Modify_All.Count; a++)
+        //        {
+        //            遍历所有需要修改的APP
+        //            for (int b = 0; b < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS.Count; b++)
+        //            {
+        //                匹配是否需要这个APP的修改
+        //                if (payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_APPS[b] == appName)
+        //                {
+        //                    for (int c = 0; c < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country.Count; c++)
+        //                    {
+        //                        钻石配置
+        //                        for (int d = 0; d < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond.Count; d++)
+        //                        {
+        //                            List<string> data_detail_diamond = new List<string>();
+
+        //                            检测是否有需要修改is_discount的钻石选项
+        //                            需要对应国家和APP，还有钻石的数量以及价格
+        //                            data_detail_diamond.Add($"{id}");
+        //                            data_detail_diamond.Add(appName);
+        //                            data_detail_diamond.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
+        //                            data_detail_diamond.Add($"{1}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Num}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Channel_Id}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Sort}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Price}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Is_Rate}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Fixed_Price}");
+        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].is_discount}");
+
+        //                            body.Add(data_detail_diamond);
+        //                            id++;
+        //                        }
+
+        //                        for (int e = 0; e < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip.Count; e++)
+        //                        {
+        //                            List<string> data_detail_vip = new List<string>();
+
+        //                            检测是否有需要修改is_discount的钻石选项
+        //                            需要对应国家和APP，还有VIP的天数以及价格
+
+        //                            data_detail_vip.Add($"{id}");
+        //                            data_detail_vip.Add(appName);
+        //                            data_detail_vip.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
+        //                            data_detail_vip.Add($"{2}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Num}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Channel_Id}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Sort}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Price}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Is_Rate}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].Fixed_Price}");
+        //                            data_detail_vip.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Vip[e].is_discount}");
+
+        //                            body.Add(data_detail_vip);
+        //                            id++;
+        //                        }
+        //                    }
+        //                }
+        //            }
+        //        }
+        //    }
+        //    Tools.Write(path, header, body);
+        //    Console.WriteLine("生成hi_v3_channel_price_modify.xlsx完成！");
+        //}
+        #endregion
+
+
     }
 }

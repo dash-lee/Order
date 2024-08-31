@@ -56,15 +56,9 @@ namespace Create_order
             Create.Hi_v3_pay_type(const_config);
             Create.Hi_v3_pay_list(const_config, country_Config, modify_Config, modify_TurnTable_Count_Config);
             Create.Hi_v3_pay_channel(const_config, payChannel_Config, payChannel_Price_Config);
-            Create.Hi_v3_recharge_promotions(recharge_config, const_config, country_Config);
+            //Create.Hi_v3_recharge_promotions(recharge_config, const_config, country_Config);
             Create.Hi_v3_channel_price(const_config, payChannel_Price_Config);
-            Create.Hi_v3_channel_price_modify(const_config, payChannel_Price_Modify_Config);
+            //Create.Hi_v3_channel_price_modify(const_config, payChannel_Price_Modify_Config);
         }
-
-        //public static void Main()
-        //{
-        //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-        //    Temp_Tools.Export_Data();
-        //}
     }
 }
