@@ -9,7 +9,7 @@
             "Area_CN": "中东大区",
             "Currency_Code": "IRR",
             "Diamond_Gear": [ 125, 199, 236, 470, 1052, 2570, 5314, 10679 ],
-            "Diamond_PayMethod": [ "GooglePay", "Ios"],
+            "Diamond_PayMethod": [ "GooglePay" ],
             "Diamond_Pay_Detail": {
                 "Currency": "USD",
                 "PayMethod_Price": [
