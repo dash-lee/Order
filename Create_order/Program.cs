@@ -39,14 +39,14 @@ namespace Create_order
             ToJson_PayChannel.ToJson(const_config);
 
             //构建JSON数据
-            Recharge_Config recharge_config = Recharge_Data();
+            //Recharge_Config recharge_config = Recharge_Data();
             Country_Config country_Config = Country_Data();
             Modify_Config modify_Config = Modify_Data();
             PayChannel_Config payChannel_Config = PayChannel_Data();
             PayChannel_Price_Config payChannel_Price_Config = PayChannel_Price_Data();
 
             Modify_TurnTable_Count_Config modify_TurnTable_Count_Config = Modify_TurnTable_Count_Data();    //用在pay_list这个表，是单独的修改转盘数量结构
-            PayChannel_Price_Modify_Config payChannel_Price_Modify_Config = PayChannel_Price_Modify_Data();
+            //PayChannel_Price_Modify_Config payChannel_Price_Modify_Config = PayChannel_Price_Modify_Data();
 
             //Change_Channel_Price change_Channel_Price = Change_Channel_Price_Data();
 

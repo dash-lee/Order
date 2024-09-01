@@ -177,16 +177,6 @@ namespace Create_order
                             }
                         }
                     }
-                    else if (type == 2)
-                    {
-                        for (int j = 0; j < const_Config.GoogleID[i].Vip_Google_ID.Count; j++)
-                        {
-                            if (price == const_Config.GoogleID[i].Vip_Google_ID[j].Price && num == const_Config.GoogleID[i].Vip_Google_ID[j].Vip_Days)
-                            {
-                                return const_Config.GoogleID[i].Vip_Google_ID[j].Google_Price_ID;
-                            }
-                        }
-                    }
                     else
                     {
                         return "";
@@ -211,16 +201,6 @@ namespace Create_order
                             if (price == const_Config.AppleID[i].Diamond_Apple_ID[j].Price && num == const_Config.AppleID[i].Diamond_Apple_ID[j].Diamond_Count)
                             {
                                 return const_Config.AppleID[i].Diamond_Apple_ID[j].Apple_Price_ID;
-                            }
-                        }
-                    }
-                    else if(type == 2)
-                    {
-                        for (int k = 0; k < const_Config.AppleID[i].Vip_Apple_ID.Count; k++)
-                        {
-                            if (price == const_Config.AppleID[i].Vip_Apple_ID[k].Price && num == const_Config.AppleID[i].Vip_Apple_ID[k].Vip_Days)
-                            {
-                                return const_Config.AppleID[i].Vip_Apple_ID[k].Apple_Price_ID;
                             }
                         }
                     }

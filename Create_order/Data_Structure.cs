@@ -35,7 +35,7 @@ namespace Create_order
             public string? AppName { get; set; }
             public int? Is_IOS {  get; set; }
             public List<string>? Need_Country { get; set; }
-            public string? Type {  get; set; }
+            public List<string> Type {  get; set; }
         }
 
         public struct GoogleID
@@ -48,7 +48,6 @@ namespace Create_order
         {
             public string? AppName { get; set; }
             public List<Diamond_Apple_ID> Diamond_Apple_ID { get; set; }
-            public List<Vip_Apple_ID> Vip_Apple_ID { get; set; }
         }
 
         public struct Diamond_Google_ID
@@ -62,13 +61,6 @@ namespace Create_order
         {
             public double Price { get; set; }
             public int Diamond_Count { get; set; }
-            public string? Apple_Price_ID { get; set; }
-        }
-
-        public struct Vip_Apple_ID
-        {
-            public double Price { get; set; }
-            public int Vip_Days { get; set; }
             public string? Apple_Price_ID { get; set; }
         }
 
@@ -183,7 +175,6 @@ namespace Create_order
         public struct Country_Config
         {
             public List<Country> Country { get; set; }
-            public List<Country> Country_Apple { get; set; }
         }
 
         public struct Country
@@ -194,9 +185,16 @@ namespace Create_order
             public string Area { get; set; }
             public string Area_CN { get; set; }  
             public string Currency_Code { get; set; }
-            public List<int> Diamond_Gear { get; set;}
+            public Diamond_Gear Diamond_Gear { get; set;}
             public List<string> Diamond_PayMethod {  get; set; }
-            public Diamond_Pay_Detail Diamond_Pay_Detail {  get; set; }
+            public Diamond_Pay_Detail Diamond_Pay_Detail_Android {  get; set; }
+            public Diamond_Pay_Detail Diamond_Pay_Detail_Apple {  get; set; }
+        }
+
+        public struct Diamond_Gear
+        {
+            public List<string> Gear_Android { get; set; }
+            public List<string> Gear_Ios { get; set; }
         }
 
         public struct Diamond_Pay_Detail
@@ -248,10 +246,8 @@ namespace Create_order
     {
         public struct Modify_Config
         {
-            public List<Modify_Diamond> Modify_Diamond { get; set; }
-            public List<Modify_Vip> Modify_Vip { get; set; }
+            public List<Modify_Diamond> Modify_Diamond_Android { get; set; }
             public List<Modify_Diamond> Modify_Diamond_Apple { get; set; }
-            public List<Modify_Vip> Modify_Vip_Apple { get; set; }
 
         }
 
@@ -272,25 +268,6 @@ namespace Create_order
             public int Modify_Vip_Reward_Day { get; set; }
             public int Modify_VipUser_Reward_Diamond_Count { get; set; }
             public int Modify_Discount { get; set; }
-        }
-
-        public struct Modify_Vip
-        {
-            public List<string> Modify_App { get; set; }
-            public List<string> Modify_Country { get; set; }
-            public double Modify_Price { get; set; }
-            public int Modify_Vip_Days { get; set; }
-            public Modify_Detail_Info_Vip Modify_Detail_Info { get; set; }
-        }
-
-        public struct Modify_Detail_Info_Vip
-        {
-            public int Modify_Reward_Diamonds { get; set; }
-            public int Modify_IsActivate { get; set; }
-            public int Modify_IsFirstCharge { get; set; }
-            public int Modify_Vip_Reward_Day { get; set; }
-            public int Modify_Vip_Reward_ItemID { get; set; }
-            public int Modify_Vip_Reward_ItemCount { get; set; }
         }
 
         public static Modify_Config Modify_Data()
@@ -534,7 +511,7 @@ namespace Create_order
     {
         public struct Modify_TurnTable_Count_Config
         {
-            public List<Modify_all> Modify_all { get; set; }
+            public List<Modify_all> Modify_all_android { get; set; }
             public List<Modify_all> Modify_all_apple { get; set; }
         }
         public struct Modify_all

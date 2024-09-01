@@ -6,8 +6,11 @@
             "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
             "AppName": "Yippi",
             "Is_IOS": 0,
-            "Type": "Android",
+            "Type": ["Android", "Ios"],
             "Need_Country": [
+                "Somalia",
+                "Algeria",
+                "Iran",
                 "Mauritania",
                 "Cyprus",
                 "Palestine",
@@ -37,39 +40,44 @@
             "AppName": "Yippi",
             "Diamond_Google_ID": [
                 {
-                    "Price": 1.69,
-                    "Diamond_Count": 125,
-                    "Google_Price_ID": "bug_diamond_1"
-                },
-                {
                     "Price": 1.99,
-                    "Diamond_Count": 199,
-                    "Google_Price_ID": "buy_diamond_8"
+                    "Diamond_Count": 170,
+                    "Google_Price_ID": "yippi_g_diamond_1"
                 },
                 {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "buy_diamond_9"
+                    "Price": 3.99,
+                    "Diamond_Count": 340,
+                    "Google_Price_ID": "yippi_g_diamond_2"
                 },
                 {
-                    "Price": 3.19,
-                    "Diamond_Count": 236,
-                    "Google_Price_ID": "buy_diamond_2"
+                    "Price": 6.99,
+                    "Diamond_Count": 595,
+                    "Google_Price_ID": "yippi_g_diamond_3"
                 },
                 {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "buy_diamond_3"
+                    "Price": 19.99,
+                    "Diamond_Count": 1700,
+                    "Google_Price_ID": "yippi_g_diamond_4"
                 },
                 {
-                    "Price": 6.29,
-                    "Diamond_Count": 470,
-                    "Google_Price_ID": "buy_diamond_10"
+                    "Price": 49.99,
+                    "Diamond_Count": 4250,
+                    "Google_Price_ID": "yippi_g_diamond_5"
                 },
                 {
-                    "Price": 13.99,
-                    "Diamond_Count": 1052,
-                    "Google_Price_ID": "buy_diamond_4"
+                    "Price": 99.99,
+                    "Diamond_Count": 8500,
+                    "Google_Price_ID": "yippi_g_diamond_6"
+                },
+                {
+                    "Price": 149.99,
+                    "Diamond_Count": 12780,
+                    "Google_Price_ID": "yippi_g_diamond_7"
+                },
+                {
+                    "Price": 199.99,
+                    "Diamond_Count": 17000,
+                    "Google_Price_ID": "yippi_g_diamond_8"
                 }
             ]
         }
@@ -80,48 +88,43 @@
             "Diamond_Apple_ID": [
                 {
                     "Price": 3.09,
-                    "Diamond_Count": 160,
-                    "Apple_Price_ID": "tweep_diamonds_160"
-                },
-                {
-                    "Price": 3.09,
-                    "Diamond_Count": 199,
-                    "Apple_Price_ID": "tweep_diamonds_199"
+                    "Diamond_Count": 216,
+                    "Apple_Price_ID": "yippi_a_diamond_1"
                 },
                 {
                     "Price": 7.19,
-                    "Diamond_Count": 369,
-                    "Apple_Price_ID": "tweep_diamonds_369"
+                    "Diamond_Count": 504,
+                    "Apple_Price_ID": "yippi_a_diamond_2"
                 },
                 {
                     "Price": 11.49,
-                    "Diamond_Count": 639,
-                    "Apple_Price_ID": "tweep_diamonds_639"
+                    "Diamond_Count": 805,
+                    "Apple_Price_ID": "yippi_a_diamond_3"
                 },
                 {
                     "Price": 28.95,
-                    "Diamond_Count": 1569,
-                    "Apple_Price_ID": "tweep_diamonds_1569"
+                    "Diamond_Count": 2030,
+                    "Apple_Price_ID": "yippi_a_diamond_4"
                 },
                 {
                     "Price": 57.99,
-                    "Diamond_Count": 2999,
-                    "Apple_Price_ID": "tweep_diamonds_2999"
+                    "Diamond_Count": 4060,
+                    "Apple_Price_ID": "yippi_a_diamond_5"
                 },
                 {
                     "Price": 144.99,
-                    "Diamond_Count": 7599,
-                    "Apple_Price_ID": "tweep_diamonds_7599"
+                    "Diamond_Count": 10160,
+                    "Apple_Price_ID": "yippi_a_diamond_6"
                 },
                 {
-                    "Price": 200,
-                    "Diamond_Count": 10699,
-                    "Apple_Price_ID": "tweep_diamonds_10699"
+                    "Price": 200.00,
+                    "Diamond_Count": 14100,
+                    "Apple_Price_ID": "yippi_a_diamond_7"
                 },
                 {
                     "Price": 289,
-                    "Diamond_Count": 15999,
-                    "Apple_Price_ID": "tweep_diamonds_15999"
+                    "Diamond_Count": 20300,
+                    "Apple_Price_ID": "yippi_a_diamond_8"
                 }
             ]
         }
