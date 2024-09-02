@@ -75,247 +75,237 @@ namespace Create_order
                 //id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;
 
                 id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;   //初始化ID起始位置
-                
-                //在这里判断是否需要区分是区分IOS或者是安卓，或者是两者都有；如果为0则是两者都有，如果为1则是需要进行Type的判断
-                if (const_config.Apps[index].Is_IOS == 0)
+
+                //在这里判断是否需要区分是区分IOS或者是安卓，如果是Ios则为1，如果是Android则为0
+                int match_country_count = 0;
+                //匹配国家
+                for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                 {
-                    int match_country_count = 0;
-                    //匹配国家
-                    for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
+                    //循环配置中配置了的国家的数量（是否能找到Need_Country中对应的国家）
+                    for (int j = 0; j < countries.Count; j++)
                     {
-                        //循环配置中配置了的国家的数量（是否能找到Need_Country中对应的国家）
-                        for (int j = 0; j < countries.Count; j++)
+                        //确定当前的国家需要进行数据写入(也就是钻石，需要进行数据的注入)
+                        if (const_config.Apps[index].Need_Country[i] == countries[j].Country_Name)
                         {
-                            //确定当前的国家需要进行数据写入(也就是钻石，需要进行数据的注入)
-                            if (const_config.Apps[index].Need_Country[i] == countries[j].Country_Name)
+                            id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+
+                            if (const_config.Apps[index].Is_IOS == 1)
                             {
-                                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                string appleID = "";
+                                //幸运轮盘的赠送次数初始化
+                                int turnTableNum = 0;
+                                int extra_item_id = 0;
+                                int extra_item_num = 0;
 
-                                for (int typeIndex = 0; typeIndex < const_config.Apps[index].Type.Count; typeIndex++)
+                                match_country_count++;
+
+                                //首先进行钻石配置的写入（这里检查的是钻石的配置）
+                                for (int k = 0; k < countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price.Count; k++)
                                 {
-                                    if (const_config.Apps[index].Type[typeIndex] == "Ios")
+                                    List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count);
+                                    bool isModifyDiamond = false;
+
+                                    //确认此条信息是否需要和默认值不一样，要进行修改
+                                    //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
+                                    //进行匹配的信息是：APP名称、国家、价格
+                                    int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
+
+                                    for (int a = 0; a < modify_Config.Modify_Diamond_Apple.Count; a++)
                                     {
-                                        string appleID = "";
-                                        //幸运轮盘的赠送次数初始化
-                                        int turnTableNum = 0;
-                                        int extra_item_id = 0;
-                                        int extra_item_num = 0;
-
-                                        match_country_count++;
-
-                                        //首先进行钻石配置的写入（这里检查的是钻石的配置）
-                                        for (int k = 0; k < countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price.Count; k++)
+                                        for (int b = 0; b < modify_Config.Modify_Diamond_Apple[a].Modify_App.Count; b++)
                                         {
-                                            List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
-                                            appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count);
-                                            bool isModifyDiamond = false;
-
-                                            //确认此条信息是否需要和默认值不一样，要进行修改
-                                            //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
-                                            //进行匹配的信息是：APP名称、国家、价格
-                                            int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
-
-                                            for (int a = 0; a < modify_Config.Modify_Diamond_Apple.Count; a++)
+                                            //在修改钻石的表中，这个APP在其中，需要进行修改
+                                            if (appNameTemp == modify_Config.Modify_Diamond_Apple[a].Modify_App[b])
                                             {
-                                                for (int b = 0; b < modify_Config.Modify_Diamond_Apple[a].Modify_App.Count; b++)
+                                                //继续检测APP中是否包含了需要修改的国家
+                                                for (int c = 0; c < modify_Config.Modify_Diamond_Apple[a].Modify_Country.Count; c++)
                                                 {
-                                                    //在修改钻石的表中，这个APP在其中，需要进行修改
-                                                    if (appNameTemp == modify_Config.Modify_Diamond_Apple[a].Modify_App[b])
+                                                    //找到了这个国家，说明需要修改
+                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Apple[a].Modify_Country[c])
                                                     {
-                                                        //继续检测APP中是否包含了需要修改的国家
-                                                        for (int c = 0; c < modify_Config.Modify_Diamond_Apple[a].Modify_Country.Count; c++)
+                                                        //继续判断是否包含需要修改的价格
+                                                        if (modify_Config.Modify_Diamond_Apple[a].Modify_Price == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Apple[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count)
                                                         {
-                                                            //找到了这个国家，说明需要修改
-                                                            if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Apple[a].Modify_Country[c])
-                                                            {
-                                                                //继续判断是否包含需要修改的价格
-                                                                if (modify_Config.Modify_Diamond_Apple[a].Modify_Price == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Apple[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count)
-                                                                {
-                                                                    //修改状态为true
-                                                                    isModifyDiamond = true;
+                                                            //修改状态为true
+                                                            isModifyDiamond = true;
 
-                                                                    status = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsActivate;
-                                                                    give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Reward_Count;
-                                                                    is_first_recharge = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsFirstCharge;
-                                                                    vip_date = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
-                                                                    vip_user_give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
-                                                                    discount = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Discount;
-                                                                }
-                                                            }
+                                                            status = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsActivate;
+                                                            give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Reward_Count;
+                                                            is_first_recharge = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsFirstCharge;
+                                                            vip_date = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
+                                                            vip_user_give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
+                                                            discount = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Discount;
                                                         }
                                                     }
                                                 }
                                             }
-
-                                            //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
-                                            //对比是否包含此app
-                                            for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all_apple.Count; index_modify++)
-                                            {
-                                                for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_Apps.Count; index_app++)
-                                                {
-                                                    //匹配到确实需要修改这个app
-                                                    if (modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_Apps[index_app] == appNameTemp)
-                                                    {
-                                                        //设定当前钻石需要赠送的幸运轮盘次数
-                                                        for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
-                                                        {
-                                                            //匹配成功
-                                                            if (countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
-                                                            {
-                                                                turnTableNum = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
-                                                                extra_item_id = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
-                                                                extra_item_num = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
-                                                            }
-                                                        }
-                                                    }
-                                                }
-                                            }
-
-                                            //这里是默认的基础配置
-                                            data_detail_diamond.Add($"{id}");
-                                            data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
-                                            data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
-                                            data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}");
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price}");
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
-                                            data_detail_diamond.Add($"{k + 1}");    //排序
-                                            data_detail_diamond.Add(appleID); //苹果产品ID
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add($"{turnTableNum}");
-                                            data_detail_diamond.Add($"{extra_item_id}");
-                                            data_detail_diamond.Add($"{extra_item_num}");
-                                            data_detail_diamond.Add($"{1}");    //是否是ios应用
-
-                                            body.Add(data_detail_diamond);
-
-                                            id++;
                                         }
                                     }
-                                    else if (const_config.Apps[index].Type[typeIndex] == "Android")
+
+                                    //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
+                                    //对比是否包含此app
+                                    for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all_apple.Count; index_modify++)
                                     {
-                                        string GoogleID = "";
-                                        //幸运轮盘的赠送次数初始化
-                                        int turnTableNum = 0;
-                                        int extra_item_id = 0;
-                                        int extra_item_num = 0;
-
-                                        id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
-                                        match_country_count++;
-
-                                        //首先进行钻石配置的写入（这里检查的是钻石的配置）
-                                        for (int k = 0; k < countries[j].Diamond_Pay_Detail_Android.PayMethod_Price.Count; k++)
+                                        for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_Apps.Count; index_app++)
                                         {
-                                            List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
-                                            GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count);
-                                            bool isModifyDiamond = false;
-
-                                            //确认此条信息是否需要和默认值不一样，要进行修改
-                                            //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
-                                            //进行匹配的信息是：APP名称、国家、价格
-                                            int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
-
-                                            for (int a = 0; a < modify_Config.Modify_Diamond_Android.Count; a++)
+                                            //匹配到确实需要修改这个app
+                                            if (modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_Apps[index_app] == appNameTemp)
                                             {
-                                                for (int b = 0; b < modify_Config.Modify_Diamond_Android[a].Modify_App.Count; b++)
+                                                //设定当前钻石需要赠送的幸运轮盘次数
+                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
                                                 {
-                                                    //在修改钻石的表中，这个APP在其中，需要进行修改
-                                                    if (appNameTemp == modify_Config.Modify_Diamond_Android[a].Modify_App[b])
+                                                    //匹配成功
+                                                    if (countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
                                                     {
-                                                        //继续检测APP中是否包含了需要修改的国家
-                                                        for (int c = 0; c < modify_Config.Modify_Diamond_Android[a].Modify_Country.Count; c++)
-                                                        {
-                                                            //找到了这个国家，说明需要修改
-                                                            if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Android[a].Modify_Country[c])
-                                                            {
-                                                                //继续判断是否包含需要修改的价格
-                                                                if (modify_Config.Modify_Diamond_Android[a].Modify_Price == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Android[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count)
-                                                                {
-                                                                    //修改状态为true
-                                                                    isModifyDiamond = true;
-
-                                                                    status = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsActivate;
-                                                                    give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Reward_Count;
-                                                                    is_first_recharge = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsFirstCharge;
-                                                                    vip_date = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
-                                                                    vip_user_give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
-                                                                    discount = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Discount;
-                                                                }
-                                                            }
-                                                        }
+                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
+                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
+                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
                                                     }
                                                 }
                                             }
-
-                                            //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
-                                            //对比是否包含此app
-                                            for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all_android.Count; index_modify++)
-                                            {
-                                                for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_Apps.Count; index_app++)
-                                                {
-                                                    //匹配到确实需要修改这个app
-                                                    if (modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_Apps[index_app] == appNameTemp)
-                                                    {
-                                                        //设定当前钻石需要赠送的幸运轮盘次数
-                                                        for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
-                                                        {
-                                                            //匹配成功
-                                                            if (countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
-                                                            {
-                                                                turnTableNum = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
-                                                                extra_item_id = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
-                                                                extra_item_num = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
-                                                            }
-                                                        }
-                                                    }
-                                                }
-                                            }
-
-                                            //这里是默认的基础配置
-                                            data_detail_diamond.Add($"{id}");
-                                            data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
-                                            data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
-                                            data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}");
-                                            data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price}");
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
-                                            data_detail_diamond.Add($"{k + 1}");    //排序
-                                            data_detail_diamond.Add(GoogleID); //苹果产品ID
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
-                                            data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add("");
-                                            data_detail_diamond.Add($"{turnTableNum}");
-                                            data_detail_diamond.Add($"{extra_item_id}");
-                                            data_detail_diamond.Add($"{extra_item_num}");
-                                            data_detail_diamond.Add($"{1}");    //是否是ios应用
-
-                                            body.Add(data_detail_diamond);
-
-                                            id++;
                                         }
                                     }
+
+                                    //这里是默认的基础配置
+                                    data_detail_diamond.Add($"{id}");
+                                    data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
+                                    data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
+                                    data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}");
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price}");
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_diamond.Add($"{k + 1}");    //排序
+                                    data_detail_diamond.Add(appleID); //苹果产品ID
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add($"{turnTableNum}");
+                                    data_detail_diamond.Add($"{extra_item_id}");
+                                    data_detail_diamond.Add($"{extra_item_num}");
+                                    data_detail_diamond.Add($"{1}");    //是否是ios应用
+
+                                    body.Add(data_detail_diamond);
+
+                                    id++;
+                                }
+                            }
+                            else if (const_config.Apps[index].Is_IOS == 0)
+                            {
+                                string GoogleID = "";
+                                //幸运轮盘的赠送次数初始化
+                                int turnTableNum = 0;
+                                int extra_item_id = 0;
+                                int extra_item_num = 0;
+
+                                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
+                                match_country_count++;
+
+                                //首先进行钻石配置的写入（这里检查的是钻石的配置）
+                                for (int k = 0; k < countries[j].Diamond_Pay_Detail_Android.PayMethod_Price.Count; k++)
+                                {
+                                    List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count);
+                                    bool isModifyDiamond = false;
+
+                                    //确认此条信息是否需要和默认值不一样，要进行修改
+                                    //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
+                                    //进行匹配的信息是：APP名称、国家、价格
+                                    int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
+
+                                    for (int a = 0; a < modify_Config.Modify_Diamond_Android.Count; a++)
+                                    {
+                                        for (int b = 0; b < modify_Config.Modify_Diamond_Android[a].Modify_App.Count; b++)
+                                        {
+                                            //在修改钻石的表中，这个APP在其中，需要进行修改
+                                            if (appNameTemp == modify_Config.Modify_Diamond_Android[a].Modify_App[b])
+                                            {
+                                                //继续检测APP中是否包含了需要修改的国家
+                                                for (int c = 0; c < modify_Config.Modify_Diamond_Android[a].Modify_Country.Count; c++)
+                                                {
+                                                    //找到了这个国家，说明需要修改
+                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Android[a].Modify_Country[c])
+                                                    {
+                                                        //继续判断是否包含需要修改的价格
+                                                        if (modify_Config.Modify_Diamond_Android[a].Modify_Price == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Android[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count)
+                                                        {
+                                                            //修改状态为true
+                                                            isModifyDiamond = true;
+
+                                                            status = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsActivate;
+                                                            give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Reward_Count;
+                                                            is_first_recharge = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsFirstCharge;
+                                                            vip_date = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
+                                                            vip_user_give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
+                                                            discount = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Discount;
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+
+                                    //设定当前钻石需要赠送的幸运轮盘次数以及需要赠送的物品ID和物品数量
+                                    //对比是否包含此app
+                                    for (int index_modify = 0; index_modify < modify_TurnTable_Count_Config.Modify_all_android.Count; index_modify++)
+                                    {
+                                        for (int index_app = 0; index_app < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_Apps.Count; index_app++)
+                                        {
+                                            //匹配到确实需要修改这个app
+                                            if (modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_Apps[index_app] == appNameTemp)
+                                            {
+                                                //设定当前钻石需要赠送的幸运轮盘次数
+                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                                {
+                                                    //匹配成功
+                                                    if (countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
+                                                    {
+                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
+                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
+                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+
+                                    //这里是默认的基础配置
+                                    data_detail_diamond.Add($"{id}");
+                                    data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
+                                    data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
+                                    data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}");
+                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price}");
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_diamond.Add($"{k + 1}");    //排序
+                                    data_detail_diamond.Add(GoogleID); //苹果产品ID
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
+                                    data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add("");
+                                    data_detail_diamond.Add($"{turnTableNum}");
+                                    data_detail_diamond.Add($"{extra_item_id}");
+                                    data_detail_diamond.Add($"{extra_item_num}");
+                                    data_detail_diamond.Add($"{0}");    //是否是ios应用
+
+                                    body.Add(data_detail_diamond);
+
+                                    id++;
                                 }
                             }
                         }
                     }
-                }
-                else
-                {
-                    return;
                 }
             }
             Tools.Write(path, header, body);
@@ -391,7 +381,7 @@ namespace Create_order
                 data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Channel_web}");
                 data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Logo}");
                 //添加所用到的APP
-                data_detail.Add(Tools.CombineApp(const_config,id));
+                data_detail.Add(Tools.CombineApp(const_config, payChannel_Price_Config, id));
                 //添加所用到的国家
                 data_detail.Add(Tools.CombineCountry(payChannel_Price_Config,id));
 

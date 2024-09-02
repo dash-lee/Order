@@ -6,7 +6,39 @@
             "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
             "AppName": "Yippi",
             "Is_IOS": 0,
-            "Type": ["Android", "Ios"],
+            "Type": [ "Android", "Ios" ],
+            "Need_Country": [
+                "Somalia",
+                "Algeria",
+                "Iran",
+                "Mauritania",
+                "Cyprus",
+                "Palestine",
+                "Sudan",
+                "Afghanistan",
+                "Tunisia",
+                "Lebanon",
+                "Syria",
+                "Morocco",
+                "Bahrain",
+                "Turkey",
+                "Egypt",
+                "Qatar",
+                "Arab Emirates",
+                "Oman",
+                "Yemen",
+                "Saudi Arabia",
+                "Kuwait",
+                "Iraq",
+                "Jordan",
+                "Israel"
+            ]
+        },
+        {
+            "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
+            "AppName": "Yippi_Ios",
+            "Is_IOS": 1,
+            "Type": [ "Android", "Ios" ],
             "Need_Country": [
                 "Somalia",
                 "Algeria",
@@ -84,7 +116,7 @@
     ],
     "AppleID": [
         {
-            "AppName": "Yippi",
+            "AppName": "Yippi_Ios",
             "Diamond_Apple_ID": [
                 {
                     "Price": 3.09,

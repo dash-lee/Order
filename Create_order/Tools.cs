@@ -276,8 +276,8 @@ namespace Create_order
             return -1;
         }
 
-        //目前返回APP的值，是默认所有的APP都用了，也不需要传递channelId了
-        public static string CombineApp(Const_Config const_config,int id)
+        //这里返回的是channelID，也就是查看这个channelID哪些APP用到了
+        public static string CombineApp(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config, int id)
         {
             string apps = "";
 
@@ -323,10 +323,6 @@ namespace Create_order
         //返回使用的国家的值
         public static string CombineCountry(PayChannel_Price_Config payChannel_Price_Config,int channel_id)
         {
-            if (channel_id == 122)
-            {
-                return "ID";
-            }
 
             string countries = "";
 
