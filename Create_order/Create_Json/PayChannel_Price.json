@@ -48858,6 +48858,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 104,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 111,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 116,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 116,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 119,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 113,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 1.99,
@@ -48905,6 +48985,86 @@
           "Sort": 5,
           "Is_Rate": 0,
           "Fixed_Price": 122,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 120,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 120,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 123,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 129,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 134,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 134,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 132,
           "is_discount": 1
         },
         {
@@ -49028,6 +49188,166 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 131,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 131,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 135,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 140,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 145,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 145,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 148,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 143,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 131,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 131,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 135,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 140,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 145,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 145,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 148,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 143,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.19,
@@ -49078,6 +49398,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 192,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 192,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 197,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 205,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 205,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 208,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 205,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.49,
@@ -49128,6 +49528,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 210,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 210,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 215,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 217,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 223,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 223,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 226,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 223,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.99,
@@ -49175,6 +49655,86 @@
           "Sort": 5,
           "Is_Rate": 0,
           "Fixed_Price": 245,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 240,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 240,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 246,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 247,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 253,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 253,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 256,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 253,
           "is_discount": 1
         },
         {
@@ -49238,6 +49798,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 300,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 300,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 307,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 306,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 312,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 312,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 315,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 314,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 6.29,
@@ -49298,6 +49938,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 378,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 378,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 387,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 384,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 389,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 389,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 392,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 394,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.49,
@@ -49355,6 +50075,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 461,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 450,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 450,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 461,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 455,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 461,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 461,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 464,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 467,
           "is_discount": 1
         },
         {
@@ -49468,6 +50268,166 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 492,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 484,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 494,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 497,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 492,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 484,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 494,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 497,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 13.99,
@@ -49523,6 +50483,86 @@
           "Price": 13.99,
           "Num": 1052,
           "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 862,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 840,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 840,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 861,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 840,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 847,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 847,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 850,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
           "Is_Rate": 0,
           "Fixed_Price": 862,
           "is_discount": 1
@@ -49638,6 +50678,166 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 1200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 1200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 1229,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 1196,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1204,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 1204,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1207,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1228,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 1200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 1200,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 1229,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 1196,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1204,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 1204,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1207,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1228,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 33.99,
@@ -49695,6 +50895,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 2100,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 2041,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 2041,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 2090,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2026,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2036,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 2036,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2039,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2080,
           "is_discount": 1
         },
         {
@@ -49808,6 +51088,166 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 2401,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 2401,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 2459,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2382,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2393,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 2393,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2396,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2446,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 2401,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 2401,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 2459,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 2382,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2393,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 2393,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2396,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2446,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 69.99,
@@ -49868,6 +51308,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 4202,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 4202,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 4303,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 4161,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 4176,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 4176,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 4179,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 4273,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 79.99,
@@ -49928,6 +51448,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 4802,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 4802,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 4918,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 4754,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 4771,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 4771,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 4774,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 4882,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 99.99,
@@ -49985,6 +51585,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 5888,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 6003,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 6003,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 6148,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 5940,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 5960,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 5960,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 5963,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 6100,
           "is_discount": 1
         },
         {
@@ -50108,6 +51788,166 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 8404,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 8404,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 8607,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 8313,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 8338,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8338,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 8341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 8536,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 8404,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 8404,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 8607,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 8313,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 8338,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8338,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 8341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 8536,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 149.99,
@@ -50168,6 +52008,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 9004,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 9004,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 9222,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 8906,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 8932,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8932,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 8935,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 9145,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 199.99,
@@ -50225,6 +52145,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 11768,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 12006,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 12006,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 12296,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11871,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 11905,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 11905,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 11908,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 12190,
           "is_discount": 1
         }
       ],
@@ -50277,6 +52277,86 @@
           "Sort": 5,
           "Is_Rate": 0,
           "Fixed_Price": 104,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 104,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 111,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 116,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 116,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 119,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 113,
           "is_discount": 1
         },
         {
@@ -50340,6 +52420,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 180,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 180,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 184,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 188,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 193,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 193,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 196,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 193,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.49,
@@ -50397,6 +52557,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 289,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 270,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 270,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 277,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 277,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 282,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 282,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 285,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 284,
           "is_discount": 1
         },
         {
@@ -50460,6 +52700,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 300,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 300,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 307,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 306,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 312,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 312,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 315,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 314,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.99,
@@ -50517,6 +52837,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 506,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 480,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 492,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 484,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 491,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 494,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 497,
           "is_discount": 1
         },
         {
@@ -50580,6 +52980,86 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 676,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 662,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 669,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 669,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 672,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 680,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 12.99,
@@ -50637,6 +53117,86 @@
           "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 800,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 127,
+          "Channel_Name": "PayssionPAYMAYA",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 780,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 128,
+          "Channel_Name": "PayssionSHOPEEPAY",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 780,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 129,
+          "Channel_Name": "PayssionDRAGONPAY",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 799,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 130,
+          "Channel_Name": "PayssionPESONET",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 781,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 131,
+          "Channel_Name": "PayssionEBANKING",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 788,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 132,
+          "Channel_Name": "PayssionQRCODE",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 788,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 133,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 791,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 134,
+          "Channel_Name": "PayssionGCASH",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 802,
           "is_discount": 1
         }
       ]
@@ -74608,6 +77168,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 1.99,
@@ -74668,6 +77278,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 12,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 2.18,
@@ -74826,6 +77486,106 @@
           "Is_Rate": 0,
           "Fixed_Price": 16,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 2.18,
+          "Num": 160,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 13,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 2.18,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 13,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -74888,6 +77648,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 17,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 3.49,
@@ -74946,6 +77756,56 @@
           "Is_Rate": 0,
           "Fixed_Price": 24,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 3.49,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 19,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -75008,6 +77868,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 19,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 19,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 19,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 3.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.99,
@@ -75032,9 +77942,9 @@
           "Channel_Name": "PayssionGRABPAY",
           "Price": 4.99,
           "Num": 369,
-          "Sort": 3,
+          "Sort": 1,
           "Is_Rate": 0,
-          "Fixed_Price": 19,
+          "Fixed_Price": 23,
           "is_discount": 1
         },
         {
@@ -75086,6 +77996,46 @@
           "Is_Rate": 0,
           "Fixed_Price": 29,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 24,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 4.99,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 24,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -75148,6 +78098,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 30,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 30,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 30,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 31,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.49,
@@ -75198,6 +78198,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 35,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 35,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 35,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 7.49,
+          "Num": 429,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.99,
@@ -75234,7 +78284,7 @@
           "Num": 639,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 37,
+          "Fixed_Price": 42,
           "is_discount": 1
         },
         {
@@ -75245,16 +78295,6 @@
           "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 42,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 87,
-          "Channel_Name": "PayssionGRABPAY",
-          "Price": 7.99,
-          "Num": 639,
-          "Sort": 3,
-          "Is_Rate": 0,
-          "Fixed_Price": 37,
           "is_discount": 1
         },
         {
@@ -75274,7 +78314,7 @@
           "Num": 639,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 38,
+          "Fixed_Price": 54,
           "is_discount": 1
         },
         {
@@ -75294,7 +78334,7 @@
           "Num": 639,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 37,
+          "Fixed_Price": 54,
           "is_discount": 1
         },
         {
@@ -75326,6 +78366,106 @@
           "Is_Rate": 0,
           "Fixed_Price": 60,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 7.99,
+          "Num": 599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 7.99,
+          "Num": 639,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 39,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -75378,6 +78518,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 68,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 68,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 19.99,
@@ -75425,16 +78615,6 @@
           "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 104,
-          "is_discount": 1
-        },
-        {
-          "Channel_Id": 87,
-          "Channel_Name": "PayssionGRABPAY",
-          "Price": 19.99,
-          "Num": 1569,
-          "Sort": 3,
-          "Is_Rate": 0,
-          "Fixed_Price": 95,
           "is_discount": 1
         },
         {
@@ -75468,6 +78648,106 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 93,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 96,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 96,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 19.99,
+          "Num": 1209,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 96,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 19.99,
+          "Num": 1569,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 96,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 33.99,
@@ -75498,6 +78778,56 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 158,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 158,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 158,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 162,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 162,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 39.99,
@@ -75546,16 +78876,6 @@
           "Is_Rate": 0,
           "Fixed_Price": 208,
           "is_discount": 1
-        },
-        {
-          "Channel_Id": 87,
-          "Channel_Name": "PayssionGRABPAY",
-          "Price": 39.99,
-          "Num": 2999,
-          "Sort": 3,
-          "Is_Rate": 0,
-          "Fixed_Price": 188,
-          "is_discount": 0
         },
         {
           "Channel_Id": 86,
@@ -75575,6 +78895,106 @@
           "Sort": 5,
           "Is_Rate": 0,
           "Fixed_Price": 188,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 182,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 184,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 184,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 39.99,
+          "Num": 2509,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 184,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 39.99,
+          "Num": 2999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 184,
           "is_discount": 1
         },
         {
@@ -75608,6 +79028,56 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 324,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 324,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 324,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 324,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 324,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 79.99,
@@ -75635,6 +79105,56 @@
           "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 415,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 79.99,
+          "Num": 5199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 368,
           "is_discount": 1
         },
         {
@@ -75688,6 +79208,56 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 462,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 462,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 462,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 462,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 99.99,
+          "Num": 7599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 462,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 139.99,
@@ -75768,6 +79338,106 @@
           "is_discount": 1
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 139.99,
+          "Num": 10699,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 636,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 149.99,
@@ -75795,6 +79465,56 @@
           "Sort": 3,
           "Is_Rate": 0,
           "Fixed_Price": 778,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 686,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 686,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 686,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 686,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 149.99,
+          "Num": 9999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 686,
           "is_discount": 1
         },
         {
@@ -75845,6 +79565,56 @@
           "Sort": 5,
           "Is_Rate": 0,
           "Fixed_Price": 660,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 912,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 912,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 912,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 912,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 199.99,
+          "Num": 15999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 912,
           "is_discount": 1
         }
       ],
@@ -75910,6 +79680,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 10,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 11,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 2.99,
@@ -75990,6 +79810,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 2.99,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 17,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 4.49,
@@ -76048,6 +79918,56 @@
           "Is_Rate": 0,
           "Fixed_Price": 31,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 23,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 24,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -76130,6 +80050,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 25,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 26,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 4.99,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 27,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 7.99,
@@ -76190,6 +80160,56 @@
           "is_discount": 0
         },
         {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 38,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 40,
+          "is_discount": 1
+        },
+        {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
           "Price": 10.99,
@@ -76248,6 +80268,56 @@
           "Is_Rate": 0,
           "Fixed_Price": 73,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 53,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 54,
+          "is_discount": 1
         },
         {
           "Channel_Id": 1,
@@ -76328,6 +80398,56 @@
           "Is_Rate": 0,
           "Fixed_Price": 95,
           "is_discount": 0
+        },
+        {
+          "Channel_Id": 87,
+          "Channel_Name": "PayssionGRABPAY",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 1,
+          "Is_Rate": 0,
+          "Fixed_Price": 60,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 125,
+          "Channel_Name": "PayssionTOUCHNGO",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 2,
+          "Is_Rate": 0,
+          "Fixed_Price": 60,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 126,
+          "Channel_Name": "PayssionBOOST",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 3,
+          "Is_Rate": 0,
+          "Fixed_Price": 60,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 124,
+          "Channel_Name": "PayssionDUITNOW",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 4,
+          "Is_Rate": 0,
+          "Fixed_Price": 60,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 123,
+          "Channel_Name": "PayssionFPX",
+          "Price": 12.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 60,
+          "is_discount": 1
         }
       ]
     },
