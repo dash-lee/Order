@@ -34,21 +34,12 @@ namespace Create_order
                 "country",      //国家code
                 "app",
                 "num",          //钻石数量或者是vip天数
-                "price",        
-                "extra_diamond_num",    //额外奖励的钻石数量
+                "price",
                 "status",               //0为关闭；1为启动
                 "sort",             //排序
                 "google_id",        //对应的谷歌ID
                 "is_first_recharge",
-                "d_give_vip_day",       //钻石充值-赠送vip天数
-                "d_vip_user_extra_diamond_num",     //钻石充值-vip用户额外奖励钻石数
                 "d_discount",           //钻石充值-折扣显示(1-100)
-                "v_extra_item_id",          //vip充值-额外赠送物品id
-                "v_extra_item_day",         //vip充值-总共赠送天数
-                "v_extra_item_num",          //vip充值-每日赠送物品数量
-                "turntableNum",      //购买后赠送的幸运轮盘的次数
-                "extra_item_id",      //购买后赠送的物品id
-                "extra_item_num",     //购买后赠送的物品个数
                 "is_ios"    //是否为ios应用
             };
 
@@ -100,42 +91,42 @@ namespace Create_order
                                 match_country_count++;
 
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
-                                for (int k = 0; k < countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price.Count; k++)
+                                for (int k = 0; k < countries[j].Coin_Pay_Detail_Apple.PayMethod_Price.Count; k++)
                                 {
-                                    List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
-                                    appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count);
-                                    bool isModifyDiamond = false;
+                                    List<string> data_detail_coin = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count);
+                                    bool isModifyCoin = false;
 
                                     //确认此条信息是否需要和默认值不一样，要进行修改
                                     //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
                                     //进行匹配的信息是：APP名称、国家、价格
                                     int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
 
-                                    for (int a = 0; a < modify_Config.Modify_Diamond_Apple.Count; a++)
+                                    for (int a = 0; a < modify_Config.Modify_Coin_Apple.Count; a++)
                                     {
-                                        for (int b = 0; b < modify_Config.Modify_Diamond_Apple[a].Modify_App.Count; b++)
+                                        for (int b = 0; b < modify_Config.Modify_Coin_Apple[a].Modify_App.Count; b++)
                                         {
                                             //在修改钻石的表中，这个APP在其中，需要进行修改
-                                            if (appNameTemp == modify_Config.Modify_Diamond_Apple[a].Modify_App[b])
+                                            if (appNameTemp == modify_Config.Modify_Coin_Apple[a].Modify_App[b])
                                             {
                                                 //继续检测APP中是否包含了需要修改的国家
-                                                for (int c = 0; c < modify_Config.Modify_Diamond_Apple[a].Modify_Country.Count; c++)
+                                                for (int c = 0; c < modify_Config.Modify_Coin_Apple[a].Modify_Country.Count; c++)
                                                 {
                                                     //找到了这个国家，说明需要修改
-                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Apple[a].Modify_Country[c])
+                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Coin_Apple[a].Modify_Country[c])
                                                     {
                                                         //继续判断是否包含需要修改的价格
-                                                        if (modify_Config.Modify_Diamond_Apple[a].Modify_Price == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Apple[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count)
+                                                        if (modify_Config.Modify_Coin_Apple[a].Modify_Price == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price && modify_Config.Modify_Coin_Apple[a].Modify_Coin_Count == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count)
                                                         {
                                                             //修改状态为true
-                                                            isModifyDiamond = true;
+                                                            isModifyCoin = true;
 
-                                                            status = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsActivate;
-                                                            give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Reward_Count;
-                                                            is_first_recharge = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_IsFirstCharge;
-                                                            vip_date = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
-                                                            vip_user_give_num = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
-                                                            discount = modify_Config.Modify_Diamond_Apple[a].Modify_Detail_Info.Modify_Discount;
+                                                            status = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_IsActivate;
+                                                            give_num = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_Reward_Count;
+                                                            is_first_recharge = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_IsFirstCharge;
+                                                            vip_date = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
+                                                            vip_user_give_num = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_VipUser_Reward_Coin_Count;
+                                                            discount = modify_Config.Modify_Coin_Apple[a].Modify_Detail_Info.Modify_Discount;
                                                         }
                                                     }
                                                 }
@@ -153,14 +144,14 @@ namespace Create_order
                                             if (modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_Apps[index_app] == appNameTemp)
                                             {
                                                 //设定当前钻石需要赠送的幸运轮盘次数
-                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin.Count; aaa++)
                                                 {
                                                     //匹配成功
-                                                    if (countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
+                                                    if (countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin[aaa].Coin_Count && countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin[aaa].Price)
                                                     {
-                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
-                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
-                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
+                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin[aaa].TurnTable_Count;
+                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin[aaa].extra_item_id;
+                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_apple[index_modify].Modify_TurnTable_Count_Coin[aaa].extra_item_num;
                                                     }
                                                 }
                                             }
@@ -168,30 +159,30 @@ namespace Create_order
                                     }
 
                                     //这里是默认的基础配置
-                                    data_detail_diamond.Add($"{id}");
-                                    data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
-                                    data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
-                                    data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Diamond_Count}");
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Apple.PayMethod_Price[k].Price}");
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
-                                    data_detail_diamond.Add($"{k + 1}");    //排序
-                                    data_detail_diamond.Add(appleID); //苹果产品ID
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add($"{turnTableNum}");
-                                    data_detail_diamond.Add($"{extra_item_id}");
-                                    data_detail_diamond.Add($"{extra_item_num}");
-                                    data_detail_diamond.Add($"{1}");    //是否是ios应用
+                                    data_detail_coin.Add($"{id}");
+                                    data_detail_coin.Add($"{1}");    //type，1为钻石；2为vip
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}" + " Coins");
+                                    data_detail_coin.Add(countries[j].Country_Code);     //对应配置的国家CODE
+                                    data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}");
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price}");
+                                    data_detail_coin.Add(isModifyCoin ? $"{give_num}" : $"{0}");    //奖励钻石数量
+                                    data_detail_coin.Add(isModifyCoin ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_coin.Add($"{k + 1}");    //排序
+                                    data_detail_coin.Add(appleID); //苹果产品ID
+                                    data_detail_coin.Add(isModifyCoin ? $"{is_first_recharge}" : $"{0}");      //是否为首充
+                                    data_detail_coin.Add(isModifyCoin ? $"{vip_date}" : $"{0}");    //奖励vip天数
+                                    data_detail_coin.Add(isModifyCoin ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
+                                    data_detail_coin.Add(isModifyCoin ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add($"{turnTableNum}");
+                                    data_detail_coin.Add($"{extra_item_id}");
+                                    data_detail_coin.Add($"{extra_item_num}");
+                                    data_detail_coin.Add($"{1}");    //是否是ios应用
 
-                                    body.Add(data_detail_diamond);
+                                    body.Add(data_detail_coin);
 
                                     id++;
                                 }
@@ -208,42 +199,42 @@ namespace Create_order
                                 match_country_count++;
 
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
-                                for (int k = 0; k < countries[j].Diamond_Pay_Detail_Android.PayMethod_Price.Count; k++)
+                                for (int k = 0; k < countries[j].Coin_Pay_Detail_Android.PayMethod_Price.Count; k++)
                                 {
-                                    List<string> data_detail_diamond = new List<string>();      //定义新的数据，用于往body中添加数据
-                                    GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count);
-                                    bool isModifyDiamond = false;
+                                    List<string> data_detail_coin = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count);
+                                    bool isModifyCoin = false;
 
                                     //确认此条信息是否需要和默认值不一样，要进行修改
                                     //需要修改的位置是：是否启用配置、奖励钻石数量、是否首冲、奖励VIP天数、是否仅限于新用户或老用户或全部用户、VIP用户奖励钻石数量、折扣
                                     //进行匹配的信息是：APP名称、国家、价格
                                     int status = 1, give_num = 0, is_first_recharge = 0, vip_date = 0, vip_user_give_num = 0, discount = 0;
 
-                                    for (int a = 0; a < modify_Config.Modify_Diamond_Android.Count; a++)
+                                    for (int a = 0; a < modify_Config.Modify_Coin_Android.Count; a++)
                                     {
-                                        for (int b = 0; b < modify_Config.Modify_Diamond_Android[a].Modify_App.Count; b++)
+                                        for (int b = 0; b < modify_Config.Modify_Coin_Android[a].Modify_App.Count; b++)
                                         {
                                             //在修改钻石的表中，这个APP在其中，需要进行修改
-                                            if (appNameTemp == modify_Config.Modify_Diamond_Android[a].Modify_App[b])
+                                            if (appNameTemp == modify_Config.Modify_Coin_Android[a].Modify_App[b])
                                             {
                                                 //继续检测APP中是否包含了需要修改的国家
-                                                for (int c = 0; c < modify_Config.Modify_Diamond_Android[a].Modify_Country.Count; c++)
+                                                for (int c = 0; c < modify_Config.Modify_Coin_Android[a].Modify_Country.Count; c++)
                                                 {
                                                     //找到了这个国家，说明需要修改
-                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Diamond_Android[a].Modify_Country[c])
+                                                    if (const_config.Apps[index].Need_Country[i] == modify_Config.Modify_Coin_Android[a].Modify_Country[c])
                                                     {
                                                         //继续判断是否包含需要修改的价格
-                                                        if (modify_Config.Modify_Diamond_Android[a].Modify_Price == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price && modify_Config.Modify_Diamond_Android[a].Modify_Diamond_Count == countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count)
+                                                        if (modify_Config.Modify_Coin_Android[a].Modify_Price == countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price && modify_Config.Modify_Coin_Android[a].Modify_Coin_Count == countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count)
                                                         {
                                                             //修改状态为true
-                                                            isModifyDiamond = true;
+                                                            isModifyCoin = true;
 
-                                                            status = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsActivate;
-                                                            give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Reward_Count;
-                                                            is_first_recharge = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_IsFirstCharge;
-                                                            vip_date = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
-                                                            vip_user_give_num = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_VipUser_Reward_Diamond_Count;
-                                                            discount = modify_Config.Modify_Diamond_Android[a].Modify_Detail_Info.Modify_Discount;
+                                                            status = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_IsActivate;
+                                                            give_num = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_Reward_Count;
+                                                            is_first_recharge = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_IsFirstCharge;
+                                                            vip_date = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_Vip_Reward_Day;
+                                                            vip_user_give_num = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_VipUser_Reward_Coin_Count;
+                                                            discount = modify_Config.Modify_Coin_Android[a].Modify_Detail_Info.Modify_Discount;
                                                         }
                                                     }
                                                 }
@@ -261,14 +252,14 @@ namespace Create_order
                                             if (modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_Apps[index_app] == appNameTemp)
                                             {
                                                 //设定当前钻石需要赠送的幸运轮盘次数
-                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond.Count; aaa++)
+                                                for (int aaa = 0; aaa < modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin.Count; aaa++)
                                                 {
                                                     //匹配成功
-                                                    if (countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Diamond_Count && countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].Price)
+                                                    if (countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin[aaa].Coin_Count && countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price == modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin[aaa].Price)
                                                     {
-                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].TurnTable_Count;
-                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_id;
-                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Diamond[aaa].extra_item_num;
+                                                        turnTableNum = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin[aaa].TurnTable_Count;
+                                                        extra_item_id = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin[aaa].extra_item_id;
+                                                        extra_item_num = modify_TurnTable_Count_Config.Modify_all_android[index_modify].Modify_TurnTable_Count_Coin[aaa].extra_item_num;
                                                     }
                                                 }
                                             }
@@ -276,30 +267,30 @@ namespace Create_order
                                     }
 
                                     //这里是默认的基础配置
-                                    data_detail_diamond.Add($"{id}");
-                                    data_detail_diamond.Add($"{1}");    //type，1为钻石；2为vip
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}" + " Diamonds");
-                                    data_detail_diamond.Add(countries[j].Country_Code);     //对应配置的国家CODE
-                                    data_detail_diamond.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Diamond_Count}");
-                                    data_detail_diamond.Add($"{countries[j].Diamond_Pay_Detail_Android.PayMethod_Price[k].Price}");
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{give_num}" : $"{0}");    //奖励钻石数量
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{status}" : $"{1}");    //是否启用配置
-                                    data_detail_diamond.Add($"{k + 1}");    //排序
-                                    data_detail_diamond.Add(GoogleID); //苹果产品ID
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{is_first_recharge}" : $"{0}");      //是否为首充
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_date}" : $"{0}");    //奖励vip天数
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
-                                    data_detail_diamond.Add(isModifyDiamond ? $"{discount}" : $"{0}");    //折扣
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add("");
-                                    data_detail_diamond.Add($"{turnTableNum}");
-                                    data_detail_diamond.Add($"{extra_item_id}");
-                                    data_detail_diamond.Add($"{extra_item_num}");
-                                    data_detail_diamond.Add($"{0}");    //是否是ios应用
+                                    data_detail_coin.Add($"{id}");
+                                    data_detail_coin.Add($"{1}");    //type，1为钻石；2为vip
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count}" + " Coins");
+                                    data_detail_coin.Add(countries[j].Country_Code);     //对应配置的国家CODE
+                                    data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count}");
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price}");
+                                    data_detail_coin.Add(isModifyCoin ? $"{give_num}" : $"{0}");    //奖励钻石数量
+                                    data_detail_coin.Add(isModifyCoin ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_coin.Add($"{k + 1}");    //排序
+                                    data_detail_coin.Add(GoogleID); //苹果产品ID
+                                    data_detail_coin.Add(isModifyCoin ? $"{is_first_recharge}" : $"{0}");      //是否为首充
+                                    data_detail_coin.Add(isModifyCoin ? $"{vip_date}" : $"{0}");    //奖励vip天数
+                                    data_detail_coin.Add(isModifyCoin ? $"{vip_user_give_num}" : $"{0}");    //vip用户奖励钻石数量
+                                    data_detail_coin.Add(isModifyCoin ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add("");
+                                    data_detail_coin.Add($"{turnTableNum}");
+                                    data_detail_coin.Add($"{extra_item_id}");
+                                    data_detail_coin.Add($"{extra_item_num}");
+                                    data_detail_coin.Add($"{0}");    //是否是ios应用
 
-                                    body.Add(data_detail_diamond);
+                                    body.Add(data_detail_coin);
 
                                     id++;
                                 }
@@ -429,25 +420,25 @@ namespace Create_order
                 for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
                 {
                     //首先遍历钻石的数据
-                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
+                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin.Count; j++)
                     {
-                        List<string> data_detail_diamond = new List<string>();
+                        List<string> data_detail_coin = new List<string>();
 
                         //检测是否有需要修改is_discount的钻石选项
                         //需要对应国家和APP，还有钻石的数量以及价格
-                        data_detail_diamond.Add($"{id}");
-                        data_detail_diamond.Add(appName);
-                        data_detail_diamond.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
-                        data_detail_diamond.Add($"{1}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Num}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Channel_Id}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Sort}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Price}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Is_Rate}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Fixed_Price}");
-                        data_detail_diamond.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].is_discount}");
+                        data_detail_coin.Add($"{id}");
+                        data_detail_coin.Add(appName);
+                        data_detail_coin.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
+                        data_detail_coin.Add($"{1}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Num}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Channel_Id}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Sort}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Price}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Is_Rate}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Fixed_Price}");
+                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].is_discount}");
 
-                        body.Add(data_detail_diamond);
+                        body.Add(data_detail_coin);
                         id++;
                     }
 
@@ -479,192 +470,6 @@ namespace Create_order
             Tools.Write(path, header, body);
             Console.WriteLine("生成hi_v3_channel_price.xlsx完成！");
         }
-
-        #region 促销配置方法，注释
-        //public static void Hi_v3_recharge_promotions(Recharge_Config recharge_config, Const_Config const_config, Country_Config country_Config)
-        //{
-        //    定义数据部分
-        //    List<List<string>> body = new List<List<string>>();
-
-        //    定义数据头
-        //    List<string> header = new List<string>()
-        //    {
-        //        "id",
-        //        "info",
-        //        "pay_type",     //1充值前 2充值后
-        //        "status",
-        //        "app",
-        //        "country",
-        //    };
-
-        //    获取路径
-        //    string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-        //    string path = desktopPath + @"\config_all\hi_v3_recharge_promotions.xlsx";
-
-        //    int id;
-
-        //    for (int index = 0; index < const_config.Apps.Count; index++)
-        //    {
-        //        id = ModuleSupport.RECHARGE_BEGIN_ID + index * ModuleSupport.RECHARGE_APP_GAP_ID;   //初始化ID
-
-        //        区分苹果应用和安卓应用
-        //        if (const_config.Apps[index].Is_IOS == 1)
-        //        {
-        //            for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
-        //            {
-        //                for (int j = 0; j < country_Config.Country.Count; j++)
-        //                {
-        //                    匹配上对应的国家（表示需要此国家的配置）
-        //                    if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
-        //                    {
-        //                        for (int k = 0; k < recharge_config.Recharge_Promotion_Apple.Promotion_Info.Count; k++)
-        //                        {
-        //                            需要的Need_country存在配置，则需要进行读取
-        //                            if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Name)
-        //                            {
-        //                                for (int a = 0; a < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type.Count; a++)
-        //                                {
-        //                                    List<string> data_detail = new List<string>();
-        //                                    int payType = -1;
-        //                                    int status = -1;
-        //                                    string info = "";
-
-        //                                    充值前的配置
-        //                                    if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
-        //                                    {
-        //                                        payType = 1;
-        //                                        status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Is_Open;
-        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
-        //                                        {
-        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-        //                                            if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
-        //                                            {
-        //                                                info = info + combine_id;
-        //                                            }
-        //                                            else
-        //                                            {
-        //                                                info = info + combine_id + "_";
-        //                                            }
-        //                                        }
-        //                                    }
-        //                                    else if (recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
-        //                                    {
-        //                                        payType = 2;
-        //                                        status = recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Is_Open;
-        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
-        //                                        {
-        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-        //                                            if (b == recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
-        //                                            {
-        //                                                info = info + combine_id;
-        //                                            }
-        //                                            else
-        //                                            {
-        //                                                info = info + combine_id + "_";
-        //                                            }
-        //                                        }
-        //                                    }
-
-        //                                    data_detail.Add($"{id}");
-        //                                    data_detail.Add(info);
-        //                                    data_detail.Add($"{payType}");
-        //                                    data_detail.Add($"{status}");
-        //                                    data_detail.Add(const_config.Apps[index].AppName);
-        //                                    data_detail.Add(recharge_config.Recharge_Promotion_Apple.Promotion_Info[k].Country_Code);
-
-        //                                    body.Add(data_detail);
-        //                                    id++;
-        //                                }
-        //                            }
-        //                        }
-        //                    }
-        //                }
-        //            }
-        //        }
-        //        else
-        //        {
-        //            找到所需的国家
-        //            for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
-        //            {
-        //                for (int j = 0; j < country_Config.Country.Count; j++)
-        //                {
-        //                    匹配上对应的国家（表示需要此国家的配置）
-        //                    if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
-        //                    {
-        //                        for (int k = 0; k < recharge_config.Recharge_Promotion.Promotion_Info.Count; k++)
-        //                        {
-        //                            需要的Need_country存在配置，则需要进行读取
-        //                            if (const_config.Apps[index].Need_Country[i] == recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Name)
-        //                            {
-        //                                for (int a = 0; a < recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type.Count; a++)
-        //                                {
-        //                                    List<string> data_detail = new List<string>();
-        //                                    int payType = -1;
-        //                                    int status = -1;
-        //                                    string info = "";
-
-        //                                    充值前的配置
-        //                                    if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "Before_Recharge")
-        //                                    {
-        //                                        payType = 1;
-        //                                        status = recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Is_Open;
-        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count; b++)
-        //                                        {
-        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-        //                                            if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].Before_Recharge.Promotion_Detail_Info.Count - 1)
-        //                                            {
-        //                                                info = info + combine_id;
-        //                                            }
-        //                                            else
-        //                                            {
-        //                                                info = info + combine_id + "_";
-        //                                            }
-        //                                        }
-        //                                    }
-        //                                    else if (recharge_config.Recharge_Promotion.Promotion_Info[k].Recharge_Type[a] == "After_Recharge")
-        //                                    {
-        //                                        payType = 2;
-        //                                        status = recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Is_Open;
-        //                                        for (int b = 0; b < recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count; b++)
-        //                                        {
-        //                                            string combine_id = Tools.CheckReturnIndex(recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Type, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Price, recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info[b].Num, recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code, const_config.Apps[index].AppName);
-
-        //                                            if (b == recharge_config.Recharge_Promotion.Promotion_Info[k].After_Recharge.Promotion_Detail_Info.Count - 1)
-        //                                            {
-        //                                                info = info + combine_id;
-        //                                            }
-        //                                            else
-        //                                            {
-        //                                                info = info + combine_id + "_";
-        //                                            }
-        //                                        }
-        //                                    }
-
-        //                                    data_detail.Add($"{id}");
-        //                                    data_detail.Add(info);
-        //                                    data_detail.Add($"{payType}");
-        //                                    data_detail.Add($"{status}");
-        //                                    data_detail.Add(const_config.Apps[index].AppName);
-        //                                    data_detail.Add(recharge_config.Recharge_Promotion.Promotion_Info[k].Country_Code);
-
-        //                                    body.Add(data_detail);
-        //                                    id++;
-        //                                }
-        //                            }
-        //                        }
-        //                    }
-        //                }
-        //            }
-        //        }
-        //    }
-
-        //    Tools.Write(path, header, body);
-        //    Console.WriteLine("生成hi_v3_recharge_promotions.xlsx完成！");
-        //}
-        #endregion
 
         #region Change_Price方法，当前已注释
         //public static void Hi_v3_channel_price_modify(Const_Config const_config, PayChannel_Price_Modify_Config payChannel_Price_Modify_Config)
@@ -711,25 +516,25 @@ namespace Create_order
         //                    for (int c = 0; c < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country.Count; c++)
         //                    {
         //                        钻石配置
-        //                        for (int d = 0; d < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond.Count; d++)
+        //                        for (int d = 0; d < payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin.Count; d++)
         //                        {
-        //                            List<string> data_detail_diamond = new List<string>();
+        //                            List<string> data_detail_coin = new List<string>();
 
         //                            检测是否有需要修改is_discount的钻石选项
         //                            需要对应国家和APP，还有钻石的数量以及价格
-        //                            data_detail_diamond.Add($"{id}");
-        //                            data_detail_diamond.Add(appName);
-        //                            data_detail_diamond.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
-        //                            data_detail_diamond.Add($"{1}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Num}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Channel_Id}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Sort}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Price}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Is_Rate}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].Fixed_Price}");
-        //                            data_detail_diamond.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Diamond[d].is_discount}");
+        //                            data_detail_coin.Add($"{id}");
+        //                            data_detail_coin.Add(appName);
+        //                            data_detail_coin.Add(payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].Country_Code);
+        //                            data_detail_coin.Add($"{1}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Num}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Channel_Id}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Sort}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Price}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Is_Rate}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].Fixed_Price}");
+        //                            data_detail_coin.Add($"{payChannel_Price_Modify_Config.PayChannel_Modify_All[a].PayChannel_Country[c].PayChannel_Coin[d].is_discount}");
 
-        //                            body.Add(data_detail_diamond);
+        //                            body.Add(data_detail_coin);
         //                            id++;
         //                        }
 
@@ -764,7 +569,5 @@ namespace Create_order
         //    Console.WriteLine("生成hi_v3_channel_price_modify.xlsx完成！");
         //}
         #endregion
-
-
     }
 }

@@ -183,7 +183,7 @@ namespace Create_order
             public string Country_Name { get; set;}
             public string Country_Name_CN { get; set;}
             public string Country_Code { get; set;}
-            public List<PayChannel_Info> PayChannel_Diamond { get;set; }
+            public List<PayChannel_Info> PayChannel_Coin { get;set; }
             public List<PayChannel_Info> PayChannel_Vip { get; set; }
         }
 
@@ -269,7 +269,7 @@ namespace Create_order
                         endIndex = i;
                     }
 
-                    List<PayChannel_Info> PayChannel_Diamonds = new List<PayChannel_Info>();
+                    List<PayChannel_Info> PayChannel_Coins = new List<PayChannel_Info>();
                     List<PayChannel_Info> PayChannel_Vips = new List<PayChannel_Info>();
 
                     for (int j = startIndex; j < endIndex; j++)
@@ -329,7 +329,7 @@ namespace Create_order
                                 is_discount = is_discount
                             };
 
-                            PayChannel_Diamonds.Add(payMethod_Info);
+                            PayChannel_Coins.Add(payMethod_Info);
                         }
                         else
                         {
@@ -354,7 +354,7 @@ namespace Create_order
                         Country_Name = excelData[startIndex][2],
                         Country_Name_CN = excelData[startIndex][3],
                         Country_Code = excelData[startIndex][1],
-                        PayChannel_Diamond = PayChannel_Diamonds,
+                        PayChannel_Coin = PayChannel_Coins,
                         PayChannel_Vip = PayChannel_Vips
                     };
 

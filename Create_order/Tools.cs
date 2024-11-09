@@ -169,11 +169,11 @@ namespace Create_order
                 {
                     if (type == 1)
                     {
-                        for (int j = 0; j < const_Config.GoogleID[i].Diamond_Google_ID.Count; j++)
+                        for (int j = 0; j < const_Config.GoogleID[i].Coin_Google_ID.Count; j++)
                         {
-                            if (price == const_Config.GoogleID[i].Diamond_Google_ID[j].Price && num == const_Config.GoogleID[i].Diamond_Google_ID[j].Diamond_Count)
+                            if (price == const_Config.GoogleID[i].Coin_Google_ID[j].Price && num == const_Config.GoogleID[i].Coin_Google_ID[j].Coin_Count)
                             {
-                                return const_Config.GoogleID[i].Diamond_Google_ID[j].Google_Price_ID;
+                                return const_Config.GoogleID[i].Coin_Google_ID[j].Google_Price_ID;
                             }
                         }
                     }
@@ -196,11 +196,11 @@ namespace Create_order
                 {
                     if (type == 1)
                     {
-                        for (int j = 0; j < const_Config.AppleID[i].Diamond_Apple_ID.Count; j++)
+                        for (int j = 0; j < const_Config.AppleID[i].Coin_Apple_ID.Count; j++)
                         {
-                            if (price == const_Config.AppleID[i].Diamond_Apple_ID[j].Price && num == const_Config.AppleID[i].Diamond_Apple_ID[j].Diamond_Count)
+                            if (price == const_Config.AppleID[i].Coin_Apple_ID[j].Price && num == const_Config.AppleID[i].Coin_Apple_ID[j].Coin_Count)
                             {
-                                return const_Config.AppleID[i].Diamond_Apple_ID[j].Apple_Price_ID;
+                                return const_Config.AppleID[i].Coin_Apple_ID[j].Apple_Price_ID;
                             }
                         }
                     }
@@ -343,9 +343,9 @@ namespace Create_order
                 if (!isExist)
                 {
                     //检查钻石中是否有使用当前channel_id
-                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond.Count; j++)
+                    for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin.Count; j++)
                     {
-                        if (channel_id == payChannel_Price_Config.PayChannel_Country[i].PayChannel_Diamond[j].Channel_Id)
+                        if (channel_id == payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Channel_Id)
                         {
                             isExist = true;
                             break;
@@ -474,7 +474,7 @@ namespace Create_order
 
         //    foreach (JObject country in countryArray)
         //    {
-        //        JObject diamondObj = (JObject)country["Diamond_Pay_Detail"];
+        //        JObject diamondObj = (JObject)country["Coin_Pay_Detail"];
         //        JObject vipObj = (JObject)country["Vip_Pay_Detail"];
 
         //        JArray payDiamondPrice = (JArray)diamondObj["PayMethod_Price"];

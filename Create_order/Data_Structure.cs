@@ -41,26 +41,26 @@ namespace Create_order
         public struct GoogleID
         {
             public string? AppName { get; set; }
-            public List<Diamond_Google_ID> Diamond_Google_ID { get; set; }
+            public List<Coin_Google_ID> Coin_Google_ID { get; set; }
         }
 
         public struct AppleID
         {
             public string? AppName { get; set; }
-            public List<Diamond_Apple_ID> Diamond_Apple_ID { get; set; }
+            public List<Coin_Apple_ID> Coin_Apple_ID { get; set; }
         }
 
-        public struct Diamond_Google_ID
+        public struct Coin_Google_ID
         {
             public double Price { get; set; }
-            public int Diamond_Count { get; set; }
+            public int Coin_Count { get; set; }
             public string? Google_Price_ID { get; set; }
         }
 
-        public struct Diamond_Apple_ID
+        public struct Coin_Apple_ID
         {
             public double Price { get; set; }
-            public int Diamond_Count { get; set; }
+            public int Coin_Count { get; set; }
             public string? Apple_Price_ID { get; set; }
         }
 
@@ -185,28 +185,28 @@ namespace Create_order
             public string Area { get; set; }
             public string Area_CN { get; set; }  
             public string Currency_Code { get; set; }
-            public Diamond_Gear Diamond_Gear { get; set;}
-            public List<string> Diamond_PayMethod {  get; set; }
-            public Diamond_Pay_Detail Diamond_Pay_Detail_Android {  get; set; }
-            public Diamond_Pay_Detail Diamond_Pay_Detail_Apple {  get; set; }
+            public Coin_Gear Coin_Gear { get; set;}
+            public List<string> Coin_PayMethod {  get; set; }
+            public Coin_Pay_Detail Coin_Pay_Detail_Android {  get; set; }
+            public Coin_Pay_Detail Coin_Pay_Detail_Apple {  get; set; }
         }
 
-        public struct Diamond_Gear
+        public struct Coin_Gear
         {
             public List<string> Gear_Android { get; set; }
             public List<string> Gear_Ios { get; set; }
         }
 
-        public struct Diamond_Pay_Detail
+        public struct Coin_Pay_Detail
         {
             public string Currency { get; set; }
-            public List<PayMethod_Price_Diamond> PayMethod_Price { get; set;}
+            public List<PayMethod_Price_Coin> PayMethod_Price { get; set;}
         }
 
-        public struct PayMethod_Price_Diamond
+        public struct PayMethod_Price_Coin
         {
             public double Price { get; set;}
-            public int Diamond_Count { get; set;}
+            public int Coin_Count { get; set;}
             public List<string> PayMethod_Name { get; set;}
             public List<PayMethod_Fixed_Price> PayMethod_Fixed_Price { get;set;}
         }
@@ -246,27 +246,27 @@ namespace Create_order
     {
         public struct Modify_Config
         {
-            public List<Modify_Diamond> Modify_Diamond_Android { get; set; }
-            public List<Modify_Diamond> Modify_Diamond_Apple { get; set; }
+            public List<Modify_Coin> Modify_Coin_Android { get; set; }
+            public List<Modify_Coin> Modify_Coin_Apple { get; set; }
 
         }
 
-        public struct Modify_Diamond
+        public struct Modify_Coin
         {
             public List<string> Modify_App { get; set; }
             public List<string> Modify_Country { get; set; }
             public double Modify_Price { get; set; }
-            public int Modify_Diamond_Count {  get; set; }
-            public Modify_Detail_Info_Diamond Modify_Detail_Info {  get; set; }
+            public int Modify_Coin_Count {  get; set; }
+            public Modify_Detail_Info_Coin Modify_Detail_Info {  get; set; }
         }
 
-        public struct Modify_Detail_Info_Diamond
+        public struct Modify_Detail_Info_Coin
         {
             public int Modify_IsActivate { get; set; }
             public int Modify_Reward_Count { get; set; }
             public int Modify_IsFirstCharge { get; set; }
             public int Modify_Vip_Reward_Day { get; set; }
-            public int Modify_VipUser_Reward_Diamond_Count { get; set; }
+            public int Modify_VipUser_Reward_Coin_Count { get; set; }
             public int Modify_Discount { get; set; }
         }
 
@@ -355,7 +355,7 @@ namespace Create_order
             public string Country_Name { get; set; }
             public string Country_Name_CN { get; set; }
             public string Country_Code { get; set; }
-            public List<PayChannel_Info> PayChannel_Diamond { get; set; }
+            public List<PayChannel_Info> PayChannel_Coin { get; set; }
             public List<PayChannel_Info> PayChannel_Vip { get; set; }
         }
 
@@ -414,7 +414,7 @@ namespace Create_order
             public string Country_Name { get;set; }
             public string Country_Name_CN { get;set; }
             public string Country_Code { get;set; }
-            public List<PayChannel_Info> PayChannel_Diamond { get;set; }
+            public List<PayChannel_Info> PayChannel_Coin { get;set; }
             public List<PayChannel_Info> PayChannel_Vip {  get;set; }
         }
 
@@ -517,14 +517,14 @@ namespace Create_order
         public struct Modify_all
         {
             public List<string> Modify_Apps { get; set; }
-            public List<Modify_TurnTable_Count_Diamond> Modify_TurnTable_Count_Diamond {  get; set; }
+            public List<Modify_TurnTable_Count_Coin> Modify_TurnTable_Count_Coin {  get; set; }
             public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
         }
 
-        public struct Modify_TurnTable_Count_Diamond
+        public struct Modify_TurnTable_Count_Coin
         {
             public double Price {  get; set; }
-            public int Diamond_Count { get; set; }
+            public int Coin_Count { get; set; }
             public int TurnTable_Count { get; set; }
             public int extra_item_id { get; set; }
             public int extra_item_num { get; set; }

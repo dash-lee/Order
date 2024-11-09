@@ -5,7 +5,7 @@
       "Country_Name": "Somalia",
       "Country_Name_CN": "索马里",
       "Country_Code": "SO",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -173,7 +173,7 @@
       "Country_Name": "Algeria",
       "Country_Name_CN": "阿尔及利亚",
       "Country_Code": "DZ",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -341,7 +341,7 @@
       "Country_Name": "Iran",
       "Country_Name_CN": "伊朗",
       "Country_Code": "IR",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -509,7 +509,7 @@
       "Country_Name": "Mauritania",
       "Country_Name_CN": "毛里塔利亚",
       "Country_Code": "MR",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -677,7 +677,7 @@
       "Country_Name": "Cyprus",
       "Country_Name_CN": "塞浦路斯",
       "Country_Code": "CY",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -845,7 +845,7 @@
       "Country_Name": "Palestine",
       "Country_Name_CN": "巴勒斯坦",
       "Country_Code": "BL",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1013,7 +1013,7 @@
       "Country_Name": "Sudan",
       "Country_Name_CN": "苏丹",
       "Country_Code": "SD",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1181,7 +1181,7 @@
       "Country_Name": "Afghanistan",
       "Country_Name_CN": "阿富汗",
       "Country_Code": "AF",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1349,7 +1349,7 @@
       "Country_Name": "Tunisia",
       "Country_Name_CN": "突尼斯",
       "Country_Code": "TN",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1517,7 +1517,7 @@
       "Country_Name": "Lebanon",
       "Country_Name_CN": "黎巴嫩",
       "Country_Code": "LB",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1685,7 +1685,7 @@
       "Country_Name": "Syria",
       "Country_Name_CN": "叙利亚",
       "Country_Code": "SY",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -1853,7 +1853,7 @@
       "Country_Name": "Morocco",
       "Country_Name_CN": "摩洛哥",
       "Country_Code": "MA",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2021,7 +2021,7 @@
       "Country_Name": "Bahrain",
       "Country_Name_CN": "巴林",
       "Country_Code": "BH",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2189,7 +2189,7 @@
       "Country_Name": "Turkey",
       "Country_Name_CN": "土耳其",
       "Country_Code": "TR",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2357,7 +2357,7 @@
       "Country_Name": "Egypt",
       "Country_Name_CN": "埃及",
       "Country_Code": "EG",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2525,7 +2525,7 @@
       "Country_Name": "Qatar",
       "Country_Name_CN": "卡塔尔",
       "Country_Code": "QA",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2693,7 +2693,7 @@
       "Country_Name": "Arab Emirates",
       "Country_Name_CN": "阿拉伯联合酋长国",
       "Country_Code": "AE",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -2861,7 +2861,7 @@
       "Country_Name": "Oman",
       "Country_Name_CN": "阿曼",
       "Country_Code": "OM",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3029,7 +3029,7 @@
       "Country_Name": "Yemen",
       "Country_Name_CN": "也门",
       "Country_Code": "YE",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3197,7 +3197,7 @@
       "Country_Name": "Saudi Arabia",
       "Country_Name_CN": "沙特阿拉伯",
       "Country_Code": "SA",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3365,7 +3365,7 @@
       "Country_Name": "Kuwait",
       "Country_Name_CN": "科威特",
       "Country_Code": "KW",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3533,7 +3533,7 @@
       "Country_Name": "Iraq",
       "Country_Name_CN": "伊拉克",
       "Country_Code": "IQ",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3701,7 +3701,7 @@
       "Country_Name": "Jordan",
       "Country_Name_CN": "约旦",
       "Country_Code": "JO",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",
@@ -3869,7 +3869,7 @@
       "Country_Name": "Israel",
       "Country_Name_CN": "以色列",
       "Country_Code": "IL",
-      "PayChannel_Diamond": [
+      "PayChannel_Coin": [
         {
           "Channel_Id": 1,
           "Channel_Name": "谷歌支付",

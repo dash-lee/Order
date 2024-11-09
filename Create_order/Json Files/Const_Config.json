@@ -4,7 +4,7 @@
     "Apps": [
         {
             "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
-            "AppName": "Yippi",
+            "AppName": "Talka",
             "Is_IOS": 0,
             "Type": [ "Android", "Ios" ],
             "Need_Country": [
@@ -36,7 +36,7 @@
         },
         {
             "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
-            "AppName": "Yippi_Ios",
+            "AppName": "Talka",
             "Is_IOS": 1,
             "Type": [ "Android", "Ios" ],
             "Need_Country": [
@@ -70,45 +70,45 @@
     "GoogleID": [
         {
             "AppName": "Yippi",
-            "Diamond_Google_ID": [
+            "Coin_Google_ID": [
                 {
                     "Price": 1.99,
-                    "Diamond_Count": 170,
+                    "Coin_Count": 170,
                     "Google_Price_ID": "yippi_g_diamond_1"
                 },
                 {
                     "Price": 3.99,
-                    "Diamond_Count": 340,
+                    "Coin_Count": 340,
                     "Google_Price_ID": "yippi_g_diamond_2"
                 },
                 {
                     "Price": 6.99,
-                    "Diamond_Count": 595,
+                    "Coin_Count": 595,
                     "Google_Price_ID": "yippi_g_diamond_3"
                 },
                 {
                     "Price": 19.99,
-                    "Diamond_Count": 1700,
+                    "Coin_Count": 1700,
                     "Google_Price_ID": "yippi_g_diamond_4"
                 },
                 {
                     "Price": 49.99,
-                    "Diamond_Count": 4250,
+                    "Coin_Count": 4250,
                     "Google_Price_ID": "yippi_g_diamond_5"
                 },
                 {
                     "Price": 99.99,
-                    "Diamond_Count": 8500,
+                    "Coin_Count": 8500,
                     "Google_Price_ID": "yippi_g_diamond_6"
                 },
                 {
                     "Price": 149.99,
-                    "Diamond_Count": 12780,
+                    "Coin_Count": 12780,
                     "Google_Price_ID": "yippi_g_diamond_7"
                 },
                 {
                     "Price": 199.99,
-                    "Diamond_Count": 17000,
+                    "Coin_Count": 17000,
                     "Google_Price_ID": "yippi_g_diamond_8"
                 }
             ]
@@ -117,52 +117,52 @@
     "AppleID": [
         {
             "AppName": "Yippi_Ios",
-            "Diamond_Apple_ID": [
+            "Coin_Apple_ID": [
                 {
                     "Price": 3.09,
-                    "Diamond_Count": 216,
+                    "Coin_Count": 216,
                     "Apple_Price_ID": "yippi_a_diamond_1"
                 },
                 {
                     "Price": 7.19,
-                    "Diamond_Count": 504,
+                    "Coin_Count": 504,
                     "Apple_Price_ID": "yippi_a_diamond_2"
                 },
                 {
                     "Price": 11.49,
-                    "Diamond_Count": 805,
+                    "Coin_Count": 805,
                     "Apple_Price_ID": "yippi_a_diamond_3"
                 },
                 {
                     "Price": 28.95,
-                    "Diamond_Count": 2030,
+                    "Coin_Count": 2030,
                     "Apple_Price_ID": "yippi_a_diamond_4"
                 },
                 {
                     "Price": 57.99,
-                    "Diamond_Count": 4060,
+                    "Coin_Count": 4060,
                     "Apple_Price_ID": "yippi_a_diamond_5"
                 },
                 {
                     "Price": 144.99,
-                    "Diamond_Count": 10160,
+                    "Coin_Count": 10160,
                     "Apple_Price_ID": "yippi_a_diamond_6"
                 },
                 {
                     "Price": 200.00,
-                    "Diamond_Count": 14100,
+                    "Coin_Count": 14100,
                     "Apple_Price_ID": "yippi_a_diamond_7"
                 },
                 {
                     "Price": 289,
-                    "Diamond_Count": 20300,
+                    "Coin_Count": 20300,
                     "Apple_Price_ID": "yippi_a_diamond_8"
                 }
             ]
         }
     ],
 
-    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax" ],
+    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax" ,"Span_Cash"],
     "PayMethod_Info": [
         {
             "Pay_Type_ID": 1,
@@ -181,6 +181,12 @@
             "PaymentMethod_Name": "PayerMax",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 3
+        },
+        {
+            "Pay_Type_ID": 4,
+            "PaymentMethod_Name": "Span_Cash",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 4
         }
     ]
 }
