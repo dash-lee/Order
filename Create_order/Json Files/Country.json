@@ -9,8 +9,8 @@
             "Area_CN": "中东大区",
             "Currency_Code": "IRR",
             "Coin_Gear": {
-                "Gear_Android": [ 170, 340, 595, 1700, 4250, 8500, 12780, 17000 ],
-                "Gear_Ios": [ 216, 504, 805, 2030, 4060, 10160, 14100, 20300 ]
+                "Gear_Android": [ 13600, 272000, 47600, 136000, 340000, 680000, 1022400,  ],
+                "Gear_Ios": [ 17280, 40320, 64400, 162400, 324800, 812800, 1128000, 1624000 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -18,35 +18,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -55,35 +55,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -105,35 +105,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -142,35 +142,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -192,35 +192,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -229,35 +229,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -279,35 +279,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -316,35 +316,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -366,35 +366,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -403,35 +403,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -453,35 +453,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -490,35 +490,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -540,35 +540,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -577,35 +577,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -627,35 +627,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -664,35 +664,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -714,35 +714,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -751,35 +751,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -801,35 +801,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -838,35 +838,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -888,35 +888,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -925,35 +925,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -975,35 +975,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1012,35 +1012,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1062,35 +1062,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1099,35 +1099,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1149,35 +1149,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1186,35 +1186,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1236,35 +1236,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1273,35 +1273,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1323,35 +1323,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1360,35 +1360,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1410,35 +1410,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1447,35 +1447,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1497,35 +1497,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1534,35 +1534,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1584,35 +1584,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1621,35 +1621,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1671,35 +1671,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1708,35 +1708,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1758,35 +1758,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1795,35 +1795,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1845,35 +1845,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1882,35 +1882,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -1932,35 +1932,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -1969,35 +1969,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }
@@ -2019,35 +2019,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 1.99,
-                        "Coin_Count": 170
+                        "Coin_Count": 13600
                     },
                     {
                         "Price": 3.99,
-                        "Coin_Count": 340
+                        "Coin_Count": 27200
                     },
                     {
                         "Price": 6.99,
-                        "Coin_Count": 595
+                        "Coin_Count": 47600
                     },
                     {
                         "Price": 19.99,
-                        "Coin_Count": 1700
+                        "Coin_Count": 136000
                     },
                     {
                         "Price": 49.99,
-                        "Coin_Count": 4250
+                        "Coin_Count": 340000
                     },
                     {
                         "Price": 99.99,
-                        "Coin_Count": 8500
+                        "Coin_Count": 680000
                     },
                     {
                         "Price": 149.99,
-                        "Coin_Count": 12780
+                        "Coin_Count": 1022400
                     },
                     {
                         "Price": 199.99,
-                        "Coin_Count": 17000
+                        "Coin_Count": 1360000
                     }
                 ]
             },
@@ -2056,35 +2056,35 @@
                 "PayMethod_Price": [
                     {
                         "Price": 3.09,
-                        "Coin_Count": 216
+                        "Coin_Count": 17280
                     },
                     {
                         "Price": 7.19,
-                        "Coin_Count": 504
+                        "Coin_Count": 40320
                     },
                     {
                         "Price": 11.49,
-                        "Coin_Count": 805
+                        "Coin_Count": 64400
                     },
                     {
                         "Price": 28.95,
-                        "Coin_Count": 2030
+                        "Coin_Count": 162400
                     },
                     {
                         "Price": 57.99,
-                        "Coin_Count": 4060
+                        "Coin_Count": 324800
                     },
                     {
                         "Price": 144.99,
-                        "Coin_Count": 10160
+                        "Coin_Count": 812800
                     },
                     {
                         "Price": 200,
-                        "Coin_Count": 14100
+                        "Coin_Count": 1128000
                     },
                     {
                         "Price": 289,
-                        "Coin_Count": 20300
+                        "Coin_Count": 1624000
                     }
                 ]
             }

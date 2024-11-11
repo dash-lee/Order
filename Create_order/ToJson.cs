@@ -270,7 +270,6 @@ namespace Create_order
                     }
 
                     List<PayChannel_Info> PayChannel_Coins = new List<PayChannel_Info>();
-                    List<PayChannel_Info> PayChannel_Vips = new List<PayChannel_Info>();
 
                     for (int j = startIndex; j < endIndex; j++)
                     {
@@ -333,19 +332,7 @@ namespace Create_order
                         }
                         else
                         {
-                            PayChannel_Info payMethod_Info = new PayChannel_Info()
-                            {
-                                Channel_Id = intChannelId,
-                                Channel_Name = excelData[j][12],
-                                Price = doublePrice,
-                                Num = intNum,
-                                Sort = intSort,
-                                Is_Rate = intIsRate,
-                                Fixed_Price = doubleFixedPrice,
-                                is_discount = is_discount
-                            };
-
-                            PayChannel_Vips.Add(payMethod_Info);
+                            Console.WriteLine("当前类型错误，非钻石，请仔细检查!");
                         }
                     }
 
@@ -355,7 +342,6 @@ namespace Create_order
                         Country_Name_CN = excelData[startIndex][3],
                         Country_Code = excelData[startIndex][1],
                         PayChannel_Coin = PayChannel_Coins,
-                        PayChannel_Vip = PayChannel_Vips
                     };
 
                     payChannel_Countries.Add(PayChannel_Country);

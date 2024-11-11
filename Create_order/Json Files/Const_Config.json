@@ -3,10 +3,9 @@
     "Area": [ "Middle East" ],
     "Apps": [
         {
-            "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
+            "//": "这里的is_IOS如果是0，代表当前是安卓应用；1代表的是Ios应用",
             "AppName": "Talka",
             "Is_IOS": 0,
-            "Type": [ "Android", "Ios" ],
             "Need_Country": [
                 "Somalia",
                 "Algeria",
@@ -35,10 +34,9 @@
             ]
         },
         {
-            "//": "这里的is_IOS代表当前是否需要区分IOS和安装，如果是0，代表不区分；1代表区分,Type中为Android和Ios",
+            "//": "这里的is_IOS如果是0，代表当前是安卓应用；1代表的是Ios应用",
             "AppName": "Talka",
             "Is_IOS": 1,
-            "Type": [ "Android", "Ios" ],
             "Need_Country": [
                 "Somalia",
                 "Algeria",
@@ -69,7 +67,7 @@
     ],
     "GoogleID": [
         {
-            "AppName": "Yippi",
+            "AppName": "Talka",
             "Coin_Google_ID": [
                 {
                     "Price": 1.99,
@@ -116,7 +114,7 @@
     ],
     "AppleID": [
         {
-            "AppName": "Yippi_Ios",
+            "AppName": "Talka",
             "Coin_Apple_ID": [
                 {
                     "Price": 3.09,
