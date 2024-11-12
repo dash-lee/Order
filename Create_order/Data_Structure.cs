@@ -9,13 +9,9 @@ using Newtonsoft.Json.Serialization;
 using System.Threading.Tasks;
 using static Create_order.Data_Const;
 using static Create_order.Data_Country;
-using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
-using static Create_order.Data_Recharge;
 using static Create_order.ToJson_PayChannel;
-using static Create_order.Data_Change_Channel_Price;
-using static Create_order.Data_Modify_TurnTable_Count;
 
 namespace Create_order
 {
@@ -75,7 +71,7 @@ namespace Create_order
         //生成返回值
         public static Const_Config Const_Data()
         {
-            Const_Config tmpData = new Const_Config();
+            Const_Config tmpData = new();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Const_Config.json");
 
             Console.WriteLine(jsonPath);
@@ -85,77 +81,6 @@ namespace Create_order
             {
                 string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonConvert.DeserializeObject<Const_Config>(JsonFile);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-    }
-
-    public class Data_Recharge
-    {
-
-        public struct Recharge_Config
-        {
-            public Recharge_Promotion Recharge_Promotion { get; set; }
-            public Recharge_Promotion Recharge_Promotion_Apple { get; set; }
-        }
-
-        public struct Recharge_Promotion
-        {
-            public List<string> Country { get; set; }
-
-            public List<Promotion_Info> Promotion_Info { get; set; }
-        }
-
-        public struct Promotion_Info
-        {
-            public string Country_Name { get; set; }
-            public string Country_Name_CN { get; set; }
-            public string Country_Code { get; set; }
-            public List<string> Recharge_Type { get; set; }
-            public Before_Recharge Before_Recharge { get; set; }
-            public After_Recharge After_Recharge { get; set; }
-        }
-
-        public struct Before_Recharge
-        {
-            public int Is_Open { get; set; }
-            public List<Promotion_Detail_Info> Promotion_Detail_Info { get; set; }
-        }
-
-        public struct After_Recharge
-        {
-            public int Is_Open { get; set; }
-            public List<Promotion_Detail_Info> Promotion_Detail_Info { get; set; }
-        }
-
-        public struct Promotion_Detail_Info
-        {
-            public string Type { get; set; }
-            public double Price { get; set; }
-            public int Num { get; set; }
-        }
-
-        //生成返回值
-        public static Recharge_Config Recharge_Data()
-        {
-            Recharge_Config tmpData = new Recharge_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Recharge_Promotion.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<Recharge_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {
@@ -207,19 +132,13 @@ namespace Create_order
         {
             public double Price { get; set;}
             public int Coin_Count { get; set;}
-            public List<string> PayMethod_Name { get; set;}
-            public List<PayMethod_Fixed_Price> PayMethod_Fixed_Price { get;set;}
-        }
-
-        public struct PayMethod_Fixed_Price
-        {
-            public string Name { get; set; }
-            public double Price { get; set; }
+            public int Status { get; set; }
+            public int Discount { get; set; }
         }
 
         public static Country_Config Country_Data()
         {
-            Country_Config tmpData = new Country_Config();
+            Country_Config tmpData = new();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
             Console.WriteLine(jsonPath);
 
@@ -240,60 +159,6 @@ namespace Create_order
 
             return tmpData;
         }
-    }
-
-    public class Data_Modify
-    {
-        public struct Modify_Config
-        {
-            public List<Modify_Coin> Modify_Coin_Android { get; set; }
-            public List<Modify_Coin> Modify_Coin_Apple { get; set; }
-
-        }
-
-        public struct Modify_Coin
-        {
-            public List<string> Modify_App { get; set; }
-            public List<string> Modify_Country { get; set; }
-            public double Modify_Price { get; set; }
-            public int Modify_Coin_Count {  get; set; }
-            public Modify_Detail_Info_Coin Modify_Detail_Info {  get; set; }
-        }
-
-        public struct Modify_Detail_Info_Coin
-        {
-            public int Modify_IsActivate { get; set; }
-            public int Modify_Reward_Count { get; set; }
-            public int Modify_IsFirstCharge { get; set; }
-            public int Modify_Vip_Reward_Day { get; set; }
-            public int Modify_VipUser_Reward_Coin_Count { get; set; }
-            public int Modify_Discount { get; set; }
-        }
-
-        public static Modify_Config Modify_Data()
-        {
-            Modify_Config tmpData = new Modify_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<Modify_Config>(JsonFile);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-
     }
 
     public class Data_PayChannel
@@ -319,7 +184,7 @@ namespace Create_order
 
         public static PayChannel_Config PayChannel_Data()
         {
-            PayChannel_Config tmpData = new PayChannel_Config();
+            PayChannel_Config tmpData = new();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Unique.json");
             Console.WriteLine(jsonPath);
 
@@ -368,12 +233,12 @@ namespace Create_order
             public int Sort { get; set; }
             public int Is_Rate { get; set; }
             public double Fixed_Price { get; set; }
-            public int is_discount {  get; set; }
+            public int Is_discount {  get; set; }
         }
 
         public static PayChannel_Price_Config PayChannel_Price_Data()
         {
-            PayChannel_Price_Config tmpData = new PayChannel_Price_Config();
+            PayChannel_Price_Config tmpData = new();
             string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price.json");
             Console.WriteLine(jsonPath);
 
@@ -382,174 +247,6 @@ namespace Create_order
             {
                 string JsonFile = File.ReadAllText(jsonPath);
                 tmpData = JsonConvert.DeserializeObject <PayChannel_Price_Config>(JsonFile);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-    }
-
-    public class Data_PayChannel_Price_Modify
-    {
-        public struct PayChannel_Price_Modify_Config
-        {
-            public List<PayChannel_Modify_All> PayChannel_Modify_All { get;set; }
-        }
-
-        public struct PayChannel_Modify_All
-        {
-            public List<string> PayChannel_APPS {  get;set; }
-            public List<PayChannel_Country> PayChannel_Country {  get;set; }
-        }
-
-        public struct PayChannel_Country
-        {
-            public string Country_Name { get;set; }
-            public string Country_Name_CN { get;set; }
-            public string Country_Code { get;set; }
-            public List<PayChannel_Info> PayChannel_Coin { get;set; }
-            public List<PayChannel_Info> PayChannel_Vip {  get;set; }
-        }
-
-        public struct PayChannel_Info
-        {
-            public int Channel_Id { get; set; }
-            public string Channel_Name { get; set; }
-            public double Price { get; set; }
-            public int Num { get; set; }
-            public int Sort { get; set; }
-            public int Is_Rate { get; set; }
-            public double Fixed_Price { get; set; }
-            public int is_discount { get; set; }
-        }
-
-        public static PayChannel_Price_Modify_Config PayChannel_Price_Modify_Data()
-        {
-            PayChannel_Price_Modify_Config tmpData = new PayChannel_Price_Modify_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price_Modify.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<PayChannel_Price_Modify_Config>(JsonFile);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-    }
-
-    //利用API修改当前渠道价格
-    public class Data_Change_Channel_Price
-    {
-        public struct Change_Channel_Price
-        {
-            public string Time { get; set;}
-            public string Version { get; set;}
-            public List<Change_Content> Change_Content { get; set;}
-        }
-
-        public struct Change_Content
-        {
-            public int ID {  get; set;}
-            public string App {  get; set;}
-            public string Country { get; set;}
-            public int Type { get; set; }
-            public int Num { get; set; }
-            public int Channel_id {  get; set; }
-            public double Price { get; set; }
-            public int Is_rate { get; set; }
-            public double Fixed_price { get; set; }
-            public int is_discount {  get; set; }
-        }
-
-        public static Change_Channel_Price Change_Channel_Price_Data()
-        {
-            Change_Channel_Price tmpData = new Change_Channel_Price();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Change_channel_price.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON发序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<Change_Channel_Price>(JsonFile);
-
-                Console.WriteLine(tmpData);
-            }
-            catch (FileNotFoundException)
-            {
-                Console.WriteLine("JSON文件未找到。");
-            }
-            catch (JsonException)
-            {
-                Console.WriteLine("JSON解析错误。");
-            }
-
-            return tmpData;
-        }
-    }
-
-    //修改幸运转盘次数以及充值钻石赠送物品
-    public class Data_Modify_TurnTable_Count
-    {
-        public struct Modify_TurnTable_Count_Config
-        {
-            public List<Modify_all> Modify_all_android { get; set; }
-            public List<Modify_all> Modify_all_apple { get; set; }
-        }
-        public struct Modify_all
-        {
-            public List<string> Modify_Apps { get; set; }
-            public List<Modify_TurnTable_Count_Coin> Modify_TurnTable_Count_Coin {  get; set; }
-            public List<Modify_TurnTable_Count_Vip> Modify_TurnTable_Count_Vip {  get; set; }
-        }
-
-        public struct Modify_TurnTable_Count_Coin
-        {
-            public double Price {  get; set; }
-            public int Coin_Count { get; set; }
-            public int TurnTable_Count { get; set; }
-            public int extra_item_id { get; set; }
-            public int extra_item_num { get; set; }
-        }
-
-        public struct Modify_TurnTable_Count_Vip
-        {
-            public double Price { get; set; }
-            public int Vip_Days { get; set; }
-            public int TurnTable_Count { get; set; }
-            public int extra_item_id { get; set; }
-            public int extra_item_num { get; set; }
-        }
-
-        public static Modify_TurnTable_Count_Config Modify_TurnTable_Count_Data()
-        {
-            Modify_TurnTable_Count_Config tmpData = new Modify_TurnTable_Count_Config();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Modify_TurnTable_Count.json");
-            Console.WriteLine(jsonPath);
-
-            //JSON发序列化
-            try
-            {
-                string JsonFile = File.ReadAllText(jsonPath);
-                tmpData = JsonConvert.DeserializeObject<Modify_TurnTable_Count_Config>(JsonFile);
             }
             catch (FileNotFoundException)
             {

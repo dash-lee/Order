@@ -7,26 +7,22 @@ using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
 using static Create_order.Data_Const;
-//using static Create_order.Data_Recharge;
 using static Create_order.Data_Country;
-using static Create_order.Data_Modify;
 using static Create_order.Data_PayChannel;
 using static Create_order.Data_PayChannel_Price;
-using static Create_order.Data_Modify_TurnTable_Count;
-//using static Create_order.Data_PayChannel_Price_Modify;
 
 namespace Create_order
 {
     internal static class Create
     {
-        public static void Hi_v3_pay_list(Const_Config const_config, Country_Config country_Config, Modify_Config modify_Config, Modify_TurnTable_Count_Config modify_TurnTable_Count_Config)
+        public static void Hi_v3_pay_list(Const_Config const_config, Country_Config country_Config)
         {
 
             //定义数据部分
-            List<List<string>> body = new List<List<string>>();
+            List<List<string>> body = new();
 
             //定义数据头
-            List<string> header = new List<string>()
+            List<string> header = new()
             {
                 "id",
                 "type",         //1为钻石；2为vip
@@ -56,15 +52,15 @@ namespace Create_order
             }
 
             int id;
-            int appNum = const_config.Apps.Count;
+            int? appNum = const_config.Apps.Count;
 
             //最外层的循环APP名称
             for (int index = 0; index < appNum; index++)
             {
-                string appNameTemp = const_config.Apps[index].AppName;
+                string? appNameTemp = const_config.Apps[index].AppName;
                 //id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;
 
-                id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;   //初始化ID起始位置
+                _ = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP;   //初始化ID起始位置
 
                 //在这里判断是否需要区分是区分IOS或者是安卓，如果是Ios则为1，如果是Android则为0
                 int match_country_count = 0;
@@ -82,16 +78,17 @@ namespace Create_order
                             //代表这里是苹果的应用
                             if (const_config.Apps[index].Is_IOS == 1)
                             {
-                                string appleID = "";
+                                string appleID;
 
                                 match_country_count++;
 
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
                                 for (int k = 0; k < countries[j].Coin_Pay_Detail_Apple.PayMethod_Price.Count; k++)
                                 {
-                                    List<string> data_detail_coin = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    List<string> data_detail_coin = new();      //定义新的数据，用于往body中添加数据
+
+                                    //获取AppleID
                                     appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count);
-                                    //bool isModifyCoin = false;
 
                                     //这里是默认的基础配置
                                     data_detail_coin.Add($"{id}");
@@ -101,10 +98,10 @@ namespace Create_order
                                     data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}");
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price}");
-                                    data_detail_coin.Add(isModifyCoin ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Status}");    //是否启用配置
                                     data_detail_coin.Add($"{k + 1}");    //排序
                                     data_detail_coin.Add(appleID); //苹果产品ID
-                                    data_detail_coin.Add(isModifyCoin ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Discount}");    //折扣
                                     data_detail_coin.Add($"{1}");    //是否是ios应用
 
                                     body.Add(data_detail_coin);
@@ -115,7 +112,7 @@ namespace Create_order
                             //代表的是这里是安卓的应用
                             else if (const_config.Apps[index].Is_IOS == 0)
                             {
-                                string GoogleID = "";
+                                string GoogleID;
 
                                 id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
                                 match_country_count++;
@@ -123,7 +120,7 @@ namespace Create_order
                                 //首先进行钻石配置的写入（这里检查的是钻石的配置）
                                 for (int k = 0; k < countries[j].Coin_Pay_Detail_Android.PayMethod_Price.Count; k++)
                                 {
-                                    List<string> data_detail_coin = new List<string>();      //定义新的数据，用于往body中添加数据
+                                    List<string> data_detail_coin = new();      //定义新的数据，用于往body中添加数据
                                     GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count);
 
                                     //这里是默认的基础配置
@@ -134,10 +131,10 @@ namespace Create_order
                                     data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count}");
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price}");
-                                    data_detail_coin.Add(isModifyCoin ? $"{status}" : $"{1}");    //是否启用配置
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Status}");    //是否启用配置
                                     data_detail_coin.Add($"{k + 1}");    //排序
                                     data_detail_coin.Add(GoogleID); //苹果产品ID
-                                    data_detail_coin.Add(isModifyCoin ? $"{discount}" : $"{0}");    //折扣
+                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Discount}");    //折扣
                                     data_detail_coin.Add($"{0}");    //是否是ios应用
 
                                     body.Add(data_detail_coin);
@@ -156,10 +153,10 @@ namespace Create_order
         public static void Hi_v3_pay_type(Const_Config const_config)
         {
             //定义数据部分
-            List<List<string>> body = new List<List<string>>();
+            List<List<string>> body = new();
 
             //定义数据头
-            List<string> header = new List<string>()
+            List<string> header = new()
             {
                 "id",
                 "name",
@@ -172,11 +169,12 @@ namespace Create_order
 
             for (int i = 0; i < const_config.PayMethod_Info.Count; i++)
             {
-                List<string> data_detail = new List<string>();
-
-                data_detail.Add($"{const_config.PayMethod_Info[i].Pay_Type_ID}");
-                data_detail.Add(const_config.PayMethod_Info[i].PaymentMethod_Name);
-                data_detail.Add(const_config.PayMethod_Info[i].PaymentMethod_Logo);
+                List<string> data_detail = new()
+                {
+                    $"{const_config.PayMethod_Info[i].Pay_Type_ID}",
+                    const_config.PayMethod_Info[i].PaymentMethod_Name,
+                    const_config.PayMethod_Info[i].PaymentMethod_Logo
+                };
 
                 body.Add(data_detail);
             }
@@ -188,10 +186,10 @@ namespace Create_order
         public static void Hi_v3_pay_channel(Const_Config const_config, PayChannel_Config payChannel_Config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
-            List<List<string>> body = new List<List<string>>();
+            List<List<string>> body = new();
 
             //定义数据头
-            List<string> header = new List<string>()
+            List<string> header = new()
             {
                 "id",
                 "pay_type_id",
@@ -212,19 +210,20 @@ namespace Create_order
 
             for (int i = 0; i < payChannel_Config.PayChannel_Uniques.Count; i++)
             {
-                List<string> data_detail = new List<string>();
-
-                data_detail.Add($"{id}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Pay_type_id}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Channel_code}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].State}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Channel_name}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Channel_web}");
-                data_detail.Add($"{payChannel_Config.PayChannel_Uniques[i].Logo}");
-                //添加所用到的APP
-                data_detail.Add(Tools.CombineApp(const_config, payChannel_Price_Config, id));
-                //添加所用到的国家
-                data_detail.Add(Tools.CombineCountry(payChannel_Price_Config,id));
+                List<string> data_detail = new()
+                {
+                    $"{id}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].Pay_type_id}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].Channel_code}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].State}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].Channel_name}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].Channel_web}",
+                    $"{payChannel_Config.PayChannel_Uniques[i].Logo}",
+                    //添加所用到的APP
+                    Tools.CombineApp(const_config, id),
+                    //添加所用到的国家
+                    Tools.CombineCountry(payChannel_Price_Config, id)
+                };
 
                 body.Add(data_detail);
                 id++;
@@ -237,10 +236,10 @@ namespace Create_order
         public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
-            List<List<string>> body = new List<List<string>>();
+            List<List<string>> body = new();
 
             //定义数据头
-            List<string> header = new List<string>()
+            List<string> header = new()
             {
                 "id",
                 "app",
@@ -264,7 +263,7 @@ namespace Create_order
             for (int index = 0; index < const_config.Apps.Count; index++)
             {
                 id = ModuleSupport.PAYCHANNEL_PRICE_BEGIN_ID + index * ModuleSupport.PAYCHANNEL_PRICE_APP_GAP_ID;
-                string appName = const_config.Apps[index].AppName;
+                string? appName = const_config.Apps[index].AppName;
 
                 //遍历所有的国家
                 for (int i = 0; i < payChannel_Price_Config.PayChannel_Country.Count; i++)
@@ -272,21 +271,22 @@ namespace Create_order
                     //首先遍历钻石的数据
                     for (int j = 0; j < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin.Count; j++)
                     {
-                        List<string> data_detail_coin = new List<string>();
-
-                        //检测是否有需要修改is_discount的钻石选项
-                        //需要对应国家和APP，还有钻石的数量以及价格
-                        data_detail_coin.Add($"{id}");
-                        data_detail_coin.Add(appName);
-                        data_detail_coin.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
-                        data_detail_coin.Add($"{1}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Num}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Channel_Id}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Sort}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Price}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Is_Rate}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Fixed_Price}");
-                        data_detail_coin.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].is_discount}");
+                        List<string> data_detail_coin = new()
+                        {
+                            //检测是否有需要修改is_discount的钻石选项
+                            //需要对应国家和APP，还有钻石的数量以及价格
+                            $"{id}",
+                            appName,
+                            payChannel_Price_Config.PayChannel_Country[i].Country_Code,
+                            $"{1}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Num}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Channel_Id}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Sort}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Price}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Is_Rate}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Fixed_Price}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Coin[j].Is_discount}"
+                        };
 
                         body.Add(data_detail_coin);
                         id++;
@@ -294,22 +294,23 @@ namespace Create_order
 
                     for (int k = 0; k < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip.Count; k++)
                     {
-                        List<string> data_detail_vip = new List<string>();
+                        List<string> data_detail_vip = new()
+                        {
+                            //检测是否有需要修改is_discount的钻石选项
+                            //需要对应国家和APP，还有VIP的天数以及价格
 
-                        //检测是否有需要修改is_discount的钻石选项
-                        //需要对应国家和APP，还有VIP的天数以及价格
-
-                        data_detail_vip.Add($"{id}");
-                        data_detail_vip.Add(appName);
-                        data_detail_vip.Add(payChannel_Price_Config.PayChannel_Country[i].Country_Code);
-                        data_detail_vip.Add($"{2}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Num}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Channel_Id}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Sort}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Price}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_Rate}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Fixed_Price}");
-                        data_detail_vip.Add($"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].is_discount}");
+                            $"{id}",
+                            appName,
+                            payChannel_Price_Config.PayChannel_Country[i].Country_Code,
+                            $"{2}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Num}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Channel_Id}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Sort}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Price}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_Rate}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Fixed_Price}",
+                            $"{payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Is_discount}"
+                        };
 
                         body.Add(data_detail_vip);
                         id++;

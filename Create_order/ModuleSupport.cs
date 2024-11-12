@@ -3,7 +3,7 @@
     internal static class ModuleSupport
     {
         //需要改变格式列参数（从1开始）
-        public static Dictionary<string, List<int>> modifyFormat = new Dictionary<string, List<int>>()
+        public static Dictionary<string, List<int>> modifyFormat = new()
         {
             {"hi_v3_pay_type.xlsx",new(){1} },
             {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22} },
@@ -29,11 +29,11 @@
         public const int PAYCHANNEL_PRICE_MODIFY_BEGIN_ID = 1;
         public const int PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID = 5000;
 
-        public static List<List<string>> Body_PayList { get; set; }
-        public static List<List<string>> Body_PayChannel_Price { get; set; }
+        public static List<List<string>>? Body_PayList { get; set; }
+        public static List<List<string>>? Body_PayChannel_Price { get; set; }
 
         //新建通话券 枚举
-        public static Dictionary<string, int> ItemChatID = new Dictionary<string, int>()
+        public static Dictionary<string, int> ItemChatID = new()
         {
             { "Melon" , 2 },
             { "Tingly" , 5 },

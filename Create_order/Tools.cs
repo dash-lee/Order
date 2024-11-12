@@ -3,7 +3,6 @@ using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 using OfficeOpenXml;
 using System.Security.Cryptography;
-using static Create_order.Data_Change_Channel_Price;
 using static Create_order.Data_Const;
 using static Create_order.Data_PayChannel_Price;
 
@@ -20,94 +19,92 @@ namespace Create_order
             string excelFilePath = filePath;
 
 
-            using (ExcelPackage excelPackage = new ExcelPackage())
+            using ExcelPackage excelPackage = new();
+            ExcelWorksheet sht1 = excelPackage.Workbook.Worksheets.Add("sheet1");
+
+            if (header == null)
             {
-                ExcelWorksheet sht1 = excelPackage.Workbook.Worksheets.Add("sheet1");
+                Console.WriteLine("表头数据为空！");
+                return;
+            }
 
-                if (header == null)
+            //写入表头
+            for (int i = 1; i <= header.Count; i++)
+            {
+                sht1.Cells[1, i].Value = header[i - 1];
+            }
+
+            //写入表头格式
+            sht1.Row(1).Style.Font.Bold = true;
+
+            //初始化行数计数器
+            int rowIndex = 2;
+            for (int j = 1; j <= data.Count; j++)
+            {
+                for (int k = 1; k <= data[j - 1].Count; k++)
                 {
-                    Console.WriteLine("表头数据为空！");
-                    return;
+                    sht1.Cells[rowIndex, k].Value = data[j - 1][k - 1];
                 }
+                rowIndex++;
+            }
 
-                //写入表头
-                for (int i = 1; i <= header.Count; i++)
+            //检查当前文档需要改变格式的列数
+            List<int> modifyColumns = ModifyColumns(filePath);
+
+            if (modifyColumns != null)
+            {
+                //遍历这个列数
+                for (int k = 0; k < modifyColumns.Count; k++)
                 {
-                    sht1.Cells[1, i].Value = header[i - 1];
-                }
-
-                //写入表头格式
-                sht1.Row(1).Style.Font.Bold = true;
-
-                //初始化行数计数器
-                int rowIndex = 2;
-                for (int j = 1; j <= data.Count; j++)
-                {
-                    for (int k = 1; k <= data[j - 1].Count; k++)
+                    for (int a = 2; a <= rowIndex; a++)
                     {
-                        sht1.Cells[rowIndex, k].Value = data[j - 1][k - 1];
-                    }
-                    rowIndex++;
-                }
-
-                //检查当前文档需要改变格式的列数
-                List<int> modifyColumns = ModifyColumns(filePath);
-
-                if (modifyColumns != null)
-                {
-                    //遍历这个列数
-                    for (int k = 0; k < modifyColumns.Count; k++)
-                    {
-                        for (int a = 2; a <= rowIndex; a++)
+                        ExcelRange cell = sht1.Cells[a, modifyColumns[k]];
+                        if (cell.Value != null && cell.Value.ToString().Contains('.'))
                         {
-                            ExcelRange cell = sht1.Cells[a, modifyColumns[k]];
-                            if (cell.Value != null && cell.Value.ToString().Contains("."))
+                            if (double.TryParse(cell.Value.ToString(), out double numericValue))
                             {
-                                if (double.TryParse(cell.Value.ToString(), out double numericValue))
-                                {
-                                    cell.Value = numericValue;
-                                    cell.Style.Numberformat.Format = "0.00";
-                                }
+                                cell.Value = numericValue;
+                                cell.Style.Numberformat.Format = "0.00";
                             }
-                            else if (cell.Value != null)
+                        }
+                        else if (cell.Value != null)
+                        {
+                            if (int.TryParse(cell.Value.ToString(), out int numericValue))
                             {
-                                if (int.TryParse(cell.Value.ToString(), out int numericValue))
-                                {
-                                    cell.Value = numericValue;
-                                    cell.Style.Numberformat.Format = "0";
-                                }
+                                cell.Value = numericValue;
+                                cell.Style.Numberformat.Format = "0";
                             }
-                            else
-                            {
-                                continue;
-                            }
+                        }
+                        else
+                        {
+                            continue;
                         }
                     }
                 }
-
-                //检查是否需要保存body部分
-                string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-                if (filePath == desktopPath + @"\config_all\hi_v3_pay_list.xlsx")
-                {
-                    ModuleSupport.Body_PayList = data;
-                }
-                else if(filePath == desktopPath + @"\config_all\hi_v3_channel_price.xlsx")
-                {
-                    ModuleSupport.Body_PayChannel_Price = data;
-                }
-
-                //检查Excel表是否存在
-                if (File.Exists(excelFilePath))
-                {
-                    Console.WriteLine("当前excel文档已存在，文件删除，重新生成");
-                    File.Delete(excelFilePath);
-                }
-
-                //写入Excel
-                Console.WriteLine("开始生成excel文档");
-                FileInfo fileInfo = new FileInfo(excelFilePath);
-                excelPackage.SaveAs(fileInfo);
             }
+
+            //检查是否需要保存body部分
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            if (filePath == desktopPath + @"\config_all\hi_v3_pay_list.xlsx")
+            {
+                ModuleSupport.Body_PayList = data;
+            }
+            else if (filePath == desktopPath + @"\config_all\hi_v3_channel_price.xlsx")
+            {
+                ModuleSupport.Body_PayChannel_Price = data;
+            }
+
+            //检查Excel表是否存在
+            if (File.Exists(excelFilePath))
+            {
+                Console.WriteLine("当前excel文档已存在，文件删除，重新生成");
+                File.Delete(excelFilePath);
+            }
+
+            //写入Excel
+            Console.WriteLine("开始生成excel文档");
+            FileInfo fileInfo = new(excelFilePath);
+            excelPackage.SaveAs(fileInfo);
         }
 
         //获取需要修改的Excel的列数
@@ -222,7 +219,7 @@ namespace Create_order
             {
                 if (i == channels.Count - 1)
                 {
-                    channelId = channelId + channels[i];
+                    channelId += channels[i];
                 }
                 else
                 {
@@ -277,7 +274,7 @@ namespace Create_order
         }
 
         //这里返回的是channelID，也就是查看这个channelID哪些APP用到了
-        public static string CombineApp(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config, int id)
+        public static string CombineApp(Const_Config const_config, int id)
         {
             string apps = "";
 
@@ -370,32 +367,6 @@ namespace Create_order
             return countries;
         }
 
-        //使用修改的更新
-        public static void ChangeChannelPrice(Change_Channel_Price change_Channel_Price)
-        {
-            string key = ModuleSupport.KEY;
-
-            if (change_Channel_Price.Change_Content.Count == 0)
-            {
-                Console.WriteLine("当前没有修改的值！");
-                return;
-            }
-            else
-            {
-                for (int i = 0; i < change_Channel_Price.Change_Content.Count; i++)
-                {
-                    var settings = new JsonSerializerSettings
-                    {
-                        NullValueHandling = NullValueHandling.Ignore,
-                        ContractResolver = new DefaultContractResolver(),
-                        DefaultValueHandling = DefaultValueHandling.Ignore,
-                    };
-
-                    string data = JsonConvert.SerializeObject(change_Channel_Price.Change_Content[i], settings);
-                }
-            }
-        }
-
         //加密过程
         public static string EncryptStringToEcb(string data,byte[] key)
         {
@@ -412,19 +383,16 @@ namespace Create_order
                 aesAlg.Mode = CipherMode.ECB; // 使用ECB模式，这里不推荐
                 aesAlg.Padding = PaddingMode.PKCS7; // 使用PKCS7填充
 
-                ICryptoTransform encryptor = aesAlg.CreateEncryptor(aesAlg.Key, null); // 注意这里IV为null
 
-                using (MemoryStream msEncrypt = new MemoryStream())
+                using MemoryStream msEncrypt = new();
+
+                using ICryptoTransform encryptor = aesAlg.CreateEncryptor(aesAlg.Key, null); // 注意这里IV为null
+                using CryptoStream csEncrypt = new(msEncrypt, encryptor, CryptoStreamMode.Write);
+                using (StreamWriter swEncrypt = new(csEncrypt))
                 {
-                    using (CryptoStream csEncrypt = new CryptoStream(msEncrypt, encryptor, CryptoStreamMode.Write))
-                    {
-                        using (StreamWriter swEncrypt = new StreamWriter(csEncrypt))
-                        {
-                            swEncrypt.Write(data);
-                        }
-                        encrypted = msEncrypt.ToArray();
-                    }
+                    swEncrypt.Write(data);
                 }
+                encrypted = msEncrypt.ToArray();
             }
 
             return Convert.ToBase64String(encrypted);
@@ -440,59 +408,17 @@ namespace Create_order
 
             byte[] cipherData = Convert.FromBase64String(cipherText);
 
-            using (Aes aesAlg = Aes.Create())
-            {
-                aesAlg.Key = Key;
-                aesAlg.Mode = CipherMode.ECB; // 使用ECB模式，这里不推荐
-                aesAlg.Padding = PaddingMode.PKCS7; // 使用PKCS7填充
+            using Aes aesAlg = Aes.Create();
+            aesAlg.Key = Key;
+            aesAlg.Mode = CipherMode.ECB; // 使用ECB模式，这里不推荐
+            aesAlg.Padding = PaddingMode.PKCS7; // 使用PKCS7填充
 
-                ICryptoTransform decryptor = aesAlg.CreateDecryptor(aesAlg.Key, null); // 注意这里IV为null
+            ICryptoTransform decryptor = aesAlg.CreateDecryptor(aesAlg.Key, null); // 注意这里IV为null
 
-                using (MemoryStream msDecrypt = new MemoryStream(cipherData))
-                {
-                    using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read))
-                    {
-                        using (StreamReader srDecrypt = new StreamReader(csDecrypt))
-                        {
-                            return srDecrypt.ReadToEnd();
-                        }
-                    }
-                }
-            }
+            using MemoryStream msDecrypt = new(cipherData);
+            using CryptoStream csDecrypt = new(msDecrypt, decryptor, CryptoStreamMode.Read);
+            using StreamReader srDecrypt = new(csDecrypt);
+            return srDecrypt.ReadToEnd();
         }
-
-        //修改Country.json的数据
-        //public static void ChangeCountryData()
-        //{
-        //    string jsonFilePath = ModuleSupport.jsonCreateFilesPath + @"Country.json"; // 替换为你的JSON文件路径
-        //    string jsonString = File.ReadAllText(jsonFilePath); // 读取JSON文件内容
-
-        //    // 解析JSON字符串为JObject
-        //    JObject jsonObject = JObject.Parse(jsonString);
-
-        //    JArray countryArray = (JArray)jsonObject["Country"];
-
-        //    foreach (JObject country in countryArray)
-        //    {
-        //        JObject diamondObj = (JObject)country["Coin_Pay_Detail"];
-        //        JObject vipObj = (JObject)country["Vip_Pay_Detail"];
-
-        //        JArray payDiamondPrice = (JArray)diamondObj["PayMethod_Price"];
-        //        JArray payVipPrice = (JArray)vipObj["PayMethod_Price"];
-
-        //        foreach (JObject payDiamondPriceItem in payDiamondPrice)
-        //        {
-        //            JToken priceToken = payDiamondPriceItem["Price"];
-        //            if (priceToken == null && priceToken.Type == JTokenType.Float || priceToken.Type == JTokenType.Integer)
-        //            {
-        //                double priceValue = (double)priceToken;
-        //                if (priceValue == 1.69)
-        //                {
-        //                    priceValue == 2.28;
-        //                }
-        //            }
-        //        }
-        //    }
-        //}
     }
 }

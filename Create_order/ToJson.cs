@@ -39,7 +39,7 @@ namespace Create_order
         }
 
         //定义excel数据列表
-        static List<List<string>> excelData = new List<List<string>>();
+        static readonly List<List<string>> excelData = new();
 
         //读取当前excel文档方法
         private static void CheckExcel()
@@ -47,36 +47,34 @@ namespace Create_order
             string excelPath = Path.Combine(ModuleSupport.excelFilesPath, @"channel_ienh.xlsx");
 
             // 使用FileInfo对象来打开Excel文件
-            FileInfo excelFile = new FileInfo(excelPath);
+            FileInfo excelFile = new(excelPath);
 
-            using (ExcelPackage package = new ExcelPackage(excelFile))
+            using ExcelPackage package = new(excelFile);
+            ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
+
+            int rowCount = worksheet.Dimension.End.Row;
+            int colCount = worksheet.Dimension.End.Column;
+
+            for (int row = 2; row <= rowCount; row++)
             {
-                ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
+                List<string> tmpList = new();
 
-                int rowCount = worksheet.Dimension.End.Row;
-                int colCount = worksheet.Dimension.End.Column;
-
-                for (int row = 2; row <= rowCount; row++)
+                for (int col = 1; col <= colCount; col++)
                 {
-                    List<string> tmpList = new List<string>();
-                    
-                    for (int col = 1; col <= colCount; col++)
-                    {
-                        // 获取单元格的值
-                        object cellValue = worksheet.Cells[row, col].Value;
+                    // 获取单元格的值
+                    object cellValue = worksheet.Cells[row, col].Value;
 
-                        // 如果单元格有值，则打印它
-                        if (cellValue != null)
-                        {
-                            tmpList.Add(cellValue.ToString());
-                        }
-                        else
-                        {
-                            tmpList.Add("");
-                        }
+                    // 如果单元格有值，则打印它
+                    if (cellValue != null)
+                    {
+                        tmpList.Add(cellValue.ToString());
                     }
-                    excelData.Add(tmpList);
+                    else
+                    {
+                        tmpList.Add("");
+                    }
                 }
+                excelData.Add(tmpList);
             }
         }
 
@@ -85,7 +83,7 @@ namespace Create_order
         {
             CheckExcel();
 
-            List<PayChannel_Unique> payChannel_Uniques = new List<PayChannel_Unique>();
+            List<PayChannel_Unique> payChannel_Uniques = new();
 
             for (int i = 0; i < excelData.Count; i++)
             {
@@ -113,7 +111,7 @@ namespace Create_order
                         stateTmp = -1;
                     }
 
-                    PayChannel_Unique payChannel_Unique = new PayChannel_Unique()
+                    PayChannel_Unique payChannel_Unique = new()
                     {
                         Id = idTmp,
                         Pay_type_id = Tools.GetPayChannelID(excelData[i][1], const_config),
@@ -134,7 +132,7 @@ namespace Create_order
                 }
             }
 
-            PayChannel_Unique_List payChannel_Unique_List = new PayChannel_Unique_List()
+            PayChannel_Unique_List payChannel_Unique_List = new()
             {
                 Info = "这里是记录唯一的支付渠道的列表",
                 PayChannel_Uniques = payChannel_Uniques
@@ -155,7 +153,7 @@ namespace Create_order
                 File.Delete(jsonPath);
             }
 
-            using (StreamWriter writer = new StreamWriter(jsonPath, true, Encoding.UTF8))
+            using (StreamWriter writer = new(jsonPath, true, Encoding.UTF8))
             {
                 writer.Write(json);
             }
@@ -184,7 +182,6 @@ namespace Create_order
             public string Country_Name_CN { get; set;}
             public string Country_Code { get; set;}
             public List<PayChannel_Info> PayChannel_Coin { get;set; }
-            public List<PayChannel_Info> PayChannel_Vip { get; set; }
         }
 
         private struct PayChannel_Info
@@ -196,11 +193,11 @@ namespace Create_order
             public int?  Sort { get; set; }
             public int? Is_Rate { get; set; }
             public double? Fixed_Price { get; set; }
-            public int? is_discount { get; set; }
+            public int? Is_discount { get; set; }
         }
 
         //定义excel数据列表
-        static List<List<string>> excelData = new List<List<string>>();
+        static readonly List<List<string>> excelData = new();
 
         //读取当前excel文档方法
         private static void CheckExcel()
@@ -208,36 +205,34 @@ namespace Create_order
             string excelPath = Path.Combine(ModuleSupport.excelFilesPath, @"channel_price.xlsx");
 
             // 使用FileInfo对象来打开Excel文件
-            FileInfo excelFile = new FileInfo(excelPath);
+            FileInfo excelFile = new(excelPath);
 
-            using (ExcelPackage package = new ExcelPackage(excelFile))
+            using ExcelPackage package = new(excelFile);
+            ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
+
+            int rowCount = worksheet.Dimension.End.Row;
+            int colCount = worksheet.Dimension.End.Column;
+
+            for (int row = 2; row <= rowCount; row++)
             {
-                ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
+                List<string> tmpList = new();
 
-                int rowCount = worksheet.Dimension.End.Row;
-                int colCount = worksheet.Dimension.End.Column;
-
-                for (int row = 2; row <= rowCount; row++)
+                for (int col = 1; col <= colCount; col++)
                 {
-                    List<string> tmpList = new List<string>();
+                    // 获取单元格的值
+                    object cellValue = worksheet.Cells[row, col].Value;
 
-                    for (int col = 1; col <= colCount; col++)
+                    // 如果单元格有值，则打印它
+                    if (cellValue != null)
                     {
-                        // 获取单元格的值
-                        object cellValue = worksheet.Cells[row, col].Value;
-
-                        // 如果单元格有值，则打印它
-                        if (cellValue != null)
-                        {
-                            tmpList.Add(cellValue.ToString());
-                        }
-                        else
-                        {
-                            tmpList.Add("");
-                        }
+                        tmpList.Add(cellValue.ToString());
                     }
-                    excelData.Add(tmpList);
+                    else
+                    {
+                        tmpList.Add("");
+                    }
                 }
+                excelData.Add(tmpList);
             }
         }
 
@@ -247,9 +242,9 @@ namespace Create_order
 
             string preCode,nowCode;
             int startIndex = 0;
-            int endIndex = excelData.Count - 1;
+            _ = excelData.Count - 1;
 
-            List<PayChannel_Country> payChannel_Countries = new List<PayChannel_Country>();
+            List<PayChannel_Country> payChannel_Countries = new();
 
             for (int i = 0; i < excelData.Count; i++)
             {
@@ -260,7 +255,8 @@ namespace Create_order
 
                 if (nowCode != preCode || i == excelData.Count - 1)     //说明此时的国家已经切换了
                 {
-                    if (i == excelData.Count -1)
+                    int endIndex;
+                    if (i == excelData.Count - 1)
                     {
                         endIndex = i + 1;
                     }
@@ -269,7 +265,7 @@ namespace Create_order
                         endIndex = i;
                     }
 
-                    List<PayChannel_Info> PayChannel_Coins = new List<PayChannel_Info>();
+                    List<PayChannel_Info> PayChannel_Coins = new();
 
                     for (int j = startIndex; j < endIndex; j++)
                     {
@@ -316,7 +312,7 @@ namespace Create_order
 
                         if (excelData[j][4] == "1") //钻石orVIP
                         {
-                            PayChannel_Info payMethod_Info = new PayChannel_Info()
+                            PayChannel_Info payMethod_Info = new()
                             {
                                 Channel_Id = intChannelId,
                                 Channel_Name = excelData[j][12],
@@ -325,7 +321,7 @@ namespace Create_order
                                 Sort = intSort,
                                 Is_Rate = intIsRate,
                                 Fixed_Price = doubleFixedPrice,
-                                is_discount = is_discount
+                                Is_discount = is_discount
                             };
 
                             PayChannel_Coins.Add(payMethod_Info);
@@ -336,7 +332,7 @@ namespace Create_order
                         }
                     }
 
-                    PayChannel_Country PayChannel_Country = new PayChannel_Country()
+                    PayChannel_Country PayChannel_Country = new()
                     {
                         Country_Name = excelData[startIndex][2],
                         Country_Name_CN = excelData[startIndex][3],
@@ -350,7 +346,7 @@ namespace Create_order
                 }
             }
 
-            PayChannel_Price_List payChannel_Price_List = new PayChannel_Price_List()
+            PayChannel_Price_List payChannel_Price_List = new()
             {
                 Info = "这里是记录了所有的固定价格的渠道名称",
                 PayChannel_Country = payChannel_Countries
@@ -371,7 +367,7 @@ namespace Create_order
                 File.Delete(jsonPath);
             }
 
-            using (StreamWriter writer = new StreamWriter(jsonPath, true, Encoding.UTF8))
+            using (StreamWriter writer = new(jsonPath, true, Encoding.UTF8))
             {
                 writer.Write(json);
             }
