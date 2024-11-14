@@ -71,42 +71,42 @@
             "Coin_Google_ID": [
                 {
                     "Price": 1.99,
-                    "Coin_Count": 170,
+                    "Coin_Count": 13600,
                     "Google_Price_ID": "yippi_g_diamond_1"
                 },
                 {
                     "Price": 3.99,
-                    "Coin_Count": 340,
+                    "Coin_Count": 27200,
                     "Google_Price_ID": "yippi_g_diamond_2"
                 },
                 {
                     "Price": 6.99,
-                    "Coin_Count": 595,
+                    "Coin_Count": 47600,
                     "Google_Price_ID": "yippi_g_diamond_3"
                 },
                 {
                     "Price": 19.99,
-                    "Coin_Count": 1700,
+                    "Coin_Count": 136000,
                     "Google_Price_ID": "yippi_g_diamond_4"
                 },
                 {
                     "Price": 49.99,
-                    "Coin_Count": 4250,
+                    "Coin_Count": 340000,
                     "Google_Price_ID": "yippi_g_diamond_5"
                 },
                 {
                     "Price": 99.99,
-                    "Coin_Count": 8500,
+                    "Coin_Count": 680000,
                     "Google_Price_ID": "yippi_g_diamond_6"
                 },
                 {
                     "Price": 149.99,
-                    "Coin_Count": 12780,
+                    "Coin_Count": 1022400,
                     "Google_Price_ID": "yippi_g_diamond_7"
                 },
                 {
                     "Price": 199.99,
-                    "Coin_Count": 17000,
+                    "Coin_Count": 1360000,
                     "Google_Price_ID": "yippi_g_diamond_8"
                 }
             ]
@@ -118,42 +118,42 @@
             "Coin_Apple_ID": [
                 {
                     "Price": 3.09,
-                    "Coin_Count": 216,
+                    "Coin_Count": 17280,
                     "Apple_Price_ID": "yippi_a_diamond_1"
                 },
                 {
                     "Price": 7.19,
-                    "Coin_Count": 504,
+                    "Coin_Count": 40320,
                     "Apple_Price_ID": "yippi_a_diamond_2"
                 },
                 {
                     "Price": 11.49,
-                    "Coin_Count": 805,
+                    "Coin_Count": 64400,
                     "Apple_Price_ID": "yippi_a_diamond_3"
                 },
                 {
                     "Price": 28.95,
-                    "Coin_Count": 2030,
+                    "Coin_Count": 162400,
                     "Apple_Price_ID": "yippi_a_diamond_4"
                 },
                 {
                     "Price": 57.99,
-                    "Coin_Count": 4060,
+                    "Coin_Count": 324800,
                     "Apple_Price_ID": "yippi_a_diamond_5"
                 },
                 {
                     "Price": 144.99,
-                    "Coin_Count": 10160,
+                    "Coin_Count": 812800,
                     "Apple_Price_ID": "yippi_a_diamond_6"
                 },
                 {
                     "Price": 200.00,
-                    "Coin_Count": 14100,
+                    "Coin_Count": 1128000,
                     "Apple_Price_ID": "yippi_a_diamond_7"
                 },
                 {
                     "Price": 289,
-                    "Coin_Count": 20300,
+                    "Coin_Count": 1624000,
                     "Apple_Price_ID": "yippi_a_diamond_8"
                 }
             ]
