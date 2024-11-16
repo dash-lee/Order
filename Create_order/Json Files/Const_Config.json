@@ -71,42 +71,42 @@
             "Coin_Google_ID": [
                 {
                     "Price": 1.99,
-                    "Coin_Count": 13600,
+                    "Coin_Count": 15920,
                     "Google_Price_ID": "yippi_g_diamond_1"
                 },
                 {
                     "Price": 3.99,
-                    "Coin_Count": 27200,
+                    "Coin_Count": 31920,
                     "Google_Price_ID": "yippi_g_diamond_2"
                 },
                 {
                     "Price": 6.99,
-                    "Coin_Count": 47600,
+                    "Coin_Count": 55920,
                     "Google_Price_ID": "yippi_g_diamond_3"
                 },
                 {
                     "Price": 19.99,
-                    "Coin_Count": 136000,
+                    "Coin_Count": 159920,
                     "Google_Price_ID": "yippi_g_diamond_4"
                 },
                 {
                     "Price": 49.99,
-                    "Coin_Count": 340000,
+                    "Coin_Count": 399920,
                     "Google_Price_ID": "yippi_g_diamond_5"
                 },
                 {
                     "Price": 99.99,
-                    "Coin_Count": 680000,
+                    "Coin_Count": 799920,
                     "Google_Price_ID": "yippi_g_diamond_6"
                 },
                 {
                     "Price": 149.99,
-                    "Coin_Count": 1022400,
+                    "Coin_Count": 1199920,
                     "Google_Price_ID": "yippi_g_diamond_7"
                 },
                 {
                     "Price": 199.99,
-                    "Coin_Count": 1360000,
+                    "Coin_Count": 1599920,
                     "Google_Price_ID": "yippi_g_diamond_8"
                 }
             ]
@@ -118,49 +118,49 @@
             "Coin_Apple_ID": [
                 {
                     "Price": 3.09,
-                    "Coin_Count": 17280,
+                    "Coin_Count": 17310,
                     "Apple_Price_ID": "yippi_a_diamond_1"
                 },
                 {
                     "Price": 7.19,
-                    "Coin_Count": 40320,
+                    "Coin_Count": 40270,
                     "Apple_Price_ID": "yippi_a_diamond_2"
                 },
                 {
                     "Price": 11.49,
-                    "Coin_Count": 64400,
+                    "Coin_Count": 64350,
                     "Apple_Price_ID": "yippi_a_diamond_3"
                 },
                 {
                     "Price": 28.95,
-                    "Coin_Count": 162400,
+                    "Coin_Count": 162120,
                     "Apple_Price_ID": "yippi_a_diamond_4"
                 },
                 {
                     "Price": 57.99,
-                    "Coin_Count": 324800,
+                    "Coin_Count": 324750,
                     "Apple_Price_ID": "yippi_a_diamond_5"
                 },
                 {
                     "Price": 144.99,
-                    "Coin_Count": 812800,
+                    "Coin_Count": 811950,
                     "Apple_Price_ID": "yippi_a_diamond_6"
                 },
                 {
                     "Price": 200.00,
-                    "Coin_Count": 1128000,
+                    "Coin_Count": 1120000,
                     "Apple_Price_ID": "yippi_a_diamond_7"
                 },
                 {
                     "Price": 289,
-                    "Coin_Count": 1624000,
+                    "Coin_Count": 1618400,
                     "Apple_Price_ID": "yippi_a_diamond_8"
                 }
             ]
         }
     ],
 
-    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax" ,"Span_Cash"],
+    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax", "SpanCash" ],
     "PayMethod_Info": [
         {
             "Pay_Type_ID": 1,
@@ -182,7 +182,7 @@
         },
         {
             "Pay_Type_ID": 4,
-            "PaymentMethod_Name": "Span_Cash",
+            "PaymentMethod_Name": "SpanCash",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 4
         }

@@ -194,6 +194,7 @@ namespace Create_order
             public int? Is_Rate { get; set; }
             public double? Fixed_Price { get; set; }
             public int? Is_discount { get; set; }
+            public int? Is_ios { get; set; }
         }
 
         //定义excel数据列表
@@ -202,7 +203,15 @@ namespace Create_order
         //读取当前excel文档方法
         private static void CheckExcel()
         {
-            string excelPath = Path.Combine(ModuleSupport.excelFilesPath, @"channel_price.xlsx");
+            string excelPath;
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                excelPath = Path.Combine(ModuleSupport.excelFilesPath, @"channel_price_test.xlsx");
+            }
+            else
+            {
+                excelPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "channel_price.xlsx");
+            }
 
             // 使用FileInfo对象来打开Excel文件
             FileInfo excelFile = new(excelPath);
@@ -309,6 +318,11 @@ namespace Create_order
                         {
                             is_discount = intValue_5;
                         }
+                        int is_ios = -1;
+                        if (int.TryParse(excelData[j][13], out int intValue_6))
+                        {
+                            is_ios = intValue_6;
+                        }
 
                         if (excelData[j][4] == "1") //钻石orVIP
                         {
@@ -321,7 +335,8 @@ namespace Create_order
                                 Sort = intSort,
                                 Is_Rate = intIsRate,
                                 Fixed_Price = doubleFixedPrice,
-                                Is_discount = is_discount
+                                Is_discount = is_discount,
+                                Is_ios = is_ios
                             };
 
                             PayChannel_Coins.Add(payMethod_Info);
@@ -352,8 +367,16 @@ namespace Create_order
                 PayChannel_Country = payChannel_Countries
             };
 
-            string jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price.json");
-
+            string jsonPath;
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price.json");
+            }
+            else
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price_Test.json");
+            }
+            
             //在进行序列化时，需要对编译器进行一定的调整
             string json = JsonSerializer.Serialize(payChannel_Price_List, new JsonSerializerOptions
             {

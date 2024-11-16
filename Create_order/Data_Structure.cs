@@ -221,7 +221,6 @@ namespace Create_order
             public string Country_Name_CN { get; set; }
             public string Country_Code { get; set; }
             public List<PayChannel_Info> PayChannel_Coin { get; set; }
-            public List<PayChannel_Info> PayChannel_Vip { get; set; }
         }
 
         public struct PayChannel_Info
@@ -234,6 +233,7 @@ namespace Create_order
             public int Is_Rate { get; set; }
             public double Fixed_Price { get; set; }
             public int Is_discount {  get; set; }
+            public int Is_ios {  get; set; }
         }
 
         public static PayChannel_Price_Config PayChannel_Price_Data()

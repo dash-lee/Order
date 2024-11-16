@@ -327,16 +327,6 @@ namespace Create_order
             {
                 bool isExist = false;
 
-                //检查vip中是否有使用当前channel_id
-                for (int k = 0; k < payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip.Count; k++)
-                {
-                    if (channel_id == payChannel_Price_Config.PayChannel_Country[i].PayChannel_Vip[k].Channel_Id)
-                    {
-                        isExist = true;
-                        break;
-                    }
-                }
-
                 if (!isExist)
                 {
                     //检查钻石中是否有使用当前channel_id

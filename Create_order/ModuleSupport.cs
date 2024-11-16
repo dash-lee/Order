@@ -6,15 +6,15 @@
         public static Dictionary<string, List<int>> modifyFormat = new()
         {
             {"hi_v3_pay_type.xlsx",new(){1} },
-            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22} },
+            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,11,12} },
             {"hi_v3_pay_channel.xlsx",new(){1,2,4} },
             {"hi_v3_recharge_promotions.xlsx",new(){1,3,4} },
-            {"hi_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11} },
+            {"hi_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11,12} },
             {"hi_v3_channel_price_modify.xlsx",new(){1,4,5,6,7,8,9,10,11} }
         };
 
         //ID划分
-        public const int ITEM_APP_ID_GAP = 2000;    //每个APP中商品ID的间隔
+        public const int ITEM_APP_ID_GAP = 1500;    //每个APP中商品ID的间隔
         public const int ITEM_COUNTRY_ID_GAP = 20;
         public const int ITEM_BEGIN_ID = 1;     //开始的ID数
 
@@ -24,27 +24,13 @@
         public const int RECHARGE_APP_GAP_ID = 500;     //充值特惠的APP之间的ID间隔
 
         public const int PAYCHANNEL_PRICE_BEGIN_ID = 1;
-        public const int PAYCHANNEL_PRICE_APP_GAP_ID = 10000;
+        public const int PAYCHANNEL_PRICE_APP_GAP_ID = 6000;
 
         public const int PAYCHANNEL_PRICE_MODIFY_BEGIN_ID = 1;
         public const int PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID = 5000;
 
         public static List<List<string>>? Body_PayList { get; set; }
         public static List<List<string>>? Body_PayChannel_Price { get; set; }
-
-        //新建通话券 枚举
-        public static Dictionary<string, int> ItemChatID = new()
-        {
-            { "Melon" , 2 },
-            { "Tingly" , 5 },
-            { "Livvy" , 6},
-            { "Biffo" , 3 },
-            { "Tweep" , 7 },
-            { "Quizy" , 8 },
-            { "Riffy" , 9 },
-            { "Wixel", 15 },
-            { "Flinx", 28 }
-        };
 
         //项目配置文件JSON的根目录
         public static string jsonFilesPath = @"D:\Company\Create_order\Json Files\";
@@ -59,6 +45,9 @@
         //修改固定价格的API请求地址(测试服)
         public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";
         public static string KEY = "IBojRarkcKW2J525";
+
+        //开启测试服导出模式 ： TEST | PRODUCT
+        public static string EXPORT_MODE = "TEST";
 
     }
 }
