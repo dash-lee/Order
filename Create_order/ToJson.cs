@@ -210,7 +210,7 @@ namespace Create_order
             }
             else
             {
-                excelPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "channel_price.xlsx");
+                excelPath = Path.Combine(ModuleSupport.excelFilesPath, @"channel_price.xlsx");
             }
 
             // 使用FileInfo对象来打开Excel文件
@@ -370,11 +370,11 @@ namespace Create_order
             string jsonPath;
             if (ModuleSupport.EXPORT_MODE == "TEST")
             {
-                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price.json");
+                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price_Test.json");
             }
             else
             {
-                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price_Test.json");
+                jsonPath = Path.Combine(ModuleSupport.jsonCreateFilesPath, "PayChannel_Price.json");
             }
             
             //在进行序列化时，需要对编译器进行一定的调整
@@ -396,12 +396,36 @@ namespace Create_order
             }
 
             //此时文件已被关闭，因为using语句块结束了
-            Console.WriteLine("json数据<PayChannel_Price>已成功写入文件");
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                Console.WriteLine("json数据<PayChannel_Price_Test>已成功写入文件");
+            }
+            else
+            {
+                Console.WriteLine("json数据<PayChannel_Price>已成功写入文件");
+            }
 
             //复制文件到Json Files文件夹中
-            string newCopyPath = Path.Combine(ModuleSupport.jsonFilesPath, @"PayChannel_Price.json");
+            string newCopyPath;
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                newCopyPath = Path.Combine(ModuleSupport.jsonFilesPath, @"PayChannel_Price_Test.json");
+            }
+            else
+            {
+                newCopyPath = Path.Combine(ModuleSupport.jsonFilesPath, @"PayChannel_Price.json");
+            }
+
             File.Copy(jsonPath, newCopyPath, true);
-            Console.WriteLine("json数据<PayChannel_Price>已成功复制到指定位置");
+
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                Console.WriteLine("json数据<PayChannel_Price_Test>已成功复制到指定位置");
+            }
+            else
+            {
+                Console.WriteLine("json数据<PayChannel_Price>已成功复制到指定位置");
+            }
         }
     }
 }

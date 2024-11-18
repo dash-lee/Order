@@ -47,7 +47,7 @@
         public static string KEY = "IBojRarkcKW2J525";
 
         //开启测试服导出模式 ： TEST | PRODUCT
-        public static string EXPORT_MODE = "TEST";
+        public static string EXPORT_MODE = "PRODUCT";
 
     }
 }
