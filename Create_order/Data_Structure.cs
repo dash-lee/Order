@@ -239,7 +239,17 @@ namespace Create_order
         public static PayChannel_Price_Config PayChannel_Price_Data()
         {
             PayChannel_Price_Config tmpData = new();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price.json");
+
+            string jsonPath;
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price_Test.json");
+            }
+            else
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "PayChannel_Price.json");
+            }
+
             Console.WriteLine(jsonPath);
 
             //JSON序列化
