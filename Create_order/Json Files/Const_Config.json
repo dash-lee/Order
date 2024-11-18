@@ -1664,11 +1664,6 @@
                     "Price": 200,
                     "Diamond_Count": 10699,
                     "Apple_Price_ID": "tweep_diamonds_10699"
-                },
-                {
-                    "Price": 289,
-                    "Diamond_Count": 15999,
-                    "Apple_Price_ID": "tweep_diamonds_15999"
                 }
             ],
             "Vip_Apple_ID": [
@@ -1731,11 +1726,6 @@
                     "Price": 200,
                     "Diamond_Count": 10699,
                     "Apple_Price_ID": "topup_10699d_20000u"
-                },
-                {
-                    "Price": 289,
-                    "Diamond_Count": 15999,
-                    "Apple_Price_ID": "topup_15999d_28900u"
                 }
             ],
             "Vip_Apple_ID": [
@@ -1798,11 +1788,6 @@
                     "Price": 200,
                     "Diamond_Count": 10699,
                     "Apple_Price_ID": "navid_10699d_20000u"
-                },
-                {
-                    "Price": 289,
-                    "Diamond_Count": 15999,
-                    "Apple_Price_ID": "navid_15999d_28900u"
                 }
             ],
             "Vip_Apple_ID": [
