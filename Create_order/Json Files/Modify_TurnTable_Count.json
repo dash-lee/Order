@@ -244,7 +244,7 @@
 
     "Modify_all_apple": [
         {
-            "Modify_Apps": [ "Tweep" ],
+            "Modify_Apps": [ "Tweep", "Petallink", "Navid" ],
             "//": "该表只用于对应档位能够获得的抽奖次数，以及额外赠送的物品ID",
             "Modify_TurnTable_Count_Diamond": [
                 {
@@ -299,13 +299,6 @@
                 {
                     "Price": 200.00,
                     "Diamond_Count": 10699,
-                    "TurnTable_Count": 3,
-                    "extra_item_id": 0,
-                    "extra_item_num": 0
-                },
-                {
-                    "Price": 289.00,
-                    "Diamond_Count": 15999,
                     "TurnTable_Count": 3,
                     "extra_item_id": 0,
                     "extra_item_num": 0
