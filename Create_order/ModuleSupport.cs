@@ -25,10 +25,10 @@
         public const int RECHARGE_APP_GAP_ID = 500;     //充值特惠的APP之间的ID间隔
 
         public const int PAYCHANNEL_PRICE_BEGIN_ID = 1;
-        public const int PAYCHANNEL_PRICE_APP_GAP_ID = 10000;
+        public const int PAYCHANNEL_PRICE_APP_GAP_ID = 15000;
 
         public const int PAYCHANNEL_PRICE_MODIFY_BEGIN_ID = 1;
-        public const int PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID = 10000;
+        public const int PAYCHANNEL_PRICE_MODIFY_APP_GAP_ID = 15000;
 
         public static List<List<string>> Body_PayList { get; set; }
         public static List<List<string>> Body_PayChannel_Price { get; set; }

@@ -18350,6 +18350,94 @@
                     }
                 ]
             }
+        },
+        {
+            "Country_Name": "Palestine",
+            "Country_Name_CN": "巴勒斯坦",
+            "Country_Code": "BL",
+            "Area": "Middle East",
+            "Area_CN": "中东大区",
+            "Currency_Code": "ILS",
+            "Diamond_Gear": [ 160, 199, 369, 739, 1569, 2999, 7599, 10699, 15999 ],
+            "Diamond_PayMethod": [ "Ios" ],
+            "Diamond_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 3.09,
+                        "Diamond_Count": 160,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 3.09,
+                        "Diamond_Count": 199,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.19,
+                        "Diamond_Count": 369,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 11.49,
+                        "Diamond_Count": 639,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 28.95,
+                        "Diamond_Count": 1569,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 57.99,
+                        "Diamond_Count": 2999,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 144.99,
+                        "Diamond_Count": 7599,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 200.00,
+                        "Diamond_Count": 10699,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            },
+            "Vip_Gear": [ 7, 30, 90 ],
+            "Vip_PayMethod": [ "Ios" ],
+            "Vip_Pay_Detail": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 4.29,
+                        "Vip_Days": 7,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 7.19,
+                        "Vip_Days": 30,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    },
+                    {
+                        "Price": 18.9,
+                        "Vip_Days": 90,
+                        "PayMethod_Name": [ "Ios" ],
+                        "PayMethod_Fixed_Price": []
+                    }
+                ]
+            }
         }
     ]
 }
