@@ -801,6 +801,36 @@
                 "Jordan",
                 "Israel"
             ]
+        },
+        {
+            "AppName": "SqueakLove",
+            "Is_IOS": 1,
+            "Need_Country": [
+                "Somalia",
+                "Algeria",
+                "Iran",
+                "Mauritania",
+                "Cyprus",
+                "Palestine",
+                "Sudan",
+                "Afghanistan",
+                "Tunisia",
+                "Lebanon",
+                "Syria",
+                "Morocco",
+                "Bahrain",
+                "Turkey",
+                "Egypt",
+                "Qatar",
+                "Arab Emirates",
+                "Oman",
+                "Yemen",
+                "Saudi Arabia",
+                "Kuwait",
+                "Iraq",
+                "Jordan",
+                "Israel"
+            ]
         }
     ],
     "GoogleID": [
@@ -1874,6 +1904,68 @@
                     "Price": 18.9,
                     "Vip_Days": 90,
                     "Apple_Price_ID": "navid_v90_1890u"
+                }
+            ]
+        },
+        {
+            "AppName": "SqueakLove",
+            "Diamond_Apple_ID": [
+                {
+                    "Price": 3.09,
+                    "Diamond_Count": 160,
+                    "Apple_Price_ID": "squeak_160d_309u"
+                },
+                {
+                    "Price": 3.09,
+                    "Diamond_Count": 199,
+                    "Apple_Price_ID": "squeak_199d_309u"
+                },
+                {
+                    "Price": 7.19,
+                    "Diamond_Count": 369,
+                    "Apple_Price_ID": "squeak_369d_719u"
+                },
+                {
+                    "Price": 11.49,
+                    "Diamond_Count": 639,
+                    "Apple_Price_ID": "squeak_639d_1149u"
+                },
+                {
+                    "Price": 28.95,
+                    "Diamond_Count": 1569,
+                    "Apple_Price_ID": "squeak_1569d_2895u"
+                },
+                {
+                    "Price": 57.99,
+                    "Diamond_Count": 2999,
+                    "Apple_Price_ID": "squeak_2999d_5799u"
+                },
+                {
+                    "Price": 144.99,
+                    "Diamond_Count": 7599,
+                    "Apple_Price_ID": "squeak_7599d_14499u"
+                },
+                {
+                    "Price": 200,
+                    "Diamond_Count": 10699,
+                    "Apple_Price_ID": "squeak_10699d_20000u"
+                }
+            ],
+            "Vip_Apple_ID": [
+                {
+                    "Price": 4.29,
+                    "Vip_Days": 7,
+                    "Apple_Price_ID": "squeak_v7_429u"
+                },
+                {
+                    "Price": 7.19,
+                    "Vip_Days": 30,
+                    "Apple_Price_ID": "squeak_v30_719u"
+                },
+                {
+                    "Price": 18.9,
+                    "Vip_Days": 90,
+                    "Apple_Price_ID": "squeak_v90_1890u"
                 }
             ]
         }

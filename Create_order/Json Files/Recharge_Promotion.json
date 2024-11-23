@@ -1,6 +1,7 @@
 {
     "//": "这里配置的都是对应国家的充值特惠相关配置",
     "Recharge_Promotion": {
+        "is_ios": 0,
         "Country": [
             "Czechoslovakia",
             "Czech",
@@ -8084,6 +8085,7 @@
         ]
     },
     "Recharge_Promotion_Apple": {
+        "is_ios": 1,
         "Country": [
             "Somalia",
             "Algeria",
