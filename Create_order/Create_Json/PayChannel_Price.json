@@ -97048,66 +97048,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 1748,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4067,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 6499,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 16374,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 32799,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 82005,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 113118,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97119,26 +97059,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 2427,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4067,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 10690,
           "is_discount": 0
         }
       ]
@@ -97167,66 +97087,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 412,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 959,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1532,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3860,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7731,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 19329,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26663,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97238,26 +97098,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 572,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 959,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2520,
           "is_discount": 0
         }
       ]
@@ -97286,66 +97126,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 129518,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 301371,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 481606,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1213446,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2430663,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 6077286,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 8383042,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97357,26 +97137,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 179817,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 301371,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 792198,
           "is_discount": 0
         }
       ]
@@ -97405,66 +97165,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 124,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 287,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 459,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1156,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2314,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5786,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7981,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97476,26 +97176,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 172,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 287,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 755,
           "is_discount": 0
         }
       ]
@@ -97524,66 +97204,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 2.92,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 6.8,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 10.86,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 27.35,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 54.78,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 136.95,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 188.9,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97595,26 +97215,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 4.06,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 6.8,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 17.86,
           "is_discount": 0
         }
       ]
@@ -97643,66 +97243,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 11.57,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26.93,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 43.02,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 108.4,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 217.13,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 542.86,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 748.82,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97714,26 +97254,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 16.07,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26.93,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 70.77,
           "is_discount": 0
         }
       ]
@@ -97762,66 +97282,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 1388,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3230,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5162,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 13004,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26049,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 65127,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 89837,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97833,26 +97293,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 1927,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3230,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 8490,
           "is_discount": 0
         }
       ]
@@ -97881,66 +97321,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 210,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 489,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 781,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1967,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3940,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 9849,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 13586,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -97952,26 +97332,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 292,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 489,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1284,
           "is_discount": 0
         }
       ]
@@ -98000,66 +97360,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 9.74,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 22.65,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 36.19,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 91.17,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 182.63,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 456.61,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 629.84,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -98071,26 +97371,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 13.52,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 22.65,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 59.52,
           "is_discount": 0
         }
       ]
@@ -98119,66 +97399,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 276555,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 643505,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1028355,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2591025,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5190105,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 12976605,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 17900000,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -98190,26 +97410,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 383955,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 643505,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1691550,
           "is_discount": 0
         }
       ]
@@ -98238,66 +97438,6 @@
           "Is_Rate": 1,
           "Fixed_Price": 39873,
           "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 92778,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 148264,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 373563,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 748286,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1870909,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2580742,
-          "is_discount": 0
         }
       ],
       "PayChannel_Vip": [
@@ -98309,26 +97449,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 55357,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 92778,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 243881,
           "is_discount": 0
         }
       ]
@@ -98356,66 +97476,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 31,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 72,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 115,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 290,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 580,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1449,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1998,
           "is_discount": 0
         },
         {
@@ -98671,26 +97731,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 72,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 189,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -98825,66 +97865,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 1.16,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.68,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4.28,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 10.78,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 21.59,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 53.98,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 74.45,
           "is_discount": 0
         },
         {
@@ -99766,6 +98746,166 @@
           "Is_Rate": 0,
           "Fixed_Price": 55.77,
           "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.69,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.81,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.27,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.47,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 5.43,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 13.14,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 27.02,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 53.99,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.02,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.21,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.06,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 16.12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 40.26,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 55.52,
+          "is_discount": 1
         }
       ],
       "PayChannel_Vip": [
@@ -99780,26 +98920,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.68,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.04,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -100177,6 +99297,76 @@
           "Sort": 7,
           "Is_Rate": 0,
           "Fixed_Price": 5.29,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.69,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.77,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.28,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.22,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.02,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 5.27,
           "is_discount": 1
         }
       ]
@@ -100204,66 +99394,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 106,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 246,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 393,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 990,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1982,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4956,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 6836,
           "is_discount": 0
         },
         {
@@ -102465,6 +101595,166 @@
           "Is_Rate": 0,
           "Fixed_Price": 5098,
           "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 61,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 72,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 115,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 227,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 504,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 1223,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 2517,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 5034,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 80,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 80,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 187,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 298,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 750,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 1502,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 3754,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 5178,
+          "is_discount": 1
         }
       ],
       "PayChannel_Vip": [
@@ -102476,26 +101766,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 147,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 246,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 646,
           "is_discount": 0
         },
         {
@@ -103339,7 +102609,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 1.69,
           "Num": 7,
@@ -103349,7 +102619,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 4.49,
           "Num": 30,
@@ -103359,7 +102629,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 7.99,
           "Num": 90,
@@ -103369,7 +102639,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 10.99,
           "Num": 180,
@@ -103379,7 +102649,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 4.29,
           "Num": 7,
@@ -103389,7 +102659,7 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 7.19,
           "Num": 30,
@@ -103399,13 +102669,83 @@
           "is_discount": 1
         },
         {
-          "Channel_Id": 163,
+          "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 18.9,
           "Num": 90,
           "Sort": 14,
           "Is_Rate": 0,
           "Fixed_Price": 484,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 61,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 162,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 288,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 16,
+          "Is_Rate": 0,
+          "Fixed_Price": 396,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 112,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 187,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 172,
+          "Channel_Name": "PagSmilePAPARA",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 15,
+          "Is_Rate": 0,
+          "Fixed_Price": 490,
           "is_discount": 1
         }
       ]
@@ -103433,66 +102773,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 168,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 378,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 598,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1490,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2975,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7423,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 10235,
           "is_discount": 0
         },
         {
@@ -104214,6 +103494,966 @@
           "Is_Rate": 0,
           "Fixed_Price": 7345,
           "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 92,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 107,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 169,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 327,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 721,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1744,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 3586,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 7168,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 118,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 118,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 269,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 427,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 1070,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 2140,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 5345,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 7371,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 164,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 322,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 716,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1740,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 3581,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 7163,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 424,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 1067,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 2137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 5341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 7368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 164,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 322,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 716,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1740,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 3581,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 7163,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 424,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1067,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 5341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 7368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 164,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 322,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 716,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1740,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 3581,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 7163,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 424,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1067,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 5341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 7368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 164,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 322,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 716,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1740,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 3581,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 7163,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 424,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1067,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 5341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 7368,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 102,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 164,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 322,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 716,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 1740,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 3581,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 7163,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 114,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 424,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1067,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 2137,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 5341,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 7368,
+          "is_discount": 1
         }
       ],
       "PayChannel_Vip": [
@@ -104225,26 +104465,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 223,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 370,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 965,
           "is_discount": 0
         },
         {
@@ -104566,6 +104786,426 @@
           "Is_Rate": 0,
           "Fixed_Price": 698,
           "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 92,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 235,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 414,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 568,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 162,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 269,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 700,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 230,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 409,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 563,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 159,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 174,
+          "Channel_Name": "PagSmileFAWRYPAY",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 7,
+          "Is_Rate": 0,
+          "Fixed_Price": 697,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 230,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 409,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 563,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 159,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 179,
+          "Channel_Name": "PagSmileORANGECASH",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 697,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 230,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 409,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 563,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 159,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 180,
+          "Channel_Name": "PagSmileVODAFONECASH",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 697,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 230,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 409,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 563,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 159,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 181,
+          "Channel_Name": "PagSmileWEPAY",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 697,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 87,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 230,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 409,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 563,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 159,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 265,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 176,
+          "Channel_Name": "PagSmileCASH",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 697,
+          "is_discount": 1
         }
       ]
     },
@@ -104595,66 +105235,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 27.31,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 43.43,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 108.86,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 217.68,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 543.7,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 749.84,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -105532,6 +106112,166 @@
           "Sort": 7,
           "Is_Rate": 0,
           "Fixed_Price": 539.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.67,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 7.79,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.27,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 23.84,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 52.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 127.19,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 261.5,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 522.67,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.56,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.56,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 19.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 31.13,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 78.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 156.04,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 389.75,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 537.53,
           "is_discount": 1
         }
       ],
@@ -105547,26 +106287,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 25.91,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 68.11,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -105944,6 +106664,76 @@
           "Sort": 7,
           "Is_Rate": 0,
           "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.67,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 17.12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 30.18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 41.37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 11.78,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 19.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 51.03,
           "is_discount": 1
         }
       ]
@@ -105974,66 +106764,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 27.56,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 43.81,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 109.83,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 219.62,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 548.56,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 756.54,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -106589,6 +107319,166 @@
           "Price": 200,
           "Num": 10699,
           "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 544.7,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.76,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 7.9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.43,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 24.15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 53.27,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 128.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 264.99,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 529.65,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.68,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.68,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 19.84,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 31.54,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 79.07,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 158.12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 394.96,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 544.7,
           "is_discount": 1
@@ -106606,26 +107496,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26.15,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 68.72,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -106861,6 +107731,76 @@
           "Price": 18.9,
           "Num": 90,
           "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.76,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 17.35,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 30.58,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 41.92,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 12,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 6,
+          "Is_Rate": 0,
+          "Fixed_Price": 20,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 6,
           "Is_Rate": 0,
           "Fixed_Price": 52,
           "is_discount": 1
@@ -106893,66 +107833,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.89,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4.59,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 11.5,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 23,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 57.44,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 79.21,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -107430,6 +108310,166 @@
           "Sort": 4,
           "Is_Rate": 0,
           "Fixed_Price": 57.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.71,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.83,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.3,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 5.56,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 13.44,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 27.63,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 55.22,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.9,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.07,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.29,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.24,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 16.48,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 41.17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 56.78,
           "is_discount": 1
         }
       ],
@@ -107445,26 +108485,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.74,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7.2,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -107672,6 +108692,76 @@
           "Sort": 4,
           "Is_Rate": 0,
           "Fixed_Price": 5.42,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.71,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.81,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.19,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.37,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.24,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.07,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 5,
+          "Is_Rate": 0,
+          "Fixed_Price": 5.39,
           "is_discount": 1
         }
       ]
@@ -107699,66 +108789,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 849,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1908,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3020,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 7532,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 15036,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 37518,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 51734,
           "is_discount": 0
         },
         {
@@ -107934,26 +108964,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 1778,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 4672,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 1.69,
@@ -108051,66 +109061,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 28.15,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 44.76,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 112.2,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 224.37,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 560.4,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 772.88,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -109228,6 +110178,326 @@
           "Sort": 8,
           "Is_Rate": 0,
           "Fixed_Price": 556.47,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.64,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 24.56,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 54.15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 131.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 269.4,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 538.47,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.82,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.82,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 20.17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 32.06,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 80.39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 160.76,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 401.53,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 553.77,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.64,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 24.56,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 54.15,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 131.03,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 269.4,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 538.47,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.82,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 8.82,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 20.17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 32.06,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 80.39,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 160.76,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 401.53,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 553.77,
           "is_discount": 1
         }
       ],
@@ -109243,26 +110513,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26.7,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 70.17,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -109750,6 +111000,146 @@
           "Sort": 8,
           "Is_Rate": 0,
           "Fixed_Price": 50.52,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 17.64,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 31.09,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 42.62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.14,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 20.17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 52.58,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.88,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 17.64,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 31.09,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 42.62,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 12.14,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 20.17,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 178,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 52.58,
           "is_discount": 1
         }
       ]
@@ -109780,66 +111170,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.31,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 3.67,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 9.2,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 18.39,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 45.93,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 63.34,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -110717,6 +112047,326 @@
           "Sort": 7,
           "Is_Rate": 0,
           "Fixed_Price": 45.6,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.04,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.02,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.45,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 10.75,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 22.1,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 44.16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.72,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.72,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.65,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.63,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.59,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 13.18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 32.92,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 45.41,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 1.69,
+          "Num": 125,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 1.99,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.66,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 3.19,
+          "Num": 236,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.04,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 6.29,
+          "Num": 470,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.02,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 13.99,
+          "Num": 1052,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.45,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 33.99,
+          "Num": 2570,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 10.75,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 69.99,
+          "Num": 5314,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 22.1,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 139.99,
+          "Num": 10679,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 44.16,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 3.09,
+          "Num": 160,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.72,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 3.09,
+          "Num": 199,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.72,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 7.19,
+          "Num": 369,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.65,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 11.49,
+          "Num": 639,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.63,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 28.95,
+          "Num": 1569,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 6.59,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 57.99,
+          "Num": 2999,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 13.18,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 144.99,
+          "Num": 7599,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 32.92,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 200,
+          "Num": 10699,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 45.41,
           "is_discount": 1
         }
       ],
@@ -110732,26 +112382,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 2.19,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5.76,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -111129,6 +112759,146 @@
           "Sort": 7,
           "Is_Rate": 0,
           "Fixed_Price": 4.33,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.45,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.55,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.5,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.65,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 173,
+          "Channel_Name": "PagSmileCARD",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 8,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.31,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 1.69,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 0.57,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 4.49,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.45,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 7.99,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 2.55,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 10.99,
+          "Num": 180,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 3.5,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 4.29,
+          "Num": 7,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 7.19,
+          "Num": 30,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 1.65,
+          "is_discount": 1
+        },
+        {
+          "Channel_Id": 177,
+          "Channel_Name": "PagSmileKNET",
+          "Price": 18.9,
+          "Num": 90,
+          "Sort": 9,
+          "Is_Rate": 0,
+          "Fixed_Price": 4.31,
           "is_discount": 1
         }
       ]
@@ -111156,66 +112926,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 4445,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 9995,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 15816,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 39452,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 78764,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 196537,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 271005,
           "is_discount": 0
         },
         {
@@ -111391,26 +113101,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 9311,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 24473,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 145,
           "Channel_Name": "PayerMaxCARD",
           "Price": 1.69,
@@ -111505,66 +113195,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 2.33,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5.32,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 8.46,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 21.21,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 42.4,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 105.91,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 146.06,
           "is_discount": 0
         },
         {
@@ -111900,26 +113530,6 @@
           "is_discount": 0
         },
         {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 5.33,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 13.88,
-          "is_discount": 0
-        },
-        {
           "Channel_Id": 143,
           "Channel_Name": "PayerMaxGOOGLEPAY",
           "Price": 1.69,
@@ -112084,66 +113694,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 12.73,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 369,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 28.62,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 11.49,
-          "Num": 639,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 45.28,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 28.95,
-          "Num": 1569,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 112.94,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 57.99,
-          "Num": 2999,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 225.47,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 144.99,
-          "Num": 7599,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 562.61,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 200,
-          "Num": 10699,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 775.78,
           "is_discount": 0
         },
         {
@@ -112316,26 +113866,6 @@
           "Sort": 1,
           "Is_Rate": 1,
           "Fixed_Price": 15.91,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 7.19,
-          "Num": 30,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 26.66,
-          "is_discount": 0
-        },
-        {
-          "Channel_Id": 122,
-          "Channel_Name": "Ios",
-          "Price": 18.9,
-          "Num": 90,
-          "Sort": 1,
-          "Is_Rate": 1,
-          "Fixed_Price": 70.06,
           "is_discount": 0
         },
         {

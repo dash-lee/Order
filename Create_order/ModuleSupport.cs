@@ -61,5 +61,7 @@
         public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";
         public static string KEY = "IBojRarkcKW2J525";
 
+        //这里修改是测试模式还是正式服模式 TEST | PRODUCT
+        public static string MODEL = "TEST";
     }
 }

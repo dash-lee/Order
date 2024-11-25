@@ -1881,6 +1881,116 @@
       "Logo": "/uploads/pay_channel_icon/PayerMaxBENEFIT.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 172,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#Papara",
+      "State": 1,
+      "Channel_name": "Papara",
+      "Channel_web": "PagSmilePAPARA",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxPAPARA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 173,
+      "Pay_type_id": 14,
+      "Channel_code": "CreditCard",
+      "State": 1,
+      "Channel_name": "Card",
+      "Channel_web": "PagSmileCARD",
+      "Logo": "/uploads/pay_channel_icon/Payssion_BankCard.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 174,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#FawryPay",
+      "State": 1,
+      "Channel_name": "FawryPay",
+      "Channel_web": "PagSmileFAWRYPAY",
+      "Logo": "/uploads/pay_channel_icon/LapayFAWRYPAY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 175,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#EtisalatCash",
+      "State": 1,
+      "Channel_name": "EtisalatCash",
+      "Channel_web": "PagSmileETISALATCASH",
+      "Logo": "",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 176,
+      "Pay_type_id": 14,
+      "Channel_code": "Cash",
+      "State": 1,
+      "Channel_name": "Cash",
+      "Channel_web": "PagSmileCASH",
+      "Logo": "/uploads/pay_channel_icon/PayermaxGCASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 177,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#KNet",
+      "State": 1,
+      "Channel_name": "KNet",
+      "Channel_web": "PagSmileKNET",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxKNET.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 178,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#MADA",
+      "State": 1,
+      "Channel_name": "Mada",
+      "Channel_web": "PagSmileMADA",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxMADA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 179,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#OrangeCash",
+      "State": 1,
+      "Channel_name": "OrangeCash",
+      "Channel_web": "PagSmileORANGECASH",
+      "Logo": "",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 180,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#VodafoneCash",
+      "State": 1,
+      "Channel_name": "VodafoneCash",
+      "Channel_web": "PagSmileVODAFONECASH",
+      "Logo": "",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 181,
+      "Pay_type_id": 14,
+      "Channel_code": "Wallet#WePay",
+      "State": 1,
+      "Channel_name": "WePay",
+      "Channel_web": "PagSmileWEPAY",
+      "Logo": "",
+      "App": [],
+      "Country": []
     }
   ]
 }

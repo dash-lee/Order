@@ -1971,7 +1971,7 @@
         }
     ],
 
-    "PayMethod_Company": [ "GooglePay", "PayerMax", "Payssion", "Paynow", "Dukpay", "Paynicorn", "Lapay", "Lianlian", "Tikipay", "Payhere", "Tejeepay", "Ios", "SpanCash" ],
+    "PayMethod_Company": [ "GooglePay", "PayerMax", "Payssion", "Paynow", "Dukpay", "Paynicorn", "Lapay", "Lianlian", "Tikipay", "Payhere", "Tejeepay", "Ios", "SpanCash", "PagSmile" ],
     "PayMethod_Info": [
         {
             "Pay_Type_ID": 1,
@@ -2050,6 +2050,12 @@
             "PaymentMethod_Name": "SpanCash",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 13
+        },
+        {
+            "Pay_Type_ID": 14,
+            "PaymentMethod_Name": "PagSmile",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 14
         }
     ]
 }
