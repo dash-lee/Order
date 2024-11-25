@@ -244,7 +244,7 @@
 
     "Modify_all_apple": [
         {
-            "Modify_Apps": [ "Tweep", "Petallink", "Navid", "SqueakLove" ],
+            "Modify_Apps": [ "Tweep", "Petallink", "Navid", "SqueakLove", "Manda" ],
             "//": "该表只用于对应档位能够获得的抽奖次数，以及额外赠送的物品ID",
             "Modify_TurnTable_Count_Diamond": [
                 {
