@@ -40,7 +40,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_pay_list.xlsx";
+            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_list.xlsx";
 
             List<Country> countries = country_Config.Country;
 
@@ -165,7 +165,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_pay_type.xlsx";
+            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_type.xlsx";
 
             for (int i = 0; i < const_config.PayMethod_Info.Count; i++)
             {
@@ -204,7 +204,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_pay_channel.xlsx";
+            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_channel.xlsx";
 
             int id = ModuleSupport.PAYCHANNEL_BEGIN_ID;
 
@@ -259,7 +259,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\hi_v3_channel_price.xlsx";
+            string path = desktopPath + @"\config_all\Talka\hi_v3_channel_price.xlsx";
 
             int id;
 

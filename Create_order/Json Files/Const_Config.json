@@ -160,7 +160,7 @@
         }
     ],
 
-    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax", "SpanCash" ],
+    "PayMethod_Company": [ "GooglePay", "Ios", "PayerMax", "SpanCash", "PagSmile" ],
     "PayMethod_Info": [
         {
             "Pay_Type_ID": 1,
@@ -185,6 +185,12 @@
             "PaymentMethod_Name": "SpanCash",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 4
+        },
+        {
+            "Pay_Type_ID": 5,
+            "PaymentMethod_Name": "PagSmile",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 5
         }
     ]
 }
