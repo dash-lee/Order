@@ -18,7 +18,7 @@ using static Create_order.Data_PayChannel_Price_Modify;
 using static Create_order.Data_Modify_TurnTable_Count;
 
 using OfficeOpenXml;
-
+using Create_order.Test;
 
 namespace Create_order
 {
@@ -48,10 +48,6 @@ namespace Create_order
             Modify_TurnTable_Count_Config modify_TurnTable_Count_Config = Modify_TurnTable_Count_Data();    //用在pay_list这个表，是单独的修改转盘数量结构
             PayChannel_Price_Modify_Config payChannel_Price_Modify_Config = PayChannel_Price_Modify_Data();
 
-            //Change_Channel_Price change_Channel_Price = Change_Channel_Price_Data();
-
-            //Tools.ChangeChannelPrice(change_Channel_Price);
-
             //调用生成函数
             Create.Hi_v3_pay_type(const_config);
             Create.Hi_v3_pay_list(const_config, country_Config, modify_Config, modify_TurnTable_Count_Config);
@@ -63,8 +59,7 @@ namespace Create_order
 
         //public static void Main()
         //{
-        //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-        //    Temp_Tools.Export_Data();
+        //    ToJson_Promotion_Info.ToJson_Test();
         //}
     }
 }

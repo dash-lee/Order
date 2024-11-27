@@ -44,7 +44,11 @@
             { "Quizy" , 8 },
             { "Riffy" , 9 },
             { "Wixel", 15 },
-            { "Flinx", 28 }
+            { "Flinx", 28 },
+            { "Manda", 28 },
+            { "Petallink", 128 },
+            { "Navid", 133 },
+            { "SqueakLove", 138 }
         };
 
         //项目配置文件JSON的根目录
@@ -56,6 +60,8 @@
         //项目生成的JSON文件的根目录
         public static string jsonCreateFilesPath = @"D:\Company\Create_order\Create_Json\";
         //public static string jsonCreateFilesPath = @"D:\VS_BEGIN\Create_order\Create_order\Create_Json\";
+
+        public static string testFilePath = @"D:\Company\Create_order\Test\";
 
         //修改固定价格的API请求地址(测试服)
         public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";

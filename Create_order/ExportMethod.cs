@@ -628,10 +628,10 @@ namespace Create_order
                 {
                     for (int i = 0; i < const_config.Apps[index].Need_Country.Count; i++)
                     {
-                        for (int j = 0; j < country_Config.Country.Count; j++)
+                        for (int j = 0; j < country_Config.Country_Apple.Count; j++)
                         {
                             //匹配上对应的国家（表示需要此国家的配置）
-                            if (const_config.Apps[index].Need_Country[i] == country_Config.Country[j].Country_Name)
+                            if (const_config.Apps[index].Need_Country[i] == country_Config.Country_Apple[j].Country_Name)
                             {
                                 for (int k = 0; k < recharge_config.Recharge_Promotion_Apple.Promotion_Info.Count; k++)
                                 {
