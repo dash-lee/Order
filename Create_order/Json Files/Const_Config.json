@@ -191,6 +191,12 @@
             "PaymentMethod_Name": "PagSmile",
             "PaymentMethod_Logo": "",
             "PaymentMethod_Sort": 5
+        },
+        {
+            "Pay_Type_ID": 6,
+            "PaymentMethod_Name": "PagSmile",
+            "PaymentMethod_Logo": "",
+            "PaymentMethod_Sort": 6
         }
     ]
 }
