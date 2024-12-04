@@ -39,10 +39,10 @@ namespace Create_order
             PayChannel_Price_Config payChannel_Price_Config = PayChannel_Price_Data();
 
             //调用生成函数
-            Create.Hi_v3_pay_type(const_config);
-            Create.Hi_v3_pay_list(const_config, country_Config);
-            Create.Hi_v3_pay_channel(const_config, payChannel_Config, payChannel_Price_Config);
-            Create.Hi_v3_channel_price(const_config, payChannel_Price_Config);
+            Create.B_v3_pay_type(const_config);
+            Create.B_v3_pay_list(const_config, country_Config);
+            Create.B_v3_pay_channel(const_config, payChannel_Config, payChannel_Price_Config);
+            Create.B_v3_channel_price(const_config, payChannel_Price_Config);
         }
     }
 }

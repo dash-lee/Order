@@ -352,6 +352,160 @@
       "Logo": "/uploads/pay_channel_icon/PayerMaxBENEFIT.png",
       "App": [],
       "Country": []
+    },
+    {
+      "Id": 33,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#Papara",
+      "State": 1,
+      "Channel_name": "Papara",
+      "Channel_web": "PagSmilePAPARA",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxPAPARA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 34,
+      "Pay_type_id": 5,
+      "Channel_code": "CreditCard",
+      "State": 1,
+      "Channel_name": "Card",
+      "Channel_web": "PagSmileCARD",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxCARD.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 35,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#FawryPay",
+      "State": 1,
+      "Channel_name": "FawryPay",
+      "Channel_web": "PagSmileFAWRYPAY",
+      "Logo": "/uploads/pay_channel_icon/LapayFAWRYPAY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 36,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#EtisalatCash",
+      "State": 0,
+      "Channel_name": "Etisalat Cash",
+      "Channel_web": "PagSmileETISALATCASH",
+      "Logo": "/uploads/pay_channel_icon/PagSmileETISALATCASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 37,
+      "Pay_type_id": 5,
+      "Channel_code": "Cash",
+      "State": 1,
+      "Channel_name": "Cash",
+      "Channel_web": "PagSmileCASH",
+      "Logo": "/uploads/pay_channel_icon/PayermaxGCASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 38,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#KNet",
+      "State": 0,
+      "Channel_name": "KNet",
+      "Channel_web": "PagSmileKNET",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxKNET.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 39,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#MADA",
+      "State": 0,
+      "Channel_name": "Mada",
+      "Channel_web": "PagSmileMADA",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxMADA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 40,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#OrangeCash",
+      "State": 0,
+      "Channel_name": "Orange",
+      "Channel_web": "PagSmileORANGECASH",
+      "Logo": "/uploads/pay_channel_icon/PagSmileORANGECASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 41,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#VodafoneCash",
+      "State": 1,
+      "Channel_name": "Vodafone",
+      "Channel_web": "PagSmileVODAFONECASH",
+      "Logo": "/uploads/pay_channel_icon/PagSmileVODAFONECASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 42,
+      "Pay_type_id": 5,
+      "Channel_code": "Wallet#WePay",
+      "State": 0,
+      "Channel_name": "WePay",
+      "Channel_web": "PagSmileWEPAY",
+      "Logo": "/uploads/pay_channel_icon/PagSmileWEPAY.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 43,
+      "Pay_type_id": 3,
+      "Channel_code": "Wallet#VODAFONE",
+      "State": 1,
+      "Channel_name": "Vodafone",
+      "Channel_web": "PayerMaxVODAFONE",
+      "Logo": "/uploads/pay_channel_icon/PagSmileVODAFONECASH.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 44,
+      "Pay_type_id": 6,
+      "Channel_code": "CARD",
+      "State": 1,
+      "Channel_name": "Card",
+      "Channel_web": "YeePayCARD",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxCARD.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 45,
+      "Pay_type_id": 6,
+      "Channel_code": "CARD",
+      "State": 1,
+      "Channel_name": "Mada",
+      "Channel_web": "YeePayMADA",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxMADA.png",
+      "App": [],
+      "Country": []
+    },
+    {
+      "Id": 46,
+      "Pay_type_id": 6,
+      "Channel_code": "STCPAY",
+      "State": 1,
+      "Channel_name": "Stcpay",
+      "Channel_web": "YeePaySTCPAY",
+      "Logo": "/uploads/pay_channel_icon/PayerMaxSTCPAY.png",
+      "App": [],
+      "Country": []
     }
   ]
 }

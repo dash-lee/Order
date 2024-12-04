@@ -5,12 +5,12 @@
         //需要改变格式列参数（从1开始）
         public static Dictionary<string, List<int>> modifyFormat = new()
         {
-            {"hi_v3_pay_type.xlsx",new(){1} },
-            {"hi_v3_pay_list.xlsx",new(){1,2,6,7,8,9,11,12} },
-            {"hi_v3_pay_channel.xlsx",new(){1,2,4} },
-            {"hi_v3_recharge_promotions.xlsx",new(){1,3,4} },
-            {"hi_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11,12} },
-            {"hi_v3_channel_price_modify.xlsx",new(){1,4,5,6,7,8,9,10,11} }
+            {"b_v3_pay_type.xlsx",new(){1} },
+            {"b_v3_pay_list.xlsx",new(){1,2,6,7,8,9,11,12} },
+            {"b_v3_pay_channel.xlsx",new(){1,2,4} },
+            {"b_v3_recharge_promotions.xlsx",new(){1,3,4} },
+            {"b_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11,12} },
+            {"b_v3_channel_price_modify.xlsx",new(){1,4,5,6,7,8,9,10,11} }
         };
 
         //ID划分

@@ -85,11 +85,11 @@ namespace Create_order
 
             //检查是否需要保存body部分
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            if (filePath == desktopPath + @"\config_all\Talka\hi_v3_pay_list.xlsx")
+            if (filePath == desktopPath + @"\config_all\Talka\b_v3_pay_list.xlsx")
             {
                 ModuleSupport.Body_PayList = data;
             }
-            else if (filePath == desktopPath + @"\config_all\Talka\hi_v3_channel_price.xlsx")
+            else if (filePath == desktopPath + @"\config_all\Talka\b_v3_channel_price.xlsx")
             {
                 ModuleSupport.Body_PayChannel_Price = data;
             }
@@ -113,29 +113,29 @@ namespace Create_order
             //获取desktop的path
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
-            if (path == desktopPath + @"\config_all\Talka\hi_v3_pay_type.xlsx")
+            if (path == desktopPath + @"\config_all\Talka\b_v3_pay_type.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_pay_type.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_pay_type.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\Talka\hi_v3_pay_list.xlsx")
+            else if (path == desktopPath + @"\config_all\Talka\b_v3_pay_list.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_pay_list.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_pay_list.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\Talka\hi_v3_pay_channel.xlsx")
+            else if (path == desktopPath + @"\config_all\Talka\b_v3_pay_channel.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_pay_channel.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_pay_channel.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\Talka\hi_v3_recharge_promotions.xlsx")
+            else if (path == desktopPath + @"\config_all\Talka\b_v3_recharge_promotions.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_recharge_promotions.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_recharge_promotions.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\Talka\hi_v3_channel_price.xlsx")
+            else if (path == desktopPath + @"\config_all\Talka\b_v3_channel_price.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_channel_price.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_channel_price.xlsx"];
             }
-            else if (path == desktopPath + @"\config_all\Talka\hi_v3_channel_price_modify.xlsx")
+            else if (path == desktopPath + @"\config_all\Talka\b_v3_channel_price_modify.xlsx")
             {
-                return ModuleSupport.modifyFormat["hi_v3_channel_price_modify.xlsx"];
+                return ModuleSupport.modifyFormat["b_v3_channel_price_modify.xlsx"];
             }
             else if(path == desktopPath + @"\config_all\Talka\tmp.xlsx")
             {

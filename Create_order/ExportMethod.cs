@@ -15,7 +15,7 @@ namespace Create_order
 {
     internal static class Create
     {
-        public static void Hi_v3_pay_list(Const_Config const_config, Country_Config country_Config)
+        public static void B_v3_pay_list(Const_Config const_config, Country_Config country_Config)
         {
 
             //定义数据部分
@@ -40,7 +40,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_list.xlsx";
+            string path = desktopPath + @"\config_all\Talka\b_v3_pay_list.xlsx";
 
             List<Country> countries = country_Config.Country;
 
@@ -147,10 +147,10 @@ namespace Create_order
                 }
             }
             Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_pay_list完成！");
+            Console.WriteLine("生成b_v3_pay_list完成！");
         }
 
-        public static void Hi_v3_pay_type(Const_Config const_config)
+        public static void B_v3_pay_type(Const_Config const_config)
         {
             //定义数据部分
             List<List<string>> body = new();
@@ -165,7 +165,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_type.xlsx";
+            string path = desktopPath + @"\config_all\Talka\b_v3_pay_type.xlsx";
 
             for (int i = 0; i < const_config.PayMethod_Info.Count; i++)
             {
@@ -180,10 +180,10 @@ namespace Create_order
             }
 
             Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_pay_type.xlsx完成！");
+            Console.WriteLine("生成b_v3_pay_type.xlsx完成！");
         }
 
-        public static void Hi_v3_pay_channel(Const_Config const_config, PayChannel_Config payChannel_Config, PayChannel_Price_Config payChannel_Price_Config)
+        public static void B_v3_pay_channel(Const_Config const_config, PayChannel_Config payChannel_Config, PayChannel_Price_Config payChannel_Price_Config)
         {
             //定义数据部分
             List<List<string>> body = new();
@@ -204,7 +204,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\hi_v3_pay_channel.xlsx";
+            string path = desktopPath + @"\config_all\Talka\b_v3_pay_channel.xlsx";
 
             int id = ModuleSupport.PAYCHANNEL_BEGIN_ID;
 
@@ -230,10 +230,10 @@ namespace Create_order
             }
 
             Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_pay_channel.xlsx完成！");
+            Console.WriteLine("生成b_v3_pay_channel.xlsx完成！");
         }
 
-        public static void Hi_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
+        public static void B_v3_channel_price(Const_Config const_config, PayChannel_Price_Config payChannel_Price_Config)
         {
 
 
@@ -259,7 +259,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\hi_v3_channel_price.xlsx";
+            string path = desktopPath + @"\config_all\Talka\b_v3_channel_price.xlsx";
 
             int id;
 
@@ -309,7 +309,7 @@ namespace Create_order
             }
 
             Tools.Write(path, header, body);
-            Console.WriteLine("生成hi_v3_channel_price.xlsx完成！");
+            Console.WriteLine("生成b_v3_channel_price.xlsx完成！");
         }
     }
 }
