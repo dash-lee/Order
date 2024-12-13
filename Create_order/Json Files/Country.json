@@ -2712,6 +2712,345 @@
                     }
                 ]
             }
+        },
+        {
+            "Country_Name": "Pakistan",
+            "Country_Name_CN": "巴基斯坦",
+            "Country_Code": "PK",
+            "Area": "Middle East",
+            "Area_CN": "中东大区",
+            "Currency_Code": "PKR",
+            "Coin_Gear": {
+                "Gear_Android": [ 15920, 31920, 55920, 159920, 399920, 799920, 1199920, 1599920 ],
+                "Gear_Ios": [ 17310, 40270, 64350, 162120, 324750, 811950, 1120000 ]
+            },
+            "Coin_PayMethod": [ "GooglePay", "Ios" ],
+            "Coin_Pay_Detail_Android": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 1.99,
+                        "Coin_Count": 15920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 3.99,
+                        "Coin_Count": 31920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 6.99,
+                        "Coin_Count": 55920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 19.99,
+                        "Coin_Count": 159920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 49.99,
+                        "Coin_Count": 399920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 99.99,
+                        "Coin_Count": 799920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 149.99,
+                        "Coin_Count": 1199920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 199.99,
+                        "Coin_Count": 1599920,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            },
+            "Coin_Pay_Detail_Apple": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 3.09,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 7.19,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 11.49,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 28.95,
+                        "Coin_Count": 162120,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 57.99,
+                        "Coin_Count": 324750,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 144.99,
+                        "Coin_Count": 811950,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 200,
+                        "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "India",
+            "Country_Name_CN": "印度",
+            "Country_Code": "IN",
+            "Area": "Middle East",
+            "Area_CN": "中东大区",
+            "Currency_Code": "INR",
+            "Coin_Gear": {
+                "Gear_Android": [ 15920, 31920, 55920, 159920, 399920, 799920, 1199920, 1599920 ],
+                "Gear_Ios": [ 17310, 40270, 64350, 162120, 324750, 811950, 1120000 ]
+            },
+            "Coin_PayMethod": [ "GooglePay", "Ios" ],
+            "Coin_Pay_Detail_Android": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 1.99,
+                        "Coin_Count": 15920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 3.99,
+                        "Coin_Count": 31920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 6.99,
+                        "Coin_Count": 55920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 19.99,
+                        "Coin_Count": 159920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 49.99,
+                        "Coin_Count": 399920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 99.99,
+                        "Coin_Count": 799920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 149.99,
+                        "Coin_Count": 1199920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 199.99,
+                        "Coin_Count": 1599920,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            },
+            "Coin_Pay_Detail_Apple": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 3.09,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 7.19,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 11.49,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 28.95,
+                        "Coin_Count": 162120,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 57.99,
+                        "Coin_Count": 324750,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 144.99,
+                        "Coin_Count": 811950,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 200,
+                        "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            }
+        },
+        {
+            "Country_Name": "Bangladesh",
+            "Country_Name_CN": "孟加拉国",
+            "Country_Code": "BD",
+            "Area": "Middle East",
+            "Area_CN": "中东大区",
+            "Currency_Code": "BDT",
+            "Coin_Gear": {
+                "Gear_Android": [ 15920, 31920, 55920, 159920, 399920, 799920, 1199920, 1599920 ],
+                "Gear_Ios": [ 17310, 40270, 64350, 162120, 324750, 811950, 1120000 ]
+            },
+            "Coin_PayMethod": [ "GooglePay", "Ios" ],
+            "Coin_Pay_Detail_Android": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 1.99,
+                        "Coin_Count": 15920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 3.99,
+                        "Coin_Count": 31920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 6.99,
+                        "Coin_Count": 55920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 19.99,
+                        "Coin_Count": 159920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 49.99,
+                        "Coin_Count": 399920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 99.99,
+                        "Coin_Count": 799920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 149.99,
+                        "Coin_Count": 1199920,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 199.99,
+                        "Coin_Count": 1599920,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            },
+            "Coin_Pay_Detail_Apple": {
+                "Currency": "USD",
+                "PayMethod_Price": [
+                    {
+                        "Price": 3.09,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 7.19,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 11.49,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 28.95,
+                        "Coin_Count": 162120,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 57.99,
+                        "Coin_Count": 324750,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 144.99,
+                        "Coin_Count": 811950,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 200,
+                        "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    }
+                ]
+            }
         }
     ]
 }
