@@ -17064,6 +17064,390 @@
           "Is_ios": 1
         }
       ]
+    },
+    {
+      "Country_Name": "Pakistan",
+      "Country_Name_CN": "巴基斯坦",
+      "Country_Code": "PK",
+      "PayChannel_Coin": [
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 1.99,
+          "Num": 15920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 594,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 3.99,
+          "Num": 31920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 1164,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 6.99,
+          "Num": 55920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 2019,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 19.99,
+          "Num": 159920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 5724,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 49.99,
+          "Num": 399920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 14275,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 99.99,
+          "Num": 799920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 28525,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 149.99,
+          "Num": 1199920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 42775,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 199.99,
+          "Num": 1599920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 57025,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 3.09,
+          "Num": 17310,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 908,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 7.19,
+          "Num": 40270,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 2076,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 11.49,
+          "Num": 64350,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 3302,
+          "Is_discount": 0,
+          "Is_ios": 1
+        }
+      ]
+    },
+    {
+      "Country_Name": "India",
+      "Country_Name_CN": "印度",
+      "Country_Code": "IN",
+      "PayChannel_Coin": [
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 1.99,
+          "Num": 15920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 181,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 3.99,
+          "Num": 31920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 355,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 6.99,
+          "Num": 55920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 616,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 19.99,
+          "Num": 159920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 1745,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 49.99,
+          "Num": 399920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 4353,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 99.99,
+          "Num": 799920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 8698,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 149.99,
+          "Num": 1199920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 13044,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 199.99,
+          "Num": 1599920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 17390,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 3.09,
+          "Num": 17310,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 277,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 7.19,
+          "Num": 40270,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 633,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 11.49,
+          "Num": 64350,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 1007,
+          "Is_discount": 0,
+          "Is_ios": 1
+        }
+      ]
+    },
+    {
+      "Country_Name": "Bangladesh",
+      "Country_Name_CN": "孟加拉国",
+      "Country_Code": "BD",
+      "PayChannel_Coin": [
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 1.99,
+          "Num": 15920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 255,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 3.99,
+          "Num": 31920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 500,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 6.99,
+          "Num": 55920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 868,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 19.99,
+          "Num": 159920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 2460,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 49.99,
+          "Num": 399920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 6135,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 99.99,
+          "Num": 799920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 12259,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 149.99,
+          "Num": 1199920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 18383,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 1,
+          "Channel_Name": "谷歌支付",
+          "Price": 199.99,
+          "Num": 1599920,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 24508,
+          "Is_discount": 0,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 3.09,
+          "Num": 17310,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 390,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 7.19,
+          "Num": 40270,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 892,
+          "Is_discount": 0,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 2,
+          "Channel_Name": "Ios",
+          "Price": 11.49,
+          "Num": 64350,
+          "Sort": 1,
+          "Is_Rate": 1,
+          "Fixed_Price": 1419,
+          "Is_discount": 0,
+          "Is_ios": 1
+        }
+      ]
     }
   ]
 }
