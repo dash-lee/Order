@@ -114,6 +114,11 @@
                     "Price": 199.99,
                     "Coin_Count": 1599920,
                     "Google_Price_ID": "yippi_g_diamond_8"
+                },
+                {
+                    "Price": 2.99,
+                    "Coin_Count": 24000,
+                    "Google_Price_ID": "yippi_g_diamond_9"
                 }
             ]
         }

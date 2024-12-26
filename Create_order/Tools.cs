@@ -200,6 +200,7 @@ namespace Create_order
                                 return const_Config.AppleID[i].Coin_Apple_ID[j].Apple_Price_ID;
                             }
                         }
+                        return "";
                     }
                     else
                     {
@@ -207,6 +208,8 @@ namespace Create_order
                     }
                 }
             }
+            //原生IOS支付只包含这些支付，其余的三方支付不会返回APPLEID，也不会产生报错
+            //也就是说，paylist中包含了APPLEID的应当只是原生支付的档位，其余的则不会包含
             Console.WriteLine("当前未找到" + appName + "的价值为" + price + "且数量为" + num + "的相关数据，请仔细检查！");
             return "";
         }

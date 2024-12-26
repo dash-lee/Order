@@ -6,7 +6,7 @@
         public static Dictionary<string, List<int>> modifyFormat = new()
         {
             {"b_v3_pay_type.xlsx",new(){1} },
-            {"b_v3_pay_list.xlsx",new(){1,2,6,7,8,9,11,12} },
+            {"b_v3_pay_list.xlsx",new(){1,2,6,7,8,9,11,12,13} },
             {"b_v3_pay_channel.xlsx",new(){1,2,4} },
             {"b_v3_recharge_promotions.xlsx",new(){1,3,4} },
             {"b_v3_channel_price.xlsx",new(){1,4,5,6,7,8,9,10,11,12} },
@@ -45,6 +45,20 @@
         //修改固定价格的API请求地址(测试服)
         public static string urlChangePrice = "https://api.hichat4.com/api/manage/updateChannelPriceData";
         public static string KEY = "IBojRarkcKW2J525";
+
+        //IOS原生支付包含APPLEID的档位
+        public static List<List<double>> payIosGear = new()
+        {
+            new(){3.09,17310},
+            new(){7.19,40270},
+            new(){11.49,64350},
+        };
+
+        //首充的档位
+        public static List<List<double>> initPayAmount = new()
+        {
+            new(){2.99,24000}
+        };
 
         //开启测试服导出模式 ： TEST | PRODUCT
         public static string EXPORT_MODE = "PRODUCT";

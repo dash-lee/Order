@@ -17,6 +17,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -70,6 +76,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -88,26 +100,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -130,6 +166,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -183,6 +225,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -201,26 +249,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -243,6 +315,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -296,6 +374,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -314,26 +398,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -356,6 +464,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -409,6 +523,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -427,26 +547,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -469,6 +613,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -522,6 +672,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -540,26 +696,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -582,6 +762,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -635,6 +821,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -653,26 +845,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -695,6 +911,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -748,6 +970,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -766,26 +994,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -808,6 +1060,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -861,6 +1119,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -879,26 +1143,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -921,6 +1209,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -974,6 +1268,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -992,26 +1292,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1034,6 +1358,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1087,6 +1417,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1105,26 +1441,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1147,6 +1507,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1200,6 +1566,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1218,26 +1590,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1260,6 +1656,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1313,6 +1715,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1331,26 +1739,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1373,6 +1805,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1426,6 +1864,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1444,26 +1888,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1486,6 +1954,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1539,6 +2013,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1557,26 +2037,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1599,6 +2103,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1652,6 +2162,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1670,26 +2186,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1712,6 +2252,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1765,6 +2311,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1783,26 +2335,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1825,6 +2401,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1878,6 +2460,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -1896,26 +2484,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1938,6 +2550,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -1991,6 +2609,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2009,26 +2633,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2051,6 +2699,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2104,6 +2758,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2122,26 +2782,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2164,6 +2848,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2217,6 +2907,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2235,26 +2931,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2277,6 +2997,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2330,6 +3056,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2348,26 +3080,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2390,6 +3146,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2443,6 +3205,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2461,26 +3229,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2503,6 +3295,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2556,6 +3354,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2574,26 +3378,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2616,6 +3444,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2669,6 +3503,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2687,26 +3527,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2729,6 +3593,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2782,6 +3652,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2800,26 +3676,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2842,6 +3742,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -2895,6 +3801,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -2913,26 +3825,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2955,6 +3891,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 1.99,
                         "Coin_Count": 15920,
                         "Status": 1,
@@ -3008,6 +3950,12 @@
                 "Currency": "USD",
                 "PayMethod_Price": [
                     {
+                        "Price": 2.99,
+                        "Coin_Count": 24000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
                         "Price": 3.09,
                         "Coin_Count": 17310,
                         "Status": 1,
@@ -3026,26 +3974,50 @@
                         "Discount": 0
                     },
                     {
-                        "Price": 28.95,
+                        "Price": 2.19,
+                        "Coin_Count": 17310,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 5,
+                        "Coin_Count": 40270,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 8.09,
+                        "Coin_Count": 64350,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 20,
                         "Coin_Count": 162120,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 57.99,
+                        "Price": 40.69,
                         "Coin_Count": 324750,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 144.99,
+                        "Price": 101.99,
                         "Coin_Count": 811950,
                         "Status": 1,
                         "Discount": 0
                     },
                     {
-                        "Price": 200,
+                        "Price": 140,
                         "Coin_Count": 1120000,
+                        "Status": 1,
+                        "Discount": 0
+                    },
+                    {
+                        "Price": 201.99,
+                        "Coin_Count": 1618400,
                         "Status": 1,
                         "Discount": 0
                     }

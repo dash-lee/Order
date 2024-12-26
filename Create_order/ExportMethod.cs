@@ -25,17 +25,18 @@ namespace Create_order
             List<string> header = new()
             {
                 "id",
-                "type",         //1为钻石；2为vip
-                "web_name",     //客户端显示名称
-                "country",      //国家code
+                "type",                     //1为钻石；2为vip
+                "web_name",                 //客户端显示名称
+                "country",                  //国家code
                 "app",
-                "num",          //钻石数量或者是vip天数
+                "num",                      //钻石数量或者是vip天数
                 "price",
-                "status",               //0为关闭；1为启动
-                "sort",             //排序
-                "google_id",        //对应的谷歌ID
-                "d_discount",           //钻石充值-折扣显示(1-100)
-                "is_ios"    //是否为ios应用
+                "status",                   //0为关闭；1为启动
+                "sort",                     //排序
+                "google_id",                //对应的谷歌ID
+                "d_discount",               //钻石充值-折扣显示(1-100)
+                "is_ios",                   //是否为ios应用
+                "is_first_recharge"         //是否首充
             };
 
             //获取路径
@@ -79,6 +80,7 @@ namespace Create_order
                             if (const_config.Apps[index].Is_IOS == 1)
                             {
                                 string appleID;
+                                int is_first_recharge;
 
                                 match_country_count++;
 
@@ -86,9 +88,22 @@ namespace Create_order
                                 for (int k = 0; k < countries[j].Coin_Pay_Detail_Apple.PayMethod_Price.Count; k++)
                                 {
                                     List<string> data_detail_coin = new();      //定义新的数据，用于往body中添加数据
+                                    is_first_recharge = 0;
 
                                     //获取AppleID
                                     appleID = Tools.AppleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count);
+
+                                    //获取当前是否为首充
+                                    for (int indexInit = 0; indexInit < ModuleSupport.initPayAmount.Count; indexInit++)
+                                    {
+                                        double price = ModuleSupport.initPayAmount[indexInit][0];
+                                        int num = (int)ModuleSupport.initPayAmount[indexInit][1];
+                                        if (price == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price && num == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count)
+                                        {
+                                            is_first_recharge = 1;
+                                            break;
+                                        }
+                                    }
 
                                     //这里是默认的基础配置
                                     data_detail_coin.Add($"{id}");
@@ -103,6 +118,7 @@ namespace Create_order
                                     data_detail_coin.Add(appleID); //苹果产品ID
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Discount}");    //折扣
                                     data_detail_coin.Add($"{1}");    //是否是ios应用
+                                    data_detail_coin.Add($"{is_first_recharge}");
 
                                     body.Add(data_detail_coin);
 
@@ -113,6 +129,7 @@ namespace Create_order
                             else if (const_config.Apps[index].Is_IOS == 0)
                             {
                                 string GoogleID;
+                                int is_first_recharge;
 
                                 id = ModuleSupport.ITEM_BEGIN_ID + index * ModuleSupport.ITEM_APP_ID_GAP + match_country_count * ModuleSupport.ITEM_COUNTRY_ID_GAP;
                                 match_country_count++;
@@ -121,7 +138,21 @@ namespace Create_order
                                 for (int k = 0; k < countries[j].Coin_Pay_Detail_Android.PayMethod_Price.Count; k++)
                                 {
                                     List<string> data_detail_coin = new();      //定义新的数据，用于往body中添加数据
+                                    is_first_recharge = 0;
+                                    
                                     GoogleID = Tools.GoogleIDSearch(const_config, appNameTemp, 1, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price, countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count);
+
+                                    //获取当前是否为首充
+                                    for (int indexInit = 0; indexInit < ModuleSupport.initPayAmount.Count; indexInit++)
+                                    {
+                                        double price = ModuleSupport.initPayAmount[indexInit][0];
+                                        int num = (int)ModuleSupport.initPayAmount[indexInit][1];
+                                        if (price == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price && num == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count)
+                                        {
+                                            is_first_recharge = 1;
+                                            break;
+                                        }
+                                    }
 
                                     //这里是默认的基础配置
                                     data_detail_coin.Add($"{id}");
@@ -136,6 +167,7 @@ namespace Create_order
                                     data_detail_coin.Add(GoogleID); //苹果产品ID
                                     data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Discount}");    //折扣
                                     data_detail_coin.Add($"{0}");    //是否是ios应用
+                                    data_detail_coin.Add($"{is_first_recharge}");
 
                                     body.Add(data_detail_coin);
 
