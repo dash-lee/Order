@@ -115,7 +115,7 @@
       "Id": 11,
       "Pay_type_id": 3,
       "Channel_code": "WALLET#STCPAY",
-      "State": 1,
+      "State": 0,
       "Channel_name": "Stcpay",
       "Channel_web": "PayerMaxSTCPAY",
       "Logo": "/uploads/pay_channel_icon/PayerMaxSTCPAY.png",

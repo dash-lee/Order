@@ -195,7 +195,7 @@ namespace Create_order
                     {
                         for (int j = 0; j < const_Config.AppleID[i].Coin_Apple_ID.Count; j++)
                         {
-                            if (price == const_Config.AppleID[i].Coin_Apple_ID[j].Price && num == const_Config.AppleID[i].Coin_Apple_ID[j].Coin_Count)
+                            if (price == const_Config.AppleID[i].Coin_Apple_ID[j].Price)
                             {
                                 return const_Config.AppleID[i].Coin_Apple_ID[j].Apple_Price_ID;
                             }

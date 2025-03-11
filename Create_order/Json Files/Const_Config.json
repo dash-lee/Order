@@ -33,7 +33,8 @@
                 "Israel",
                 "India",
                 "Pakistan",
-                "Bangladesh"
+                "Bangladesh",
+                "Libya"
             ]
         },
         {
@@ -67,7 +68,8 @@
                 "Israel",
                 "India",
                 "Pakistan",
-                "Bangladesh"
+                "Bangladesh",
+                "Libya"
             ]
         }
     ],
@@ -166,6 +168,11 @@
                     "Price": 289,
                     "Coin_Count": 1618400,
                     "Apple_Price_ID": "yippi_a_diamond_8"
+                },
+                {
+                    "Price": 2.99,
+                    "Coin_Count": 24000,
+                    "Apple_Price_ID": "yippi_a_diamond_9"
                 }
             ]
         }

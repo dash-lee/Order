@@ -147,7 +147,7 @@ namespace Create_order
                                     {
                                         double price = ModuleSupport.initPayAmount[indexInit][0];
                                         int num = (int)ModuleSupport.initPayAmount[indexInit][1];
-                                        if (price == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price && num == countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count)
+                                        if (price == countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Price && num == countries[j].Coin_Pay_Detail_Android.PayMethod_Price[k].Coin_Count)
                                         {
                                             is_first_recharge = 1;
                                             break;
