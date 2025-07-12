@@ -548,7 +548,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 284,
+          "Fixed_Price": 288,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -559,7 +559,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 181,
+          "Fixed_Price": 182,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -570,7 +570,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 355,
+          "Fixed_Price": 357,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -581,7 +581,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 616,
+          "Fixed_Price": 620,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -592,7 +592,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1745,
+          "Fixed_Price": 1757,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -603,7 +603,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 4353,
+          "Fixed_Price": 4383,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -614,7 +614,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 8698,
+          "Fixed_Price": 8759,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -625,7 +625,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 13044,
+          "Fixed_Price": 13135,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -636,7 +636,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 17390,
+          "Fixed_Price": 17512,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -658,7 +658,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 633,
+          "Fixed_Price": 637,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -669,7 +669,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1007,
+          "Fixed_Price": 1014,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -687,7 +687,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12.13,
+          "Fixed_Price": 11.2,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -698,7 +698,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 8.04,
+          "Fixed_Price": 7.42,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -709,7 +709,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 15.75,
+          "Fixed_Price": 14.54,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -720,7 +720,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 27.31,
+          "Fixed_Price": 25.2,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -731,7 +731,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 77.4,
+          "Fixed_Price": 71.42,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -742,7 +742,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 193.01,
+          "Fixed_Price": 178.08,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -753,7 +753,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 385.69,
+          "Fixed_Price": 355.85,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -764,7 +764,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 578.38,
+          "Fixed_Price": 533.63,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -775,7 +775,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 771.06,
+          "Fixed_Price": 711.4,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -786,7 +786,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12.28,
+          "Fixed_Price": 11.33,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -797,7 +797,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 28.08,
+          "Fixed_Price": 25.91,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -808,7 +808,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 44.65,
+          "Fixed_Price": 41.2,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -819,7 +819,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 12.13,
+          "Fixed_Price": 11.2,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -830,7 +830,7 @@
           "Num": 15920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 8.45,
+          "Fixed_Price": 7.8,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -841,7 +841,7 @@
           "Num": 31920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 16.19,
+          "Fixed_Price": 14.94,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -852,7 +852,7 @@
           "Num": 55920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 27.81,
+          "Fixed_Price": 25.66,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -863,7 +863,7 @@
           "Num": 159920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 78.15,
+          "Fixed_Price": 72.11,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -874,7 +874,7 @@
           "Num": 399920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 194.32,
+          "Fixed_Price": 179.29,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -885,7 +885,7 @@
           "Num": 799920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 387.94,
+          "Fixed_Price": 357.92,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -896,7 +896,7 @@
           "Num": 1199920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 581.56,
+          "Fixed_Price": 536.56,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -907,7 +907,7 @@
           "Num": 1599920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 775.17,
+          "Fixed_Price": 715.19,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -918,7 +918,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 12.13,
+          "Fixed_Price": 11.2,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -929,7 +929,7 @@
           "Num": 17310,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 9.24,
+          "Fixed_Price": 8.53,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -940,7 +940,7 @@
           "Num": 40270,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 20.17,
+          "Fixed_Price": 18.61,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -951,7 +951,7 @@
           "Num": 64350,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 32.19,
+          "Fixed_Price": 29.7,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -962,7 +962,7 @@
           "Num": 162120,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 78.51,
+          "Fixed_Price": 72.44,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -973,7 +973,7 @@
           "Num": 324750,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 158.99,
+          "Fixed_Price": 146.69,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -984,7 +984,7 @@
           "Num": 811950,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 397.42,
+          "Fixed_Price": 366.67,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -995,7 +995,7 @@
           "Num": 1120000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 545.26,
+          "Fixed_Price": 503.07,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1006,7 +1006,7 @@
           "Num": 1618400,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 786.37,
+          "Fixed_Price": 725.52,
           "Is_discount": 1,
           "Is_ios": 1
         }
@@ -1024,7 +1024,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 140180,
+          "Fixed_Price": 141708,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1035,7 +1035,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 90510,
+          "Fixed_Price": 91497,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1046,7 +1046,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 177250,
+          "Fixed_Price": 179183,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1057,7 +1057,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 307350,
+          "Fixed_Price": 310701,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1068,7 +1068,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 871140,
+          "Fixed_Price": 880640,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1079,7 +1079,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2172190,
+          "Fixed_Price": 2195880,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1090,7 +1090,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 4340610,
+          "Fixed_Price": 4387949,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1101,7 +1101,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6509020,
+          "Fixed_Price": 6580007,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1112,7 +1112,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 8677440,
+          "Fixed_Price": 8772076,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1123,7 +1123,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 138210,
+          "Fixed_Price": 139717,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -1134,7 +1134,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 316020,
+          "Fixed_Price": 319466,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -1145,7 +1145,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 502510,
+          "Fixed_Price": 507990,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -1500,7 +1500,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 833,
+          "Fixed_Price": 810,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1511,7 +1511,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 537,
+          "Fixed_Price": 522,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1522,7 +1522,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1052,
+          "Fixed_Price": 1023,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1533,7 +1533,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1825,
+          "Fixed_Price": 1774,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1544,7 +1544,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5175,
+          "Fixed_Price": 5028,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1555,7 +1555,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12904,
+          "Fixed_Price": 12537,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1566,7 +1566,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 25785,
+          "Fixed_Price": 25051,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1577,7 +1577,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 38667,
+          "Fixed_Price": 37566,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1588,7 +1588,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 51548,
+          "Fixed_Price": 50080,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1599,7 +1599,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 821,
+          "Fixed_Price": 798,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -1610,7 +1610,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1877,
+          "Fixed_Price": 1824,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -1621,7 +1621,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2985,
+          "Fixed_Price": 2900,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -1632,7 +1632,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 833,
+          "Fixed_Price": 810,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1643,7 +1643,7 @@
           "Num": 15920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 565,
+          "Fixed_Price": 549,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1654,7 +1654,7 @@
           "Num": 31920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1082,
+          "Fixed_Price": 1052,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1665,7 +1665,7 @@
           "Num": 55920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1859,
+          "Fixed_Price": 1807,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1676,7 +1676,7 @@
           "Num": 159920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5077,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1687,7 +1687,7 @@
           "Num": 399920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 12991,
+          "Fixed_Price": 12621,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1698,7 +1698,7 @@
           "Num": 799920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 25935,
+          "Fixed_Price": 25197,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1709,7 +1709,7 @@
           "Num": 1199920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 38879,
+          "Fixed_Price": 37772,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1720,7 +1720,7 @@
           "Num": 1599920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 51823,
+          "Fixed_Price": 50347,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -1731,7 +1731,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 833,
+          "Fixed_Price": 810,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1742,7 +1742,7 @@
           "Num": 17310,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 634,
+          "Fixed_Price": 616,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1753,7 +1753,7 @@
           "Num": 40270,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1385,
+          "Fixed_Price": 1346,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1764,7 +1764,7 @@
           "Num": 64350,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2210,
+          "Fixed_Price": 2148,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1775,7 +1775,7 @@
           "Num": 162120,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5391,
+          "Fixed_Price": 5238,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1786,7 +1786,7 @@
           "Num": 324750,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 10918,
+          "Fixed_Price": 10607,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1797,7 +1797,7 @@
           "Num": 811950,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 27290,
+          "Fixed_Price": 26513,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1808,7 +1808,7 @@
           "Num": 1120000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 37443,
+          "Fixed_Price": 36377,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -1819,7 +1819,7 @@
           "Num": 1618400,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 54000,
+          "Fixed_Price": 52462,
           "Is_discount": 1,
           "Is_ios": 1
         }
@@ -1976,7 +1976,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1987,7 +1987,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 74,
+          "Fixed_Price": 84,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -1998,7 +1998,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 145,
+          "Fixed_Price": 165,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2009,7 +2009,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 251,
+          "Fixed_Price": 286,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2020,7 +2020,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 713,
+          "Fixed_Price": 812,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2031,7 +2031,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1778,
+          "Fixed_Price": 2027,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2042,7 +2042,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3554,
+          "Fixed_Price": 4051,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2053,7 +2053,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5330,
+          "Fixed_Price": 6076,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2064,7 +2064,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 7106,
+          "Fixed_Price": 8101,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -2075,7 +2075,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 113,
+          "Fixed_Price": 128,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -2086,7 +2086,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 258,
+          "Fixed_Price": 294,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -2097,7 +2097,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 411,
+          "Fixed_Price": 468,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -2108,7 +2108,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2119,7 +2119,7 @@
           "Num": 15920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 77,
+          "Fixed_Price": 87,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2130,7 +2130,7 @@
           "Num": 31920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 148,
+          "Fixed_Price": 168,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2141,7 +2141,7 @@
           "Num": 55920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 255,
+          "Fixed_Price": 290,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2152,7 +2152,7 @@
           "Num": 159920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 718,
+          "Fixed_Price": 818,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2163,7 +2163,7 @@
           "Num": 399920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1786,
+          "Fixed_Price": 2036,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2174,7 +2174,7 @@
           "Num": 799920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 3566,
+          "Fixed_Price": 4065,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2185,7 +2185,7 @@
           "Num": 1199920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5346,
+          "Fixed_Price": 6094,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2196,7 +2196,7 @@
           "Num": 1599920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7126,
+          "Fixed_Price": 8124,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2207,7 +2207,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2218,7 +2218,7 @@
           "Num": 15920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2229,7 +2229,7 @@
           "Num": 31920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2240,7 +2240,7 @@
           "Num": 55920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2251,7 +2251,7 @@
           "Num": 159920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2262,7 +2262,7 @@
           "Num": 399920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2273,7 +2273,7 @@
           "Num": 799920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2284,7 +2284,7 @@
           "Num": 1199920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2295,7 +2295,7 @@
           "Num": 1599920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2306,7 +2306,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2317,7 +2317,7 @@
           "Num": 17310,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2328,7 +2328,7 @@
           "Num": 40270,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2339,7 +2339,7 @@
           "Num": 64350,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2350,7 +2350,7 @@
           "Num": 162120,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2361,7 +2361,7 @@
           "Num": 324750,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2372,7 +2372,7 @@
           "Num": 811950,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2383,7 +2383,7 @@
           "Num": 1120000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2394,7 +2394,7 @@
           "Num": 1618400,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2405,7 +2405,7 @@
           "Num": 24000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2416,7 +2416,7 @@
           "Num": 15920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2427,7 +2427,7 @@
           "Num": 31920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2438,7 +2438,7 @@
           "Num": 55920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2449,7 +2449,7 @@
           "Num": 159920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2460,7 +2460,7 @@
           "Num": 399920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2471,7 +2471,7 @@
           "Num": 799920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2482,7 +2482,7 @@
           "Num": 1199920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2493,7 +2493,7 @@
           "Num": 1599920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2504,7 +2504,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2515,7 +2515,7 @@
           "Num": 17310,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2526,7 +2526,7 @@
           "Num": 40270,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2537,7 +2537,7 @@
           "Num": 64350,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2548,7 +2548,7 @@
           "Num": 162120,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2559,7 +2559,7 @@
           "Num": 324750,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2570,7 +2570,7 @@
           "Num": 811950,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2581,7 +2581,7 @@
           "Num": 1120000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2592,7 +2592,7 @@
           "Num": 1618400,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2603,7 +2603,7 @@
           "Num": 24000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2614,7 +2614,7 @@
           "Num": 15920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2625,7 +2625,7 @@
           "Num": 31920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2636,7 +2636,7 @@
           "Num": 55920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2647,7 +2647,7 @@
           "Num": 159920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2658,7 +2658,7 @@
           "Num": 399920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2669,7 +2669,7 @@
           "Num": 799920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2680,7 +2680,7 @@
           "Num": 1199920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2691,7 +2691,7 @@
           "Num": 1599920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2702,7 +2702,7 @@
           "Num": 24000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2713,7 +2713,7 @@
           "Num": 17310,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2724,7 +2724,7 @@
           "Num": 40270,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2735,7 +2735,7 @@
           "Num": 64350,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2746,7 +2746,7 @@
           "Num": 162120,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2757,7 +2757,7 @@
           "Num": 324750,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2768,7 +2768,7 @@
           "Num": 811950,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2779,7 +2779,7 @@
           "Num": 1120000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2790,7 +2790,7 @@
           "Num": 1618400,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2801,7 +2801,7 @@
           "Num": 24000,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2812,7 +2812,7 @@
           "Num": 15920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2823,7 +2823,7 @@
           "Num": 31920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2834,7 +2834,7 @@
           "Num": 55920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2845,7 +2845,7 @@
           "Num": 159920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2856,7 +2856,7 @@
           "Num": 399920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2867,7 +2867,7 @@
           "Num": 799920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2878,7 +2878,7 @@
           "Num": 1199920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2889,7 +2889,7 @@
           "Num": 1599920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -2900,7 +2900,7 @@
           "Num": 24000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2911,7 +2911,7 @@
           "Num": 17310,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2922,7 +2922,7 @@
           "Num": 40270,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2933,7 +2933,7 @@
           "Num": 64350,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2944,7 +2944,7 @@
           "Num": 162120,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2955,7 +2955,7 @@
           "Num": 324750,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2966,7 +2966,7 @@
           "Num": 811950,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2977,7 +2977,7 @@
           "Num": 1120000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2988,7 +2988,7 @@
           "Num": 1618400,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -2999,7 +2999,7 @@
           "Num": 24000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3010,7 +3010,7 @@
           "Num": 15920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3021,7 +3021,7 @@
           "Num": 31920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3032,7 +3032,7 @@
           "Num": 55920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3043,7 +3043,7 @@
           "Num": 159920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3054,7 +3054,7 @@
           "Num": 399920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3065,7 +3065,7 @@
           "Num": 799920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3076,7 +3076,7 @@
           "Num": 1199920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3087,7 +3087,7 @@
           "Num": 1599920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3098,7 +3098,7 @@
           "Num": 24000,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3109,7 +3109,7 @@
           "Num": 17310,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3120,7 +3120,7 @@
           "Num": 40270,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3131,7 +3131,7 @@
           "Num": 64350,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3142,7 +3142,7 @@
           "Num": 162120,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3153,7 +3153,7 @@
           "Num": 324750,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3164,7 +3164,7 @@
           "Num": 811950,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3175,7 +3175,7 @@
           "Num": 1120000,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3186,7 +3186,7 @@
           "Num": 1618400,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3197,7 +3197,7 @@
           "Num": 24000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3208,7 +3208,7 @@
           "Num": 15920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3219,7 +3219,7 @@
           "Num": 31920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3230,7 +3230,7 @@
           "Num": 55920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3241,7 +3241,7 @@
           "Num": 159920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3252,7 +3252,7 @@
           "Num": 399920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3263,7 +3263,7 @@
           "Num": 799920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3274,7 +3274,7 @@
           "Num": 1199920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3285,7 +3285,7 @@
           "Num": 1599920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3296,7 +3296,7 @@
           "Num": 24000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3307,7 +3307,7 @@
           "Num": 17310,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3318,7 +3318,7 @@
           "Num": 40270,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3329,7 +3329,7 @@
           "Num": 64350,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3340,7 +3340,7 @@
           "Num": 162120,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3351,7 +3351,7 @@
           "Num": 324750,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3362,7 +3362,7 @@
           "Num": 811950,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3373,7 +3373,7 @@
           "Num": 1120000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3384,7 +3384,7 @@
           "Num": 1618400,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3395,7 +3395,7 @@
           "Num": 24000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3406,7 +3406,7 @@
           "Num": 15920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3417,7 +3417,7 @@
           "Num": 31920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3428,7 +3428,7 @@
           "Num": 55920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3439,7 +3439,7 @@
           "Num": 159920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3450,7 +3450,7 @@
           "Num": 399920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3461,7 +3461,7 @@
           "Num": 799920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3472,7 +3472,7 @@
           "Num": 1199920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3483,7 +3483,7 @@
           "Num": 1599920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3494,7 +3494,7 @@
           "Num": 24000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3505,7 +3505,7 @@
           "Num": 17310,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3516,7 +3516,7 @@
           "Num": 40270,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3527,7 +3527,7 @@
           "Num": 64350,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3538,7 +3538,7 @@
           "Num": 162120,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3549,7 +3549,7 @@
           "Num": 324750,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3560,7 +3560,7 @@
           "Num": 811950,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3571,7 +3571,7 @@
           "Num": 1120000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3582,7 +3582,7 @@
           "Num": 1618400,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3593,7 +3593,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3604,7 +3604,7 @@
           "Num": 15920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3615,7 +3615,7 @@
           "Num": 31920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3626,7 +3626,7 @@
           "Num": 55920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3637,7 +3637,7 @@
           "Num": 159920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3648,7 +3648,7 @@
           "Num": 399920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3659,7 +3659,7 @@
           "Num": 799920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3670,7 +3670,7 @@
           "Num": 1199920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3681,7 +3681,7 @@
           "Num": 1599920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3692,7 +3692,7 @@
           "Num": 24000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3703,7 +3703,7 @@
           "Num": 17310,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3714,7 +3714,7 @@
           "Num": 40270,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3725,7 +3725,7 @@
           "Num": 64350,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3736,7 +3736,7 @@
           "Num": 162120,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3747,7 +3747,7 @@
           "Num": 324750,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3758,7 +3758,7 @@
           "Num": 811950,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3769,7 +3769,7 @@
           "Num": 1120000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3780,7 +3780,7 @@
           "Num": 1618400,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3791,7 +3791,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3802,7 +3802,7 @@
           "Num": 15920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3813,7 +3813,7 @@
           "Num": 31920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3824,7 +3824,7 @@
           "Num": 55920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3835,7 +3835,7 @@
           "Num": 159920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 698,
+          "Fixed_Price": 795,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3846,7 +3846,7 @@
           "Num": 399920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1742,
+          "Fixed_Price": 1986,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3857,7 +3857,7 @@
           "Num": 799920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 3484,
+          "Fixed_Price": 3972,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3868,7 +3868,7 @@
           "Num": 1199920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5225,
+          "Fixed_Price": 5956,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3879,7 +3879,7 @@
           "Num": 1599920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 6966,
+          "Fixed_Price": 7941,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3890,7 +3890,7 @@
           "Num": 24000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3901,7 +3901,7 @@
           "Num": 17310,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3912,7 +3912,7 @@
           "Num": 40270,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3923,7 +3923,7 @@
           "Num": 64350,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3934,7 +3934,7 @@
           "Num": 162120,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3945,7 +3945,7 @@
           "Num": 324750,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3956,7 +3956,7 @@
           "Num": 811950,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3967,7 +3967,7 @@
           "Num": 1120000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3978,7 +3978,7 @@
           "Num": 1618400,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -3989,7 +3989,7 @@
           "Num": 24000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -3999,217 +3999,217 @@
           "Price": 1.99,
           "Num": 15920,
           "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 88,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 3.99,
+          "Num": 31920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 180,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 6.99,
+          "Num": 55920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 315,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 19.99,
+          "Num": 159920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 902,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 49.99,
+          "Num": 399920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 2259,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 99.99,
+          "Num": 799920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 4519,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 149.99,
+          "Num": 1199920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 6780,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 199.99,
+          "Num": 1599920,
+          "Sort": 11,
+          "Is_Rate": 0,
+          "Fixed_Price": 9040,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 2.99,
+          "Num": 24000,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 133,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 2.19,
+          "Num": 17310,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 101,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 5,
+          "Num": 40270,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 221,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 8.09,
+          "Num": 64350,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 354,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 20,
+          "Num": 162120,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 864,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 40.69,
+          "Num": 324750,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 1751,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 101.99,
+          "Num": 811950,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 4379,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 140,
+          "Num": 1120000,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 6007,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 23,
+          "Channel_Name": "PayerMaxGPAY",
+          "Price": 201.99,
+          "Num": 1618400,
+          "Sort": 10,
+          "Is_Rate": 0,
+          "Fixed_Price": 8664,
+          "Is_discount": 1,
+          "Is_ios": 1
+        },
+        {
+          "Channel_Id": 24,
+          "Channel_Name": "PayerMaxPAPARA",
+          "Price": 2.99,
+          "Num": 24000,
+          "Sort": 12,
+          "Is_Rate": 0,
+          "Fixed_Price": 133,
+          "Is_discount": 1,
+          "Is_ios": 0
+        },
+        {
+          "Channel_Id": 24,
+          "Channel_Name": "PayerMaxPAPARA",
+          "Price": 1.99,
+          "Num": 15920,
+          "Sort": 12,
           "Is_Rate": 0,
           "Fixed_Price": 78,
           "Is_discount": 1,
           "Is_ios": 0
         },
         {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 3.99,
-          "Num": 31920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 158,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 6.99,
-          "Num": 55920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 277,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 19.99,
-          "Num": 159920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 792,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 49.99,
-          "Num": 399920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 1982,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 99.99,
-          "Num": 799920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 3964,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 149.99,
-          "Num": 1199920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 5947,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 199.99,
-          "Num": 1599920,
-          "Sort": 11,
-          "Is_Rate": 0,
-          "Fixed_Price": 7930,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 2.99,
-          "Num": 24000,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 117,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 2.19,
-          "Num": 17310,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 89,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 5,
-          "Num": 40270,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 194,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 8.09,
-          "Num": 64350,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 311,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 20,
-          "Num": 162120,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 758,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 40.69,
-          "Num": 324750,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 1536,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 101.99,
-          "Num": 811950,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 3841,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 140,
-          "Num": 1120000,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 5269,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 23,
-          "Channel_Name": "PayerMaxGPAY",
-          "Price": 201.99,
-          "Num": 1618400,
-          "Sort": 10,
-          "Is_Rate": 0,
-          "Fixed_Price": 7600,
-          "Is_discount": 1,
-          "Is_ios": 1
-        },
-        {
-          "Channel_Id": 24,
-          "Channel_Name": "PayerMaxPAPARA",
-          "Price": 2.99,
-          "Num": 24000,
-          "Sort": 12,
-          "Is_Rate": 0,
-          "Fixed_Price": 117,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
-          "Channel_Id": 24,
-          "Channel_Name": "PayerMaxPAPARA",
-          "Price": 1.99,
-          "Num": 15920,
-          "Sort": 12,
-          "Is_Rate": 0,
-          "Fixed_Price": 69,
-          "Is_discount": 1,
-          "Is_ios": 0
-        },
-        {
           "Channel_Id": 24,
           "Channel_Name": "PayerMaxPAPARA",
           "Price": 3.99,
           "Num": 31920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 140,
+          "Fixed_Price": 159,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4220,7 +4220,7 @@
           "Num": 55920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 245,
+          "Fixed_Price": 279,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4231,7 +4231,7 @@
           "Num": 159920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 703,
+          "Fixed_Price": 801,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4242,7 +4242,7 @@
           "Num": 399920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1758,
+          "Fixed_Price": 2004,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4253,7 +4253,7 @@
           "Num": 799920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 3516,
+          "Fixed_Price": 4008,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4264,7 +4264,7 @@
           "Num": 1199920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5275,
+          "Fixed_Price": 6013,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4275,7 +4275,7 @@
           "Num": 1599920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 7033,
+          "Fixed_Price": 8018,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4286,7 +4286,7 @@
           "Num": 24000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4297,7 +4297,7 @@
           "Num": 17310,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4308,7 +4308,7 @@
           "Num": 40270,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4319,7 +4319,7 @@
           "Num": 64350,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4330,7 +4330,7 @@
           "Num": 162120,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4341,7 +4341,7 @@
           "Num": 324750,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4352,7 +4352,7 @@
           "Num": 811950,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4363,7 +4363,7 @@
           "Num": 1120000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4374,7 +4374,7 @@
           "Num": 1618400,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4385,7 +4385,7 @@
           "Num": 24000,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4396,7 +4396,7 @@
           "Num": 15920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 73,
+          "Fixed_Price": 83,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4407,7 +4407,7 @@
           "Num": 31920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 144,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4418,7 +4418,7 @@
           "Num": 55920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 250,
+          "Fixed_Price": 285,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4429,7 +4429,7 @@
           "Num": 159920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 709,
+          "Fixed_Price": 808,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4440,7 +4440,7 @@
           "Num": 399920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 1770,
+          "Fixed_Price": 2017,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4451,7 +4451,7 @@
           "Num": 799920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 3537,
+          "Fixed_Price": 4032,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4462,7 +4462,7 @@
           "Num": 1199920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 5304,
+          "Fixed_Price": 6047,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4473,7 +4473,7 @@
           "Num": 1599920,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 7071,
+          "Fixed_Price": 8061,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4484,7 +4484,7 @@
           "Num": 24000,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4495,7 +4495,7 @@
           "Num": 17310,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4506,7 +4506,7 @@
           "Num": 40270,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4517,7 +4517,7 @@
           "Num": 64350,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4528,7 +4528,7 @@
           "Num": 162120,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4539,7 +4539,7 @@
           "Num": 324750,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4550,7 +4550,7 @@
           "Num": 811950,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4561,7 +4561,7 @@
           "Num": 1120000,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4572,7 +4572,7 @@
           "Num": 1618400,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4583,7 +4583,7 @@
           "Num": 24000,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4594,7 +4594,7 @@
           "Num": 15920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 73,
+          "Fixed_Price": 83,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4605,7 +4605,7 @@
           "Num": 31920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 144,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4616,7 +4616,7 @@
           "Num": 55920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 250,
+          "Fixed_Price": 285,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4627,7 +4627,7 @@
           "Num": 159920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 709,
+          "Fixed_Price": 808,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4638,7 +4638,7 @@
           "Num": 399920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 1770,
+          "Fixed_Price": 2017,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4649,7 +4649,7 @@
           "Num": 799920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 3537,
+          "Fixed_Price": 4032,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4660,7 +4660,7 @@
           "Num": 1199920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 5304,
+          "Fixed_Price": 6047,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4671,7 +4671,7 @@
           "Num": 1599920,
           "Sort": 14,
           "Is_Rate": 0,
-          "Fixed_Price": 7071,
+          "Fixed_Price": 8061,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4682,7 +4682,7 @@
           "Num": 24000,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4693,7 +4693,7 @@
           "Num": 17310,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4704,7 +4704,7 @@
           "Num": 40270,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4715,7 +4715,7 @@
           "Num": 64350,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4726,7 +4726,7 @@
           "Num": 162120,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4737,7 +4737,7 @@
           "Num": 324750,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4748,7 +4748,7 @@
           "Num": 811950,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4759,7 +4759,7 @@
           "Num": 1120000,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4770,7 +4770,7 @@
           "Num": 1618400,
           "Sort": 13,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4781,7 +4781,7 @@
           "Num": 24000,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4792,7 +4792,7 @@
           "Num": 15920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 71,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4803,7 +4803,7 @@
           "Num": 31920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 143,
+          "Fixed_Price": 163,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4814,7 +4814,7 @@
           "Num": 55920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 250,
+          "Fixed_Price": 285,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4825,7 +4825,7 @@
           "Num": 159920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 717,
+          "Fixed_Price": 817,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4836,7 +4836,7 @@
           "Num": 399920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 1794,
+          "Fixed_Price": 2045,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4847,7 +4847,7 @@
           "Num": 799920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 3589,
+          "Fixed_Price": 4091,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4858,7 +4858,7 @@
           "Num": 1199920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 5383,
+          "Fixed_Price": 6137,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4869,7 +4869,7 @@
           "Num": 1599920,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 7178,
+          "Fixed_Price": 8183,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -4880,7 +4880,7 @@
           "Num": 24000,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 117,
+          "Fixed_Price": 133,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4891,7 +4891,7 @@
           "Num": 17310,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 101,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4902,7 +4902,7 @@
           "Num": 40270,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 194,
+          "Fixed_Price": 221,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4913,7 +4913,7 @@
           "Num": 64350,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 311,
+          "Fixed_Price": 354,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4924,7 +4924,7 @@
           "Num": 162120,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 758,
+          "Fixed_Price": 864,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4935,7 +4935,7 @@
           "Num": 324750,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 1536,
+          "Fixed_Price": 1751,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4946,7 +4946,7 @@
           "Num": 811950,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 3841,
+          "Fixed_Price": 4379,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4957,7 +4957,7 @@
           "Num": 1120000,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 5269,
+          "Fixed_Price": 6007,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -4968,7 +4968,7 @@
           "Num": 1618400,
           "Sort": 15,
           "Is_Rate": 0,
-          "Fixed_Price": 7600,
+          "Fixed_Price": 8664,
           "Is_discount": 1,
           "Is_ios": 1
         }
@@ -4986,7 +4986,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 10.64,
+          "Fixed_Price": 9.66,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -4997,7 +4997,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6.77,
+          "Fixed_Price": 6.14,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5008,7 +5008,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 13.26,
+          "Fixed_Price": 12.03,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5019,7 +5019,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 23,
+          "Fixed_Price": 20.88,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5030,7 +5030,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 65.2,
+          "Fixed_Price": 59.19,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5041,7 +5041,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 162.59,
+          "Fixed_Price": 147.62,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5052,7 +5052,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 324.9,
+          "Fixed_Price": 294.99,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5063,7 +5063,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 487.22,
+          "Fixed_Price": 442.38,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5074,7 +5074,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 649.53,
+          "Fixed_Price": 589.75,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5085,7 +5085,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 10.34,
+          "Fixed_Price": 9.38,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -5096,7 +5096,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 23.65,
+          "Fixed_Price": 21.47,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -5107,7 +5107,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 37.61,
+          "Fixed_Price": 34.14,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -5264,7 +5264,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1700,
+          "Fixed_Price": 1492,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5275,7 +5275,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1100,
+          "Fixed_Price": 965,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5286,7 +5286,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2150,
+          "Fixed_Price": 1887,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5297,7 +5297,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3740,
+          "Fixed_Price": 3284,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5308,7 +5308,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 10600,
+          "Fixed_Price": 9308,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5319,7 +5319,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 26430,
+          "Fixed_Price": 23208,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5330,7 +5330,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 52820,
+          "Fixed_Price": 46381,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5341,7 +5341,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 79210,
+          "Fixed_Price": 69555,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5352,7 +5352,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 105610,
+          "Fixed_Price": 92737,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -5363,7 +5363,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1680,
+          "Fixed_Price": 1475,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -5374,7 +5374,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3840,
+          "Fixed_Price": 3371,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -5385,7 +5385,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6110,
+          "Fixed_Price": 5365,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -7918,7 +7918,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3.21,
+          "Fixed_Price": 2.84,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7929,7 +7929,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2.03,
+          "Fixed_Price": 1.79,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7940,7 +7940,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3.99,
+          "Fixed_Price": 3.53,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7951,7 +7951,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6.92,
+          "Fixed_Price": 6.12,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7962,7 +7962,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 19.62,
+          "Fixed_Price": 17.36,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7973,7 +7973,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 48.93,
+          "Fixed_Price": 43.3,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7984,7 +7984,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 97.79,
+          "Fixed_Price": 86.54,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -7995,7 +7995,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 146.64,
+          "Fixed_Price": 129.77,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8006,7 +8006,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 195.49,
+          "Fixed_Price": 173.01,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8017,7 +8017,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3.11,
+          "Fixed_Price": 2.75,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8028,7 +8028,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 7.11,
+          "Fixed_Price": 6.29,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8039,7 +8039,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 11.32,
+          "Fixed_Price": 10.01,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -8057,7 +8057,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 33,
+          "Fixed_Price": 30,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8068,7 +8068,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 21,
+          "Fixed_Price": 19,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8079,7 +8079,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 41,
+          "Fixed_Price": 37,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8090,7 +8090,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 72,
+          "Fixed_Price": 65,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8101,7 +8101,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 206,
+          "Fixed_Price": 185,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8112,7 +8112,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 513,
+          "Fixed_Price": 460,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8123,7 +8123,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1026,
+          "Fixed_Price": 919,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8134,7 +8134,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1539,
+          "Fixed_Price": 1379,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8145,7 +8145,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2052,
+          "Fixed_Price": 1838,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8156,7 +8156,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 32,
+          "Fixed_Price": 29,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8167,7 +8167,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 74,
+          "Fixed_Price": 67,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8178,7 +8178,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 118,
+          "Fixed_Price": 106,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8189,7 +8189,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 33,
+          "Fixed_Price": 30,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8200,7 +8200,7 @@
           "Num": 15920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 22,
+          "Fixed_Price": 20,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8211,7 +8211,7 @@
           "Num": 31920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 43,
+          "Fixed_Price": 39,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8222,7 +8222,7 @@
           "Num": 55920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 73,
+          "Fixed_Price": 66,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8233,7 +8233,7 @@
           "Num": 159920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 207,
+          "Fixed_Price": 186,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8244,7 +8244,7 @@
           "Num": 399920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 515,
+          "Fixed_Price": 462,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8255,7 +8255,7 @@
           "Num": 799920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1030,
+          "Fixed_Price": 923,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8266,7 +8266,7 @@
           "Num": 1199920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1544,
+          "Fixed_Price": 1383,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8277,7 +8277,7 @@
           "Num": 1599920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2058,
+          "Fixed_Price": 1844,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8288,7 +8288,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 33,
+          "Fixed_Price": 30,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8299,7 +8299,7 @@
           "Num": 15920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 22,
+          "Fixed_Price": 20,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8310,7 +8310,7 @@
           "Num": 31920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 43,
+          "Fixed_Price": 39,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8321,7 +8321,7 @@
           "Num": 55920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 74,
+          "Fixed_Price": 67,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8332,7 +8332,7 @@
           "Num": 159920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 208,
+          "Fixed_Price": 187,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8343,7 +8343,7 @@
           "Num": 399920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 517,
+          "Fixed_Price": 463,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -8354,7 +8354,7 @@
           "Num": 799920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1032,
+          "Fixed_Price": 925,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -8365,7 +8365,7 @@
           "Num": 1199920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1547,
+          "Fixed_Price": 1386,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -8376,7 +8376,7 @@
           "Num": 1599920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 2063,
+          "Fixed_Price": 1848,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -8387,7 +8387,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 33,
+          "Fixed_Price": 30,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8398,7 +8398,7 @@
           "Num": 17310,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 25,
+          "Fixed_Price": 23,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8409,7 +8409,7 @@
           "Num": 40270,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 55,
+          "Fixed_Price": 50,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8420,7 +8420,7 @@
           "Num": 64350,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 89,
+          "Fixed_Price": 80,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8431,7 +8431,7 @@
           "Num": 162120,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 217,
+          "Fixed_Price": 195,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8442,7 +8442,7 @@
           "Num": 324750,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 439,
+          "Fixed_Price": 394,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8453,7 +8453,7 @@
           "Num": 811950,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 985,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8464,7 +8464,7 @@
           "Num": 1120000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1508,
+          "Fixed_Price": 1351,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -8475,7 +8475,7 @@
           "Num": 1618400,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2175,
+          "Fixed_Price": 1948,
           "Is_discount": 1,
           "Is_ios": 1
         }
@@ -8493,7 +8493,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 399,
+          "Fixed_Price": 407,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8504,7 +8504,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 255,
+          "Fixed_Price": 260,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8515,7 +8515,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 500,
+          "Fixed_Price": 510,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8526,7 +8526,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 868,
+          "Fixed_Price": 886,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8537,7 +8537,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2460,
+          "Fixed_Price": 2512,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8548,7 +8548,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6135,
+          "Fixed_Price": 6264,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8559,7 +8559,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12259,
+          "Fixed_Price": 12518,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8570,7 +8570,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 18383,
+          "Fixed_Price": 18772,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8581,7 +8581,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 24508,
+          "Fixed_Price": 25027,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -8592,7 +8592,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 390,
+          "Fixed_Price": 398,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8603,7 +8603,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 892,
+          "Fixed_Price": 910,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -8614,7 +8614,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1419,
+          "Fixed_Price": 1449,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -13980,7 +13980,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12.13,
+          "Fixed_Price": 11.19,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -13991,7 +13991,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 8.04,
+          "Fixed_Price": 7.41,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14002,7 +14002,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 15.75,
+          "Fixed_Price": 14.53,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14013,7 +14013,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 27.31,
+          "Fixed_Price": 25.19,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14024,7 +14024,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 77.4,
+          "Fixed_Price": 71.41,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14035,7 +14035,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 193.01,
+          "Fixed_Price": 178.07,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14046,7 +14046,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 385.69,
+          "Fixed_Price": 355.84,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14057,7 +14057,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 578.38,
+          "Fixed_Price": 533.62,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14068,7 +14068,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 771.06,
+          "Fixed_Price": 711.39,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14079,7 +14079,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 12.28,
+          "Fixed_Price": 11.32,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14090,7 +14090,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 28.08,
+          "Fixed_Price": 25.9,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14101,7 +14101,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 44.65,
+          "Fixed_Price": 41.19,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -14119,7 +14119,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 929,
+          "Fixed_Price": 949,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14130,7 +14130,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 594,
+          "Fixed_Price": 607,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14141,7 +14141,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1164,
+          "Fixed_Price": 1189,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14152,7 +14152,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2019,
+          "Fixed_Price": 2063,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14163,7 +14163,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5724,
+          "Fixed_Price": 5848,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14174,7 +14174,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 14275,
+          "Fixed_Price": 14586,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14185,7 +14185,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 28525,
+          "Fixed_Price": 29146,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14196,7 +14196,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 42775,
+          "Fixed_Price": 43707,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14207,7 +14207,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 57025,
+          "Fixed_Price": 58267,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14218,7 +14218,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 908,
+          "Fixed_Price": 927,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14229,7 +14229,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2076,
+          "Fixed_Price": 2121,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14240,7 +14240,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 3302,
+          "Fixed_Price": 3373,
           "Is_discount": 0,
           "Is_ios": 1
         }
@@ -14258,7 +14258,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14269,7 +14269,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14280,7 +14280,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14291,7 +14291,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14302,7 +14302,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14313,7 +14313,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14324,7 +14324,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14335,7 +14335,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14346,7 +14346,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -14357,7 +14357,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 162,
+          "Fixed_Price": 158,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14368,7 +14368,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 370,
+          "Fixed_Price": 361,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14379,7 +14379,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 589,
+          "Fixed_Price": 574,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -14390,7 +14390,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14401,7 +14401,7 @@
           "Num": 15920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14412,7 +14412,7 @@
           "Num": 31920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14423,7 +14423,7 @@
           "Num": 55920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14434,7 +14434,7 @@
           "Num": 159920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14445,7 +14445,7 @@
           "Num": 399920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14456,7 +14456,7 @@
           "Num": 799920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14467,7 +14467,7 @@
           "Num": 1199920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14478,7 +14478,7 @@
           "Num": 1599920,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14489,7 +14489,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14500,7 +14500,7 @@
           "Num": 15920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14511,7 +14511,7 @@
           "Num": 31920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14522,7 +14522,7 @@
           "Num": 55920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14533,7 +14533,7 @@
           "Num": 159920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14544,7 +14544,7 @@
           "Num": 399920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14555,7 +14555,7 @@
           "Num": 799920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14566,7 +14566,7 @@
           "Num": 1199920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14577,7 +14577,7 @@
           "Num": 1599920,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14588,7 +14588,7 @@
           "Num": 24000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14599,7 +14599,7 @@
           "Num": 17310,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14610,7 +14610,7 @@
           "Num": 40270,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14621,7 +14621,7 @@
           "Num": 64350,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14632,7 +14632,7 @@
           "Num": 162120,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14643,7 +14643,7 @@
           "Num": 324750,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14654,7 +14654,7 @@
           "Num": 811950,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14665,7 +14665,7 @@
           "Num": 1120000,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14676,7 +14676,7 @@
           "Num": 1618400,
           "Sort": 2,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14687,7 +14687,7 @@
           "Num": 24000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14698,7 +14698,7 @@
           "Num": 15920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14709,7 +14709,7 @@
           "Num": 31920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14720,7 +14720,7 @@
           "Num": 55920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14731,7 +14731,7 @@
           "Num": 159920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14742,7 +14742,7 @@
           "Num": 399920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14753,7 +14753,7 @@
           "Num": 799920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14764,7 +14764,7 @@
           "Num": 1199920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14775,7 +14775,7 @@
           "Num": 1599920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14786,7 +14786,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14797,7 +14797,7 @@
           "Num": 17310,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14808,7 +14808,7 @@
           "Num": 40270,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14819,7 +14819,7 @@
           "Num": 64350,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14830,7 +14830,7 @@
           "Num": 162120,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14841,7 +14841,7 @@
           "Num": 324750,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14852,7 +14852,7 @@
           "Num": 811950,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14863,7 +14863,7 @@
           "Num": 1120000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14874,7 +14874,7 @@
           "Num": 1618400,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14885,7 +14885,7 @@
           "Num": 24000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14896,7 +14896,7 @@
           "Num": 15920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14907,7 +14907,7 @@
           "Num": 31920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14918,7 +14918,7 @@
           "Num": 55920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14929,7 +14929,7 @@
           "Num": 159920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14940,7 +14940,7 @@
           "Num": 399920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14951,7 +14951,7 @@
           "Num": 799920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14962,7 +14962,7 @@
           "Num": 1199920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14973,7 +14973,7 @@
           "Num": 1599920,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -14984,7 +14984,7 @@
           "Num": 24000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -14995,7 +14995,7 @@
           "Num": 17310,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15006,7 +15006,7 @@
           "Num": 40270,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15017,7 +15017,7 @@
           "Num": 64350,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15028,7 +15028,7 @@
           "Num": 162120,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15039,7 +15039,7 @@
           "Num": 324750,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15050,7 +15050,7 @@
           "Num": 811950,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15061,7 +15061,7 @@
           "Num": 1120000,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15072,7 +15072,7 @@
           "Num": 1618400,
           "Sort": 3,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15083,7 +15083,7 @@
           "Num": 24000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15094,7 +15094,7 @@
           "Num": 15920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15105,7 +15105,7 @@
           "Num": 31920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15116,7 +15116,7 @@
           "Num": 55920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15127,7 +15127,7 @@
           "Num": 159920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15138,7 +15138,7 @@
           "Num": 399920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15149,7 +15149,7 @@
           "Num": 799920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15160,7 +15160,7 @@
           "Num": 1199920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15171,7 +15171,7 @@
           "Num": 1599920,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15182,7 +15182,7 @@
           "Num": 24000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15193,7 +15193,7 @@
           "Num": 17310,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15204,7 +15204,7 @@
           "Num": 40270,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15215,7 +15215,7 @@
           "Num": 64350,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15226,7 +15226,7 @@
           "Num": 162120,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15237,7 +15237,7 @@
           "Num": 324750,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15248,7 +15248,7 @@
           "Num": 811950,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15259,7 +15259,7 @@
           "Num": 1120000,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15270,7 +15270,7 @@
           "Num": 1618400,
           "Sort": 4,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15281,7 +15281,7 @@
           "Num": 24000,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15292,7 +15292,7 @@
           "Num": 15920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15303,7 +15303,7 @@
           "Num": 31920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15314,7 +15314,7 @@
           "Num": 55920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15325,7 +15325,7 @@
           "Num": 159920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15336,7 +15336,7 @@
           "Num": 399920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15347,7 +15347,7 @@
           "Num": 799920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15358,7 +15358,7 @@
           "Num": 1199920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15369,7 +15369,7 @@
           "Num": 1599920,
           "Sort": 6,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15380,7 +15380,7 @@
           "Num": 24000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15391,7 +15391,7 @@
           "Num": 17310,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15402,7 +15402,7 @@
           "Num": 40270,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15413,7 +15413,7 @@
           "Num": 64350,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15424,7 +15424,7 @@
           "Num": 162120,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15435,7 +15435,7 @@
           "Num": 324750,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15446,7 +15446,7 @@
           "Num": 811950,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15457,7 +15457,7 @@
           "Num": 1120000,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15468,7 +15468,7 @@
           "Num": 1618400,
           "Sort": 5,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15479,7 +15479,7 @@
           "Num": 24000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15490,7 +15490,7 @@
           "Num": 15920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15501,7 +15501,7 @@
           "Num": 31920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15512,7 +15512,7 @@
           "Num": 55920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15523,7 +15523,7 @@
           "Num": 159920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15534,7 +15534,7 @@
           "Num": 399920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15545,7 +15545,7 @@
           "Num": 799920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15556,7 +15556,7 @@
           "Num": 1199920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15567,7 +15567,7 @@
           "Num": 1599920,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15578,7 +15578,7 @@
           "Num": 24000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15589,7 +15589,7 @@
           "Num": 17310,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15600,7 +15600,7 @@
           "Num": 40270,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15611,7 +15611,7 @@
           "Num": 64350,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15622,7 +15622,7 @@
           "Num": 162120,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15633,7 +15633,7 @@
           "Num": 324750,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15644,7 +15644,7 @@
           "Num": 811950,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15655,7 +15655,7 @@
           "Num": 1120000,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15666,7 +15666,7 @@
           "Num": 1618400,
           "Sort": 7,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15677,7 +15677,7 @@
           "Num": 24000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15688,7 +15688,7 @@
           "Num": 15920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15699,7 +15699,7 @@
           "Num": 31920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15710,7 +15710,7 @@
           "Num": 55920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15721,7 +15721,7 @@
           "Num": 159920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15732,7 +15732,7 @@
           "Num": 399920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15743,7 +15743,7 @@
           "Num": 799920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15754,7 +15754,7 @@
           "Num": 1199920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15765,7 +15765,7 @@
           "Num": 1599920,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15776,7 +15776,7 @@
           "Num": 24000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15787,7 +15787,7 @@
           "Num": 17310,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15798,7 +15798,7 @@
           "Num": 40270,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15809,7 +15809,7 @@
           "Num": 64350,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15820,7 +15820,7 @@
           "Num": 162120,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15831,7 +15831,7 @@
           "Num": 324750,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15842,7 +15842,7 @@
           "Num": 811950,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15853,7 +15853,7 @@
           "Num": 1120000,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15864,7 +15864,7 @@
           "Num": 1618400,
           "Sort": 8,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15875,7 +15875,7 @@
           "Num": 24000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15886,7 +15886,7 @@
           "Num": 15920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15897,7 +15897,7 @@
           "Num": 31920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15908,7 +15908,7 @@
           "Num": 55920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15919,7 +15919,7 @@
           "Num": 159920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15930,7 +15930,7 @@
           "Num": 399920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15941,7 +15941,7 @@
           "Num": 799920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15952,7 +15952,7 @@
           "Num": 1199920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15963,7 +15963,7 @@
           "Num": 1599920,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -15974,7 +15974,7 @@
           "Num": 24000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15985,7 +15985,7 @@
           "Num": 17310,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -15996,7 +15996,7 @@
           "Num": 40270,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16007,7 +16007,7 @@
           "Num": 64350,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16018,7 +16018,7 @@
           "Num": 162120,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16029,7 +16029,7 @@
           "Num": 324750,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16040,7 +16040,7 @@
           "Num": 811950,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16051,7 +16051,7 @@
           "Num": 1120000,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16062,7 +16062,7 @@
           "Num": 1618400,
           "Sort": 9,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16073,7 +16073,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16084,7 +16084,7 @@
           "Num": 15920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16095,7 +16095,7 @@
           "Num": 31920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16106,7 +16106,7 @@
           "Num": 55920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16117,7 +16117,7 @@
           "Num": 159920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16128,7 +16128,7 @@
           "Num": 399920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16139,7 +16139,7 @@
           "Num": 799920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16150,7 +16150,7 @@
           "Num": 1199920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16161,7 +16161,7 @@
           "Num": 1599920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16172,7 +16172,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16183,7 +16183,7 @@
           "Num": 17310,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16194,7 +16194,7 @@
           "Num": 40270,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16205,7 +16205,7 @@
           "Num": 64350,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16216,7 +16216,7 @@
           "Num": 162120,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16227,7 +16227,7 @@
           "Num": 324750,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16238,7 +16238,7 @@
           "Num": 811950,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16249,7 +16249,7 @@
           "Num": 1120000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16260,7 +16260,7 @@
           "Num": 1618400,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16271,7 +16271,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16282,7 +16282,7 @@
           "Num": 15920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16293,7 +16293,7 @@
           "Num": 31920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16304,7 +16304,7 @@
           "Num": 55920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16315,7 +16315,7 @@
           "Num": 159920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16326,7 +16326,7 @@
           "Num": 399920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16337,7 +16337,7 @@
           "Num": 799920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16348,7 +16348,7 @@
           "Num": 1199920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16359,7 +16359,7 @@
           "Num": 1599920,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16370,7 +16370,7 @@
           "Num": 24000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16381,7 +16381,7 @@
           "Num": 17310,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16392,7 +16392,7 @@
           "Num": 40270,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16403,7 +16403,7 @@
           "Num": 64350,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16414,7 +16414,7 @@
           "Num": 162120,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16425,7 +16425,7 @@
           "Num": 324750,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16436,7 +16436,7 @@
           "Num": 811950,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16447,7 +16447,7 @@
           "Num": 1120000,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16458,7 +16458,7 @@
           "Num": 1618400,
           "Sort": 10,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16469,7 +16469,7 @@
           "Num": 24000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16480,7 +16480,7 @@
           "Num": 15920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16491,7 +16491,7 @@
           "Num": 31920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16502,7 +16502,7 @@
           "Num": 55920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16513,7 +16513,7 @@
           "Num": 159920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16524,7 +16524,7 @@
           "Num": 399920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16535,7 +16535,7 @@
           "Num": 799920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16546,7 +16546,7 @@
           "Num": 1199920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16557,7 +16557,7 @@
           "Num": 1599920,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16568,7 +16568,7 @@
           "Num": 24000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16579,7 +16579,7 @@
           "Num": 17310,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16590,7 +16590,7 @@
           "Num": 40270,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16601,7 +16601,7 @@
           "Num": 64350,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16612,7 +16612,7 @@
           "Num": 162120,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16623,7 +16623,7 @@
           "Num": 324750,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16634,7 +16634,7 @@
           "Num": 811950,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16645,7 +16645,7 @@
           "Num": 1120000,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16656,7 +16656,7 @@
           "Num": 1618400,
           "Sort": 11,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16667,7 +16667,7 @@
           "Num": 24000,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16678,7 +16678,7 @@
           "Num": 15920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 115,
+          "Fixed_Price": 112,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16689,7 +16689,7 @@
           "Num": 31920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 220,
+          "Fixed_Price": 214,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16700,7 +16700,7 @@
           "Num": 55920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 378,
+          "Fixed_Price": 368,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16711,7 +16711,7 @@
           "Num": 159920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1063,
+          "Fixed_Price": 1037,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16722,7 +16722,7 @@
           "Num": 399920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 2643,
+          "Fixed_Price": 2579,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16733,7 +16733,7 @@
           "Num": 799920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5278,
+          "Fixed_Price": 5150,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16744,7 +16744,7 @@
           "Num": 1199920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 7912,
+          "Fixed_Price": 7721,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16755,7 +16755,7 @@
           "Num": 1599920,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 10546,
+          "Fixed_Price": 10292,
           "Is_discount": 1,
           "Is_ios": 0
         },
@@ -16766,7 +16766,7 @@
           "Num": 24000,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 169,
+          "Fixed_Price": 164,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16777,7 +16777,7 @@
           "Num": 17310,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 129,
+          "Fixed_Price": 125,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16788,7 +16788,7 @@
           "Num": 40270,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 282,
+          "Fixed_Price": 275,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16799,7 +16799,7 @@
           "Num": 64350,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 450,
+          "Fixed_Price": 439,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16810,7 +16810,7 @@
           "Num": 162120,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 1099,
+          "Fixed_Price": 1072,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16821,7 +16821,7 @@
           "Num": 324750,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 2226,
+          "Fixed_Price": 2172,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16832,7 +16832,7 @@
           "Num": 811950,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 5565,
+          "Fixed_Price": 5431,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16843,7 +16843,7 @@
           "Num": 1120000,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 7635,
+          "Fixed_Price": 7451,
           "Is_discount": 1,
           "Is_ios": 1
         },
@@ -16854,7 +16854,7 @@
           "Num": 1618400,
           "Sort": 12,
           "Is_Rate": 0,
-          "Fixed_Price": 11011,
+          "Fixed_Price": 10745,
           "Is_discount": 1,
           "Is_ios": 1
         }
@@ -19368,7 +19368,7 @@
           "Num": 24000,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 448,
+          "Fixed_Price": 433,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19379,7 +19379,7 @@
           "Num": 15920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 287,
+          "Fixed_Price": 278,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19390,7 +19390,7 @@
           "Num": 31920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 563,
+          "Fixed_Price": 545,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19401,7 +19401,7 @@
           "Num": 55920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 977,
+          "Fixed_Price": 945,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19412,7 +19412,7 @@
           "Num": 159920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 2771,
+          "Fixed_Price": 2678,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19423,7 +19423,7 @@
           "Num": 399920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 6910,
+          "Fixed_Price": 6678,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19434,7 +19434,7 @@
           "Num": 799920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 13808,
+          "Fixed_Price": 13344,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19445,7 +19445,7 @@
           "Num": 1199920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 20706,
+          "Fixed_Price": 20010,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19456,7 +19456,7 @@
           "Num": 1599920,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 27605,
+          "Fixed_Price": 26677,
           "Is_discount": 0,
           "Is_ios": 0
         },
@@ -19467,7 +19467,7 @@
           "Num": 17310,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 439,
+          "Fixed_Price": 425,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -19478,7 +19478,7 @@
           "Num": 40270,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1005,
+          "Fixed_Price": 972,
           "Is_discount": 0,
           "Is_ios": 1
         },
@@ -19489,7 +19489,7 @@
           "Num": 64350,
           "Sort": 1,
           "Is_Rate": 1,
-          "Fixed_Price": 1598,
+          "Fixed_Price": 1545,
           "Is_discount": 0,
           "Is_ios": 1
         }
