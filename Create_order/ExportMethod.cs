@@ -41,7 +41,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\b_v3_pay_list.xlsx";
+            string path = desktopPath + @"\config_all\Talka-Ios-Test\b_v3_pay_list.xlsx";
 
             List<Country> countries = country_Config.Country;
 
@@ -105,24 +105,27 @@ namespace Create_order
                                         }
                                     }
 
-                                    //这里是默认的基础配置
-                                    data_detail_coin.Add($"{id}");
-                                    data_detail_coin.Add($"{1}");    //type，1为钻石；2为vip
-                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}" + " Coins");
-                                    data_detail_coin.Add(countries[j].Country_Code);     //对应配置的国家CODE
-                                    data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
-                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}");
-                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price}");
-                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Status}");    //是否启用配置
-                                    data_detail_coin.Add($"{k + 1}");    //排序
-                                    data_detail_coin.Add(appleID); //苹果产品ID
-                                    data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Discount}");    //折扣
-                                    data_detail_coin.Add($"{1}");    //是否是ios应用
-                                    data_detail_coin.Add($"{is_first_recharge}");
+                                    if (appleID != "")
+                                    {
+                                        //这里是默认的基础配置
+                                        data_detail_coin.Add($"{id}");
+                                        data_detail_coin.Add($"{1}");    //type，1为钻石；2为vip
+                                        data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}" + " Coins");
+                                        data_detail_coin.Add(countries[j].Country_Code);     //对应配置的国家CODE
+                                        data_detail_coin.Add(const_config.Apps[index].AppName);      //对应配置的APP名称
+                                        data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Coin_Count}");
+                                        data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Price}");
+                                        data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Status}");    //是否启用配置
+                                        data_detail_coin.Add($"{k + 1}");    //排序
+                                        data_detail_coin.Add(appleID); //苹果产品ID
+                                        data_detail_coin.Add($"{countries[j].Coin_Pay_Detail_Apple.PayMethod_Price[k].Discount}");    //折扣
+                                        data_detail_coin.Add($"{1}");    //是否是ios应用
+                                        data_detail_coin.Add($"{is_first_recharge}");
 
-                                    body.Add(data_detail_coin);
+                                        body.Add(data_detail_coin);
 
-                                    id++;
+                                        id++;
+                                    }
                                 }
                             }
                             //代表的是这里是安卓的应用
@@ -197,7 +200,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\b_v3_pay_type.xlsx";
+            string path = desktopPath + @"\config_all\Talka-Ios-Test\b_v3_pay_type.xlsx";
 
             for (int i = 0; i < const_config.PayMethod_Info.Count; i++)
             {
@@ -236,7 +239,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\b_v3_pay_channel.xlsx";
+            string path = desktopPath + @"\config_all\Talka-Ios-Test\b_v3_pay_channel.xlsx";
 
             int id = ModuleSupport.PAYCHANNEL_BEGIN_ID;
 
@@ -291,7 +294,7 @@ namespace Create_order
 
             //获取路径
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string path = desktopPath + @"\config_all\Talka\b_v3_channel_price.xlsx";
+            string path = desktopPath + @"\config_all\Talka-Ios-Test\b_v3_channel_price.xlsx";
 
             int id;
 
