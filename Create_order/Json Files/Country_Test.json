@@ -10,7 +10,7 @@
             "Currency_Code": "IRR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -96,54 +96,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -159,18 +111,12 @@
             "Currency_Code": "TRY",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
                 "Currency": "USD",
                 "PayMethod_Price": [
-                    {
-                        "Price": 2.99,
-                        "Coin_Count": 29900,
-                        "Status": 1,
-                        "Discount": 0
-                    },
                     {
                         "Price": 1.99,
                         "Coin_Count": 19900,
@@ -245,54 +191,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -308,7 +206,7 @@
             "Currency_Code": "SYP",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -394,54 +292,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -457,7 +307,7 @@
             "Currency_Code": "LBP",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -543,54 +393,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -606,7 +408,7 @@
             "Currency_Code": "ILS",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -692,54 +494,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -755,7 +509,7 @@
             "Currency_Code": "JOD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -841,54 +595,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -904,7 +610,7 @@
             "Currency_Code": "IQD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -990,54 +696,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1053,7 +711,7 @@
             "Currency_Code": "YER",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1139,54 +797,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1202,7 +812,7 @@
             "Currency_Code": "AFN",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1288,54 +898,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1351,7 +913,7 @@
             "Currency_Code": "EGP",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1437,54 +999,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1500,7 +1014,7 @@
             "Currency_Code": "SDG",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1586,54 +1100,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1649,7 +1115,7 @@
             "Currency_Code": "TND",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1735,54 +1201,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1798,7 +1216,7 @@
             "Currency_Code": "DZD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -1884,54 +1302,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -1947,7 +1317,7 @@
             "Currency_Code": "MAD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2033,54 +1403,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2096,7 +1418,7 @@
             "Currency_Code": "SOS",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2182,54 +1504,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2245,7 +1519,7 @@
             "Currency_Code": "QAR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2331,54 +1605,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2394,7 +1620,7 @@
             "Currency_Code": "ILS",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2480,54 +1706,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2543,7 +1721,7 @@
             "Currency_Code": "AED",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2629,54 +1807,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2692,7 +1822,7 @@
             "Currency_Code": "KWD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2778,54 +1908,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2841,7 +1923,7 @@
             "Currency_Code": "SAR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -2927,54 +2009,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -2990,7 +2024,7 @@
             "Currency_Code": "OMR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3076,54 +2110,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3139,7 +2125,7 @@
             "Currency_Code": "MRO",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3225,54 +2211,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3288,7 +2226,7 @@
             "Currency_Code": "CYP",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3374,54 +2312,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3437,7 +2327,7 @@
             "Currency_Code": "BHD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3523,54 +2413,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3586,7 +2428,7 @@
             "Currency_Code": "PKR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3672,54 +2514,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3735,7 +2529,7 @@
             "Currency_Code": "INR",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3821,54 +2615,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -3884,7 +2630,7 @@
             "Currency_Code": "BDT",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -3970,54 +2716,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 2.19,
-                        "Coin_Count": 21630,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 5,
-                        "Coin_Count": 50000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 8.09,
-                        "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 20,
-                        "Coin_Count": 200000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 40.69,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 101.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 140,
-                        "Coin_Count": 1400000,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 201.99,
-                        "Coin_Count": 2019900,
                         "Status": 1,
                         "Discount": 0
                     }
@@ -4033,7 +2731,7 @@
             "Currency_Code": "LYD",
             "Coin_Gear": {
                 "Gear_Android": [ 19900, 39900, 69900, 199900, 499900, 999900, 1499900, 1999900 ],
-                "Gear_Ios": [ 21630, 50000, 80430, 200000, 405930, 1014930, 1400000 ]
+                "Gear_Ios": [ 21630, 50000, 80430 ]
             },
             "Coin_PayMethod": [ "GooglePay", "Ios" ],
             "Coin_Pay_Detail_Android": {
@@ -4119,30 +2817,6 @@
                     {
                         "Price": 11.49,
                         "Coin_Count": 80430,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 28.95,
-                        "Coin_Count": 198450,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 57.99,
-                        "Coin_Count": 405930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 144.99,
-                        "Coin_Count": 1014930,
-                        "Status": 1,
-                        "Discount": 0
-                    },
-                    {
-                        "Price": 200,
-                        "Coin_Count": 1400000,
                         "Status": 1,
                         "Discount": 0
                     }

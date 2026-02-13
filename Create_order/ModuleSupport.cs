@@ -57,7 +57,7 @@
         //首充的档位
         public static List<List<double>> initPayAmount = new()
         {
-            new(){2.99,24000}
+            new(){2.99,29900}
         };
 
         //开启测试服导出模式 ： TEST | PRODUCT

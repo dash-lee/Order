@@ -265,6 +265,7 @@ namespace Create_order
         //获取channelID
         public static int GetPayChannelID(string channelName, Const_Config const_config)
         {
+
             for (int i = 0; i < const_config.PayMethod_Company.Count; i++)
             {
                 if (const_config.PayMethod_Company[i] == channelName)

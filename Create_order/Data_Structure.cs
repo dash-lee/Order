@@ -138,8 +138,17 @@ namespace Create_order
 
         public static Country_Config Country_Data()
         {
+            string jsonPath = "";
             Country_Config tmpData = new();
-            string jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
+            if (ModuleSupport.EXPORT_MODE == "TEST")
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country_Test.json");
+            }
+            else
+            {
+                jsonPath = Path.Combine(ModuleSupport.jsonFilesPath, "Country.json");
+            }
+            
             Console.WriteLine(jsonPath);
 
             //JSON序列化
